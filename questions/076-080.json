@@ -1,0 +1,595 @@
+{
+ "076": [
+  {
+   "q": "Enterobioz chuvalchanglari qaysi bo'limda yashaydi?",
+   "c": "Yo'g'on ichakda, asosan ko'r ichakda",
+   "w": [
+    "Anal teshik atrofidagi terida",
+    "Ingichka ichakda va anal teshikda",
+    "Ingichka ichakda, asosan anal atrofda",
+    "Anal teshik va ingichka ichak atrofida"
+   ],
+   "x": "«Chuvalchanglar yo'g'on ichakda, asosan ko'r ichakda yashaydi»"
+  },
+  {
+   "q": "Urg'ochi chuvalchang anal teshik atrofiga chiqib nima qiladi?",
+   "c": "Tuxum qo'yadi",
+   "w": [
+    "Lichinkalarga po'st tashlaydi",
+    "Ko'r ichakka tushadi",
+    "Ichki kiyimga ko'chib o'tadi",
+    "Qo'l orqali og'izga o'tadi"
+   ],
+   "x": "«Urg'ochi chuvalchang tuxum qo'yish uchun kechasi anal teshik atrofiga chiqadi»"
+  },
+  {
+   "q": "Yutilgan tuxumdan lichinkalar qayerda chiqadi?",
+   "c": "Ingichka ichakda",
+   "w": [
+    "Yo'g'on ichakda",
+    "Ko'r ichakda",
+    "Anal teshik atrofida",
+    "Tashqi muhitda"
+   ],
+   "x": "«tuxumlar og'iz orqali yutiladi, ingichka ichakda lichinkalar chiqadi»"
+  },
+  {
+   "q": "Qo'yilgan tuxumlar qancha vaqtdan keyin infeksion bo'ladi?",
+   "c": "Bir necha soat ichida",
+   "w": [
+    "Bir necha kun ichida",
+    "Uzoq vaqt ichida",
+    "Tashqi muhitda yetilgach",
+    "Ikki marta po'st tashlagach"
+   ],
+   "x": "«qo'yilgan tuxumlar bir necha soat ichida infeksion bo'ladi»"
+  },
+  {
+   "q": "Zararlanishning asosiy yo'li qaysi?",
+   "c": "Infeksion tuxumlarni og'iz orqali yutish",
+   "w": [
+    "Tuproq va suv sanitariyasi orqali yuqish",
+    "It va mushuklardan yuqish",
+    "Lichinkalarni teri orqali yutish",
+    "Ichak lichinkalarini qayta yutish"
+   ],
+   "x": "«Zararlanishning asosiy yo'li infeksion tuxumlarni og'iz orqali yutishdir.»"
+  },
+  {
+   "q": "Autoinvaziya nima?",
+   "c": "O'z-o'zini qayta zararlash",
+   "w": [
+    "Lichinkalarning ichakka qaytib kirishi",
+    "Tuxumlarning kiyimda saqlanishi",
+    "Odamdan odamga bevosita yuqish",
+    "Tuxumlarning chang bilan tarqalishi"
+   ],
+   "x": "«autoinvaziya, ya'ni o'z-o'zini qayta zararlash»"
+  },
+  {
+   "q": "Retroinvaziyada nima sodir bo'ladi?",
+   "c": "Lichinkalar ichakka qaytib kiradi",
+   "w": [
+    "Tuxumlar qo'l orqali og'izga olib boriladi",
+    "Urg'ochilar kechasi anal atrofiga chiqadi",
+    "Tuxumlar kiyimda saqlanadi",
+    "Lichinkalar po'st tashlaydi"
+   ],
+   "x": "«tuxumdan anal atrofida chiqqan lichinkalar ichakka qaytib kirishi mumkin»"
+  },
+  {
+   "q": "Enterobioz xavfi qaysi yoshda ko'proq uchraydi?",
+   "c": "4–11 yosh",
+   "w": [
+    "Chaqaloqlar va kattalar",
+    "Kattalar orasida",
+    "Faqat kattalar yoshi",
+    "Chaqaloqlar orasida"
+   ],
+   "x": "«asosiy xavf omillari: 4–11 yosh»"
+  },
+  {
+   "q": "Enterobioz kambag'allikdan ko'ra nima bilan bog'liq?",
+   "c": "Gigiyena odatlari va jamoaviy turmush",
+   "w": [
+    "Tuproq va suv sanitariyasi",
+    "Geogelmintozlarning tarqalishi",
+    "Sanitariya sharoiti yomon mamlakatlarda",
+    "Uy hayvonlari bilan aloqa"
+   ],
+   "x": "«kasallik kambag'allikdan ko'ra gigiyena odatlari va jamoaviy turmush bilan bog'liq»"
+  },
+  {
+   "q": "It va mushuk nima sababdan enterobioz manbai emas?",
+   "c": "E. vermicularis faqat odamda yashaydi",
+   "w": [
+    "Tuxumni kiyimda saqlamaydi",
+    "Ichki kiyimni zararlamaydi",
+    "Tuxumni anal atrofida qoldirmaydi va kiyimda saqlamaydi",
+    "Bolalar jamoasida yashamaydi"
+   ],
+   "x": "«uy hayvonlari, ya'ni it va mushuk, manba emas, chunki E. vermicularis faqat odamda yashaydi»"
+  },
+  {
+   "q": "Tuxum morfologiyasini bilish laborant uchun nimaning asosi hisoblanadi?",
+   "c": "Perianal qirindini to'g'ri o'qish",
+   "w": [
+    "Anal atrofdagi tuxumni ko'rish",
+    "Lichinkani ko'r ichakdan ajratish",
+    "Bolalar kiyimini tozalash",
+    "Najas bilan chiqqan tuxumni ko'rish"
+   ],
+   "x": "«Laborant uchun tuxum morfologiyasini bilish perianal qirindini to'g'ri o'qishning asosi hisoblanadi»"
+  }
+ ],
+ "077": [
+  {
+   "q": "Yengil zararlanishda anal atrofidagi qichishish qanday bo'lishi mumkin?",
+   "c": "Bo'lmasligi yoki juda sust bo'lishi",
+   "w": [
+    "Kechqurun va tunda kuchayishi",
+    "Ikkilamchi infeksiya bilan kechishi",
+    "Uyqu buzilishiga olib kelishi",
+    "Teri tirnalishi bilan kechishi"
+   ],
+   "x": "«anal atrofidagi qichishish bo'lmasligi yoki juda sust bo'lishi mumkin»"
+  },
+  {
+   "q": "Enterobiozning eng xarakterli klinik belgisi qaysi?",
+   "c": "Anal teshik atrofidagi qichishish",
+   "w": [
+    "Kindik atrofidagi qorin og'rig'i",
+    "Qizlarda vulvovaginit",
+    "Ishtaha pasayishi",
+    "Teri tirnalishi"
+   ],
+   "x": "«Eng xarakterli klinik belgi anal teshik atrofidagi qichishishdir»"
+  },
+  {
+   "q": "Anal qichishishni nima keltirib chiqaradi?",
+   "c": "Tuxumlarni perianal terida qoldirish",
+   "w": [
+    "Ichak bakteriyalarining yopishishi",
+    "Qizlarda siydik yo'llari infeksiyasi",
+    "Tirnoq tishlash va barmoq aloqasi",
+    "Immunosupressiyaning kuchayishi"
+   ],
+   "x": "«tuxumlarini perianal terida qoldiradi va bu qichishish keltiradi»"
+  },
+  {
+   "q": "Qashish natijasida anal atrofida qanday o'zgarishlar paydo bo'lishi mumkin?",
+   "c": "Teri tirnalishi, qizarish, ekzematoz o'zgarishlar",
+   "w": [
+    "Ishtaha pasayishi, ko'ngil aynishi, ich ketishi",
+    "Ajralmalar, qichishish va vulvovaginit",
+    "Kindik atrofida og'riq, ko'ngil aynishi",
+    "Uyqu buzilishi, bezovtalik va charchoq"
+   ],
+   "x": "«Qashish natijasida anal atrofida teri tirnalishi, qizarish, ekzematoz o'zgarishlar»"
+  },
+  {
+   "q": "Ayrim bemorlarda ichak belgilaridan qaysi biri kuzatiladi?",
+   "c": "Kindik atrofida qorin og'rig'i",
+   "w": [
+    "Qin va tashqi jinsiy a'zolar yallig'lanishi",
+    "Anal teshik atrofida qichishish",
+    "Uyqu buzilishi va bezovtalik",
+    "Teri tirnalishi va qizarish"
+   ],
+   "x": "«qorin og'rig'i, ko'pincha kindik atrofida»"
+  },
+  {
+   "q": "Vulvovaginit nima?",
+   "c": "Qin va tashqi jinsiy a'zolar yallig'lanishi",
+   "w": [
+    "Ichak va ko'r ichak yallig'lanishi",
+    "Siydik yo'llari va buyrak yallig'lanishi",
+    "Teri va tirnoq yallig'lanishi",
+    "Anus va barmoq yallig'lanishi"
+   ],
+   "x": "«vulvovaginit, ya'ni qin va tashqi jinsiy a'zolar yallig'lanishi»"
+  },
+  {
+   "q": "Ostritsa va o'tkir appenditsit orasidagi sababiy bog'liqlik haqida nima aytish mumkin?",
+   "c": "Ishonchli sababiy bog'liqlik isbotlanmagan",
+   "w": [
+    "Ostritsa appenditsitning yagona sababi",
+    "Appenditsit ostritsani yo'qotadi",
+    "Sababiy bog'liqlik to'liq isbotlangan",
+    "Ostritsa appenditsitni davolaydi"
+   ],
+   "x": "«ammo ishonchli sababiy bog'liqlik isbotlanmagan»"
+  },
+  {
+   "q": "Immuniteti pasaygan bemorlarda enterobioz qanday kechadi?",
+   "c": "Og'ir asoratlarga olib kelmaydi",
+   "w": [
+    "Tizimli infeksiyaga olib keladi",
+    "Strongiloidoz kabi kechadi",
+    "Ichak asoratlari og'irlashadi",
+    "Invaziv infeksiya keltirib chiqaradi"
+   ],
+   "x": "«immuniteti pasaygan bemorlarda kasallik og'ir asoratlarga olib kelmasligini ko'rsatadi»"
+  },
+  {
+   "q": "Tashxis va davolash kechikishiga nima sabab bo'ladi?",
+   "c": "Kasallikni yashirish va shifokorga murojaat qilmaslik",
+   "w": [
+    "Tirnoqni qisqa olish va gigiyenaga rioya qilish",
+    "Oila a'zolarini tekshirish va davolash",
+    "Ota-onalar shifokorga o'z vaqtida murojaat qilishi",
+    "Laborantga namuna topshirish va natijani olish"
+   ],
+   "x": "«bemor yoki ota-ona kasallikni yashiradi, shifokorga murojaat qilmaydi»"
+  },
+  {
+   "q": "Ota-onalarga enterobioz haqida nima tushuntiriladi?",
+   "c": "Keng tarqalgan va to'liq davolanadigan holat",
+   "w": [
+    "Sifatsiz parvarish belgisi bo'lgan holat",
+    "Faqat bolada davolanadigan jiddiy holat",
+    "Qayta paydo bo'lmaydigan to'liq holat",
+    "Qayta davolanmaydigan jiddiy holat"
+   ],
+   "x": "«bu keng tarqalgan va to'liq davolanadigan holat ekani tushuntiriladi»"
+  }
+ ],
+ "078": [
+  {
+   "q": "Enterobiozni aniqlashda eng ishonchli va keng qo'llanadigan usul qaysi?",
+   "c": "Yopishqoq tasma testi",
+   "w": [
+    "Najas tahlili",
+    "Paxta tayoqchasi bilan surtma",
+    "Fiziologik eritmada ko'rish",
+    "Chuvalchangni ko'z bilan ko'rish"
+   ],
+   "x": "«Eng ishonchli va keng qo'llanadigan usul yopishqoq tasma testi, ya'ni Graham usuli.»"
+  },
+  {
+   "q": "Yopishqoq tasma qachon olinadi?",
+   "c": "Ertalab, defekatsiyadan va yuvishdan oldin",
+   "w": [
+    "Kechqurun, bola yuvingandan keyin",
+    "Kunduz, defekatsiyadan va yuvingandan keyin",
+    "Ertalab, defekatsiyadan va yuvingandan keyin",
+    "Kechqurun, defekatsiyadan va yuvishdan keyin"
+   ],
+   "x": "«tasma ertalab, defekatsiyadan va jinsiy a'zolarni yuvishdan oldin olinadi»"
+  },
+  {
+   "q": "Najas tekshiruvi enterobiozni aniqlashda qanday usul hisoblanadi?",
+   "c": "Ishonchsiz usul",
+   "w": [
+    "Eng ishonchli usul",
+    "Asosiy usul",
+    "Eng sezgir usul",
+    "Arzon va sodda usul"
+   ],
+   "x": "«ammo bu ishonchsiz usul hisoblanadi»"
+  },
+  {
+   "q": "Bitta manfiy natija enterobiozni nima uchun istisno qilmaydi?",
+   "c": "Urg'ochilar har kecha tuxum qo'ymaydi",
+   "w": [
+    "Tuxumlar najasda topiladi",
+    "Tasma testi sezgirligi past bo'ladi",
+    "Chuvalchanglar anal atrofida qoladi",
+    "Najas tahlili tasdiq beradi"
+   ],
+   "x": "«Bitta manfiy natija enterobiozni istisno qilmaydi, chunki urg'ochilar har kecha tuxum qo'ymaydi.»"
+  },
+  {
+   "q": "Ostritsa tuxumi ichida ko'pincha nima ko'rinadi?",
+   "c": "Rivojlanayotgan lichinka",
+   "w": [
+    "Rivojlanayotgan chuvalchang",
+    "Rivojlanayotgan o'simlik urug'i",
+    "Havo pufakchasi",
+    "Yog' tomchisi"
+   ],
+   "x": "«ichida ko'pincha rivojlanayotgan lichinka ko'rinadi»"
+  },
+  {
+   "q": "Quyidagilardan qaysi biri tashxis xatosi hisoblanadi?",
+   "c": "Najas tahliliga tayanish",
+   "w": [
+    "Tasmani ertalab olish",
+    "Uch marta ketma-ket tekshirish",
+    "Oila a'zolarini tekshirish",
+    "Natijani ehtiyotkorlik bilan talqin qilish"
+   ],
+   "x": "«Eng ko'p xatolar: najas tahliliga tayanish»"
+  },
+  {
+   "q": "Sharhga ko'ra davolashga kimlar qamrab olinadi?",
+   "c": "Oila a'zolari va jinsiy sheriklar",
+   "w": [
+    "Laborant va shifokor xodimlari",
+    "Ota-onalar va jamoa xodimlari",
+    "Faqat bemor va uning ota-onasi",
+    "Najas tekshirilgan bemorlar"
+   ],
+   "x": "«Sharhga ko'ra davolashda oila a'zolari va jinsiy sheriklar ham qamrab olinadi»"
+  },
+  {
+   "q": "Qaysi holatda namuna yaroqsiz hisoblanadi?",
+   "c": "Bola yuvingandan keyin olinganda",
+   "w": [
+    "Tasma ertalab olinganda",
+    "Tasma toza buyum oynasiga yopishtirilganda",
+    "Namuna belgilanganda",
+    "Havo pufakchasi bo'lmaganda"
+   ],
+   "x": "«Yaroqsiz namunalar: tasma kechqurun olinganda, bola yuvingandan keyin olinganda»"
+  },
+  {
+   "q": "Yopishqoq tasma usulining najas tekshiruviga nisbatan afzalligi nimada?",
+   "c": "Sodda, arzon va ancha sezgir",
+   "w": [
+    "Kam sezgir, sodda va arzon",
+    "Ancha past sezgirlik, lekin arzon",
+    "Sezgirligi ma'lum emas, lekin sodda",
+    "Faqat uyda bajariladi"
+   ],
+   "x": "«Yopishqoq tasma usuli sodda, arzon va najas tekshiruviga qaraganda ancha sezgir.»"
+  },
+  {
+   "q": "Chuvalchangni ko'z bilan ko'rish ehtimoli qaysi paytda yuqori?",
+   "c": "Kechasi, bola uxlaganda",
+   "w": [
+    "Ertalab, bola yuvingandan keyin",
+    "Kunduz, bola ovqatdan keyin",
+    "Kechqurun, ovqatdan keyin",
+    "Ertalab, defekatsiyadan keyin"
+   ],
+   "x": "«Kechasi, bola uxlaganda, tekshirilsa, chuvalchangni topish ehtimoli yuqori.»"
+  }
+ ],
+ "079": [
+  {
+   "q": "Laboratoriyada tasdiqlangan enterobioz haqida kimga xabar beriladi?",
+   "c": "Muassasa rahbariyatiga va sanitariya xizmatiga",
+   "w": [
+    "Tarbiyachilar va oshpazlar hamda dayalarga",
+    "Guruhdagi barcha bolalar va ota-onalarga",
+    "Faqat boshqa muassasa rahbariyatiga",
+    "Bolalar uyqusi sharoitlari nazoratchilariga"
+   ],
+   "x": "«bu haqda bola tarbiyalanayotgan muassasa rahbariyatiga va sanitariya-epidemiologiya xizmatiga xabar beradi»"
+  },
+  {
+   "q": "Uyushgan bolalar guruhlari enterobioz tarqalishi uchun nima sababdan qulay muhit?",
+   "c": "Bolalar o'yinchoq va hojatxonani birgalikda ishlatadi",
+   "w": [
+    "Bolalar ovqatni alohida tayyorlaydi",
+    "Bolalar o'yinchoq va hojatxonani alohida ishlatadi",
+    "Bolalar xonalarni nam usulda tozalaydi",
+    "Bolalar gigiyena ko'nikmalarini egallagan"
+   ],
+   "x": "«bolalar yaqin aloqada, o'yinchoq va hojatxonani birgalikda ishlatadi»"
+  },
+  {
+   "q": "Ommaviy tekshiruvda kimlar enterobiozga tekshiriladi?",
+   "c": "Barcha bolalar va xodimlar",
+   "w": [
+    "Faqat shubhali bolalar",
+    "Ota-onalar va qo'shnilar",
+    "Tarbiyachilarning oila a'zolari",
+    "Boshqa guruh bolalari"
+   ],
+   "x": "«Guruhdagi barcha bolalar va xodimlar enterobiozga tekshiriladi.»"
+  },
+  {
+   "q": "Aniqlangan bemorlar nima uchun bir vaqtda davolanadi?",
+   "c": "Ketma-ket davolansa, davolangan bolalar yana zararlanishi mumkin",
+   "w": [
+    "Ketma-ket davolansa, dorilar samarasi kamayadi, bolalar guruhdan ajratiladi",
+    "Bir vaqtda davolansa, bolalar guruhdan ajratiladi",
+    "Bir vaqtda davolansa, tekshiruv talab qilinmaydi",
+    "Ketma-ket davolansa, xodimlar zararlanmaydi"
+   ],
+   "x": "«chunki ketma-ket davolansa, davolangan bolalar yana zararlanishi mumkin»"
+  },
+  {
+   "q": "Qo'l yuvish ayniqsa qachon muhim?",
+   "c": "Hojatxonadan keyin va ovqatdan oldin",
+   "w": [
+    "Hojatxonadan oldin va ovqatdan keyin",
+    "O'yindan keyin va uxlashdan oldin",
+    "Ovqatdan keyin va tekshiruvdan oldin",
+    "Uxlashdan keyin va o'yindan oldin"
+   ],
+   "x": "«qo'l yuvish, ayniqsa hojatxonadan keyin va ovqatdan oldin»"
+  },
+  {
+   "q": "Tekshiruvdan o'tgan yoki davolangan bola nima uchun guruhdan ajratilmaydi?",
+   "c": "Tarqalishni to'xtatmaydi, ruhiy zarar yetkazadi",
+   "w": [
+    "Tarqalishni to'xtatadi, lekin qimmat bo'ladi",
+    "Davolash samarasi kamayadi",
+    "Xodimlarning ish vaqtini kamaytiradi",
+    "Ota-onalar xabardor qilinadi"
+   ],
+   "x": "«chunki bu tarqalishni to'xtatmaydi, faqat ruhiy zarar yetkazadi»"
+  },
+  {
+   "q": "Oshpazlar va ovqat tarqatuvchilarga nima sababdan alohida e'tibor beriladi?",
+   "c": "Ular tuxumni ovqatga o'tkazishi mumkin",
+   "w": [
+    "Ular bolalar kiyimlarini yuvmaydi",
+    "Ular guruhdan ajratilgan bo'ladi",
+    "Ular o'yinchoqlarni dezinfeksiya qiladi",
+    "Ular tuxumni tekshiruvsiz qoldiradi"
+   ],
+   "x": "«chunki ular tuxumni ovqatga o'tkazishi mumkin»"
+  },
+  {
+   "q": "Kuzatuv davomida yangi holatlar paydo bo'lsa, nima qilinadi?",
+   "c": "Tadbirlar takrorlanadi",
+   "w": [
+    "Tadbirlar takrorlanmaydi",
+    "Davolash to'xtatiladi",
+    "Bolalar muassasadan chetlatiladi",
+    "Guruh sanitariya nazoratidan chiqariladi"
+   ],
+   "x": "«Agar yangi holatlar paydo bo'lsa, tadbirlar takrorlanadi.»"
+  },
+  {
+   "q": "Tashxis va davolashga kim javob beradi?",
+   "c": "Shifokor tashxis va davolashga",
+   "w": [
+    "Epidemiolog tashxis va davolashga",
+    "Hamshira tashxis va davolashga",
+    "Laborant tashxis va davolashga",
+    "Tarbiyachi tashxis va davolashga"
+   ],
+   "x": "«shifokor tashxis va davolashga, hamshira namunalar olishga»"
+  },
+  {
+   "q": "Qayta zararlanishni kamaytirish uchun qo'l yuvishda nima doim bo'lishi kerak?",
+   "c": "Sovun va sochiq",
+   "w": [
+    "Sovun va dezinfeksiya vositasi",
+    "O'yinchoq va sochiq",
+    "Choyshab va sochiq",
+    "Hojatxona va sovun"
+   ],
+   "x": "«Qo'l yuvish uchun sovun va sochiq doim bo'lishi»"
+  },
+  {
+   "q": "Maktabgacha ta'lim muassasalari bolalari va boshlang'ich sinf o'quvchilari qanday muddatda rejali tekshiriladi?",
+   "c": "Yiliga 1 marta",
+   "w": [
+    "Yiliga 2 marta",
+    "Yiliga 3 marta",
+    "Yiliga 4 marta",
+    "Yiliga 6 marta"
+   ],
+   "x": "«maktabgacha ta'lim muassasalari bolalari va boshlang'ich sinf o'quvchilari yiliga 1 marta rejali tekshiriladi»"
+  }
+ ],
+ "080": [
+  {
+   "q": "Hymenolepis nana boshqa tasmasimon chuvalchanglardan nimasi bilan farq qiladi?",
+   "c": "Oraliq xo'jayinsiz rivojlana olishi",
+   "w": [
+    "Bir necha metr uzunligi",
+    "Qo'ng'izlarda rivojlana olishi",
+    "Najasda tuxumi topilmasligi",
+    "Oraliq xo'jayinsiz rivojlanmasligi"
+   ],
+   "x": "«U boshqa tasmasimon chuvalchanglardan kichikligi va oraliq xo'jayinsiz rivojlana olishi bilan farq qiladi»"
+  },
+  {
+   "q": "Chuvalchang boshchasi (skoleks) nima bilan ta'minlangan?",
+   "c": "To'rtta so'rg'ich va kancali rostellum",
+   "w": [
+    "Ikki qobiqli tuxum va qutb iplari",
+    "Uch juft ilgakli onkosfera va vorsinkalar",
+    "Bo'g'imlar va kichik proglottidlar",
+    "Vorsinkalar va sistitserkoid"
+   ],
+   "x": "«boshchasi (skoleks) to'rtta so'rg'ich va kancalar bilan ta'minlangan rostellum bilan»"
+  },
+  {
+   "q": "Mitti tasmasimon chuvalchang tuxumi qanday tuzilgan?",
+   "c": "Dumaloq yoki oval, ikki qobiqli",
+   "w": [
+    "Bo'g'imli, kancali, rostellumli",
+    "Bitta qobiqli, qutblarida kancalar bor",
+    "Uzun, ingichka, bo'g'imlari ko'p",
+    "To'rtta so'rg'ichli, ikki qutbli"
+   ],
+   "x": "«Tuxumlari dumaloq yoki oval, mayda, ikki qobiqli bo'lib, qutblarida iplar bo'ladi.»"
+  },
+  {
+   "q": "H. nana qanday noyob xususiyatga ega?",
+   "c": "Butun hayot siklini bitta xo'jayin ichida yakunlaydi",
+   "w": [
+    "Butun hayot siklini qo'ng'izda yakunlaydi",
+    "Butun hayot siklini faqat oraliq xo'jayinda yakunlaydi",
+    "Hayot sikli uchun burgalar zarur bo'ladi",
+    "Tuxumlari odam ichagida chiqmaydi"
+   ],
+   "x": "«u o'zining butun hayot siklini bitta sut emizuvchi xo'jayin ichida yakunlay oladi»"
+  },
+  {
+   "q": "To'g'ridan-to'g'ri siklda onkosfera qayerda sistitserkoidga aylanadi?",
+   "c": "Ichak vorsinkalarida",
+   "w": [
+    "Ichak bo'shlig'ida",
+    "Burga tanasida",
+    "Qo'ng'iz tanasida",
+    "Un va don"
+   ],
+   "x": "«onkosfera chiqib, ingichka ichakning vorsinkalariga kiradi va u yerda sistitserkoidga aylanadi»"
+  },
+  {
+   "q": "Ichki autoinvaziya nima?",
+   "c": "Yangi avlodni ichakda rivojlantirish",
+   "w": [
+    "Tuxumlarning qo'l orqali boshqa odamga o'tishi",
+    "Sistitserkoidning qo'ng'iz tanasida rivojlanishi",
+    "Tuxumlarning burgalarda saqlanishi",
+    "Chuvalchangning kemiruvchilarda yashashi"
+   ],
+   "x": "«tuxumlar ichakda chiqib, odamning o'zida yangi avlodni rivojlantirishi mumkin, ya'ni ichki autoinvaziya»"
+  },
+  {
+   "q": "Bilvosita siklda oraliq xo'jayin vazifasini kimlar bajaradi?",
+   "c": "Un qo'ng'izi va burgalar",
+   "w": [
+    "Sichqon va kalamush",
+    "Bolalar va homilador ayollar",
+    "Odam va kemiruvchilar",
+    "Sut emizuvchi xo'jayin"
+   ],
+   "x": "«oraliq xo'jayin, ya'ni un yoki donni zararlovchi qo'ng'izlar, masalan un qo'ng'izi, va burgalar, yutadi»"
+  },
+  {
+   "q": "H. nana ning rezervuarlari kimlar?",
+   "c": "Odam va kemiruvchilar",
+   "w": [
+    "Burgalar va qo'ng'izlar",
+    "Bolalar va homilador ayollar",
+    "Un va don omborlari",
+    "Odam va qo'ng'izlar"
+   ],
+   "x": "«H. nana ning rezervuarlari odam va kemiruvchilar, ya'ni sichqon va kalamush.»"
+  },
+  {
+   "q": "Nima uchun najasda tuxumlar sezilarli miqdorda topiladi?",
+   "c": "Chuvalchanglar ichakda yashaydi",
+   "w": [
+    "Chuvalchanglar qo'ng'izlarda yashaydi",
+    "Chuvalchanglar kemiruvchilarda yashaydi",
+    "Tuxumlar qo'ng'izlarda saqlanadi",
+    "Voyaga yetgan chuvalchang najasda ko'p ko'rinadi"
+   ],
+   "x": "«Najasda tuxumlar sezilarli miqdorda topiladi, chunki chuvalchanglar ichakda yashaydi»"
+  },
+  {
+   "q": "Tuxum sonini hisoblash nimani baholashga yordam beradi?",
+   "c": "Zararlanish intensivligini",
+   "w": [
+    "Tuxum morfologiyasini",
+    "Oraliq xo'jayin tanasini",
+    "Kemiruvchilar sonini",
+    "Chuvalchang uzunligini"
+   ],
+   "x": "«Tuxum sonini hisoblash zararlanish intensivligini baholashga yordam beradi.»"
+  },
+  {
+   "q": "Gimenolepidoz bilan kasallanganlar necha oy davomida dispanser kuzatuvida bo'ladi?",
+   "c": "6 oy davomida",
+   "w": [
+    "1 oy davomida",
+    "3 oy davomida",
+    "5–7 oy davomida",
+    "2 oy davomida"
+   ],
+   "x": "«Gimenolepidoz bilan kasallanganlar 6 oy davomida dispanser kuzatuvida bo'ladi»"
+  }
+ ]
+}

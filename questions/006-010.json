@@ -1,0 +1,617 @@
+{
+  "006": [
+    {
+      "q": "Gelmintlar biologik tasnifga ko'ra qaysi guruhlarga bo'linadi?",
+      "c": "Geogelmintlar, biogelmintlar va kontakt gelmintlar",
+      "w": [
+        "Tuproq, suv va kontakt gelmintlar",
+        "Oxirgi, oraliq va tasodifiy gelmintlar",
+        "Geogelmintlar, biogelmintlar va oraliq gelmintlar",
+        "Askarida, qilbosh va g'ajakbosh gelmintlar"
+      ],
+      "x": "«Bu tasnif gelmintlarni uch guruhga ajratadi: geogelmintlar, biogelmintlar va kontakt gelmintlar.»"
+    },
+    {
+      "q": "Biologik tasnifning asosiy mezoni nima?",
+      "c": "Tuxumi yoki lichinkasining keyingi taqdiri",
+      "w": [
+        "Odam ichagida joylashishi va tuzilishi",
+        "Sinflarga va a'zolarga ajratilishi",
+        "Davolash dori vositasi turlicha natija beradi",
+        "Gelmintning tashqi tuzilishi va o'lchami"
+      ],
+      "x": "«Tasnifning asosiy mezoni gelmint tuxumi yoki lichinkasining odamdan chiqqandan keyingi taqdiridir.»"
+    },
+    {
+      "q": "Geogelmintlar rivojlanishi uchun nima zarur?",
+      "c": "Tuxum yoki lichinka tashqi muhitda yetilishi",
+      "w": [
+        "Kamida bitta oraliq xo'jayin bo'lishi",
+        "Bevosita aloqa bilan yuqishi va autoinvaziya",
+        "Tuxum oxirgi xo'jayinda yetilishi",
+        "Lichinka mollyuskada rivojlanishi"
+      ],
+      "x": "«Geogelmintlar oraliq xo'jayinsiz rivojlanadi, lekin tuxum yoki lichinka tashqi muhitda, asosan tuproqda, yetilishi zarur.»"
+    },
+    {
+      "q": "Qaysi gelmintlar geogelmintlar guruhiga kiradi?",
+      "c": "Askarida, qilbosh chuvalchang va g'ajakbosh",
+      "w": [
+        "Ostritsa va mitti tasmasimon chuvalchang",
+        "Exinokokk, opistorx va fassiola",
+        "Qoramol tasmasimon chuvalchangi va exinokokk",
+        "Strongiloidoz va mitti tasmasimon chuvalchang"
+      ],
+      "x": "«Bu guruhga askarida, qilbosh chuvalchang va g'ajakbosh chuvalchanglar kiradi»"
+    },
+    {
+      "q": "Biogelmintlarning rivojlanishi uchun nima zarur?",
+      "c": "Kamida bitta oraliq xo'jayin",
+      "w": [
+        "Tuproqda yetilish uchun namlik",
+        "Bevosita aloqa va autoinvaziya",
+        "Tuxum tashqi muhitga chiqqach infeksion bo'ladi",
+        "Najas bilan chiqqan tuxum"
+      ],
+      "x": "«Biogelmintlarning rivojlanishi uchun kamida bitta oraliq xo'jayin zarur.»"
+    },
+    {
+      "q": "Exinokokkda odam qanday xo'jayin bo'lib qoladi?",
+      "c": "Tasodifiy oraliq xo'jayin",
+      "w": [
+        "Oxirgi xo'jayin",
+        "It oxirgi xo'jayin",
+        "Oraliq xo'jayinsiz parazit",
+        "Qo'y oraliq xo'jayin"
+      ],
+      "x": "«odam esa tasodifiy oraliq xo'jayin bo'lib qoladi»"
+    },
+    {
+      "q": "Kontakt gelmintlarga qaysi chuvalchanglar tipik misol bo'ladi?",
+      "c": "O'tkirbosh chuvalchang va mitti tasmasimon chuvalchang",
+      "w": [
+        "Askarida va qilbosh chuvalchang",
+        "Opistorx va fassiola kabi so'rg'ichli chuvalchanglar",
+        "Exinokokk va g'ajakbosh chuvalchang",
+        "Qoramol va cho'chqa tasmasimon chuvalchanglari"
+      ],
+      "x": "«O'tkirbosh chuvalchang (ostritsa) va mitti tasmasimon chuvalchang tipik misol bo'ladi»"
+    },
+    {
+      "q": "Ostritsa tuxumlari qaysi buyumlar orqali tarqaladi?",
+      "c": "Qo'l, kiyim va o'yinchoq",
+      "w": [
+        "Tuproq, suv va sabzavot",
+        "Xom baliq, go'sht va mollyuska",
+        "Ichki kiyim va tuproq",
+        "Hayvon, baliq va o'simlik"
+      ],
+      "x": "«tuxumlar qisqa vaqtda yuqish qobiliyatiga ega bo'ladi va qo'l, kiyim, o'yinchoq orqali tarqaladi»"
+    },
+    {
+      "q": "Geogelmintozlar profilaktikasida asosiy e'tibor nimaga qaratiladi?",
+      "c": "Tuproq va suvni ifloslanishdan himoya qilishga",
+      "w": [
+        "Oraliq va oxirgi xo'jayinni nazorat qilishga",
+        "Qo'lni yuvish va jamoada bir vaqtda davolashga",
+        "Hayvonlar orasidagi zararlanishni kuzatishga",
+        "Xom baliq va go'sht iste'molini kamaytirishga"
+      ],
+      "x": "«Geogelmintozlarda asosiy e'tibor tuproq va suvni najas bilan ifloslanishdan himoya qilishga, sanitariya sharoitini yaxshilashga»"
+    },
+    {
+      "q": "Kontakt gelmintozlarda qaysi chora eng muhim hisoblanadi?",
+      "c": "Qo'lni yuvish va jamoada bir vaqtda davolash",
+      "w": [
+        "Tuproq va suvni najas bilan himoya qilish",
+        "Oraliq xo'jayin bo'g'inini nazorat qilish",
+        "Yuvilmagan sabzavotni iste'mol qilmaslik",
+        "Tibbiy-veterinariya kompleks choralari"
+      ],
+      "x": "«Kontakt gelmintozlarda esa qo'lni yuvish, ichki kiyim va ro'zg'or buyumlarini tozalash hamda jamoada bir vaqtda davolash eng muhim»"
+    },
+    {
+      "q": "Biogelmintozda monitoring ko'rsatkichi sifatida nima kuzatiladi?",
+      "c": "Hayvonlar orasidagi zararlanish",
+      "w": [
+        "Tuproqning ifloslanish darajasi",
+        "Jamoadagi tarqalganlik",
+        "Suvning ifloslanish darajasi",
+        "Bolalar bog'chasidagi barcha xodimlar"
+      ],
+      "x": "«biogelmintozda hayvonlar orasidagi zararlanish, kontakt gelmintozda esa jamoadagi tarqalganlik kuzatiladi»"
+    }
+  ],
+  "007": [
+    {
+      "q": "Gelmintlar joylashuviga qarab klassik yondashuvda qaysi guruhlarga bo'linadi?",
+      "c": "Ichak gelmintlari va to'qima hamda a'zo gelmintlari",
+      "w": [
+        "Ingichka ichak, yo'g'on ichak va ko'r ichak gelmintlari",
+        "Jigar va o'pka gelmintlari",
+        "Mushak va qon tomiri gelmintlari",
+        "Ichak gelmintlari va tashxis gelmintlari"
+      ],
+      "x": "«Klassik yondashuvda ular ikki guruhga bo'linadi: ichak gelmintlari va ichakdan tashqarida, ya'ni to'qima hamda a'zolarda parazitlik qiluvchi gelmintlar.»"
+    },
+    {
+      "q": "Ichak gelmintlari yetuk shaklda qayerda yashaydi?",
+      "c": "Ovqat hazm qilish yo'lida, ingichka va yo'g'on ichakda",
+      "w": [
+        "Jigar va o't yo'llarida, asosan jigarda",
+        "Qon tomirlari va mushaklarda, asosan ko'ndalang-targ'il mushakda",
+        "O'pka va bosh miyada, asosan o'pkada",
+        "Ko'ndalang-targ'il mushaklarda, asosan kapsulada"
+      ],
+      "x": "«Ichak gelmintlari yetuk shaklda ovqat hazm qilish yo'lida, asosan ingichka va yo'g'on ichakda yashaydi.»"
+    },
+    {
+      "q": "Qilbosh chuvalchang va ostritsa asosan qayerda joylashadi?",
+      "c": "Ko'r ichak hamda yo'g'on ichakda",
+      "w": [
+        "Ingichka ichakning yuqori qismida",
+        "Jigar hamda o't yo'llarida",
+        "O'pka hamda mushaklarda",
+        "Qon tomirlari hamda jigarda"
+      ],
+      "x": "«Qilbosh chuvalchang va ostritsa asosan ko'r ichak hamda yo'g'on ichakda joylashadi.»"
+    },
+    {
+      "q": "G'ajakbosh chuvalchanglar ichakda qanday oziqlanadi?",
+      "c": "Shilliq qavatga yopishib, qon bilan oziqlanadi",
+      "w": [
+        "Ichak bo'shlig'ida erkin turib qon bilan oziqlanadi",
+        "Ko'r ichakda mushaklar bilan oziqlanadi",
+        "Jigarda o't suyuqligi bilan oziqlanadi",
+        "Yo'g'on ichakda najas bilan oziqlanadi"
+      ],
+      "x": "«shilliq qavatga yopishadi va qon bilan oziqlanadi»"
+    },
+    {
+      "q": "Ichak gelmintlarining umumiy xususiyati nima?",
+      "c": "Tuxumlari najas bilan tashqariga chiqadi",
+      "w": [
+        "Tuxumlari qon tomirlarida to'planadi",
+        "Lichinkalari mushaklarda kapsulalanadi",
+        "Tuxumlari o'pkada rivojlanadi",
+        "Pufagi jigarda sekin o'sadi"
+      ],
+      "x": "«tuxumlari najas bilan tashqariga chiqadi va tekshiruvda topiladi»"
+    },
+    {
+      "q": "Exinokokk pufagi ko'proq qayerda rivojlanadi?",
+      "c": "Jigarda va o'pkada",
+      "w": [
+        "Ingichka ichakda",
+        "Ko'ndalang-targ'il mushaklarda",
+        "Qon tomirlarida",
+        "Ko'r ichakda"
+      ],
+      "x": "«Exinokokk pufagi ko'proq jigarda va o'pkada rivojlanadi»"
+    },
+    {
+      "q": "Trixinella lichinkalari qayerda kapsulalanadi?",
+      "c": "Ko'ndalang-targ'il mushaklarda",
+      "w": [
+        "Ingichka ichak shilliq qavatida",
+        "Jigar va o't yo'llarida",
+        "Qon tomirlari va jigarda",
+        "O'pka to'qimasida"
+      ],
+      "x": "«Trixinella lichinkalari ko'ndalang-targ'il mushaklarda kapsulalanadi.»"
+    },
+    {
+      "q": "Exinokokkozda tashxis ko'proq qaysi usullarga tayanadi?",
+      "c": "Ultratovush, rentgen, kompyuter tomografiya",
+      "w": [
+        "Najasning mikroskopik tekshiruvi va tuxum sonini hisoblash",
+        "Perianal qirindi olish",
+        "Balg'am va najas ko'rish",
+        "Tuxum sonini hisoblash"
+      ],
+      "x": "«Exinokokkozda tashxis ko'proq ultratovush, rentgen va kompyuter tomografiya kabi tasvirlash usullariga»"
+    },
+    {
+      "q": "Exinokokkoz gumon qilingan bemorda najas tekshirilsa nima uchun hech narsa topilmaydi?",
+      "c": "Pufak ichak bo'shlig'ida emas",
+      "w": [
+        "Pufak qon tomirlarida yashaydi",
+        "Parazit mushaklarda kapsulalanadi",
+        "Tuxumlar balg'am bilan chiqadi",
+        "Lichinkalar jigar to'qimasida yo'qoladi"
+      ],
+      "x": "«exinokokkoz gumon qilingan bemorda faqat najas tekshirilsa hech narsa topilmaydi, chunki pufak ichak bo'shlig'ida emas»"
+    },
+    {
+      "q": "To'qimadagi parazitlarga qarshi dori qanday yetib borishi kerak?",
+      "c": "Qon orqali o'sha a'zoga",
+      "w": [
+        "Ichak bo'shlig'ida konsentratsiya hosil qilib",
+        "Najas orqali ichak bo'shlig'iga",
+        "Mushak biopsiyasi orqali serologiyaga",
+        "Balg'am orqali o'pkaga"
+      ],
+      "x": "«to'qimadagi parazitlarga esa dori qon orqali o'sha a'zoga yetib borishi kerak»"
+    },
+    {
+      "q": "Jigar gelmintlari qanday asoratlarga olib kelishi mumkin?",
+      "c": "Sariqlik va o't yo'llari yallig'lanishiga",
+      "w": [
+        "Ichak tutilishi va kamqonlikka",
+        "O'pka nafas yetishmovchiligiga",
+        "Qon tomirlari fibroziga",
+        "Qon tomirlari va mushaklarda joylashishiga"
+      ],
+      "x": "«jigar gelmintlari sariqlik va o't yo'llari yallig'lanishiga»"
+    }
+  ],
+  "008": [
+    {
+      "q": "Zararlanish yo'li deb nimaga aytiladi?",
+      "c": "Parazitning infeksion bosqichi odam organizmiga qanday o'tishiga",
+      "w": [
+        "Zararlanishni osonlashtiradigan sanitariya sharoitlariga",
+        "Parazitning tashqi muhitda, asosan tuproqda yetilish sharoitiga",
+        "Parazitning infeksion bosqichi qanday yetilishiga",
+        "Parazit tuxumining najas bilan chiqish tartibiga"
+      ],
+      "x": "«Zararlanish yo'li deb parazitning infeksion bosqichi odam organizmiga qanday o'tishiga aytiladi.»"
+    },
+    {
+      "q": "Zararlanish omillari nima?",
+      "c": "O'tishni osonlashtiradigan yoki qiyinlashtiradigan sharoitlar",
+      "w": [
+        "Infeksion bosqichning odam organizmiga o'tish tartibi va yo'llari",
+        "Parazitning odamga kirish eshigi",
+        "Tuxum yoki lichinkaning yutilish usuli",
+        "Zararlanish yo'lini aniqlash bosqichi"
+      ],
+      "x": "«Zararlanish omillari esa aynan shu o'tishni osonlashtiradigan yoki qiyinlashtiradigan sharoitlardir»"
+    },
+    {
+      "q": "Eng keng tarqalgan zararlanish yo'li qaysi?",
+      "c": "Peroral, ya'ni og'iz orqali kirish",
+      "w": [
+        "Perkutan, ya'ni teri orqali kirish",
+        "Transmissiv, ya'ni bo'g'imoyoqlilar orqali kirish",
+        "Transplatsentar, ya'ni onadan homilaga o'tish",
+        "Transfuzion, ya'ni qon quyilganda kirish"
+      ],
+      "x": "«Eng keng tarqalgan yo'l peroral, ya'ni og'iz orqali kirishdir.»"
+    },
+    {
+      "q": "Perkutan yo'lga eng yaqqol misol qaysi gelmint?",
+      "c": "G'ajakbosh chuvalchanglar",
+      "w": [
+        "Qilbosh chuvalchang",
+        "Askarida",
+        "Mitti tasmasimon chuvalchang",
+        "Ostritsa"
+      ],
+      "x": "«Eng yaqqol misol g'ajakbosh chuvalchanglardir»"
+    },
+    {
+      "q": "Teri va visseral leyshmanioz qaysi tashuvchi orqali yuqadi?",
+      "c": "Chivinchalar orqali",
+      "w": [
+        "Anopheles urg'ochi chivini orqali",
+        "Kanalar orqali",
+        "Iflos qo'l orqali",
+        "Qon quyilishi orqali"
+      ],
+      "x": "«teri va visseral leyshmanioz chivinchalar orqali»"
+    },
+    {
+      "q": "Ostritsa tuxumlari qichishish tufayli avval qayerga o'tadi?",
+      "c": "Qo'lga o'tadi",
+      "w": [
+        "Tuproqqa o'tadi",
+        "Hayvonga o'tadi",
+        "Chivinga o'tadi",
+        "Sabzavotga o'tadi"
+      ],
+      "x": "«Ostritsa tuxumlari anal atrofiga qo'yiladi, qichishish tufayli qo'lga o'tadi»"
+    },
+    {
+      "q": "Avtoinvaziya nima?",
+      "c": "Odamning o'zini qayta zararlashi",
+      "w": [
+        "Tuproqda lichinkaning yetilishi",
+        "Chivin chaqishi orqali yuqish",
+        "Kasal hayvon bilan bevosita aloqa",
+        "Zararlangan asbob orqali yuqish"
+      ],
+      "x": "«Avtoinvaziya, ya'ni odamning o'zini qayta zararlashi ham shu yo'lga yaqin»"
+    },
+    {
+      "q": "Transplatsentar yo'lda parazit qanday o'tadi?",
+      "c": "Onadan homilaga o'tadi",
+      "w": [
+        "Zararlangan qon quyilganda o'tadi",
+        "Jinsiy aloqa orqali o'tadi",
+        "Teri orqali sog'lom odamga o'tadi",
+        "Qon so'ruvchi chivinlar orqali o'tadi"
+      ],
+      "x": "«Transplatsentar yo'lda parazit onadan homilaga o'tadi»"
+    },
+    {
+      "q": "Qaysi holat sanitariya omillariga kiradi?",
+      "c": "Toza ichimlik suvi yetishmasligi",
+      "w": [
+        "Iliq va nam iqlim",
+        "Bolalarda tuproq bilan o'ynash odati",
+        "Namlik va harorat",
+        "Go'shtni xom yeyish odati"
+      ],
+      "x": "«Birinchi guruh sanitariya omillaridir: toza ichimlik suvining yetishmasligi»"
+    },
+    {
+      "q": "Qaysi omillar tabiiy omillarga kiradi?",
+      "c": "Namlik, harorat, tuproq turi va mavsum",
+      "w": [
+        "Qo'lni yuvmaslik va sabzavotni yuvmasdan iste'mol qilish",
+        "Bolalarda tuproq bilan o'ynash va tirnoq tishlash odati",
+        "Hojatxona va oqova suv tizimining yo'qligi",
+        "Gavjum yashash sharoiti va bolalar jamoalari"
+      ],
+      "x": "«Ikkinchi guruh tabiiy omillar bo'lib, ular namlik, harorat, tuproq turi va mavsumni o'z ichiga oladi»"
+    },
+    {
+      "q": "Ijtimoiy omillar orasida qaysi kasb egalari xavf ostida?",
+      "c": "Dehqonlar va chorvadorlar",
+      "w": [
+        "Bolalar jamoalari va oilalar",
+        "Bolalar, dehqonlar va tashuvchilar",
+        "Chivinlar, chivinchalar va kanalar",
+        "Hasharot tashuvchilar va kanalar"
+      ],
+      "x": "«dehqonlar, chorvadorlar, sabzavot yetishtiruvchilar va oqova suv bilan ishlovchilar xavf ostida»"
+    }
+  ],
+  "009": [
+    {
+      "q": "Edward Tayson nimani birinchilardan bo'lib tavsiflagan?",
+      "c": "Odam ichagidagi chuvalchangning batafsil anatomiyasini",
+      "w": [
+        "Siydik shistosomasining batafsil anatomiyasini",
+        "Cho'chqa tasmasimon chuvalchangining batafsil anatomiyasini",
+        "Exinokokk pufagining batafsil anatomiyasini",
+        "G'ajakbosh lichinkasining batafsil anatomiyasini"
+      ],
+      "x": "«Ingliz shifokori Edward Tayson odam ichagidagi chuvalchangning batafsil anatomiyasini birinchilardan bo'lib tavsiflagan»"
+    },
+    {
+      "q": "Pallas pufaklar haqida qanday taxmin qildi?",
+      "c": "Tasmasimon chuvalchanglarning lichinkalari bo'lishi mumkin",
+      "w": [
+        "Tasmasimon chuvalchanglarning oxirgi xo'jayini bo'lishi mumkin",
+        "Ichak chuvalchanglarining tuxumlari bo'lishi mumkin",
+        "Qon so'ruvchi vektorlarning mahsuloti bo'lishi mumkin",
+        "Shistosomalarning lichinkalari bo'lishi mumkin"
+      ],
+      "x": "«Pallas pufaklar tasmasimon chuvalchanglarning lichinkalari bo'lishi mumkinligini taxmin qildi»"
+    },
+    {
+      "q": "Getse cho'chqa tasmasimon chuvalchangini o'rganib, nimaga ishora qildi?",
+      "c": "Oraliq xo'jayinlar bo'lishi mumkinligiga",
+      "w": [
+        "Teri orqali kirish yo'li mavjudligiga",
+        "Vektorlarning parazit tarqatishdagi roliga",
+        "Siydikda qon paydo bo'lishiga",
+        "Ommaviy degelmintizatsiya dasturlariga"
+      ],
+      "x": "«Getse esa cho'chqa tasmasimon chuvalchangini batafsil o'rganib, oraliq xo'jayinlar bo'lishi mumkinligiga ishora qildi»"
+    },
+    {
+      "q": "Kyuxenmeyster qaysi chuvalchanglar bosh qismi tuzilishidagi farqni aniqladi?",
+      "c": "Cho'chqa va qoramol tasmasimon chuvalchanglari",
+      "w": [
+        "Keng va mitti tasmasimon chuvalchanglar bosh qismi",
+        "Siydik shistosomasi va g'ajakbosh",
+        "Exinokokk va medina chuvalchangi",
+        "Exinokokk va siydik shistosomasi"
+      ],
+      "x": "«Gotlib Kyuxenmeyster cho'chqa va qoramol tasmasimon chuvalchanglarining bosh qismi tuzilishidagi farqni aniqladi.»"
+    },
+    {
+      "q": "Nemis parazitologlari Bilgarts va fon Zibold 1851-yilda nimani qilgan?",
+      "c": "Siydik shistosomasini tasvirlab berdi",
+      "w": [
+        "Cho'chqa tasmasimon chuvalchangini tasvirlab berdi",
+        "G'ajakbosh lichinkalarining teri orqali kirishini aniqlab berdi",
+        "Medina chuvalchangi kuzatuvlarini tasdiqlab berdi",
+        "Qon so'ruvchi vektorlarning rolini aniqlab berdi"
+      ],
+      "x": "«Teodor Bilgarts va Karl fon Zibold 1851-yilda siydik shistosomasini tasvirlab berdi»"
+    },
+    {
+      "q": "Artur Lus nimani aniqladi?",
+      "c": "G'ajakbosh lichinkalarining teri orqali kirishini",
+      "w": [
+        "Pufaklar tasmasimon chuvalchanglar lichinkalari ekanligini",
+        "Exinokokk tuxumlarining it orqali tushishini",
+        "Siydik shistosomasining siydikda qon keltirishini",
+        "Cho'chqa tasmasimon chuvalchangining oraliq xo'jayinini"
+      ],
+      "x": "«Artur Lus XIX asr oxirida tasodifan o'zini zararlab, g'ajakbosh lichinkalarining teri orqali kirishini aniqladi.»"
+    },
+    {
+      "q": "Patrik Manson parazitologiyada qaysi rolni aniqlagan olim sifatida tilga olinadi?",
+      "c": "Qon so'ruvchi vektorlarning rolini",
+      "w": [
+        "Oraliq xo'jayinlarning hayot siklidagi rolini",
+        "Tasodifiy xo'jayinning sikldagi rolini",
+        "Ommaviy degelmintizatsiya dasturlari rolini",
+        "Itlarning exinokokk tarqalishidagi rolini"
+      ],
+      "x": "«U parazitlarning tarqalishida qon so'ruvchi vektorlarning rolini aniqlagan olim sifatida tilga olinadi»"
+    },
+    {
+      "q": "Skryabin 1917-yilda qanday lavozimga erishgan?",
+      "c": "Rossiyadagi birinchi parazitologiya kafedrasi professori",
+      "w": [
+        "Sankt-Peterburgdagi birinchi veterinariya institutining professori",
+        "Moskvadagi birinchi parazitologiya ekspeditsiyasining boshlig'i",
+        "Rossiyadagi birinchi gelmintologik institutning tashkilotchisi",
+        "Moskva veterinariya institutining kafedra mudiri"
+      ],
+      "x": "«1917-yilda Rossiyadagi birinchi parazitologiya kafedrasi professori bo'lgan»"
+    },
+    {
+      "q": "Skryabinning devastatsiya g'oyasi nimaga asos bo'lgan?",
+      "c": "Ommaviy degelmintizatsiya dasturlariga",
+      "w": [
+        "Tashuvchilarga qarshi kurash dasturlariga",
+        "Go'sht va baliq ekspertizasi dasturlariga",
+        "Morfologiyani o'rganish dasturlariga",
+        "Exinokokkozni tashxislash dasturlariga"
+      ],
+      "x": "«Skryabin gelmintozlarni to'liq yo'q qilish, ya'ni devastatsiya g'oyasini ilgari surgan va u ommaviy degelmintizatsiya dasturlariga asos bo'lgan»"
+    },
+    {
+      "q": "Itlarning ingichka ichagida exinokokkning voyaga yetgan shaklini ilk bor kim topgan?",
+      "c": "Rus tabiatshunosi A.P. Fedchenko",
+      "w": [
+        "Ingliz shifokori Edward Tayson",
+        "Italiyalik Franchesko Redi",
+        "Nemis olimi Gotlib Kyuxenmeyster",
+        "Nemis parazitologi Teodor Bilgarts"
+      ],
+      "x": "«itlarning ingichka ichagida exinokokkning voyaga yetgan shakli ilk bor rus tabiatshunosi A.P. Fedchenko»"
+    },
+    {
+      "q": "O'zbekistonda parazitologiya bo'yicha ilmiy-uslubiy ishlar qaysi institut bilan bog'liq?",
+      "c": "L.M. Isaev nomidagi Tibbiyot parazitologiyasi ilmiy-tadqiqot instituti",
+      "w": [
+        "O'zbekiston Fanlar akademiyasi Zoologiya instituti",
+        "Toshkent tibbiyot akademiyasi Tibbiy ta'limni rivojlantirish markazi",
+        "Moskva veterinariya instituti parazitologiya kafedrasi",
+        "Koson qorako'lchilik xo'jaligi ilmiy-tadqiqot instituti"
+      ],
+      "x": "«O'zbekistonda parazitologiya bo'yicha ilmiy-uslubiy ishlar L.M. Isaev nomidagi Tibbiyot parazitologiyasi ilmiy-tadqiqot instituti bilan bog'liq.»"
+    }
+  ],
+  "010": [
+    {
+      "q": "Parazitizm nima?",
+      "c": "Ikki organizm orasidagi yaqin munosabat shakli",
+      "w": [
+        "Ikkala tomon foyda ko'radigan munosabat shakli",
+        "Ikki organizm orasidagi erkin yashash shakli",
+        "Bir tomon foyda ko'rib, ikkinchisiga ta'sir qilmaydigan shakl",
+        "Xo'jayinning parazit hisobiga yashash shakli"
+      ],
+      "x": "«Parazitizm turli turdagi ikki organizm orasidagi yaqin munosabat shakli bo'lib»"
+    },
+    {
+      "q": "Parazitizmning uchta belgisi qaysilar?",
+      "c": "Yaqin aloqa, xo'jayinga zarar va parazitning moslashuvi",
+      "w": [
+        "Yaqin aloqa, xo'jayinga foyda va parazitning moslashuvi",
+        "Erkin yashash, xo'jayinga zarar va parazitning moslashuvi",
+        "Yaqin aloqa, xo'jayinga zarar va xo'jayinning moslashuvi",
+        "Yaqin aloqa, parazitga zarar va xo'jayinning moslashuvi"
+      ],
+      "x": "«parazitizmning uchta belgisi bor: yaqin aloqa, xo'jayinga zarar va parazitning moslashuvi.»"
+    },
+    {
+      "q": "Ektoparazitlar qayerda yashaydi?",
+      "c": "Tana yuzasida",
+      "w": [
+        "Tana ichkarisida",
+        "Xo'jayin ichida yoki ustida",
+        "Gelmintlar va protozoylar yashaydigan joyda",
+        "Xo'jayin to'qimalari ichida"
+      ],
+      "x": "«Ektoparazitlar tana yuzasida yashaydi, masalan bit va qo'tir kanasi»"
+    },
+    {
+      "q": "Fakultativ parazitlar qanday yashashi mumkin?",
+      "c": "Xo'jayinsiz, erkin ham yashashi mumkin",
+      "w": [
+        "Xo'jayinsiz yashay olmaydi",
+        "Faqat xo'jayin tanasida yashay oladi",
+        "Doimo xo'jayin tanasida yashaydi",
+        "Oraliq xo'jayinda yashaydi"
+      ],
+      "x": "«fakultativ parazitlar esa erkin ham yashashi mumkin»"
+    },
+    {
+      "q": "Doimiy parazitlar hayotini qanday o'tkazadi?",
+      "c": "Butun hayotini xo'jayinda o'tkazadi",
+      "w": [
+        "Hayotining faqat bir qismini xo'jayinda o'tkazadi",
+        "Hayotini erkin yashab o'tkazadi",
+        "Hayotini oraliq xo'jayinda o'tkazadi",
+        "Hayotining bir qismini tashqi muhitda o'tkazadi"
+      ],
+      "x": "«Davriy parazitlar hayotining faqat bir qismini, doimiy parazitlar esa butun hayotini xo'jayinda o'tkazadi.»"
+    },
+    {
+      "q": "Oraliq xo'jayinda parazitning qaysi bosqichi rivojlanadi?",
+      "c": "Lichinka bosqichlari",
+      "w": [
+        "Jinsiy yetilgan shakl",
+        "Parazitning manbai",
+        "Biriktirish organlari",
+        "Jinsiy ko'payish bosqichi"
+      ],
+      "x": "«oraliq xo'jayinda lichinka bosqichlari rivojlanadi»"
+    },
+    {
+      "q": "Exinokokkda odamda sikl nima uchun davom etmaydi?",
+      "c": "Odam it uchun oziq bo'lmaydi",
+      "w": [
+        "Odam oxirgi xo'jayin bo'lmaydi",
+        "Odam it uchun oraliq xo'jayin bo'ladi",
+        "Odam tasodifiy xo'jayin bo'lmaydi",
+        "It oraliq xo'jayin bo'lmaydi"
+      ],
+      "x": "«parazit tuxumi odamga tushganda pufak rivojlanadi, lekin sikl davom etmaydi, chunki odam it uchun oziq bo'lmaydi»"
+    },
+    {
+      "q": "Parazitlarda qaysi biriktirish organlari rivojlangan?",
+      "c": "So'rg'ich va ilmoq",
+      "w": [
+        "Pufak va tuxum",
+        "Tuxum va lichinka",
+        "Oziq so'rish tuzilmalari",
+        "Pufak va ko'payish qobiliyati"
+      ],
+      "x": "«Ularda biriktirish organlari, masalan so'rg'ich va ilmoq»"
+    },
+    {
+      "q": "Ko'p tuxum hosil bo'lishi parazit uchun nimani qoplaydi?",
+      "c": "Xo'jayinga tushish ehtimoli past bo'lganini",
+      "w": [
+        "Oziq yo'qotilishi va to'qima shikastlanishi",
+        "Xo'jayinning immun javobini",
+        "Tuxum tuzilishi turga xos bo'lishini",
+        "Ba'zi organlar soddalashgan"
+      ],
+      "x": "«Ko'p tuxum hosil bo'lishi parazitning xo'jayinga tushish ehtimoli past bo'lganini qoplaydi.»"
+    },
+    {
+      "q": "Kommensalizmda tomonlarga qanday ta'sir bo'ladi?",
+      "c": "Bir tomon foyda ko'radi, ikkinchisiga ta'sir qilmaydi",
+      "w": [
+        "Ikkala tomon foyda ko'radi",
+        "Bir tomon foyda ko'radi, ikkinchisi zarar ko'radi",
+        "Ikkala tomon zarar ko'radi",
+        "Bir tomon zarar ko'radi, ikkinchisiga ta'sir qilmaydi"
+      ],
+      "x": "«kommensalizmda bir tomon foyda ko'radi, ikkinchisiga esa ta'sir qilmaydi»"
+    },
+    {
+      "q": "Parazit ta'sirining kuchi nimalarga bog'liq?",
+      "c": "Parazitlar soniga va joylashuviga",
+      "w": [
+        "Parazitning tuxum shakliga va qobig'iga",
+        "Namuna turiga va tashxis usuliga",
+        "Tuxum tuzilishiga va biriktirish organlariga",
+        "Majburiy va fakultativ parazitlar farqiga"
+      ],
+      "x": "«Ta'sir kuchi parazitlar soniga, joylashuviga va xo'jayinning holatiga bog'liq.»"
+    }
+  ]
+}

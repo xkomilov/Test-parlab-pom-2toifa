@@ -1,0 +1,617 @@
+{
+  "026": [
+    {
+      "q": "Qaysi Plasmodium turlari odamda eng katta xavf tug'diradi?",
+      "c": "P. falciparum va P. vivax",
+      "w": [
+        "P. malariae va P. ovale",
+        "P. ovale va P. knowlesi",
+        "P. knowlesi va P. malariae",
+        "P. vivax va P. malariae"
+      ],
+      "x": "«Ularning orasida P. falciparum va P. vivax eng katta xavf tug'diradi.»"
+    },
+    {
+      "q": "Tropik bezgak qo'zg'atuvchisi qaysi tur?",
+      "c": "P. falciparum",
+      "w": [
+        "Plasmodium vivax",
+        "Plasmodium ovale",
+        "P. knowlesi",
+        "To'rt kunlik bezgak qo'zg'atuvchisi"
+      ],
+      "x": "«P. falciparum, ya'ni tropik bezgak qo'zg'atuvchisi, issiq iqlim talab qiladi»"
+    },
+    {
+      "q": "P. malariae qaysi bezgak qo'zg'atuvchisi hisoblanadi?",
+      "c": "To'rt kunlik bezgak",
+      "w": [
+        "Uch kunlik bezgak",
+        "Tropik bezgak",
+        "Ovale bezgagi",
+        "Zoonoz bezgak"
+      ],
+      "x": "«P. malariae, ya'ni to'rt kunlik bezgak, kam uchraydigan tur bo'lib»"
+    },
+    {
+      "q": "P. vivax mo'tadil iqlimda qishni qanday o'tkazadi?",
+      "c": "Jigarda uxlab yotuvchi shakllar hosil qilib",
+      "w": [
+        "Chivin ichida rivojlanishni to'xtatib",
+        "Faqat tropik iqlimda yashab qolib",
+        "Hayvon rezervuarida aylanib yurib",
+        "Qish davrida chivin ichida rivojlanib"
+      ],
+      "x": "«jigarda uxlab yotuvchi shakllar hosil qilib, qish davrini o'tkazadi»"
+    },
+    {
+      "q": "P. falciparum O'zbekistonda asosan qanday holatlarda uchraydi?",
+      "c": "Import qilingan holatlarda",
+      "w": [
+        "Mahalliy yuqish holatlarida",
+        "Qaytalanish holatlarida",
+        "Hayvonlardan yuqish holatlarida",
+        "Qish davridagi holatlarda"
+      ],
+      "x": "«bu tur asosan import qilingan holatlarda uchraydi»"
+    },
+    {
+      "q": "P. knowlesi qanday parazit hisoblanadi?",
+      "c": "Zoonoz parazit",
+      "w": [
+        "Tropik bezgak paraziti",
+        "Uch kunlik bezgak paraziti",
+        "To'rt kunlik bezgak paraziti",
+        "Afrikada ustun parazit"
+      ],
+      "x": "«P. knowlesi tabiatda makakalar orasida aylanadigan zoonoz parazit bo'lib»"
+    },
+    {
+      "q": "Bezgak qo'zg'atuvchisining turi nima orqali aniqlanadi?",
+      "c": "Qon surtmasi mikroskopiyasi",
+      "w": [
+        "Tezkor testlar hisoboti",
+        "Bemorning geografik anamnezi",
+        "Epidemiologik tekshiruv hisoboti",
+        "Hayvon rezervuari mavjudligi"
+      ],
+      "x": "«Tur qon surtmasi mikroskopiyasi bilan aniqlanadi»"
+    },
+    {
+      "q": "Hisobotda tur nomi nima uchun aniq yoziladi?",
+      "c": "Epidemiologik tekshiruvda hal qiluvchi",
+      "w": [
+        "Mikroskopiya talab qilinmaydi",
+        "Chivinlar nazorati kuchaytiriladi",
+        "Hisobot noaniq yoziladi",
+        "Laborant tajriba talab qiladi"
+      ],
+      "x": "«chunki bu ma'lumot epidemiologik tekshiruvda hal qiluvchi»"
+    },
+    {
+      "q": "P. vivax va P. ovale uchun qaytalanishni oldini olish maqsadida nima qo'shiladi?",
+      "c": "Primakvin qo'shilishi",
+      "w": [
+        "Xlorokin qo'shilishi",
+        "Artemizinin qo'shilishi",
+        "Kombinatsiyalangan terapiya qo'shilishi",
+        "Dozalar qo'shilishi"
+      ],
+      "x": "«qaytalanishni oldini olish maqsadida primakvin qo'shilishi»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra uch kunlik bezgak bilan og'riganlar necha yil dispanser kuzatuvida bo'ladi?",
+      "c": "3 yil",
+      "w": [
+        "1 yil",
+        "2 yil",
+        "5 yil",
+        "6 yil"
+      ],
+      "x": "«uch kunlik bezgak bilan og'riganlar 3 yil, tropik bezgak bilan og'riganlar 1 yil dispanser kuzatuvida bo'ladi»"
+    },
+    {
+      "q": "Mikroskopda P. knowlesi ni qaysi turdan ajratish qiyin?",
+      "c": "P. malariae",
+      "w": [
+        "P. vivax",
+        "P. ovale",
+        "Plasmodium falciparum",
+        "Plasmodium avlodining boshqa turi"
+      ],
+      "x": "«Mikroskopda uni P. malariae dan ajratish qiyin»"
+    }
+  ],
+  "027": [
+    {
+      "q": "Bezgak yuqish mavsumi qaysi ikki omilga bog'liq?",
+      "c": "Chivin faolligi va parazit rivojlanishi",
+      "w": [
+        "Havo namligi va suv havzalari soni",
+        "Sug'orish ishlari va aholi ma'rifati",
+        "Gipnozoitlar faolligi va qaytalanishlar soni",
+        "Manba bemorlar soni va qaytalanish xavfi"
+      ],
+      "x": "«Yuqish mavsumi ikki omilga bog'liq: chivinlarning faolligi va parazitning chivin ichidagi rivojlanishi»"
+    },
+    {
+      "q": "Parazitning chivin ichida rivojlanishi nimaga bog'liq?",
+      "c": "Havo harorati",
+      "w": [
+        "Havo namligi",
+        "Suv havzalari soni",
+        "Aholi ma'rifati",
+        "Reaktivlar zaxirasi"
+      ],
+      "x": "«bu rivojlanish esa haroratga bog'liq»"
+    },
+    {
+      "q": "Havo yetarli isimasa nima bo'ladi?",
+      "c": "Parazit chivin ichida yetilmaydi",
+      "w": [
+        "Chivinlar tuxum qo'yishni boshlaydi",
+        "Parazit chivin ichida rivojlanadi",
+        "Chivinlar soni ortib boradi",
+        "Yuqish xavfi ortadi"
+      ],
+      "x": "«Havo yetarli isimasa, parazit chivin ichida yetilmaydi va yuqish bo'lmaydi»"
+    },
+    {
+      "q": "Bahorning boshida chivinlar faollashganda xavf nima uchun past bo'ladi?",
+      "c": "Chivinlar hali zararlanmagan bo'ladi",
+      "w": [
+        "Chivinlar qishlovga ketgan bo'ladi",
+        "Chivinlar tuxum qo'ymagan bo'ladi",
+        "Kasal odam qoni so'rilmagan bo'ladi",
+        "Parazit chivin ichida yetilgan bo'ladi"
+      ],
+      "x": "«Biroq bu davrda chivinlar hali zararlanmagan bo'ladi»"
+    },
+    {
+      "q": "Mavsum boshida zararlangan chivinlar paydo bo'lishi uchun qaysi odamlar kerak?",
+      "c": "Qonida gametotsitlar bo'lgan odamlar",
+      "w": [
+        "Qonida parazit bo'lmagan odamlar",
+        "Bezgakdan holi hudud aholisi",
+        "Chivin chaqishidan himoyalangan odamlar",
+        "Chet eldan qaytmagan odamlar"
+      ],
+      "x": "«qonida gametotsitlar bo'lgan odamlar kerak»"
+    },
+    {
+      "q": "Uch kunlik bezgakda bahorda qaytalanish nima tufayli yuz berishi mumkin?",
+      "c": "Gipnozoitlar qishdan keyin faollashishi",
+      "w": [
+        "Chivinlarning qishlovdan uyg'onishi",
+        "Parazitning chivin ichida yetilishi",
+        "Chivinlarning suv havzalarida ko'payishi",
+        "Manba bemorlarning import qilinishi"
+      ],
+      "x": "«Uch kunlik bezgakda jigardagi gipnozoitlar qishdan keyin faollashib, bahorda qaytalanish keltirib chiqarishi mumkin»"
+    },
+    {
+      "q": "Mavsum boshlanishidan oldin chivinlarga qarshi qaysi tadbirlar boshlanishi kerak?",
+      "c": "Lichinkalarga qarshi ishlov va tozalash ishlari",
+      "w": [
+        "Reaktivlar va mikroskoplar tayyorlash",
+        "Aholini ma'rifiy ishlar orqali ogohlantirish",
+        "Dori vositalarini tayyorlash",
+        "Bemorlarni yo'naltirish tartibini yangilash"
+      ],
+      "x": "«chivinlarga qarshi tadbirlar, masalan lichinkalarga qarshi ishlov va tozalash ishlari, mavsum boshlanishidan oldin boshlanishi kerak»"
+    },
+    {
+      "q": "Mavsum boshlanishini kuzatuv nimaga asoslanib belgilaydi?",
+      "c": "Joriy ob-havo va chivin faolligiga",
+      "w": [
+        "Rasmiy kalendar sanasiga qarab",
+        "Dori vositalari mavjudligiga qarab",
+        "Reaktivlar mavjudligiga qarab",
+        "Qaytalanish xavfi ortishiga qarab"
+      ],
+      "x": "«kuzatuv rasmiy kalendar sanasiga emas, balki joriy ob-havo va chivin faolligiga asoslanadi»"
+    },
+    {
+      "q": "Kuzda havo sovishi bilan nima sodir bo'ladi?",
+      "c": "Parazit chivin ichida rivojlanmaydi",
+      "w": [
+        "Chivinlar soni keskin ortib ketadi",
+        "Yangi mahalliy yuqish ko'payadi",
+        "Gipnozoitlar qaytalanish keltiradi",
+        "Chivinlar faolligi ortib boradi"
+      ],
+      "x": "«Kuzda havo sovishi bilan chivinlar faolligi pasayadi, parazit chivin ichida rivojlana olmay qoladi va yuqish to'xtaydi»"
+    },
+    {
+      "q": "P. vivax uchun samarali harorat mavsumida o'rtacha sutkalik harorat qancha bo'lishi kerak?",
+      "c": "16 °C dan barqaror yuqori",
+      "w": [
+        "18 °C dan barqaror yuqori",
+        "10 °C dan barqaror yuqori",
+        "14 °C dan barqaror yuqori",
+        "20 °C dan barqaror yuqori"
+      ],
+      "x": "«o'rtacha sutkalik harorat P. vivax uchun 16 °C dan, P. falciparum uchun 18 °C dan barqaror yuqori bo'lgan davr»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra entomolog o'z hududida har yil uchun nimani aniqlaydi?",
+      "c": "Fenologik sanalarni",
+      "w": [
+        "Chivinlar sonini",
+        "Bemorlar ro'yxatini",
+        "Dori zaxirasini",
+        "Reaktivlar sonini"
+      ],
+      "x": "«entomolog o'z hududida har yil uchun fenologik sanalarni aniqlaydi»"
+    }
+  ],
+  "028": [
+    {
+      "q": "Bezgak tashxisining oltin standarti nima?",
+      "c": "Bo'yalgan qon surtmasini mikroskop ostida ko'rish",
+      "w": [
+        "Tezkor diagnostik testlarni qo'llash va baholash",
+        "Polimeraza zanjir reaksiyasini bajarish va baholash",
+        "Antitelolarni aniqlash va talqin qilish",
+        "Klinik belgilarni baholash va yozish"
+      ],
+      "x": "«Bezgak tashxisining oltin standarti bo'yalgan qon surtmasini mikroskop ostida ko'rishdir»"
+    },
+    {
+      "q": "Qalin tomchi nima uchun xizmat qiladi?",
+      "c": "Parazitni topish",
+      "w": [
+        "Turni aniqlash",
+        "Parazit shakllarini ajratish",
+        "Eritrotsitlarni butun saqlash",
+        "Antitelolarni aniqlash"
+      ],
+      "x": "«qalin tomchi parazitni topish, yupqa surtma turni aniqlash uchun xizmat qiladi»"
+    },
+    {
+      "q": "Yupqa surtmada parazit turi va shakllari nima sababdan aniq ajratiladi?",
+      "c": "Eritrotsitlar butun holda qoladi",
+      "w": [
+        "Eritrotsitlar parchalanadi",
+        "Qon ko'p miqdorda to'planadi",
+        "Leykotsitlar parazitlardan ajratiladi",
+        "Parazit soni juda kam bo'ladi"
+      ],
+      "x": "«Yupqa surtmada esa eritrotsitlar butun holda qoladi»"
+    },
+    {
+      "q": "Tezkor diagnostik testlar mikroskopiyani nima uchun to'liq almashtira olmaydi?",
+      "c": "Parazitemiya darajasini ko'rsatmaydi",
+      "w": [
+        "Qonning bir tomchisidan natija beradi",
+        "Mikroskopiya mavjud bo'lmagan joylarda qo'l keladi",
+        "Bir necha daqiqada natija beradi",
+        "JSST tomonidan qabul qilinadi"
+      ],
+      "x": "«Ular parazitemiya darajasini ko'rsatmaydi»"
+    },
+    {
+      "q": "PZR kabi molekulyar usullar odatda qaysi laboratoriyalarda ishlatiladi?",
+      "c": "Ma'lumotnoma laboratoriyalarida",
+      "w": [
+        "Birlamchi tibbiyot laboratoriyalarida",
+        "Klinik laboratoriyalarda",
+        "Epidemiologik tadqiqot laboratoriyalarida",
+        "Hududiy laboratoriyalarda"
+      ],
+      "x": "«shuning uchun odatda ma'lumotnoma laboratoriyalarida ishlatiladi»"
+    },
+    {
+      "q": "Antitelolarni aniqlash o'tkir bosqichda tashxis uchun nima sababdan yaroqsiz?",
+      "c": "Antitelolar dastlabki kunlarda hali hosil bo'lmaydi",
+      "w": [
+        "Antitelolar o'tgan infeksiyadan keyin yo'qoladi",
+        "Antitelolar parazit DNKsini aniqlaydi",
+        "Antitelolar qon donorlarida bo'lmaydi",
+        "Antitelolar qimmat jihoz talab qiladi"
+      ],
+      "x": "«chunki antitelolar dastlabki kunlarda hali hosil bo'lmaydi va o'tgan infeksiyadan keyin ham saqlanadi»"
+    },
+    {
+      "q": "Tahlil uchun qon qayerdan olinadi?",
+      "c": "Barmoq uchidan yoki venadan",
+      "w": [
+        "Faqat venadan",
+        "Buyum oynasidan yoki lansetdan",
+        "Antikoagulyantdan yoki immersiya moyidan",
+        "Qalin tomchidan yoki yupqa surtmadan"
+      ],
+      "x": "«Tahlil uchun qon barmoq uchidan yoki venadan olinadi»"
+    },
+    {
+      "q": "Salbiy deb xulosa chiqarishdan oldin qalin tomchining kamida nechta ko'rish maydoni ko'riladi?",
+      "c": "100 ta ko'rish maydoni",
+      "w": [
+        "10 ta ko'rish maydoni",
+        "20 ta ko'rish maydoni",
+        "50 ta ko'rish maydoni",
+        "Bir nechta ko'rish maydoni"
+      ],
+      "x": "«Salbiy deb xulosa chiqarishdan oldin qalin tomchining kamida 100 ta ko'rish maydoni ko'rib chiqiladi»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra bezgakka shubha qilingan har bir bemordan kamida nechta qon preparati olinadi?",
+      "c": "2 ta qon preparati",
+      "w": [
+        "1 ta qon preparati",
+        "3 ta qon preparati",
+        "4 ta qon preparati",
+        "5 ta qon preparati"
+      ],
+      "x": "«bezgakka shubha qilingan har bir bemordan kamida 2 ta qon preparati olinadi»"
+    },
+    {
+      "q": "Musbat natijali qon preparatlari kasallik aniqlangandan keyin necha soat ichida nazorat markaziga yuboriladi?",
+      "c": "24 soat ichida",
+      "w": [
+        "12 soat ichida",
+        "48 soat ichida",
+        "72 soat ichida",
+        "6 soat ichida"
+      ],
+      "x": "«kasallik aniqlangandan keyin 24 soat ichida nazorat maqsadida Respublika Davlat sanitariya-epidemiologiya nazorati markaziga yuboriladi»"
+    },
+    {
+      "q": "Qalin tomchida parazit juda oz bo'lganda ham nima sababdan ko'rinadi?",
+      "c": "Qon ko'p miqdorda to'planadi",
+      "w": [
+        "Eritrotsitlar butun holda qoladi",
+        "Parazit turi aniq ajratiladi",
+        "Antitelolar hosil bo'ladi",
+        "Leykotsitlar parchalanadi"
+      ],
+      "x": "«Qalin tomchida qon ko'p miqdorda to'planadi va eritrotsitlar parchalanadi, shuning uchun parazit juda oz bo'lganda ham ko'rinadi»"
+    }
+  ],
+  "029": [
+    {
+      "q": "Standart operatsion protsedura, ya'ni SOP, nima?",
+      "c": "Har bir amal tartibini batafsil yozib qo'ygan hujjat",
+      "w": [
+        "Qon surtmasini bo'yash eritmasi",
+        "Bemor hayotiga ta'sir qiluvchi natija",
+        "Bezgak mikroskopiyasi bo'yicha hisobot shakli",
+        "Laboratoriya xodimlarini o'qitish jurnali"
+      ],
+      "x": "«laboratoriyada bajariladigan har bir amal qanday tartibda va qanday sifat talablari bilan bajarilishini batafsil yozib qo'ygan hujjatdir»"
+    },
+    {
+      "q": "SOPlar nimani soddalashtiradi?",
+      "c": "Yangi xodimlarni o'qitishni",
+      "w": [
+        "Chiqindilarni boshqarishni",
+        "Buyum oynalarini tozalashni",
+        "Giemza eritmasini tayyorlashni",
+        "Natijalarni qayd etishni"
+      ],
+      "x": "«yangi xodimlarni o'qitishni soddalashtiradi»"
+    },
+    {
+      "q": "JSST SOPlarida har bir protsedurani kim o'zgartirishi mumkin?",
+      "c": "Mas'ul milliy koordinator",
+      "w": [
+        "Har bir laborant",
+        "Bo'yoq tayyorlovchi xodim",
+        "Sanitariya xizmati rahbari",
+        "Davolash muassasasi rahbari"
+      ],
+      "x": "«har bir protsedura faqat mas'ul milliy koordinator ruxsati bilan o'zgartirilishi mumkin»"
+    },
+    {
+      "q": "Qon surtmasi tayyorlash SOPi nimani belgilaydi?",
+      "c": "Barmoqdan qon olish va preparat tayyorlash",
+      "w": [
+        "Parazitlar sonini hisoblash tartibini",
+        "Bo'yalgan preparatlarni mikroskopda ko'rish",
+        "Buyum oynalarini tozalash va saqlash",
+        "Natijalarni qayd etish qoidalarini"
+      ],
+      "x": "«barmoqdan qon olish va qalin hamda yupqa preparat tayyorlashni belgilaydi»"
+    },
+    {
+      "q": "Ikkinchi muhim SOP nimaga bag'ishlangan?",
+      "c": "Preparatlarni Giemza bo'yog'i bilan bo'yashga",
+      "w": [
+        "Barmoqdan qon olish va preparat tayyorlashga",
+        "Parazitlarni sanash va hisoblashga",
+        "Bo'yalgan preparatlarni mikroskopda ko'rishga",
+        "Buyum oynalarini tozalash va saqlashga"
+      ],
+      "x": "«Ikkinchi muhim SOP preparatlarni Giemza bo'yog'i bilan bo'yashga bag'ishlangan»"
+    },
+    {
+      "q": "Parazitlarni sanash SOPi qaysi raqamli?",
+      "c": "MM-SOP-09",
+      "w": [
+        "MM-SOP-05A",
+        "MM-SOP-07A",
+        "MM-SOP-08",
+        "MM-SOP-11"
+      ],
+      "x": "«Parazitlarni sanash: MM-SOP-09»"
+    },
+    {
+      "q": "Qalin tomchi yetarlicha qalin hisoblanishi uchun ko'rish maydonida nechta leykotsit bo'lishi kerak?",
+      "c": "15–20 ta leykotsit",
+      "w": [
+        "5–10 ta leykotsit",
+        "30–40 ta leykotsit",
+        "50–60 ta leykotsit",
+        "100 ta leykotsit"
+      ],
+      "x": "«Qalin tomchi yetarlicha qalin hisoblanishi uchun ko'rish maydonida 15–20 ta leykotsit bo'lishi kerak»"
+    },
+    {
+      "q": "Parazit yo'q deyish uchun kamida nechta maydon ko'riladi?",
+      "c": "100 ta maydon",
+      "w": [
+        "10 ta maydon",
+        "20 ta maydon",
+        "50 ta maydon",
+        "200 ta maydon"
+      ],
+      "x": "«Parazit yo'q deyish uchun kamida 100 ta maydon ko'riladi»"
+    },
+    {
+      "q": "Giemza bo'yog'ining qaysi qismi parazit yadrosini qizil rangga bo'yaydi?",
+      "c": "Eozin qismi",
+      "w": [
+        "Metilen ko'k qismi",
+        "Sitoplazma qismi",
+        "Buferli suv qismi",
+        "Immersion moy qismi"
+      ],
+      "x": "«uning eozin qismi parazit yadrosini qizil, metilen ko'k qismi sitoplazmani ko'k rangga bo'yaydi»"
+    },
+    {
+      "q": "Giemza bilan tezkor bo'yash usuli qanday ishchi eritma bilan bajariladi?",
+      "c": "10 foizli ishchi eritma",
+      "w": [
+        "3 foizli ishchi eritma",
+        "20 foizli ishchi eritma",
+        "70 foizli ishchi eritma",
+        "1 foizli ishchi eritma"
+      ],
+      "x": "«tezkor, 10 foizli ishchi eritma bilan»"
+    },
+    {
+      "q": "Qon olishda barmoq necha foizli spirt bilan tozalanadi?",
+      "c": "70 foizli spirt",
+      "w": [
+        "10 foizli spirt",
+        "30 foizli spirt",
+        "50 foizli spirt",
+        "90 foizli spirt"
+      ],
+      "x": "«barmoq 70 foizli spirt bilan tozalanadi»"
+    }
+  ],
+  "030": [
+    {
+      "q": "Qalin tomchining vazifasi nima?",
+      "c": "Oz miqdordagi parazitni ham topish",
+      "w": [
+        "Parazit shakllarini aniqlash",
+        "Leykotsitlarni sanash",
+        "Preparatni belgilash va yozish",
+        "Qon quritish vaqtini belgilash"
+      ],
+      "x": "«Uning vazifasi oz miqdordagi parazitni ham topishdir»"
+    },
+    {
+      "q": "Bo'yash jarayonida qalin tomchida eritrotsitlarga nima bo'ladi?",
+      "c": "Gemoglobinsizlanadi, ya'ni parchalanadi",
+      "w": [
+        "Fonda parazitlar bilan birga qoladi",
+        "Parazitlarni yashirishi mumkin",
+        "Buyum oynasidan ko'chib ketadi",
+        "Leykotsitlarga aylanib ketadi"
+      ],
+      "x": "«Bo'yash jarayonida eritrotsitlar gemoglobinsizlanadi, ya'ni parchalanadi»"
+    },
+    {
+      "q": "Qalin tomchi tayyorlash uchun buyum oynasining o'lchami qanday bo'lishi kerak?",
+      "c": "25×75 mm o'lchamli buyum oynasi",
+      "w": [
+        "50×75 mm o'lchamli buyum oynasi",
+        "25×50 mm o'lchamli buyum oynasi",
+        "10×25 mm o'lchamli buyum oynasi",
+        "25×25 mm o'lchamli buyum oynasi"
+      ],
+      "x": "«tozalangan, 25×75 mm o'lchamli, bir uchi yozish uchun xira shisha buyum oynalari»"
+    },
+    {
+      "q": "Qon olish uchun bemor qo'lining qaysi barmog'i tanlanadi?",
+      "c": "Nodominant tomonidagi uchinchi barmoq",
+      "w": [
+        "Dominant tomonidagi birinchi barmoq",
+        "Nodominant tomonidagi birinchi barmoq",
+        "Dominant tomonidagi uchinchi barmoq",
+        "Bemor qo'lining katta barmog'i"
+      ],
+      "x": "«bemor qo'lining nodominant tomonidagi uchinchi barmoq tanlanadi»"
+    },
+    {
+      "q": "Qon olishdan oldin barmoq necha foizli spirt bilan tozalanadi?",
+      "c": "70 foizli spirt",
+      "w": [
+        "30 foizli spirt",
+        "50 foizli spirt",
+        "90 foizli spirt",
+        "10 foizli spirt"
+      ],
+      "x": "«Barmoq 70 foizli spirt bilan namlangan paxta bilan tozalanadi»"
+    },
+    {
+      "q": "Lanset bilan teshgandan keyin birinchi tomchi nima qilinadi?",
+      "c": "Quruq paxta bilan artiladi",
+      "w": [
+        "Buyum oynasiga olinadi",
+        "Qalin tomchi uchun ishlatiladi",
+        "Yupqa surtma uchun ishlatiladi",
+        "Spirt bilan tozalanadi"
+      ],
+      "x": "«birinchi tomchi quruq paxta bilan artiladi»"
+    },
+    {
+      "q": "Bo'yalgan qalin tomchi mikroskop ko'rish maydonida qancha leykotsit ko'rsatishi kerak?",
+      "c": "15–20 ta leykotsit",
+      "w": [
+        "5–10 ta leykotsit",
+        "30–40 ta leykotsit",
+        "50–60 ta leykotsit",
+        "Leykotsit ko'rinmaydi"
+      ],
+      "x": "«bo'yalganda mikroskop ko'rish maydonida taxminan 15–20 ta leykotsit ko'rinsin»"
+    },
+    {
+      "q": "Tayyor preparatlar qaysi holatda quritiladi?",
+      "c": "Gorizontal holatda lotokda havoda",
+      "w": [
+        "Fen yordamida yaqin masofadan",
+        "Spirt bilan namlangan paxtada",
+        "Yopiq idishda xona haroratida",
+        "Lansetli idishda changsiz"
+      ],
+      "x": "«Tayyor preparatlar gorizontal holatda lotokda havoda quritiladi»"
+    },
+    {
+      "q": "Qalin tomchi to'liq qurimasdan bo'yalsa nima bo'ladi?",
+      "c": "Bo'yash vaqtida yuvilib ketadi",
+      "w": [
+        "Parazitlar yaqqol ko'rinadi",
+        "Preparat qotib qoladi",
+        "Fonda leykotsitlar qoladi",
+        "Fen yordamida quritiladi"
+      ],
+      "x": "«Qalin tomchi to'liq qurimasa, bo'yash vaqtida yuvilib ketadi»"
+    },
+    {
+      "q": "Juda qalin tomchi bo'yash paytida nima bo'lishi mumkin?",
+      "c": "Buyum oynasidan ko'chib ketishi yoki parazitlarni yashirishi",
+      "w": [
+        "Qon yetarli bo'lmay parazit topish ehtimoli kamayishi",
+        "Eritrotsitlar parchalanishi",
+        "Barmoq izi qon yoyilishiga xalaqit berishi",
+        "Paxta tolalari qolmasligi"
+      ],
+      "x": "«Juda qalin tomchi bo'yash paytida buyum oynasidan ko'chib ketishi yoki parazitlarni yashirishi mumkin»"
+    },
+    {
+      "q": "Qalin tomchi yupqa surtmaga nisbatan nimasi bilan afzal?",
+      "c": "Parazitni topishda sezgirroq",
+      "w": [
+        "Turni aniqlashda sezgirroq",
+        "Morfologiyani saqlashda sezgirroq",
+        "Quritishda sezgirroq",
+        "Bo'yashda sezgirroq"
+      ],
+      "x": "«yupqa surtmaga nisbatan parazitni topishda sezgirroq»"
+    }
+  ]
+}

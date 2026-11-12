@@ -1,0 +1,617 @@
+{
+  "046": [
+    {
+      "q": "Eski Dunyoda zoonoz teri leyshmaniozining asosiy qo'zg'atuvchisi qaysi tur?",
+      "c": "Leishmania major",
+      "w": [
+        "Leishmania turanica",
+        "Leishmania gerbilli",
+        "Phlebotomus papatasi",
+        "Meriones libycus"
+      ],
+      "x": "«Zoonoz teri leyshmaniozining asosiy qo'zg'atuvchisi Eski Dunyoda Leishmania major hisoblanadi.»"
+    },
+    {
+      "q": "Leishmania qaysi sinfga mansub?",
+      "c": "Kinetoplastidlar sinfiga",
+      "w": [
+        "Hasharotlar sinfiga",
+        "Sut emizuvchilar sinfiga",
+        "Kemiruvchilar sinfiga",
+        "Makrofaglar sinfiga"
+      ],
+      "x": "«Leishmania sodda jonivorlar olamining kinetoplastidlar sinfiga mansub.»"
+    },
+    {
+      "q": "Bo'yalgan preparatda katta yadro bilan birga yana nima ko'rinadi?",
+      "c": "Kichik tayoqchasimon kinetoplast",
+      "w": [
+        "Chivincha ichagidagi xivchinli shakl",
+        "Uch qavatli qobiq va sitoplazma",
+        "Makrofaglar ichidagi katta yadro",
+        "Xivchinli promastigot shakli"
+      ],
+      "x": "«bo'yalgan preparatda katta yadro va unga yaqin kichik tayoqchasimon kinetoplast ko'rinadi»"
+    },
+    {
+      "q": "Leishmania chivincha ichagida qaysi shaklda o'sadi?",
+      "c": "Promastigot shaklida",
+      "w": [
+        "Amastigot shaklida",
+        "Makrofag shaklida",
+        "Kinetoplast shaklida",
+        "Lichinka shaklida"
+      ],
+      "x": "«chivincha ichagida promastigot shaklida, sut emizuvchining makrofaglarida esa amastigot shaklida o'sadi»"
+    },
+    {
+      "q": "Amastigot qanday shaklga ega?",
+      "c": "Xivchinsiz, dumaloq yoki oval, kichik shakl",
+      "w": [
+        "Xivchinli, cho'ziq, harakatchan shakl",
+        "Tukli, mayda, tunda faol hasharot",
+        "Katta, ho'l, ochiq tana yarasi",
+        "Uch qavatli qobiqli yirik shakl"
+      ],
+      "x": "«amastigot esa xivchinsiz, dumaloq yoki oval, kichik shakl bo'lib, hujayra ichida joylashadi»"
+    },
+    {
+      "q": "Chivincha urg'ochisi kasallangan hayvonni chaqib, qon so'rganda nimani yutadi?",
+      "c": "Makrofaglardagi amastigotlarni",
+      "w": [
+        "Makrofaglardagi promastigotlarni",
+        "Hayvon terisidagi promastigotlarni",
+        "Kemiruvchi inlaridagi lichinkalarni",
+        "Chivincha ichagidagi amastigotlarni"
+      ],
+      "x": "«qon so'rganda u makrofaglardagi amastigotlarni yutadi»"
+    },
+    {
+      "q": "Zoonoz teri leyshmaniozida asosiy rezervuar kim hisoblanadi?",
+      "c": "Cho'l kemiruvchilari",
+      "w": [
+        "Tashuvchi chivinchalar",
+        "Kasal odamlar",
+        "Ishchilar va harbiylar",
+        "Sut emizuvchi makrofaglar"
+      ],
+      "x": "«Zoonoz teri leyshmaniozida asosiy rezervuar cho'l kemiruvchilari hisoblanadi.»"
+    },
+    {
+      "q": "Zoonoz teri leyshmaniozining tashuvchisi qaysi?",
+      "c": "Phlebotomus papatasi chivinchasi",
+      "w": [
+        "Rhombomys opimus kemiruvchisi",
+        "Meriones libycus kemiruvchisi",
+        "Leishmania major paraziti",
+        "Eski Dunyo chivinchasi"
+      ],
+      "x": "«Zoonoz teri leyshmaniozining tashuvchisi Phlebotomus papatasi chivinchasidir.»"
+    },
+    {
+      "q": "Nima uchun parazitni faqat urg'ochi chivinchalar tashiydi?",
+      "c": "Faqat urg'ochi chivincha qon so'radi",
+      "w": [
+        "Tunda va kechqurun faol bo'ladi",
+        "Kemiruvchi inlarida ko'payadi",
+        "Juda mayda va tukli bo'ladi",
+        "Nam organik muhitda yashaydi"
+      ],
+      "x": "«Faqat urg'ochi chivincha qon so'radi, shu sababli parazitni faqat urg'ochilar tashiydi.»"
+    },
+    {
+      "q": "Zoonoz teri leyshmaniozi ko'pincha qaysi odamlarda uchraydi?",
+      "c": "O'choqqa yangi kelgan, immunitetsiz odamlarda",
+      "w": [
+        "O'choqdan tashqarida yashovchi odamlarda",
+        "Kemiruvchilar bilan ishlamaydigan odamlarda",
+        "Serologik testdan o'tgan odamlarda",
+        "Immunitetli odamlarda"
+      ],
+      "x": "«kasallik ko'pincha o'choqqa yangi kelgan, immunitetsiz odamlarda, ya'ni ishchilar, harbiylar, sayyohlar va ko'chib kelganlarda uchraydi»"
+    },
+    {
+      "q": "Teri to'qimasida yallig'lanish qanday ketma-ketlikda rivojlanadi?",
+      "c": "Papula, tugun va yara tartibida",
+      "w": [
+        "Yara, tugun va papula tartibida",
+        "Tugun, papula va yara tartibida",
+        "Yara, papula va tugun tartibida",
+        "Papula, yara va tugun tartibida"
+      ],
+      "x": "«avval papula, keyin tugun va oxirida yara hosil bo'ladi»"
+    }
+  ],
+  "047": [
+    {
+      "q": "Visseral leyshmanioz qaysi ichki a'zolarni zararlaydi?",
+      "c": "Taloq, jigar va suyak ko'migini",
+      "w": [
+        "Teri va limfa tugunlarini",
+        "Faqat teri yaralarini",
+        "Teri, taloq va suyak ko'migini",
+        "Limfa tugunlari va teri yaralarini"
+      ],
+      "x": "«ichki a'zolarni, ya'ni taloq, jigar, suyak ko'migi va limfa tugunlarini zararlaydigan»"
+    },
+    {
+      "q": "JSSTga ko'ra davolanmagan visseral leyshmanioz qancha holatda o'limga olib keladi?",
+      "c": "95 foizdan ortiq holatda",
+      "w": [
+        "70 foizdan ortiq holatda",
+        "20 foizdan ortiq holatda",
+        "3–5 foizdan ortiq holatda",
+        "1 foizdan ortiq holatda"
+      ],
+      "x": "«davolanmasa 95 foizdan ortiq holatda o'limga olib kelishini»"
+    },
+    {
+      "q": "Mavzu sarlavhasidagi visseral teri leyshmaniozi atamasi nima uchun noaniq?",
+      "c": "Visseral shakl teri shaklidan farq qiladi",
+      "w": [
+        "Teri shakli ichki a'zolarni zararlaydi",
+        "Visseral shakl faqat teri yaralari bilan kechadi",
+        "Ikkala shakl bir xil tur qo'zg'atadi",
+        "Visseral shaklni chivinchalar tashimaydi"
+      ],
+      "x": "«bu atama noaniq: visseral shakl teri shaklidan farq qiladi»"
+    },
+    {
+      "q": "Hindiston subkontinenti va Sharqiy Afrikada visseral leyshmaniozni qaysi tur qo'zg'atadi?",
+      "c": "Leishmania donovani",
+      "w": [
+        "Leishmania infantum",
+        "Phlebotomus alexandri",
+        "Major turi",
+        "Tropica turi"
+      ],
+      "x": "«Hindiston subkontinenti va Sharqiy Afrikada L. donovani»"
+    },
+    {
+      "q": "Giemza bilan bo'yalganda amastigotlarda nima ko'rinadi?",
+      "c": "Yirik yadro va tayoqchasimon kinetoplast",
+      "w": [
+        "Ikkita kichik yadro va uzun xivchin",
+        "Kichik yadro va xivchinli promastigot",
+        "Bitta xivchin va kichik dumaloq yadro",
+        "Yirik makrofag va kichik promastigot"
+      ],
+      "x": "«Giemza bilan bo'yalganda ularda bitta yirik yadro va kichik tayoqchasimon kinetoplast ko'rinadi.»"
+    },
+    {
+      "q": "L. infantum tarqalgan hududlarda visseral leyshmaniozning asosiy rezervuari kim?",
+      "c": "Uy iti va yovvoyi it oilasi",
+      "w": [
+        "Odam va makrofaglar",
+        "Kasal odam va chivincha",
+        "Hayvonlar va promastigotlar",
+        "Makrofaglar va promastigotlar"
+      ],
+      "x": "«asosiy rezervuar uy iti va yovvoyi it oilasi hayvonlari»"
+    },
+    {
+      "q": "Ehtimoliy tashuvchi atamasi nimani bildiradi?",
+      "c": "Isbotlangan tashuvchi emasligini",
+      "w": [
+        "Ikki punktda eudominant bo'lganini",
+        "Taloq va jigarni zararlashini",
+        "Parazit ajratilganini",
+        "Faqat itlarni zararlashini"
+      ],
+      "x": "«Ehtimoliy tashuvchi degani isbotlangan tashuvchi emasligini bildiradi»"
+    },
+    {
+      "q": "Immun javob susayganda qanday ikkilamchi infeksiyalar qo'shilishi mumkin?",
+      "c": "Zotiljam, ich ketishi va sil",
+      "w": [
+        "Taloq va jigar kattalashishi",
+        "Leykopeniya va trombotsitopeniya",
+        "OIV va leyshmaniya",
+        "Isitma va kamqonlik"
+      ],
+      "x": "«shuning uchun ikkilamchi infeksiyalar, masalan zotiljam, ich ketishi, sil, qo'shilishi mumkin»"
+    },
+    {
+      "q": "Aspirat olish xavfli bo'lgani uchun uni kim bajaradi?",
+      "c": "Faqat tajribali shifokor",
+      "w": [
+        "Preparatni tayyorlovchi laborant",
+        "Parazitolog yoki epidemiolog",
+        "Immuniteti susaygan bemor",
+        "Laborant yoki epidemiolog"
+      ],
+      "x": "«Aspirat olish xavfli bo'lgani uchun uni faqat tajribali shifokor bajaradi»"
+    },
+    {
+      "q": "Namangan viloyati Pop tumanida itlardan qaysi tur shtammlari ajratilgan?",
+      "c": "Leishmania infantum shtammlari",
+      "w": [
+        "Donovani turi shtammlari",
+        "Major turi shtammlari",
+        "Tropica turi shtammlari",
+        "Phlebotomus alexandri shtammlari"
+      ],
+      "x": "«Namangan viloyati Pop tumanida itlardan L. infantum shtammlari ajratilgan»"
+    },
+    {
+      "q": "Visseral leyshmaniozning inkubatsion davri qancha davom etadi?",
+      "c": "20 kundan 1 yilgacha",
+      "w": [
+        "20 kundan 3 yilgacha",
+        "3–5 kundan 1 yilgacha",
+        "3–5 oy, o'rtacha 20 kundan",
+        "1 yilgacha, o'rtacha 3 oy"
+      ],
+      "x": "«inkubatsion davri 20 kundan 1 yilgacha, o'rtacha 3–5 oy davom etadi»"
+    }
+  ],
+  "048": [
+    {
+      "q": "Antroponoz teri leyshmaniozining klassik qo'zg'atuvchisi qaysi?",
+      "c": "Leishmania tropica",
+      "w": [
+        "Leishmania major",
+        "Phlebotomus sergenti",
+        "Phlebotomus papatasi",
+        "Yilli yara turi"
+      ],
+      "x": "«Antroponoz teri leyshmaniozining klassik qo'zg'atuvchisi Leishmania tropica hisoblanadi.»"
+    },
+    {
+      "q": "Antroponoz teri leyshmaniozi ko'pincha qanday ataladi?",
+      "c": "Yilli yara yoki shahar tipi",
+      "w": [
+        "Katta yara yoki zich tip",
+        "Ho'l yara yoki qishloq turi",
+        "Yangi yara yoki qishloq tipi",
+        "Quruq yara yoki hovli tipi"
+      ],
+      "x": "«Antroponoz teri leyshmaniozi, ko'pincha yilli yara yoki shahar tipi deb ataladi»"
+    },
+    {
+      "q": "Antroponoz teri leyshmaniozining ayblangan tashuvchisi qaysi?",
+      "c": "Phlebotomus sergenti chivinchasi",
+      "w": [
+        "Phlebotomus papatasi chivinchasi",
+        "Leishmania major kemiruvchisi",
+        "Kemiruvchilar rezervuari",
+        "Kasal odam makrofagi"
+      ],
+      "x": "«Antroponoz teri leyshmaniozining ayblangan tashuvchisi Phlebotomus sergenti chivinchasidir.»"
+    },
+    {
+      "q": "Surxondaryo tadqiqotida P. sergenti ulushi o'rtacha qanday o'zgargan?",
+      "c": "5,4 foizdan 41,4 foizgacha oshgan",
+      "w": [
+        "41,4 foizdan 5,4 foizgacha oshgan",
+        "5,4 foizdan 14,4 foizgacha oshgan",
+        "4,1 foizdan 54 foizgacha oshgan",
+        "50 foizdan 5,4 foizgacha oshgan"
+      ],
+      "x": "«P. sergenti ulushi o'rtacha 5,4 foizdan 41,4 foizgacha sezilarli oshganini»"
+    },
+    {
+      "q": "Antroponoz shaklning manbai kim?",
+      "c": "Teri yaralari bo'lgan bemor",
+      "w": [
+        "Kemiruvchilar, ya'ni zoonoz manbai",
+        "Hayvonlar, ya'ni kemiruvchilar",
+        "Chivinchalarning o'zi",
+        "Sog'lom aholi"
+      ],
+      "x": "«Antroponoz shaklning manbai kasal odam, ya'ni teri yaralari bo'lgan bemordir.»"
+    },
+    {
+      "q": "Antroponoz teri leyshmaniozida inkubatsiya muddati qanday?",
+      "c": "Ancha uzun, oylar bilan o'lchanadigan muddat",
+      "w": [
+        "Ancha qisqa, oylar bilan o'lchanadigan muddat",
+        "Yara darhol paydo bo'ladi, muddat yo'q",
+        "Faqat mavsumga bog'liq bo'lgan muddat",
+        "Bir yildan ortiq o'lchanadigan muddat"
+      ],
+      "x": "«inkubatsiya muddati ancha uzun, oylar bilan o'lchanadi»"
+    },
+    {
+      "q": "Antroponoz shaklda kurash choralari qanday?",
+      "c": "Bemorlarni davolash va tashuvchilarga qarshi kurash",
+      "w": [
+        "Kemiruvchilar nazorati va inlarni yo'qotish",
+        "Hayvon rezervuarlariga qarshi kurash",
+        "Hayvonlarni davolash va yo'qotish",
+        "Aholini boshqa hududga ko'chirib yuborish"
+      ],
+      "x": "«antroponozda bemorlarni davolash va tashuvchilarga qarshi kurash»"
+    },
+    {
+      "q": "Antroponoz va zoonoz shakllar uchun laboratoriya tashxisi qanday?",
+      "c": "Bir xil: yaradan olingan material bo'yalib, amastigotlar izlanadi",
+      "w": [
+        "Har xil: yara materiali bo'yalib, amastigotlar izlanadi",
+        "Zoonozda qon, antroponozda yara materiali tekshiriladi",
+        "Faqat serologik testlar bilan tasdiqlanadi",
+        "Yaradan olingan material molekulyar usulda tekshiriladi"
+      ],
+      "x": "«Laboratoriya tashxisi antroponoz va zoonoz shakllar uchun bir xil: yaradan olingan material Giemza bilan bo'yalib, amastigotlar izlanadi»"
+    },
+    {
+      "q": "Antroponoz shaklda profilaktikaning asosi nima?",
+      "c": "Bemorlarni erta aniqlash va davolash",
+      "w": [
+        "Hayvon rezervuarlarini yo'qotish",
+        "Aholini ko'chirib yuborish",
+        "Hayvonlarni davolash",
+        "Chivinchalarni ko'paytirish"
+      ],
+      "x": "«profilaktikaning asosi bemorlarni erta aniqlash va davolash»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra chivincha bemordan qon so'rgach, necha kunda yuqumli bo'ladi?",
+      "c": "6–8 kunda",
+      "w": [
+        "2–8 kunda",
+        "20 kunda",
+        "1,5 kunda",
+        "50 kunda"
+      ],
+      "x": "«chivincha bemordan qon so'rgach, 6–8 kunda yuqumli bo'ladi»"
+    },
+    {
+      "q": "Antroponoz teri leyshmaniozida mavsumiylik nima uchun xarakterli emas?",
+      "c": "Yashirin davr turlicha bo'lishi",
+      "w": [
+        "Chivinchalar yil davomida faol bo'lishi",
+        "Kemiruvchilar rezervuar bo'lmasligi",
+        "Bemorlar kuzatuvda bo'lishi",
+        "Yara sekin rivojlanishi"
+      ],
+      "x": "«yashirin davr turlicha bo'lgani uchun mavsumiylik xarakterli emas»"
+    }
+  ],
+  "049": [
+    {
+      "q": "Leyshmanioz tashuvchilari qaysi kenja oilaga mansub?",
+      "c": "Phlebotominae kenja oilasiga",
+      "w": [
+        "Larroussius kenja turkumiga",
+        "Sergentomyia turkumiga",
+        "Eudominant kenja oilasiga",
+        "Oddiy chivinlar oilasiga"
+      ],
+      "x": "«chivinchalar, ya'ni Phlebotominae kenja oilasi bo'lib»"
+    },
+    {
+      "q": "Nima uchun faqat urg'ochi chivincha qon so'radi?",
+      "c": "Tuxum rivojlanishi uchun qon kerak",
+      "w": [
+        "Erkak chivincha tunda faol bo'lmaydi",
+        "Parazit faqat urg'ochida ko'payadi",
+        "Urg'ochilari kunduzi faol bo'ladi",
+        "Tanasi tuk bilan qoplangan bo'ladi"
+      ],
+      "x": "«Faqat urg'ochi chivincha qon so'radi, chunki tuxum rivojlanishi uchun qon kerak»"
+    },
+    {
+      "q": "Chivinchalar lichinkalari qayerda rivojlanadi?",
+      "c": "Nam, organik moddaga boy tuproqda",
+      "w": [
+        "Yopishqoq qog'oz tuzoqlarda",
+        "Hayvon xonalarida kunduzi",
+        "Spirtda saqlangan tuzoqda",
+        "Oddiy chivinlar kabi suvda"
+      ],
+      "x": "«lichinkalari suvda emas, nam, organik moddaga boy tuproqda, kemiruvchi inlarida va yoriqlarda rivojlanadi»"
+    },
+    {
+      "q": "Surxondaryo tadqiqotida zoonoz leyshmaniozning ayblangan tashuvchisi sifatida qaysi tur eudominant bo'lib qolgan?",
+      "c": "Phlebotomus papatasi",
+      "w": [
+        "P. sergenti turi",
+        "P. alexandri turi",
+        "Sergentomyia turkumi turi",
+        "Larroussius turi"
+      ],
+      "x": "«Tadqiqotda zoonoz leyshmaniozning ayblangan tashuvchisi Phlebotomus papatasi eudominant»"
+    },
+    {
+      "q": "Surxondaryo tadqiqotida P. sergenti ulushi o'rtacha qanday o'zgargan?",
+      "c": "5,4 foizdan 41,4 foizgacha oshgan",
+      "w": [
+        "41,4 foizdan 5,4 foizgacha oshgan",
+        "5,4 foizdan 14,4 foizgacha oshgan",
+        "4,1 foizdan 54 foizgacha oshgan",
+        "50 foizdan 5,4 foizgacha oshgan"
+      ],
+      "x": "«P. sergenti ulushi o'rtacha 5,4 foizdan 41,4 foizgacha sezilarli oshgan»"
+    },
+    {
+      "q": "Surxondaryo tadqiqotida visseral leyshmaniozning ehtimoliy tashuvchisi sifatida qaysi tur ikki punktda eudominant bo'lgan?",
+      "c": "Phlebotomus alexandri",
+      "w": [
+        "Papatasi turi chivinchasi",
+        "Sergenti turi chivinchasi",
+        "Longiductus turi chivinchasi",
+        "Angustus turi chivinchasi"
+      ],
+      "x": "«Phlebotomus alexandri visseral leyshmaniozning ehtimoliy tashuvchisi sifatida ikki punktda eudominant bo'lgani»"
+    },
+    {
+      "q": "Chivinchalar uchishi cheklangan bo'lishi nimani tushuntiradi?",
+      "c": "O'choqlarning cheklangan bo'lishini",
+      "w": [
+        "Lichinkalarning suvda rivojlanishini",
+        "Tuxum rivojlanishi uchun qon kerakligini",
+        "Tuxumning suvda rivojlanishini",
+        "Chivinchalarning kunduzi faolligini"
+      ],
+      "x": "«Bu xususiyat o'choqlarning cheklangan bo'lishini tushuntiradi va ishlov chegarasini belgilashga yordam beradi»"
+    },
+    {
+      "q": "Tur aniqlash urg'ochi chivinchaning qaysi qismlari tuzilishiga asoslanadi?",
+      "c": "Boshi va qorin uchi",
+      "w": [
+        "Qanotlari va tanasi uzunligi",
+        "Tuxumi va lichinkasi",
+        "Tuxumi va qanotlari",
+        "Spirtda saqlangan tanasi"
+      ],
+      "x": "«Tur aniqlash urg'ochi chivinchaning boshi va qorin uchi tuzilishiga asoslanadi»"
+    },
+    {
+      "q": "Mayda ko'zli to'rlar chivinchalardan himoya qilishda nima uchun ahamiyatli?",
+      "c": "Chivinchalar oddiy to'rdan o'ta oladi",
+      "w": [
+        "Lichinkalari nam tuproqda rivojlanadi",
+        "Kunduzi faol va ko'rinib uchadi",
+        "Faqat tashqarida va kunduzi chaqadi",
+        "Shamolda juda faol bo'ladi"
+      ],
+      "x": "«Mayda ko'zli to'rlar chivinchalardan himoya qilishda ahamiyatli, chunki ular oddiy to'rdan o'ta oladi»"
+    },
+    {
+      "q": "Quyidagilardan qaysi biri tashuvchini isbotlash mezonlaridan biri?",
+      "c": "Laboratoriyada parazitni rivojlantira olishi",
+      "w": [
+        "Dam olganda qanotlari ko'tarilgan holatda turishi",
+        "Tunda yoki g'ira-shirada faol bo'lishi",
+        "Kemiruvchi inlari yaqiniga tuzoq qo'yilishi",
+        "Uzunligi taxminan 2–3 mm bo'lishi"
+      ],
+      "x": "«laboratoriyada parazitni rivojlantira olishi»"
+    },
+    {
+      "q": "121-son buyruqning 2-ilovasiga ko'ra O'zbekistonda chivinchalarning nechta turi mavjud?",
+      "c": "9 turi",
+      "w": [
+        "10 turi",
+        "12 turi",
+        "90 turi",
+        "4–5 turi"
+      ],
+      "x": "«O'zbekistonda chivinchalarning 9 turi mavjud»"
+    }
+  ],
+  "050": [
+    {
+      "q": "Zoonoz teri leyshmaniozining infeksiya manbalari qayerda joylashadi?",
+      "c": "Yovvoyi va sinantrop hayvonlar orasida",
+      "w": [
+        "Odamlar va yarali bemorlar orasida",
+        "Chivinchalar va ularning lichinkalari orasida",
+        "Qishloq xo'jaligi ishchilari orasida",
+        "Kasal odamlar va chivinchalar orasida"
+      ],
+      "x": "«uning infeksiya manbalari tabiatda, ya'ni yovvoyi va sinantrop hayvonlar orasida joylashadi»"
+    },
+    {
+      "q": "Tabiiy o'choq qaysi uch qismdan iborat?",
+      "c": "Parazit, rezervuar hayvon va tashuvchi chivincha",
+      "w": [
+        "Parazit, kasal odam va yirtqich hayvon",
+        "Rezervuar hayvon, odam va laborant",
+        "Tashuvchi chivincha, bemor va epidemiolog",
+        "Kemiruvchi, zoolog va parazitolog"
+      ],
+      "x": "«Tabiiy o'choq uch qismdan iborat: parazit (L. major), rezervuar hayvon va tashuvchi chivincha»"
+    },
+    {
+      "q": "Zoonoz teri leyshmaniozining asosiy manbai kim?",
+      "c": "Cho'l kemiruvchilari",
+      "w": [
+        "Yirtqich hayvonlar",
+        "Uy hayvonlari",
+        "Yarali bemorlar",
+        "Tashuvchi chivinchalar"
+      ],
+      "x": "«Zoonoz teri leyshmaniozining asosiy manbai cho'l kemiruvchilaridir.»"
+    },
+    {
+      "q": "Kemiruvchilar inlari chivinchalar lichinkalari uchun nima uchun qulay?",
+      "c": "Nam, organik moddaga boy, doimiy haroratli joy yaratadi",
+      "w": [
+        "Yirik koloniya hosil qiladigan quruq joy yaratadi",
+        "Parazitga qarshi qisman chidamli joy yaratadi",
+        "Yil davomida ko'payishni to'xtatadigan joy yaratadi",
+        "Odam ishtirokida saqlanadigan muhit yaratadi"
+      ],
+      "x": "«inlarida chivinchalar lichinkalari rivojlanishi uchun qulay muhit, ya'ni nam, organik moddaga boy, doimiy haroratli joy yaratadi»"
+    },
+    {
+      "q": "Zoonoz shaklda odam parazit siklida qanday o'rinda turadi?",
+      "c": "Tasodifiy xo'jayin",
+      "w": [
+        "Asosiy rezervuar",
+        "Doimiy tashuvchi",
+        "Yangi manba",
+        "Asosiy tashuvchi"
+      ],
+      "x": "«Zoonoz shaklda odam odatda tasodifiy xo'jayin»"
+    },
+    {
+      "q": "Kemiruvchilar soni qanday sharoitda ortadi?",
+      "c": "Yaxshi ozuqa va iqlim sharoitida",
+      "w": [
+        "Qurg'oqchilik davrida",
+        "Qirilish davrida",
+        "Odamlar soni kamayganda",
+        "Parazit aylanishi susayganda"
+      ],
+      "x": "«yaxshi ozuqa va iqlim sharoitida ularning soni ortadi»"
+    },
+    {
+      "q": "Manba hayvonlarni aniqlash uchun zoolog va parazitologlar nima qiladi?",
+      "c": "Kemiruvchilarni tutib, ularning a'zolaridan material oladi",
+      "w": [
+        "Inlar sonini hisoblab, xaritaga tushiradi",
+        "Ishlov joylarini belgilab, aholiga tushuntiradi",
+        "Chivinchalarni tutib, ularning lichinkalaridan material oladi",
+        "Hovlini toza saqlab, aholiga tushuntiradi"
+      ],
+      "x": "«zoolog va parazitologlar kemiruvchilarni tutadi, ularning teri, quloq va ichki a'zolaridan material oladi»"
+    },
+    {
+      "q": "Kemiruvchilar manbai bo'lgan o'choqlarda qaysi chora qo'llaniladi?",
+      "c": "Kemiruvchilar inlarini yo'qotish yoki kamaytirish",
+      "w": [
+        "Aholi punktlari atrofida inlarni ko'paytirish",
+        "Chivinchalar lichinkalarini ko'paytirish",
+        "Kemiruvchilar inlarini saqlab qolish",
+        "Odamlarni inlar yaqiniga joylashtirish"
+      ],
+      "x": "«kemiruvchilar inlarini yo'qotish yoki kamaytirish»"
+    },
+    {
+      "q": "Tabiiy o'choq nega odam ishtirokisiz ham saqlanadi?",
+      "c": "Kemiruvchilar va chivinchalar o'rtasidagi sikl uzluksiz davom etadi",
+      "w": [
+        "Odamlar va chivinchalar o'rtasidagi sikl uzluksiz davom etadi",
+        "Kemiruvchilar va yirtqichlar o'rtasidagi sikl uzluksiz davom etadi",
+        "Bemorlar va tibbiyot xodimlari o'rtasidagi aloqa saqlanadi",
+        "Odam va laborant o'rtasidagi aloqa uzluksiz davom etadi"
+      ],
+      "x": "«kemiruvchilar va chivinchalar o'rtasidagi sikl uzluksiz davom etadi»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra katta qum sichqonlari uyalarining yo'llari qanchalik chuqurlikkacha boradi?",
+      "c": "4–5 metr chuqurlikkacha",
+      "w": [
+        "100–150 metr chuqurlikkacha",
+        "5 km chuqurlikkacha",
+        "2–3 metr chuqurlikkacha",
+        "10–12 metr chuqurlikkacha"
+      ],
+      "x": "«yo'llari 4–5 metr chuqurlikkacha boradi»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra hayvonlarning 85 foizi ozuqa izlab uyasidan qanchagacha uzoqlashadi?",
+      "c": "100–150 metrgacha",
+      "w": [
+        "4–5 metrgacha",
+        "5 km gacha",
+        "10–12 km gacha",
+        "2–3 metrgacha"
+      ],
+      "x": "«Hayvonlarning 85% ozuqa izlab uyasidan 100–150 metrgacha»"
+    }
+  ]
+}

@@ -1,0 +1,606 @@
+{
+ "071": [
+  {
+   "q": "Kanali qaytalama terlama klinikasi nima bilan xarakterlanadi?",
+   "c": "Isitma xurujlarining qaytalanishi",
+   "w": [
+    "Isitma davri qisqarishi",
+    "Kana chaqqan joyda yara paydo bo'lishi",
+    "Qon bosimining doimiy o'zgarishi",
+    "Teri toshmasining qaytalanishi"
+   ],
+   "x": "«Kanali qaytalama terlama (KQT) klinikasi isitma xurujlarining qaytalanishi bilan xarakterlanadi»"
+  },
+  {
+   "q": "Kasallik nomidagi \"terlama\" so'zi nimani bildiradi?",
+   "c": "Xurujning kuchli terlash bilan tugashini",
+   "w": [
+    "Kana chaqqan joyning terlashini",
+    "Isitmasiz davrning terlash bilan boshlanishini",
+    "Inkubatsion davrning kuchli terlashini",
+    "Asoratlarning terlash bilan tugashini"
+   ],
+   "x": "«terlama esa xurujning kuchli terlash bilan tugashini bildiradi»"
+  },
+  {
+   "q": "KQTning inkubatsion davri o'rtacha necha kun?",
+   "c": "7 kun",
+   "w": [
+    "4 kun",
+    "18 kun",
+    "3 kun",
+    "20 kun"
+   ],
+   "x": "«KQTning inkubatsion davri o'rtacha 7 kun, ya'ni 4 kundan 18 kundan ortiqqacha bo'lishi mumkin»"
+  },
+  {
+   "q": "Bemor kana chaqqanini nima sababdan ko'pincha eslamaydi?",
+   "c": "Yumshoq kana og'riqsiz chaqadi",
+   "w": [
+    "Kana chaqqan joyda yara bo'ladi",
+    "Inkubatsion davr juda qisqa bo'ladi",
+    "Chaqqan joyda kuchli titroq bo'ladi",
+    "Spirohetalar qonda ko'rinmaydi"
+   ],
+   "x": "«Chunki yumshoq kana og'riqsiz chaqadi va tez qon so'radi.»"
+  },
+  {
+   "q": "Anamnezda eng muhim ma'lumot nima?",
+   "c": "Bemor tunagan joy",
+   "w": [
+    "Bemor qon guruhi",
+    "Kana chaqqan vaqt",
+    "Bemorning kasallik tarixi",
+    "Isitmasiz davr muddati"
+   ],
+   "x": "«Shu sababli anamnezda bemor tunagan joy, ya'ni eski uy, g'or yoki qo'ra, so'raladi»"
+  },
+  {
+   "q": "Birinchi xurujdan keyin qanday davr boshlanadi?",
+   "c": "Isitmasiz davr",
+   "w": [
+    "Inkubatsion davr",
+    "Asoratlar davri",
+    "Kuchli terlash davri",
+    "Qaytalanish davri"
+   ],
+   "x": "«Birinchi xurujdan keyin isitmasiz davr boshlanadi»"
+  },
+  {
+   "q": "Xurujlarning qaytalanishi nima bilan bog'liq?",
+   "c": "Spirohetalarning antigen o'zgaruvchanligi",
+   "w": [
+    "Kemiruvchilar sonining ko'payishi",
+    "Kana chaqishining qayta-qayta takrorlanishi",
+    "Isitma davri qisqarishi",
+    "Spirohetalarning qonda yo'qolishi"
+   ],
+   "x": "«Qaytalanishlar spirohetalarning antigen o'zgaruvchanligi bilan bog'liq»"
+  },
+  {
+   "q": "Ko'rikda qaysi a'zolar kattalashishi mumkin?",
+   "c": "Taloq va ba'zan jigar",
+   "w": [
+    "Buyrak va ba'zan yurak",
+    "Yurak va ba'zan o'pka",
+    "O'pka va ba'zan buyrak",
+    "Yurak va ba'zan buyrak"
+   ],
+   "x": "«Ko'rikda taloq va ba'zan jigar kattalashishi»"
+  },
+  {
+   "q": "Qaytalama terlama asoratlariga qaysi biri kiradi?",
+   "c": "O'pka shishi va nafas yetishmovchiligi",
+   "w": [
+    "Yengil sariqlik, konjunktiva qizarishi",
+    "Kana chaqqan joyda yara",
+    "Xurujning terlash bilan tugashi",
+    "Qonda spirohetalar ko'rinmasligi"
+   ],
+   "x": "«o'pka shishi va nafas yetishmovchiligi»"
+  },
+  {
+   "q": "Yarish–Gerksgeymer reaksiyasi qachon rivojlanadi?",
+   "c": "Davolash boshlanganda",
+   "w": [
+    "Inkubatsion davrda",
+    "Isitmasiz davrda",
+    "Birinchi xuruj paytida",
+    "Kana chaqqan joyda"
+   ],
+   "x": "«Davolash boshlanganda ba'zi bemorlarda Yarish–Gerksgeymer reaksiyasi rivojlanadi»"
+  },
+  {
+   "q": "KQTda qon preparatida spirohetalar qayerda topiladi?",
+   "c": "Eritrotsitlar orasida",
+   "w": [
+    "Eritrotsitlar ichida",
+    "Leykotsitlar ichida",
+    "Trombotsitlar orasida",
+    "Taloq va jigar orasida"
+   ],
+   "x": "«KQTda esa spirohetalar eritrotsitlar orasida topiladi»"
+  }
+ ],
+ "072": [
+  {
+   "q": "KQT diagnostikasida eng muhim usul qaysi?",
+   "c": "Periferik qon surtmasini mikroskopda ko'rish",
+   "w": [
+    "Fermentga bog'langan immunosorbent tahlil",
+    "Western blot usulida antitelolarni aniqlash",
+    "PZR usulida turni aniqlash",
+    "Biokimyoda jigar fermentlarini aniqlash"
+   ],
+   "x": "«Eng muhim usul periferik qon surtmasini mikroskopda ko'rib, spirohetalarni topishdir.»"
+  },
+  {
+   "q": "Isitmasiz davrda spirohetalar qonda qanday aniqlanadi?",
+   "c": "Mikroskopik jihatdan aniqlanmaydi",
+   "w": [
+    "Mikroskopda ko'p miqdorda ko'rinadi",
+    "Immersion maydonda bir nechta topiladi",
+    "Qalin tomchida yaqqol ko'rinadi",
+    "Qorong'i maydonda ko'rinadi"
+   ],
+   "x": "«Isitmasiz davrda spirohetalar qonda mikroskopik jihatdan aniqlanmaydi»"
+  },
+  {
+   "q": "Isitmasiz davrdagi manfiy surtma KQT haqida nimani bildiradi?",
+   "c": "KQTni istisno qilmaydi",
+   "w": [
+    "KQTni mutlaqo istisno qiladi",
+    "Bezgak tashxisini tasdiqlaydi",
+    "Kana chaqishi yo'qligini tasdiqlaydi",
+    "Tashxisni rad etish uchun asos"
+   ],
+   "x": "«Shu sababli isitmasiz davrda manfiy surtma KQTni istisno qilmaydi.»"
+  },
+  {
+   "q": "Qorong'i maydon mikroskopiyasida spirohetalar qanday ko'rinadi?",
+   "c": "Tirik, harakatchan holda",
+   "w": [
+    "Bo'yalgan, spiralsimon holda",
+    "Eritrotsitlar ichida, qalin tomchida",
+    "Ko'k-binafsha, fiksatsiya qilingan holda",
+    "Kam sonli, harakatsiz holda"
+   ],
+   "x": "«Qorong'i maydon mikroskopiyasida yoki yangi (ho'l) tomchi preparatida spirohetalar tirik, harakatchan holda ko'rinadi.»"
+  },
+  {
+   "q": "Serologik testlar (EIA va Western blot) nimani aniqlaydi?",
+   "c": "Antitelolarni aniqlaydi",
+   "w": [
+    "Spirohetalarni mikroskopda ko'rsatadi",
+    "Leykotsitlar o'zgarishini aniqlaydi",
+    "Jigar fermentlarini aniqlaydi",
+    "Bilirubin oshishini aniqlaydi"
+   ],
+   "x": "«Serologik testlar, ya'ni fermentga bog'langan immunosorbent tahlil (EIA) va Western blot, antitelolarni aniqlaydi.»"
+  },
+  {
+   "q": "Serologiya qaysi kasallik bilan o'zaro reaksiya bera oladi?",
+   "c": "Lyme borreliozi",
+   "w": [
+    "Brutsellyoz kasalligi",
+    "Toshmali tif",
+    "Virusli gemorragik isitma",
+    "Leptospiroz kasalligi"
+   ],
+   "x": "«Serologiya Lyme borreliozi bilan o'zaro reaksiya bera olishi mumkin»"
+  },
+  {
+   "q": "Molekulyar usullar (PZR) qaysi maqsadda foydali?",
+   "c": "Turni aniqlash",
+   "w": [
+    "Qalin tomchini bo'yash",
+    "Preparatni bo'yash",
+    "Kana chaqishini aniqlash",
+    "Isitma davrini belgilash"
+   ],
+   "x": "«Molekulyar usullar, ya'ni PZR, turni aniqlash va kam spirohetali holatlarda foydali»"
+  },
+  {
+   "q": "Umumiy qon tahlilida qanday o'zgarishlar kuzatilishi mumkin?",
+   "c": "Trombotsitopeniya va kamqonlik",
+   "w": [
+    "Trombotsitlar va leykotsitlar oshishi",
+    "Eritrotsitlar va trombotsitlar oshishi",
+    "Leykotsitlar o'zgarmasligi",
+    "Bilirubin kamayishi"
+   ],
+   "x": "«Umumiy qon tahlilida leykotsitlar o'zgarishi, trombotsitopeniya, kamqonlik»"
+  },
+  {
+   "q": "Tashxis xatolariga qaysi biri kiradi?",
+   "c": "Faqat bezgakka tekshirib, spirohetalarni ko'rmaslik",
+   "w": [
+    "Namunani isitma davrida olish",
+    "Surtmani sinchiklab ko'rish",
+    "Klinik shubha saqlansa, tekshiruvni takrorlash",
+    "Epidemiologik anamnezni sinchiklab aniqlash"
+   ],
+   "x": "«Eng ko'p xatolar: faqat bezgakka tekshirib, spirohetalarni ko'rmaslik»"
+  },
+  {
+   "q": "Natijada shifokor to'g'ri xulosa qilishi uchun nima yoziladi?",
+   "c": "Namuna olingan vaqt va isitma holati",
+   "w": [
+    "Kana chaqqan sana va joyi",
+    "Qon surtmasi va bo'yoq",
+    "Bezgak va grippdan farqi",
+    "Bemor qarindoshlarining isitma holati"
+   ],
+   "x": "«Natijada namuna olingan vaqt va isitma holati ko'rsatiladi, shunda shifokor to'g'ri xulosa qiladi»"
+  },
+  {
+   "q": "Yupqa surtmaning afzalligi nimada?",
+   "c": "Morfologiyani yaxshi ko'rsatadi",
+   "w": [
+    "Parazitni topishda sezgirroq bo'ladi",
+    "Spirohetalarni tirik holda ko'rsatadi",
+    "Bo'yoq tayyorlashni talab qilmaydi",
+    "Maxsus mikroskop talab qiladi"
+   ],
+   "x": "«Qalin tomchi sezgirroq, yupqa surtma esa morfologiyani yaxshi ko'rsatadi.»"
+  }
+ ],
+ "073": [
+  {
+   "q": "Laboratoriya namunasi qaysi davrda olinishi eng muhim ko'rsatma hisoblanadi?",
+   "c": "Isitma xuruji davrida",
+   "w": [
+    "Isitmasiz davrda",
+    "Kana chaqqan davrda",
+    "Natija yozilgan davrda",
+    "Antibiotik boshlangandan keyingi davrda"
+   ],
+   "x": "«Eng muhim ko'rsatma namunani isitma xuruji davrida olishdir.»"
+  },
+  {
+   "q": "Namuna imkon qadar antibiotik boshlanishidan oldin nima uchun olinadi?",
+   "c": "Davolash spirohetalarni yo'q qiladi",
+   "w": [
+    "Antibiotik qon surtmasini bo'yaydi",
+    "Davolash qalin tomchini fiksatsiya qiladi",
+    "Antibiotik spirohetalarni saqlaydi",
+    "Davolash qalin tomchini buzadi"
+   ],
+   "x": "«chunki davolash spirohetalarni tez yo'q qiladi»"
+  },
+  {
+   "q": "Qaysi preparat fiksatsiya qilinmaydi?",
+   "c": "Qalin tomchi",
+   "w": [
+    "Yupqa surtma",
+    "Giemza bilan bo'yalgan surtma",
+    "Havoda quritilgan surtma",
+    "Ikkinchi mutaxassis ko'rgan preparat"
+   ],
+   "x": "«Qalin tomchi fiksatsiya qilinmaydi, aks holda gemoliz buziladi.»"
+  },
+  {
+   "q": "Bezgak uchun tavsiya etilgan tezkor bo'yash usulida qanday eritma va vaqt qo'llanadi?",
+   "c": "10 foizli eritma 8–10 daqiqa",
+   "w": [
+    "3 foizli eritma 45–60 daqiqa",
+    "10 foizli eritma 45–60 daqiqa",
+    "3 foizli eritma 8–10 daqiqa",
+    "10 foizli eritma 100 daqiqa"
+   ],
+   "x": "«tezkor usulda 10 foizli eritma 8–10 daqiqa, sekin usulda 3 foizli eritma 45–60 daqiqa»"
+  },
+  {
+   "q": "Mikroskopiyada topilma kim bilan tasdiqlanadi?",
+   "c": "Ikkinchi mutaxassis",
+   "w": [
+    "Namuna olingan bemor",
+    "Davolash-profilaktika xodimi",
+    "Sanitariya-epidemiologiya xizmati",
+    "Birgalikda tunagan shaxslar"
+   ],
+   "x": "«Topilma ikkinchi mutaxassis bilan tasdiqlanadi va preparat saqlanadi»"
+  },
+  {
+   "q": "Ijobiy natija zudlik bilan kimga xabar qilinadi?",
+   "c": "Shifokorga va sanitariya-epidemiologiya xizmatiga",
+   "w": [
+    "Shifokorga va endemik hudud aholisiga",
+    "Laborantga va ikkinchi mutaxassisga",
+    "Davolash-profilaktika muassasasi va xodimlariga",
+    "Bemorga va u bilan birga tunagan shaxslarga"
+   ],
+   "x": "«Ijobiy natija zudlik bilan shifokorga va sanitariya-epidemiologiya xizmatiga xabar qilinadi»"
+  },
+  {
+   "q": "Qon bilan ishlaganda o'tkir buyumlar qayerga tashlanadi?",
+   "c": "Maxsus idishga",
+   "w": [
+    "Toza buyum oynasiga",
+    "Zararsizlantirilgan materialga",
+    "Steril lanset idishiga",
+    "Ifloslangan materiallar idishiga"
+   ],
+   "x": "«o'tkir buyumlar maxsus idishga tashlanadi»"
+  },
+  {
+   "q": "121-son buyruqqa ko'ra qaysi bemorlar ushbu kasallikka tekshiriladi?",
+   "c": "Tana harorati ko'tarilgan va kana chaqqani ma'lum bemorlar",
+   "w": [
+    "Tana harorati ko'tarilmagan va kana chaqmagan bemorlar",
+    "Isitmasiz davrdagi endemik hudud aholisi",
+    "Shifoxonaga yuborilgan bemorlar",
+    "Endemik o'choqda yashamagan bemorlar"
+   ],
+   "x": "«Tana harorati ko'tarilgan va kana chaqqani ma'lum bo'lgan barcha bemorlar ham ushbu kasallikka tekshiriladi»"
+  },
+  {
+   "q": "Mikroo'choqda kanalar bo'lsa ham kasallik ro'yxatga olinmasligi sabablaridan biri nima?",
+   "c": "Laboratoriya tashxisi sifatining pastligi",
+   "w": [
+    "Kanalar topilgan mikroo'choq",
+    "Bemorlarning shifoxonaga yuborilishi",
+    "Namunalarning isitma davrida olinishi",
+    "Endemik o'choqlarning mavjud emasligi"
+   ],
+   "x": "«davolash-profilaktika muassasalarida spiroxetalarni aniqlash bo'yicha laboratoriya tashxisi sifatining pastligi»"
+  },
+  {
+   "q": "Ijobiy natijadan keyin laborant epidemiologga qanday ma'lumotni yetkazadi?",
+   "c": "Tunagan joyi, kasallik boshlangan sana va isitma holati",
+   "w": [
+    "Namuna olingan sana, vaqt, usul va tekshirgan laborant",
+    "Taxminiy miqdor, bo'yash usuli va natija",
+    "Bo'yash usuli va mikroskopiya natijasi",
+    "Bemor ma'lumotlari, usul va taxminiy miqdor"
+   ],
+   "x": "«bemorning tunagan joyi, kasallik boshlangan sana va isitma holati haqidagi ma'lumotlarni epidemiologga yetkazadi»"
+  }
+ ],
+ "074": [
+  {
+   "q": "Epidemiyaga qarshi tadbirlarning birinchi qadami nima?",
+   "c": "Holatni qayd etish",
+   "w": [
+    "Kanalarga ishlov berish",
+    "Aholini o'qitish",
+    "Xavfli joylarni yopish",
+    "Kemiruvchilarga qarshi kurash"
+   ],
+   "x": "«Birinchi qadam holatni qayd etishdir.»"
+  },
+  {
+   "q": "KQT o'choqli kasallik bo'lgani uchun tadbirlarda asosiy e'tibor nimaga qaratiladi?",
+   "c": "O'choqni topish va kanalar hamda kemiruvchilarga qarshi kurash",
+   "w": [
+    "Hujjatlashtirish, tadbirlar samarasini baholash va kuzatish",
+    "Ichak infeksiyalari va bezgakka qarshi kurash",
+    "Qon surtmasini bo'yash va saqlash",
+    "Aholini emlash va bemorlarni kuzatish"
+   ],
+   "x": "«asosiy e'tibor o'choqni topish va kanalar hamda kemiruvchilarga qarshi kurashga qaratiladi»"
+  },
+  {
+   "q": "Yumshoq kanalar uchun qaysi vosita bilan ishlov beriladi?",
+   "c": "Akaritsid vositasi",
+   "w": [
+    "Deratizatsiya vositasi",
+    "Dezinfektor vositasi",
+    "Kemiruvchilar vositasi",
+    "Entomolog vositasi"
+   ],
+   "x": "«akaritsid, ya'ni kanalarga qarshi, vosita bilan ishlov beriladi»"
+  },
+  {
+   "q": "Kanalarga qarshi ishlov nima uchun takrorlanadi?",
+   "c": "Yumshoq kanalar qon so'rmasdan yillar saqlanishi mumkin",
+   "w": [
+    "Kemiruvchilar sonining kamayishi kanalarni oshiradi",
+    "Akaritsid vosita qisqa muddat saqlanadi",
+    "Kanalar yoriqlardan tashqarida yashaydi",
+    "Ishlov natijasi tekshirilmaydi"
+   ],
+   "x": "«Yumshoq kanalar uzoq yashagani va qon so'rmasdan yillar saqlanishi mumkinligi sababli ishlov takrorlanadi»"
+  },
+  {
+   "q": "Deratizatsiya nima uchun kanalarga qarshi ishlov bilan birga o'tkaziladi?",
+   "c": "Kanalar odamni chaqishga o'tishi mumkin",
+   "w": [
+    "Kemiruvchilar kamaygach, kanalar ham yo'qoladi",
+    "Kanalar kemiruvchilar bilan birga ko'payadi",
+    "Kemiruvchilar kanalarni o'z inlarida saqlaydi",
+    "Kanalar faqat odamni chaqadi"
+   ],
+   "x": "«aks holda kemiruvchilar kamaygach, kanalar odamni chaqishga o'tishi mumkin»"
+  },
+  {
+   "q": "Xavfli joylar tozalanguncha nima qilinadi?",
+   "c": "Vaqtincha yopiladi",
+   "w": [
+    "Turistlar uchun qayta ochiladi",
+    "Aholiga tunash uchun beriladi",
+    "Kemiruvchilar uchun ochiq qoldiriladi",
+    "Faqat akaritsid bilan ishlanadi"
+   ],
+   "x": "«Xavfli joylar, ya'ni g'orlar, eski binolar va qo'ralar, tozalanguncha vaqtincha yopiladi yoki foydalanishdan chiqariladi.»"
+  },
+  {
+   "q": "Aholiga xavfli joyda bo'lgandan keyin isitma paydo bo'lsa, nima qilish tushuntiriladi?",
+   "c": "Tunagan joyni aytib murojaat qilish",
+   "w": [
+    "Kanalarni o'zi yo'q qilish",
+    "Xavfli joyda tunashni davom ettirish",
+    "Kemiruvchilarga ishlov berish",
+    "Kanalar topilsa ishlov berish"
+   ],
+   "x": "«xavfli joyda bo'lgandan keyin isitma paydo bo'lsa, tunagan joyni aytib murojaat qilish tushuntiriladi»"
+  },
+  {
+   "q": "Tadbirlar samarasi nimalar bilan baholanadi?",
+   "c": "Yangi holat bo'lmasligi, kanalar sonining kamayishi va aholi xabardorligi",
+   "w": [
+    "Yangi bemorlar topilishi, kanalar sonining ko'payishi va ishlov sifatining pastligi",
+    "Bemorlar sonining ortishi, kemiruvchilar kirishi va aholining xabardorligi",
+    "Hujjat shakllari soni, kanalar topilishi va ishlov muddatining uzayishi",
+    "Dorilash miqdori, brigadalar soni va hokimlik qarorlarining ko'pligi"
+   ],
+   "x": "«Tadbirlar samarasi hududda yangi holatlar paydo bo'lmasligi, kanalar sonining kamayishi va aholining xabardorligi bilan baholanadi.»"
+  },
+  {
+   "q": "Tadbirlardan keyin kuzatuv davomida o'choq qachon ishlov berilgan va xavfsiz deb baholanadi?",
+   "c": "Yangi holat bo'lmasa",
+   "w": [
+    "Yangi holat paydo bo'lsa",
+    "Kanalar topilgan zahoti",
+    "Ijobiy natija bo'lganda",
+    "Kemiruvchilar topilsa"
+   ],
+   "x": "«Tadbirlar tugagach, belgilangan kuzatuv davomida yangi holat bo'lmasa, o'choq ishlov berilgan va xavfsiz deb baholanadi.»"
+  },
+  {
+   "q": "Dorilash sifatini tekshirish uchun ishlovdan necha kun o'tib xona polining turli joylari tekshiriladi?",
+   "c": "2–3 kun",
+   "w": [
+    "2–3 yil",
+    "3–5 kun",
+    "1–3 kun",
+    "5 kun"
+   ],
+   "x": "«Dorilash sifatini tekshirish uchun ishlovdan 2–3 kun o'tib xona polining turli joylari tekshiriladi»"
+  },
+  {
+   "q": "121-son buyruqqa ko'ra barcha tadbirlar kimning rahbarligida bajariladi?",
+   "c": "Parazitolog va entomolog rahbarligida",
+   "w": [
+    "Epidemiolog va dezinfektor rahbarligida",
+    "Shifokor va laborant rahbarligida",
+    "Hokim va dezinfektor rahbarligida",
+    "Entomolog yordamchisi rahbarligida"
+   ],
+   "x": "«barcha tadbirlar parazitolog va entomolog rahbarligida bajariladi»"
+  }
+ ],
+ "075": [
+  {
+   "q": "Emlash bo'lmagani uchun profilaktika asosan nimaga tayanadi?",
+   "c": "Atrof-muhit va shaxsiy choralarga",
+   "w": [
+    "Emlash va antibiotik choralariga",
+    "Aholini o'qitish choralariga",
+    "Erta tashxis va davolash choralariga",
+    "Kasbiy xavfni baholash choralariga"
+   ],
+   "x": "«shuning uchun profilaktika asosan atrof-muhit va shaxsiy choralarga tayanadi»"
+  },
+  {
+   "q": "Profilaktika yo'nalishlaridan qaysi biri rezervuarni kamaytirishga qaratilgan?",
+   "c": "Kemiruvchilarga qarshi kurash",
+   "w": [
+    "Kanalarga qarshi kurash",
+    "Odamni chaqishdan himoya qilish",
+    "Erta tashxis va davolash",
+    "Aholini o'qitish"
+   ],
+   "x": "«Birinchisi kemiruvchilarga qarshi kurash, ya'ni rezervuarni kamaytirish.»"
+  },
+  {
+   "q": "Eng muhim uzoq muddatli chora qaysi?",
+   "c": "Kemiruvchilarga yo'l bermaydigan uy-joy",
+   "w": [
+    "Kanalarga qarshi akaritsid ishlov",
+    "Kemiruvchilar uchun mexanik tuzoqlar",
+    "Himoya qiluvchi kiyim",
+    "Aholini o'qitish"
+   ],
+   "x": "«Eng muhim uzoq muddatli chora kemiruvchilarga yo'l bermaydigan uy-joydir.»"
+  },
+  {
+   "q": "Deratizatsiya nima uchun mutaxassislar tomonidan o'tkaziladi?",
+   "c": "Kimyoviy vositalar odam va uy hayvonlari uchun xavfli",
+   "w": [
+    "Kanalar kimyoviy vositalarga chidamli bo'ladi",
+    "Kemiruvchilar uy hayvonlari bilan birga yashaydi",
+    "Mexanik tuzoqlar odam uchun xavfli bo'ladi",
+    "Biologik usullar kimyoviy vositalardan xavfli bo'ladi"
+   ],
+   "x": "«Bu ishni mutaxassislar o'tkazadi, chunki kimyoviy vositalar odam va uy hayvonlari uchun xavfli bo'lishi mumkin.»"
+  },
+  {
+   "q": "Tunash zarur bo'lsa, to'shak qanday qo'yilishi tavsiya etiladi?",
+   "c": "Yerdan baland",
+   "w": [
+    "Tosh yoriqlariga",
+    "Eski poydevorga",
+    "G'or ichiga",
+    "Ombor yoki qo'ra yoniga"
+   ],
+   "x": "«to'shakni yerdan baland qo'yish»"
+  },
+  {
+   "q": "Xavfli joylar qaysilar?",
+   "c": "Eski kemiruvchilar yashaydigan binolar, g'orlar va qo'ralar",
+   "w": [
+    "Toza va ishlov berilgan binolar, hovlilar va omborlar",
+    "Kemiruvchilardan himoyalangan kulbalar, chodirlar va uylar",
+    "Tozalangan g'orlar, qo'ralar va turistik kabinalar",
+    "Yangi uylar, beton asosli xonalar va ishlov berilgan hovlilar"
+   ],
+   "x": "«Xavfli joylar eski kemiruvchilar yashaydigan binolar, g'orlar va qo'ralardir.»"
+  },
+  {
+   "q": "Qaytalama terlama qanday dorilarga sezgir?",
+   "c": "Antibiotiklarga sezgir",
+   "w": [
+    "Antibiotiklarga chidamli",
+    "Akaritsid vositalarga sezgir",
+    "Emlash vositalariga sezgir",
+    "Deratizatsiya vositalariga sezgir"
+   ],
+   "x": "«qaytalama terlama antibiotiklarga sezgir»"
+  },
+  {
+   "q": "Kasbiy xavf ostidagilar uchun vaqtinchalik turar joylar qanday bo'lishi kerak?",
+   "c": "Kemiruvchilardan himoyalangan",
+   "w": [
+    "Kesak devorli eski",
+    "Ombor va qo'raga qo'shni",
+    "Tosh yoriqlari orasidagi",
+    "Eski kemiruvchilar yashaydigan"
+   ],
+   "x": "«kulbalar, vagon-uylar va chodirlar, kemiruvchilardan himoyalangan bo'lishi kerak»"
+  },
+  {
+   "q": "Kana chaqishi og'riqsiz bo'lgani uchun himoya choralari qachon ko'riladi?",
+   "c": "Oldindan, chaqishdan keyin emas",
+   "w": [
+    "Chaqish sezilgandan keyin",
+    "Isitma paydo bo'lgandan keyin",
+    "Chaqishdan keyin",
+    "Tashxis qo'yilgandan keyin"
+   ],
+   "x": "«Kana chaqishi og'riqsiz bo'lgani uchun himoya choralari oldindan ko'riladi, chaqishdan keyin emas.»"
+  },
+  {
+   "q": "121-son buyruqqa ko'ra bu kasallikda yagona kurash va profilaktika chorasi nima?",
+   "c": "O. papillipes kanalariga qarshi kurash",
+   "w": [
+    "Kemiruvchilarga qarshi kurash hamda deratizatsiya",
+    "Aholini emlash",
+    "Odamni chaqishdan himoya qilish",
+    "Erta tashxis va davolash"
+   ],
+   "x": "«bu kasallikda yagona kurash va profilaktika chorasi asosiy manba va tashuvchi bo'lgan O. papillipes kanalariga qarshi kurashdir»"
+  },
+  {
+   "q": "Sanitariya obodonlashtirish doirasida xonalar qanday asosga o'tkaziladi?",
+   "c": "Beton asosga",
+   "w": [
+    "Kesak devorga",
+    "Eski kesak asosga",
+    "Keraksiz qurilishga",
+    "Hovlining bo'sh joyiga"
+   ],
+   "x": "«xonalar beton asosga o'tkaziladi»"
+  }
+ ]
+}

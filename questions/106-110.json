@@ -1,0 +1,617 @@
+{
+  "106": [
+    {
+      "q": "Exinokokkozga qarshi kurashda eng samarali chora qaysi?",
+      "c": "Itlarni davriy davolash",
+      "w": [
+        "Qo'ylarni emlash dasturi",
+        "So'yish joylarida sanitariya",
+        "Ultratovush skrining o'tkazish",
+        "Odamlarni erta aniqlash"
+      ],
+      "x": "«Eng samarali chora itlarni davriy davolashdir»"
+    },
+    {
+      "q": "Praziquantel kabi dorilar itning ichagida nima qiladi?",
+      "c": "Chuvalchanglarni yo'qotadi",
+      "w": [
+        "Kistali a'zolarni kuydiradi",
+        "Tuxumni najas bilan chiqaradi",
+        "Kistalarni jigarda hosil qiladi",
+        "Chorvada kista rivojlantiradi"
+      ],
+      "x": "«praziquantel kabi dorilar itning ichagidagi chuvalchanglarni yo'qotadi va tuxum chiqarishni to'xtatadi»"
+    },
+    {
+      "q": "Degelmintizatsiyadan keyin itning najasi bilan nima qilish tavsiya etiladi?",
+      "c": "Dori berilgan kunlarda najasni yo'qotish",
+      "w": [
+        "Dori berilgan kunlarda itni ro'yxatdan chiqarish",
+        "Itlarni davolashni muntazam to'xtatish",
+        "Dori berilgan kunlarda itlarni emlash",
+        "Dori berilgan kunlarda kistali a'zolarni yo'qotish"
+      ],
+      "x": "«dori berilgan kunlarda najasni yo'qotish tavsiya etiladi»"
+    },
+    {
+      "q": "So'yish nazoratida qaysi talab qo'yiladi?",
+      "c": "Itlarga xom ichki a'zolar berilmasligi",
+      "w": [
+        "Kistali a'zolarni itlarga berish",
+        "So'yishni nazoratsiz joylarda o'tkazish",
+        "Uy sharoitida so'yishni nazoratdan chiqarish",
+        "Ichki a'zolarni xom holda saqlash"
+      ],
+      "x": "«so'yish faqat nazorat ostidagi joylarda o'tkazilishi, kistali a'zolar yo'q qilinishi va itlarga xom ichki a'zolar berilmasligi kerak»"
+    },
+    {
+      "q": "Kistali a'zolar bilan nima qilinadi?",
+      "c": "Kuydiriladi yoki ko'miladi",
+      "w": [
+        "Itlarga xom holda beriladi",
+        "Chorva hayvonlariga beriladi",
+        "Uy sharoitida saqlanadi",
+        "Ichki a'zolar bilan birga saqlanadi"
+      ],
+      "x": "«Kistali a'zolar kuydiriladi yoki ko'miladi»"
+    },
+    {
+      "q": "JSSTga ko'ra emlash chorva hayvonlarida nimani kamaytirishi mumkin?",
+      "c": "Kista hosil bo'lishini",
+      "w": [
+        "Tuxum chiqarishni",
+        "Itning najasini",
+        "Veterinariya xarajatlarini",
+        "Skrining qamrovini"
+      ],
+      "x": "«emlash chorva hayvonlarida kista hosil bo'lishini kamaytirishi mumkin»"
+    },
+    {
+      "q": "Emlash itlarni degelmintizatsiya qilishga nisbatan qanday chora hisoblanadi?",
+      "c": "Qo'shimcha chora",
+      "w": [
+        "Asosiy chora",
+        "Zanjirning yagona bo'g'ini",
+        "Davolash o'rniga qo'llanadigan chora",
+        "Yagona samarali chora"
+      ],
+      "x": "«emlash itlarni degelmintizatsiya qilishga qo'shimcha chora hisoblanadi, uning o'rnini bosmaydi»"
+    },
+    {
+      "q": "Odamlar orasida erta aniqlash qaysi usul orqali amalga oshiriladi?",
+      "c": "Ultratovush skrining",
+      "w": [
+        "Najas koproantigen tekshiruvi",
+        "So'yishdagi ekspertiza",
+        "Itlar najasi tekshiruvi",
+        "Itlarni davriy davolash"
+      ],
+      "x": "«Odamlar orasida erta aniqlash ultratovush skrining orqali amalga oshiriladi»"
+    },
+    {
+      "q": "Chorvadorlar va cho'ponlar uchun nega alohida o'qitish o'tkaziladi?",
+      "c": "Ular zanjirning asosiy qatnashchilari",
+      "w": [
+        "Ular dori dozalarini belgilaydi",
+        "Ular itlar bilan aloqada bo'lmaydi",
+        "Ular kistali a'zolarni itlarga beradi",
+        "Ular zanjirning asosiy bo'g'ini emas"
+      ],
+      "x": "«Chorvadorlar va cho'ponlar uchun alohida o'qitish o'tkaziladi, chunki ular zanjirning asosiy qatnashchilari»"
+    },
+    {
+      "q": "Dastur samarasini baholashda qaysi ko'rsatkich hisobga olinadi?",
+      "c": "Itlarda zararlanish ulushi",
+      "w": [
+        "Laboratoriya reaktivlari soni",
+        "Ultratovush uskunalari soni",
+        "Transport vositalari soni",
+        "Mahalliy hokimiyat hamkorligi"
+      ],
+      "x": "«Dastur samarasi muntazam baholanadi: itlarda zararlanish ulushi, chorvada kista ulushi, odamlarda yangi holatlar soni, davolangan itlar qamrovi»"
+    },
+    {
+      "q": "Exinokokkoz bo'yicha epidemiologik nazorat qanday chora-tadbirlardan iborat?",
+      "c": "Tibbiy-veterinariya kompleks chora-tadbirlaridan",
+      "w": [
+        "Faqat bemorlarni davolash chora-tadbirlaridan",
+        "Itlarni degelmintizatsiya qilish chora-tadbirlaridan",
+        "So'yish joylarini nazorat qilish chora-tadbirlaridan",
+        "Ma'rifat va ta'lim chora-tadbirlaridan"
+      ],
+      "x": "«exinokokkoz bo'yicha epidemiologik nazorat tibbiy-veterinariya kompleks chora-tadbirlaridan iborat»"
+    }
+  ],
+  "107": [
+    {
+      "q": "Epidemiologik tekshirishning ikkinchi maqsadi qaysi?",
+      "c": "Zararlanish manbai va yo'lini aniqlash",
+      "w": [
+        "Tashxis va shaklni tasdiqlash",
+        "Xavf ostidagi boshqa odamlarni topish",
+        "Qayta zararlanishning oldini olish",
+        "Itlarni degelmintizatsiya holatini aniqlash"
+      ],
+      "x": "«Ikkinchisi zararlanish manbai va yo'lini aniqlash»"
+    },
+    {
+      "q": "Exinokokkozda zararlanish manbai qayerda qidiriladi?",
+      "c": "Hayvonlar va tashqi muhitda",
+      "w": [
+        "Bemorning oila a'zolarida",
+        "Boshqa kasal odamlarda",
+        "Kasalxona bemorlarida",
+        "Laborant natijalarida"
+      ],
+      "x": "«Kasallik odamdan odamga yuqmaydi, shuning uchun manba doimo hayvonlar va tashqi muhitda qidiriladi»"
+    },
+    {
+      "q": "Holat hisobga olinganda qaysi ma'lumotlar yoziladi?",
+      "c": "Bemor ma'lumotlari, tashxis, kista joylashuvi",
+      "w": [
+        "Itlar soni, najasda tuxum, antigen topilishi",
+        "Sug'orish suvi, sabzavot ifloslanishi, yaylov",
+        "Kasbi, itlar bilan aloqasi, chorva boqishi",
+        "Oila skrining natijalari, it va chorva tekshiruvi"
+      ],
+      "x": "«bemor ma'lumotlari, tashxis, kista joylashuvi, tasdiqlash usuli»"
+    },
+    {
+      "q": "Epidemiologik anamnezda nega bolalik joylari ham so'raladi?",
+      "c": "Exinokokkoz yillar o'tib bilinadi",
+      "w": [
+        "Bolalar tuxumni boshqalardan ko'p yutadi",
+        "Bolalik joylarida itlar ko'proq bo'ladi",
+        "Bolalikda tashxis tezroq qo'yiladi",
+        "Bolalar chorva boqishi haqida so'ralmaydi"
+      ],
+      "x": "«Bolalik joylari ham muhim, chunki exinokokkoz yillar o'tib, ba'zan o'nlab yillardan keyin bilinadi»"
+    },
+    {
+      "q": "Veterinariya xizmati bilan hamkorlikda itlarda nimalar baholanadi?",
+      "c": "Degelmintizatsiya holati va najasda tuxum",
+      "w": [
+        "Kista joylashuvi va tasdiqlash usuli",
+        "Sug'orish suvi va sabzavot ifloslanishi",
+        "So'yish ekspertizasi va jigarda kista",
+        "Bemorning kasbi va yashash joyi"
+      ],
+      "x": "«itlar soni, degelmintizatsiya holati, najasda tuxum yoki antigenning topilishi baholanadi»"
+    },
+    {
+      "q": "Chorva mollarida zararlanish qaysi ma'lumotlar bo'yicha baholanadi?",
+      "c": "So'yish ekspertizasi ma'lumotlari",
+      "w": [
+        "Najasda antigen topilishi ma'lumotlari",
+        "Serologik tekshiruv ma'lumotlari",
+        "Ultratovush skrining ma'lumotlari",
+        "Epidemiologik anamnez ma'lumotlari"
+      ],
+      "x": "«Chorva mollari orasida zararlanish so'yish ekspertizasi ma'lumotlari bo'yicha baholanadi»"
+    },
+    {
+      "q": "Zararlangan ichki a'zolarni itga berish nimaga olib keladi?",
+      "c": "Zanjirni yopadi",
+      "w": [
+        "Odam va chorva zararlanmaydi",
+        "Tuxum tarqatilmaydi",
+        "Itning najasi zararlanmaydi",
+        "Tashqi muhit ifloslanmaydi"
+      ],
+      "x": "«Zararlangan ichki a'zolarni itga berish zanjirni yopadi»"
+    },
+    {
+      "q": "Tashqi muhitda qaysi ob'ektlar baholanadi?",
+      "c": "Hovli, yaylov, suv va sabzavot holati",
+      "w": [
+        "Bemorning kasbi va yashash joyi",
+        "Itlar soni va degelmintizatsiya holati",
+        "Kista joylashuvi va davolash tashkiloti",
+        "Oila skrining natijalari va bayonnoma"
+      ],
+      "x": "«Tashqi muhit, ya'ni hovli, yaylov, sug'orish suvi va sabzavot ifloslanishi baholanadi»"
+    },
+    {
+      "q": "Epidemiologik tekshiruvdagi eng ko'p uchraydigan xato qaysi?",
+      "c": "Faqat hozirgi yashash joyini yozib qo'yish",
+      "w": [
+        "Oila skrining natijalarini bazaga kiritish",
+        "Itlarni veterinar nazoratida degelmintizatsiya qilish",
+        "Bemorning kasbi va chorva boqishini so'rash",
+        "Bolalik joylarini ham so'rash"
+      ],
+      "x": "«Eng ko'p uchraydigan xato bemorning faqat hozirgi yashash joyini yozib qo'yish, bolalik va avvalgi yashash joylarini so'ramaslikdir»"
+    },
+    {
+      "q": "Jarrohlar, terapevtlar va boshqa shifokorlar exinokokkozni aniqlasa, qaysi hujjat tuziladi?",
+      "c": "Shoshilinch xabarnoma (f. № 058/u)",
+      "w": [
+        "Epidemiologik karta (f. № 357/u)",
+        "Nazorat kartasi (f. № 030/u)",
+        "Hisob jurnali (f. № 060/u)",
+        "Tekshiruv bayonnomasi (f. № 060/u)"
+      ],
+      "x": "«jarrohlar, terapevtlar, rentgenologlar va nevropatologlar exinokokkozni aniqlasa, shoshilinch xabarnoma (f. № 058/u) tuziladi va DSENMga yuboriladi»"
+    },
+    {
+      "q": "Bemorlar sonini aniqlash uchun parazitologlar nimalarni retrospektiv tahlil qiladi?",
+      "c": "Ambulatoriya kartalari va kasallik tarixlari",
+      "w": [
+        "Itlar najasi va antigen tahlillari natijalari",
+        "Chorva so'yish ekspertizasi natijalari jurnali",
+        "Sug'orish suvi va sabzavot namunalari",
+        "Veterinariya xodimlari hujjatlari va jurnali"
+      ],
+      "x": "«Bemorlar sonini aniqlash uchun parazitologlar ambulatoriya kartalari, kasallik tarixlari, operatsiyalar jurnali, biopsiya va autopsiya natijalarini»"
+    }
+  ],
+  "108": [
+    {
+      "q": "Exinokokkozning oldini olishda eng samarali chora qaysi?",
+      "c": "It va chorva o'rtasidagi aloqani uzish",
+      "w": [
+        "Bemor odamlarni muntazam davolash",
+        "Aholini ultratovush skriningidan o'tkazish",
+        "Laboratoriya natijalarini statistikaga berish",
+        "Qo'lqop va xalat kiyish qoidalari"
+      ],
+      "x": "«eng samarali chora it va chorva o'rtasidagi aloqani uzishdir»"
+    },
+    {
+      "q": "Odamni davolash nega zanjirni to'xtatmaydi?",
+      "c": "Odam keyingi xo'jayinga manba bo'lmaydi",
+      "w": [
+        "Odam tuxumni najas bilan chiqaradi",
+        "Odam itga kistasini yedirishi mumkin",
+        "Odam sabzavotni ifloslantiradi",
+        "Odam chorvaga tuxum tarqatadi"
+      ],
+      "x": "«Odamni davolash zanjirni to'xtatmaydi, chunki odam keyingi xo'jayinga manba bo'lmaydi»"
+    },
+    {
+      "q": "Shaxsiy gigiyenada asosiy chora qaysi?",
+      "c": "Qo'lni sovun bilan yuvish",
+      "w": [
+        "Itni o'pish yoki ovqat tilini tegizish",
+        "Hovlida ishlagandan keyin qo'l yuvmaslik",
+        "Ovqatdan oldin qo'lni yuvmaslik",
+        "Itlar bilan o'ynagandan keyin qo'lni yuvmaslik"
+      ],
+      "x": "«qo'lni sovun bilan yuvish asosiy shaxsiy chora hisoblanadi»"
+    },
+    {
+      "q": "JSST nazorat elementlari orasida nimani birinchi o'ringa qo'yadi?",
+      "c": "Itlarni davriy degelmintizatsiya qilish",
+      "w": [
+        "Chorva hayvonlarini himoya qilish, emlash",
+        "Aholini ma'rifatlash va ta'lim",
+        "So'yish joylarida ekspertiza o'tkazish",
+        "Xavfli hududlarda ultratovush skrining"
+      ],
+      "x": "«JSST kistoz exinokokkozni nazorat qilish elementlari orasida itlarni davriy degelmintizatsiya qilishni birinchi o'ringa qo'yadi»"
+    },
+    {
+      "q": "Degelmintizatsiyadan keyin itning najasi nima uchun xavfsiz yo'q qilinishi lozim?",
+      "c": "Chiqqan tuxumlar infeksion bo'lishi mumkin",
+      "w": [
+        "Najasda kistali a'zolar bo'lishi mumkin",
+        "Najas ichimlik suvini ifloslantirmaydi",
+        "Itlar najasi bolalarni zararlamaydi",
+        "Tuxumlar infeksion bo'lmaydi"
+      ],
+      "x": "«chunki chiqqan tuxumlar infeksion bo'lishi mumkin»"
+    },
+    {
+      "q": "Kistali jigar va o'pka bilan nima qilinadi?",
+      "c": "Kuydirib yoki chuqur ko'mib yo'q qilinadi",
+      "w": [
+        "Itlarga xom holda beriladi",
+        "Veterinariya ekspertizasidan o'tkaziladi",
+        "Uy sharoitida so'yilib saqlanadi",
+        "Chorvaga ozuqa sifatida beriladi"
+      ],
+      "x": "«ular kuydirib yoki chuqur ko'mib, xavfsiz yo'q qilinadi»"
+    },
+    {
+      "q": "Xom sabzavot, ko'kat va mevalar qanday tayyorlanadi?",
+      "c": "Toza suvda yaxshilab yuviladi",
+      "w": [
+        "Itlar najasida saqlanadi",
+        "Yovvoyi o'tlar bilan aralashtiriladi",
+        "Himoyalangan manbalardan olinadi",
+        "Tuproq bilan birga yeyiladi"
+      ],
+      "x": "«xom sabzavot, ko'kat va mevalar toza suvda yaxshilab yuviladi»"
+    },
+    {
+      "q": "Qaysi guruh yuqori xavf guruhiga kiradi?",
+      "c": "Cho'ponlar, chorvadorlar va so'yuvchilar",
+      "w": [
+        "Maktab o'qituvchilari va mahalla faollari",
+        "Ota-onalar va maktab o'quvchilari",
+        "Laborantlar va tibbiyot xodimlari",
+        "Mahalla faollari va ota-onalar"
+      ],
+      "x": "«Cho'ponlar, chorvadorlar, so'yuvchilar, veterinar xodimlar va it saqlovchilar yuqori xavf guruhiga kiradi.»"
+    },
+    {
+      "q": "Xavfli hududlarda ultratovush skrining qanday profilaktika hisoblanadi?",
+      "c": "Ikkilamchi profilaktika",
+      "w": [
+        "Asosiy profilaktika",
+        "Shaxsiy profilaktika",
+        "Veterinariya profilaktikasi",
+        "Ommaviy profilaktika"
+      ],
+      "x": "«Bu ikkilamchi profilaktika bo'lib, asoratlarni kamaytiradi»"
+    },
+    {
+      "q": "Nega bolalar zararlanish xavfi yuqori guruhdir?",
+      "c": "Itlar bilan yaqin muloqot qiladi",
+      "w": [
+        "Chorva so'yishda ishtirok etadi",
+        "Itlarni degelmintizatsiya qiladi",
+        "Yovvoyi o'tlarni yig'ishda ehtiyot bo'ladi",
+        "Ish joyida ichki a'zolar bilan ishlaydi"
+      ],
+      "x": "«Bolalar itlar bilan yaqin muloqot qiladi, tuproqda o'ynaydi va qo'lini yuvmasdan ovqatlanishi mumkin»"
+    },
+    {
+      "q": "Qushxonalarda veterinariya ekspertizasi sifati kim bilan birga monitoring qilinadi?",
+      "c": "Veterinariya mutaxassislari",
+      "w": [
+        "Mahalla faollari va ota-onalar",
+        "Maktab o'qituvchilari va faollar",
+        "Tibbiyot xodimlari va laborantlar",
+        "Laborantlar va mahalla faollari"
+      ],
+      "x": "«Veterinariya mutaxassislari bilan birga qushxonalarda veterinariya ekspertizasi sifati monitoring qilinadi»"
+    }
+  ],
+  "109": [
+    {
+      "q": "Difillobotriaz infeksiya manbai qaysi mahsulot?",
+      "c": "Xom yoki yaxshi pishmagan baliq",
+      "w": [
+        "Yaxshi pishirilgan baliq go'shti",
+        "Zararlangan it va mushuk najasi",
+        "Quruq joydagi tuxumlar",
+        "Ifloslangan suv havzasi"
+      ],
+      "x": "«Infeksiya manbai xom yoki yaxshi pishmagan baliqdir»"
+    },
+    {
+      "q": "Birinchi oraliq xo'jayin kim?",
+      "c": "Mayda qisqichbaqasimonlar",
+      "w": [
+        "Xom chuchuk suv baliqlari",
+        "Yirtqich chuchuk suv baliqlari",
+        "It, mushuk va tulki",
+        "Odam, ayiq va tulki"
+      ],
+      "x": "«birinchi oraliq xo'jayin, ya'ni mayda qisqichbaqasimon (Cyclops yoki Diaptomus) tomonidan yutiladi»"
+    },
+    {
+      "q": "Zararlangan baliqda qaysi lichinka shakli hosil bo'ladi?",
+      "c": "Pleroserkoid shakli",
+      "w": [
+        "Protserkoid shakli",
+        "Operkulum shakli",
+        "Proglottid shakli",
+        "Botriya shakli"
+      ],
+      "x": "«uni yegan baliqda esa pleroserkoid shakli hosil bo'ladi»"
+    },
+    {
+      "q": "Qisqichbaqasimonda qaysi lichinka rivojlanadi?",
+      "c": "Protserkoid lichinka rivojlanadi",
+      "w": [
+        "Pleroserkoid lichinka rivojlanadi",
+        "Voyaga yetgan chuvalchang rivojlanadi",
+        "Qopqoqli tuxum rivojlanadi",
+        "Kipriklari bor lichinka rivojlanadi"
+      ],
+      "x": "«Qisqichbaqasimonda protserkoid lichinka rivojlanadi»"
+    },
+    {
+      "q": "Tuxumning qopqoqqa qarama-qarshi uchida nima bo'ladi?",
+      "c": "Kichik do'mboqcha",
+      "w": [
+        "Ikki yoriq",
+        "Kichik so'rg'ich",
+        "Kiprikli lichinka",
+        "Ko'p sonli bo'g'im"
+      ],
+      "x": "«Qopqoqning qarama-qarshi uchida kichik do'mboqcha bo'ladi»"
+    },
+    {
+      "q": "Chuvalchang boshchasida so'rg'ichlar o'rniga nima bo'ladi?",
+      "c": "Ikki uzunasiga ketgan yoriq",
+      "w": [
+        "Ikki qopqoqchali do'mboqcha",
+        "Ko'p sonli proglottidlar",
+        "Kipriklari bor so'rg'ich",
+        "Qarama-qarshi uchli do'mboqcha"
+      ],
+      "x": "«Boshchada so'rg'ichlar o'rniga ikki uzunasiga ketgan yoriq, ya'ni botriya, bo'lib»"
+    },
+    {
+      "q": "Odamdan tashqari qaysi hayvonlar ichagida ham yashashi mumkin?",
+      "c": "It, mushuk, tulki va ayiq",
+      "w": [
+        "Mayda qisqichbaqasimonlar va baliqlar",
+        "Fassiola, opistorx va klonorx",
+        "Yirtqich baliqlar va qisqichbaqasimonlar",
+        "Cyclops, Diaptomus va baliq"
+      ],
+      "x": "«odamdan tashqari it, mushuk, tulki, ayiq va baliq yeydigan boshqa sut emizuvchilar ichagida ham yashashi mumkin»"
+    },
+    {
+      "q": "Laborant najas preparatida nimani topsa, difillobotriazni gumon qiladi?",
+      "c": "Qopqoqli, silliq qobiqli oval tuxum",
+      "w": [
+        "Kipriklari bor protserkoid lichinka",
+        "Ikki yoriqli pleroserkoid lichinka",
+        "Mayda qisqichbaqasimon tuxumi",
+        "Boshchasiz ko'p sonli proglottid"
+      ],
+      "x": "«Laborant najas preparatida qopqoqli, silliq qobiqli oval tuxumni topsa, difillobotriazni gumon qiladi»"
+    },
+    {
+      "q": "Parazit odam va go'shtxo'r hayvonlarning qaysi a'zosida yashaydi?",
+      "c": "Ingichka ichagida",
+      "w": [
+        "Qisqichbaqasimon organizmida",
+        "Baliq go'shtida",
+        "Suv havzasida",
+        "Najas preparatida"
+      ],
+      "x": "«parazit odam va go'shtxo'r hayvonlarning ingichka ichagida yashaydi»"
+    },
+    {
+      "q": "Difillobotriaz tuxumlari suvda va quruq joyda qanday o'zgaradi?",
+      "c": "Suvda rivojlanadi, quruq joyda nobud bo'ladi",
+      "w": [
+        "Suvda nobud bo'ladi, quruq joyda rivojlanadi",
+        "Suvda ham, quruq joyda ham rivojlanadi",
+        "Suvda saqlanadi, quruq joyda rivojlanadi",
+        "Suvda rivojlanadi, quruq joyda saqlanadi"
+      ],
+      "x": "«Tuxumlar suvda rivojlanadi, quruq joyda esa tez nobud bo'ladi»"
+    },
+    {
+      "q": "Hayvonlar difillobotriaz uchun nima bo'lishi mumkin?",
+      "c": "Qo'shimcha rezervuar",
+      "w": [
+        "Birinchi oraliq xo'jayin",
+        "Qisqichbaqasimon oraliq xo'jayin",
+        "Asosiy definitiv xo'jayin",
+        "Baliq oraliq xo'jayin"
+      ],
+      "x": "«Hayvonlar bu kasallik uchun qo'shimcha rezervuar bo'lishi mumkin»"
+    }
+  ],
+  "110": [
+    {
+      "q": "Difillobotriaz tashxisida eng ishonchli usul qaysi?",
+      "c": "Najasda qopqoqli tuxumlarni topish",
+      "w": [
+        "Qon tahlilida eozinofiliyani aniqlash",
+        "Ichak yo'llarini tasvirlash",
+        "DNK ketma-ketligini aniqlash",
+        "Najas surtmasini baholash"
+      ],
+      "x": "«Eng ishonchli usul najasda qopqoqli tuxumlarni yoki chuvalchang bo'laklarini topishdir»"
+    },
+    {
+      "q": "Najas namunasi qanday idishga olinadi?",
+      "c": "Toza, quruq idishga",
+      "w": [
+        "Suv aralashgan idishga",
+        "Siydik aralashgan idishga",
+        "Yopiq idishga",
+        "Fiksator bilan idishga"
+      ],
+      "x": "«Najas toza, quruq idishga olinadi»"
+    },
+    {
+      "q": "Qanday najas tekshirishga yaroqsiz?",
+      "c": "Siydik yoki suv aralashgan najas",
+      "w": [
+        "Toza idishga olingan najas",
+        "Fiksator bilan saqlangan najas",
+        "Ismi yozilgan idishdagi najas",
+        "Sanasi yozilgan namuna"
+      ],
+      "x": "«Siydik yoki suv aralashgan najas tekshirishga yaroqsiz»"
+    },
+    {
+      "q": "Tuxum kam bo'lsa, qaysi usullar qo'llanadi?",
+      "c": "Cho'ktirish yoki flotatsiya usullari",
+      "w": [
+        "Molekulyar DNK ketma-ketligi usullari",
+        "Qon tahlili va eozinofiliya usullari",
+        "Ichak yo'llari tasvirlash usullari",
+        "Najas surtmasini baholash usullari"
+      ],
+      "x": "«Tuxum kam bo'lsa, cho'ktirish yoki flotatsiya usullari qo'llanadi»"
+    },
+    {
+      "q": "Difillobotriaz bo'laklari Taenia bo'laklaridan qanday farq qiladi?",
+      "c": "Keng va qisqa",
+      "w": [
+        "Uzun va tor",
+        "Keng va uzun",
+        "Tor va qisqa",
+        "Uzun va keng"
+      ],
+      "x": "«Taenia bo'laklari uzun va tor, difillobotriaz bo'laklari esa keng va qisqa.»"
+    },
+    {
+      "q": "Diphyllobothrium turlarini aniq farqlash uchun qaysi usullar qo'llanishi mumkin?",
+      "c": "Molekulyar usullar",
+      "w": [
+        "Cho'ktirish usullari",
+        "Flotatsiya usullari",
+        "Najas surtmasi usuli",
+        "Fiksator bilan saqlash"
+      ],
+      "x": "«Diphyllobothrium turlarini aniq farqlash uchun molekulyar usullar, ya'ni DNK ketma-ketligini aniqlash qo'llanishi mumkin»"
+    },
+    {
+      "q": "Davolangandan keyin qaysi holat samarali natija ko'rsatkichi sanaladi?",
+      "c": "Tuxumlar va bo'laklar yo'qligi",
+      "w": [
+        "Tuxumlar sonining kamayishi",
+        "Tuxumlar va bo'laklar topilishi",
+        "Kamqonlik va eozinofiliya aniqlanishi",
+        "Tuxumlar morfologiyasining o'zgarishi"
+      ],
+      "x": "«tuxumlar va bo'laklar yo'qligi samarali natija ko'rsatkichi sanaladi»"
+    },
+    {
+      "q": "Boshcha qolsa nima bo'lishi mumkin?",
+      "c": "Chuvalchang qayta o'sishi mumkin",
+      "w": [
+        "Chuvalchang tuxum chiqarishni to'xtatadi",
+        "Bo'laklar kengligi o'zgaradi",
+        "Tashxis manfiy bo'lib qoladi",
+        "Najas takroriy tekshiriladi"
+      ],
+      "x": "«boshcha qolsa chuvalchang qayta o'sishi mumkin»"
+    },
+    {
+      "q": "Tashxisdagi xatolardan biri qaysi?",
+      "c": "Namunani kech tekshirish yoki noto'g'ri saqlash",
+      "w": [
+        "Natijani aniq morfologik tavsif bilan yozish",
+        "Mikroskopist tajribasini muntazam oshirish",
+        "Murakkab holatlarda hamkasb bilan maslahatlashish",
+        "Namunani oralatib uch kun olish"
+      ],
+      "x": "«namunani kech tekshirish yoki noto'g'ri saqlash, bu tuxumlarni buzib yuboradi»"
+    },
+    {
+      "q": "Topilgan tuxum soni nimani aniq ko'rsatmaydi?",
+      "c": "Kasallik og'irligini",
+      "w": [
+        "Tashxis mavjudligini",
+        "Tuxum morfologiyasini",
+        "Chuvalchang boshchasini",
+        "Davolash samarasini"
+      ],
+      "x": "«Topilgan tuxum soni kasallik og'irligini aniq ko'rsatmaydi»"
+    },
+    {
+      "q": "Baliq orqali yuqadigan gelmintozning har bir holati bo'yicha DSENMga nima beriladi?",
+      "c": "Shoshilinch xabarnoma (f. № 058/u)",
+      "w": [
+        "Veterinariya xizmati xabari (f. № 357/u)",
+        "Nazoratga olish (f. № 357/u)",
+        "Invaziyalangan bemor jurnali (f. № 357/u)",
+        "Differensial tashxis xabari (f. № 357/u)"
+      ],
+      "x": "«baliq orqali yuqadigan gelmintozlarning har bir holati bo'yicha DSENMga shoshilinch xabarnoma (f. № 058/u) beriladi»"
+    }
+  ]
+}

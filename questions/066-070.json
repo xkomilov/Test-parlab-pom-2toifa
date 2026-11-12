@@ -1,0 +1,617 @@
+{
+  "066": [
+    {
+      "q": "Yopishqoq tuzoqda hasharotlar qanday tutiladi?",
+      "c": "Yopishqoq sirtga tegib yopishib qoladi",
+      "w": [
+        "Yorug'lik va hid bilan jalb qilinadi",
+        "Spirt to'ldirilgan idishga tushib qoladi",
+        "Plyonka bilan yopilgan qutiga kirib qoladi",
+        "Cho'tka yordamida qo'lda ushlab olinadi"
+      ],
+      "x": "«ular yopishqoq qatlam bilan qoplangan sirtga tegib qolsa, yopishib qoladi»"
+    },
+    {
+      "q": "Yopishqoq modda sifatida odatda nima ishlatiladi?",
+      "c": "Kastor moyi yoki boshqa yopishqoq moy",
+      "w": [
+        "Spirt yoki boshqa fiksator eritmasi",
+        "Bir martalik qo'lqop yoki plyonka",
+        "Marker yoki belgilash yorlig'i",
+        "Cho'tka yoki shpatel va qutilar"
+      ],
+      "x": "«yopishqoq modda, odatda kastor moyi yoki boshqa yopishqoq moy»"
+    },
+    {
+      "q": "Juda qalin moy qatlami nimaga olib keladi?",
+      "c": "Moyning oqib ketishiga",
+      "w": [
+        "Hasharotlarni ushlab turmasligiga",
+        "Tur belgilarining saqlanishiga",
+        "Hasharotlar shikastlanmasligiga",
+        "Varaqqa chang tushmasligiga"
+      ],
+      "x": "«Juda qalin qatlam moyning oqib ketishiga, juda yupqasi esa hasharotlarni ushlab turmasligiga olib keladi.»"
+    },
+    {
+      "q": "Yopishqoq tuzoqlar odatda qaysi vaqtda qo'yilib, qachon yig'iladi?",
+      "c": "Kechqurun qo'yilib, ertalab yig'iladi",
+      "w": [
+        "Ertalab qo'yilib, kechqurun yig'iladi",
+        "Tun davomida qo'yilib, kechqurun yig'iladi",
+        "Ertalab qo'yilib, tun davomida qoldiriladi",
+        "Mavsum boshida qo'yilib, ertalab yig'iladi"
+      ],
+      "x": "«Odatda tuzoqlar kechqurun qo'yilib, hasharotlar faol bo'lgan tun davomida qoldiriladi va ertalab yig'iladi»"
+    },
+    {
+      "q": "Tuzoqlar chivinchalar eng ko'p bo'ladigan qaysi joylarga qo'yiladi?",
+      "c": "Kemiruvchi in teshigi oldiga",
+      "w": [
+        "Tuproq yuzasidagi chang ustiga",
+        "Yorug'lik tuzoqlari yaqiniga",
+        "Marker bilan belgilangan qutiga",
+        "Spirt saqlanadigan idish yoniga"
+      ],
+      "x": "«Tuzoqlar chivinchalar eng ko'p bo'ladigan joylarga qo'yiladi: kemiruvchi in teshigi oldiga, devor yoriqlari va tosh orasiga»"
+    },
+    {
+      "q": "Zichlik ko'rsatkichi sifatida nima olinadi?",
+      "c": "Bir tuzoqqa bir tunda tutilgan chivinchalar soni",
+      "w": [
+        "Bir kuzatuv punktidagi tuzoqlar soni va turi",
+        "Laboratoriyaga yetkazilgan varaqlar va idishlar soni",
+        "Har bir tuzoq bo'yicha topilgan joy va sana",
+        "Bir mavsumda tutilgan hasharotlar turi va jinsi"
+      ],
+      "x": "«Zichlik ko'rsatkichi sifatida bir tuzoqqa bir tunda tutilgan chivinchalar soni olinadi.»"
+    },
+    {
+      "q": "Yopishqoq varaq tuzoqning asosiy kamchiligi nima?",
+      "c": "Faqat passiv ishlaydi",
+      "w": [
+        "Elektr talab qiladi",
+        "Ko'p joyda qo'llab bo'lmaydi",
+        "Turlarni aniqlashga yaramaydi",
+        "Hasharotlarni ushlab turmaydi"
+      ],
+      "x": "«Kamchiliklari: faqat passiv, ya'ni hasharotlar o'zi duch kelsagina tutiladi»"
+    },
+    {
+      "q": "Standartlashtirilmagan kuzatuv natijasi nimaga yaramaydi?",
+      "c": "Turli yillar yoki hududlarni solishtirishga",
+      "w": [
+        "Zichlikni hisoblash va turni aniqlashga",
+        "Tuzoq raqamini belgilash va yozishga",
+        "Namunani laboratoriyada saqlashga",
+        "Tur belgilarini ko'rib chiqish va yozishga"
+      ],
+      "x": "«Standartlashtirilmagan kuzatuv natijasi turli yillar yoki hududlarni solishtirishga yaramaydi.»"
+    },
+    {
+      "q": "Chivinchalar zichligi mavsum boshida ortsa nima qilinadi?",
+      "c": "Ishlov rejalashtiriladi",
+      "w": [
+        "Xavf yuqori deb baholanadi",
+        "Kurash usullari qayta ko'rib chiqiladi",
+        "Kuzatuv rejasi yozma tuziladi",
+        "Tuzoqlar soni o'zgartiriladi"
+      ],
+      "x": "«chivinchalar zichligi mavsum boshida ortsa, ishlov rejalashtiriladi»"
+    },
+    {
+      "q": "Foydalanib bo'lingan varaqlar nima uchun belgilangan tartibda yo'q qilinadi?",
+      "c": "Infeksion material saqlashi mumkin",
+      "w": [
+        "Yopishqoq moy teriga tushishi mumkin",
+        "Boshqa hayvonlar tushib qolishi mumkin",
+        "Chang tushib varaq buzilishi mumkin",
+        "Moy qatlami oqib ketishi mumkin"
+      ],
+      "x": "«Foydalanib bo'lingan varaqlar belgilangan tartibda yo'q qilinadi, chunki ular infeksion material saqlashi mumkin.»"
+    },
+    {
+      "q": "Yopishqoq moy teriga tushsa nima qilinadi?",
+      "c": "Sovun bilan yuviladi",
+      "w": [
+        "Spirt idishda saqlanadi",
+        "Plyonka bilan yopiladi",
+        "Marker bilan belgilanadi",
+        "Qo'lqop bilan o'raladi"
+      ],
+      "x": "«moy teriga tushsa sovun bilan yuviladi»"
+    }
+  ],
+  "067": [
+    {
+      "q": "Anopheles chivinlarining tuxum, lichinka va g'umbagi qayerda rivojlanadi?",
+      "c": "Sekin oqadigan yoki turg'un toza suvda",
+      "w": [
+        "Ifloslangan, organik moddaga boy suvda",
+        "Nam, soyali, organik moddaga boy tuproqda",
+        "Kemiruvchilar inlari va hayvon g'orlarida",
+        "Devor yoriqlari va chorva qo'ralarida"
+      ],
+      "x": "«Anopheles chivinlari suvda ko'payadi: tuxum, lichinka va g'umbak suvda rivojlanadi. Ularning ko'payish joylari odatda sekin oqadigan yoki turg'un, nisbatan toza, quyosh tushadigan suv havzalaridir»"
+    },
+    {
+      "q": "Phlebotomus chivinchalarining lichinkalari qayerda rivojlanadi?",
+      "c": "Nam, soyali, organik moddaga boy tuproqda",
+      "w": [
+        "Oqova suv va kanalizatsiya chuqurliklarida",
+        "Sholipoya va hovuzlarning sekin oqadigan qismida",
+        "Daryo qirg'oqlaridagi kichik ko'lmaklarda",
+        "Quyosh tushadigan turg'un suv havzalarida"
+      ],
+      "x": "«Phlebotomus chivinchalarining lichinkalari suvda emas, nam, soyali, organik moddaga boy tuproqda rivojlanadi.»"
+    },
+    {
+      "q": "Culex chivinlari qanday suvda ko'payadi?",
+      "c": "Ifloslangan, organik moddaga boy suvda",
+      "w": [
+        "Sekin oqadigan nisbatan toza suvda",
+        "Quyosh tushadigan turg'un suvda",
+        "Nam va soyali tuproqda",
+        "Kemiruvchilar inlari atrofidagi chiqindilarda"
+      ],
+      "x": "«Culex chivinlari ifloslangan, organik moddaga boy suvda ko'payadi»"
+    },
+    {
+      "q": "Anopheles lichinkalarini boshqalardan nima bilan farqlash mumkin?",
+      "c": "Suv yuzasiga parallel joylashishi",
+      "w": [
+        "Tuxumlarining to'p shaklida qo'yilishi",
+        "Lichinkalar soni va bosqichi",
+        "Tuproq namunasida topilishi",
+        "Voyaga yetgan hasharotlarning tuzoqda tutilishi"
+      ],
+      "x": "«Anopheles lichinkalarini boshqalardan suv yuzasiga parallel joylashishi bilan farqlash mumkin»"
+    },
+    {
+      "q": "Bezgak chivinlari ko'payish joylariga qarshi qaysi chora qo'llanadi?",
+      "c": "Ortiqcha suvlarni quritish yoki oqizish",
+      "w": [
+        "Kemiruvchilar inlarini yo'qotish va yoriqlarni mahkamlash",
+        "Axlat va organik qoldiqlarni olib tashlash",
+        "Chorva qo'ralarini tozalab turish va ta'mirlash",
+        "Devor yoriqlarini insektitsid bilan ishlash"
+      ],
+      "x": "«Bezgak chivinlari uchun: ortiqcha suvlarni quritish yoki oqizish; sug'orish tarmog'ini to'g'ri boshqarish»"
+    },
+    {
+      "q": "Chivinchalarga qarshi ko'payish joylarida qaysi chora qo'llanadi?",
+      "c": "Kemiruvchilar inlarini yo'qotish, yoriqlarni mahkamlash",
+      "w": [
+        "Ortiqcha suvlarni quritish, ariqlarni tozalash",
+        "Lichinkalarni yo'qotuvchi vositalar, biologik usullar",
+        "Sug'orish tarmog'ini boshqarish, o'tlardan ozod qilish",
+        "Sholipoyalarni quritish, kanallarni tozalash"
+      ],
+      "x": "«Chivinchalar uchun: kemiruvchilar inlarini yo'qotish, yoriqlarni mahkamlash, axlat va organik qoldiqlarni olib tashlash»"
+    },
+    {
+      "q": "Bahor va yoz boshlanishida Anopheles ko'payish joylari nima uchun ko'payadi?",
+      "c": "Sug'orish ishlari boshlanadi",
+      "w": [
+        "Kemiruvchilar faolligi pasayadi",
+        "Yomg'irdan keyin suvlar quriydi",
+        "Chivinlar faolligi kamayadi",
+        "Chorva qo'ralari tozalab turiladi"
+      ],
+      "x": "«Bahor va yoz boshlanishida sug'orish ishlari boshlanishi bilan Anopheles ko'payish joylari ko'payadi»"
+    },
+    {
+      "q": "Aholi ko'payish joylarini kamaytirishda nima qilishi mumkin?",
+      "c": "Hovli va tomorqadagi suv idishlarini yopish yoki bo'shatish",
+      "w": [
+        "Lichinkalarni cho'mich yoki to'r bilan olish",
+        "Ko'payish joylarini xaritaga tushirib pasportlashtirish",
+        "Insektitsid bilan ishlov berib samarasini tekshirish",
+        "Bezgak chivinlarini tutib laboratoriyada aniqlash"
+      ],
+      "x": "«hovli va tomorqadagi suv idishlarini yopish yoki bo'shatish, ariqlarni tozalash»"
+    },
+    {
+      "q": "Laborant yo'llanmada nimani to'liq yozishi muhim?",
+      "c": "Yo'llanmadagi manzilni",
+      "w": [
+        "Ishlov turi va natijasi",
+        "Topilgan lichinkalar soni",
+        "Joy raqami va maydoni",
+        "Sana va ishlov turi"
+      ],
+      "x": "«Shu bois laborant yo'llanmadagi manzilni to'liq yozishi muhim»"
+    },
+    {
+      "q": "Doimiy ko'payish joylariga qaysilar kiradi?",
+      "c": "Ko'llar, botqoqliklar, sholipoyalar va sug'orish kanallari",
+      "w": [
+        "Yomg'ir suvi ko'lmaklari, idishlar, eski shinalar va texnik suv",
+        "Nam podvallar, chiqindi joylar, ariq bo'ylari va hayvon joylari",
+        "Kemiruvchilar inlari, devor yoriqlari, g'orlar va chorva qo'ralari",
+        "Chiqindi qutilari, molxonalar, paxsa devorlar va go'ng uyumlari"
+      ],
+      "x": "«ko'llar, botqoqliklar, sholipoyalar va sug'orish kanallari»"
+    },
+    {
+      "q": "Bezgak chivinlari qanday suv havzalarida ko'payadi?",
+      "c": "Anofelogen suv havzalarida",
+      "w": [
+        "Ifloslangan oqova suv havzalarida",
+        "Nam tuproq va chiqindilarda",
+        "Kemiruvchilar inlari atrofida",
+        "Devor yoriqlari va g'orlarda"
+      ],
+      "x": "«Bezgak chivinlari esa anofelogen suv havzalarida ko'payadi»"
+    }
+  ],
+  "068": [
+    {
+      "q": "Kanali qaytalama terlama qo'zg'atuvchilari qaysi turkumga mansub?",
+      "c": "Borrelia turkumiga mansub spirohetalar",
+      "w": [
+        "Ornithodoros turkumiga mansub kanalar",
+        "Argasidae oilasiga mansub kanalar",
+        "Borrelia recurrentis tashuvchi bitlar",
+        "Kemiruvchilarga mansub qo'zg'atuvchi turlar"
+      ],
+      "x": "«Qaytalama terlama qo'zg'atuvchilari Borrelia turkumiga mansub spirohetalar, ya'ni ingichka, spiral shakldagi, harakatchan bakteriyalardir»"
+    },
+    {
+      "q": "Kana orqali yuqadigan qaytalama terlama shakli qanday ataladi?",
+      "c": "Endemik shakl",
+      "w": [
+        "Epidemik shakl",
+        "Spiral shakl",
+        "Qaytalama shakl",
+        "Zoonoz shakl"
+      ],
+      "x": "«Kana orqali yuqadigan shakl endemik, bit orqali yuqadigan shakl esa epidemik deb ataladi.»"
+    },
+    {
+      "q": "Borrelia spirohetalari immun tizimidan qanday qochadi?",
+      "c": "Sirt oqsillarini o'zgartirib",
+      "w": [
+        "Qon plazmasida ko'payib",
+        "Eritrotsit ichida ko'payib",
+        "Qon plazmasidan yo'qolib",
+        "Kana so'lagi orqali o'tib"
+      ],
+      "x": "«parazit sirt oqsillarini o'zgartirib, immun tizimdan qochadi»"
+    },
+    {
+      "q": "Nima uchun isitma xurujlari qaytalanadi?",
+      "c": "Har bir yangi antigen variant yangi xurujga olib keladi",
+      "w": [
+        "Spirohetalar eritrotsit ichida yashirinib ko'payadi",
+        "Kana har safar odamni qayta chaqib yuqtiradi",
+        "Immun tizim qondagi spirohetalarni oshiradi",
+        "Rezervuar kemiruvchilar qondagi spirohetalarni oshiradi"
+      ],
+      "x": "«Shu sababli isitma xurujlari qaytalanadi: har bir yangi antigen variant yangi xurujga olib keladi, immun tizim esa uni tanib, yo'q qilguncha vaqt o'tadi.»"
+    },
+    {
+      "q": "Namuna nima uchun aynan isitma davrida olinishi kerak?",
+      "c": "Isitma tugagach spirohetalar qondan yo'qoladi",
+      "w": [
+        "Spirohetalar faqat tunda qonda ko'payadi",
+        "Spirohetalar eritrotsit ichida ko'rinadi",
+        "Kana faqat isitma paytida chaqadi",
+        "Eritrotsitlar orasida parazit ko'rinmaydi"
+      ],
+      "x": "«Isitma tugagach, spirohetalar qondan yo'qoladi, shuning uchun xurujlar oralig'ida olingan surtmada ular topilmasligi mumkin.»"
+    },
+    {
+      "q": "Bemorlar ko'pincha nima uchun kana chaqqanini eslamaydi?",
+      "c": "Odam chaqishni sezmaydi",
+      "w": [
+        "Kana qon so'rgandan keyin yo'qoladi",
+        "Bemor bezgak bilan og'rigan bo'ladi",
+        "Kana tunda faol bo'lmaydi",
+        "Spirohetalar chaqish joyida qolmaydi"
+      ],
+      "x": "«Odam chaqishni sezmagani uchun bemorlar ko'pincha kana chaqqanini eslamaydi.»"
+    },
+    {
+      "q": "B. latyschewii ning rezervuari kim?",
+      "c": "Faqat kemiruvchilar",
+      "w": [
+        "Kemiruvchilar, itlar va mushuklar",
+        "Itlar va mushuklar",
+        "Odam va kiyim biti",
+        "Itlar va odamlar"
+      ],
+      "x": "«B. latyschewii ning rezervuari esa kemiruvchilar»"
+    },
+    {
+      "q": "Epidemik qaytalama terlamaning qo'zg'atuvchisi qaysi tur?",
+      "c": "Borrelia recurrentis",
+      "w": [
+        "Borrelia persica",
+        "Borrelia latyschewii",
+        "Ornithodoros tholozani",
+        "Ornithodoros tartakovskyi"
+      ],
+      "x": "«Epidemik, ya'ni bit orqali yuqadigan qaytalama terlamaning qo'zg'atuvchisi B. recurrentis, tashuvchisi kiyim biti, rezervuari faqat odam»"
+    },
+    {
+      "q": "Bezgakda qon surtmasida parazit qayerda ko'rinadi?",
+      "c": "Eritrotsit ichida",
+      "w": [
+        "Eritrotsitlar orasida",
+        "Qon plazmasida hujayradan tashqarida",
+        "Kana koksal suyuqligida",
+        "Kana so'lagi suyuqligida"
+      ],
+      "x": "«bezgakda eritrotsit ichida parazit, KQTda esa eritrotsitlar orasida spirohetalar ko'rinadi»"
+    },
+    {
+      "q": "Kanali qaytalama terlamaning tashuvchisi qaysi oila va turkumdagi kanalar?",
+      "c": "Argasidae oilasi Ornithodoros turkumi",
+      "w": [
+        "Ixodidae oilasi Ornithodoros turkumi",
+        "Argasidae oilasi Borrelia turkumi",
+        "Ornithodoros oilasi Argasidae turkumi",
+        "Argasidae oilasi Phlebotomus turkumi"
+      ],
+      "x": "«tashuvchisi Argasidae oilasi Ornithodoros turkumiga mansub kanalar»"
+    },
+    {
+      "q": "O'zbekistonda mahalliy Sogdiana spiroxetalarini qaysi kanalar yuqtiradi?",
+      "c": "O. papillipes kanalari",
+      "w": [
+        "O. tartakovskyi kanalari",
+        "O. tholozani kanalari",
+        "Qattiq kanalar",
+        "Epidemik shakldagi kiyim biti"
+      ],
+      "x": "«O'zbekistonda qo'zg'atuvchi mahalliy O. papillipes kanalari orqali yuqadigan Sogdiana spiroxetalari»"
+    }
+  ],
+  "069": [
+    {
+      "q": "KQT o'chog'i qanday uchta komponentdan iborat?",
+      "c": "Spirohetalar, rezervuar hayvonlar, Ornithodoros kanalari",
+      "w": [
+        "Klinik holatlar, epidemiologik tekshiruv, kanalarni yig'ish",
+        "Kemiruvchilar, itlar, mushuklar va tosh devorlar",
+        "Quruq issiq hudud, cho'l va yarim cho'l",
+        "Ro'yxat, sanitariya xizmati va yangi ma'lumotlar"
+      ],
+      "x": "«o'choq esa uchta komponentdan iborat: Borrelia spirohetalari, rezervuar hayvonlar, ya'ni kemiruvchilar, itlar va mushuklar, va Ornithodoros kanalari»"
+    },
+    {
+      "q": "KQT o'choqlari odatda qanday hududlarda shakllanadi?",
+      "c": "Quruq, issiq, cho'l va yarim cho'l hududlarida",
+      "w": [
+        "Tog' daryolari oqib o'tadigan vodiylarda",
+        "Aholi punktlaridagi yangi binolarda",
+        "Dengiz sathidan baland tog'larda",
+        "Klinik tasdiqlangan holatlar ko'p hududlarda"
+      ],
+      "x": "«Bunday o'choqlar odatda quruq, issiq, cho'l va yarim cho'l hududlarida, kemiruvchilar yashaydigan joylarda shakllanadi.»"
+    },
+    {
+      "q": "KQT o'chog'i qaysi omillarga bog'liq?",
+      "c": "Ekologik omillarga",
+      "w": [
+        "Geografik omillarga",
+        "Klinik omillarga",
+        "Epidemik omillarga",
+        "Laboratoriya omillariga"
+      ],
+      "x": "«Shu sababli o'choq geografik emas, balki ekologik omillarga bog'liq»"
+    },
+    {
+      "q": "Ro'yxatda bo'lmagan hudud haqida nima deyish mumkin?",
+      "c": "Xavfsiz degani emas",
+      "w": [
+        "Tekshiruvdan ozod hisoblanadi",
+        "Kasallik holatlari bo'lmagan hududdir",
+        "Kanalar yashamaydigan hududdir",
+        "Tabiiy o'choqsiz hududdir"
+      ],
+      "x": "«Ro'yxatda bo'lmagan hudud xavfsiz degani emas»"
+    },
+    {
+      "q": "Alohida bitta holat nima uchun o'choqni isbotlamaydi?",
+      "c": "Bemor boshqa joyda zararlanishi mumkin",
+      "w": [
+        "Spirohetalar qonda ko'rinmasligi mumkin",
+        "Kanalar kemiruvchilarsiz yashashi mumkin",
+        "Ro'yxat har yili yangilanishi mumkin",
+        "Isitma xurujlari davriy bo'lishi mumkin"
+      ],
+      "x": "«Alohida bitta holat o'choqni isbotlamaydi, chunki bemor boshqa joyda zararlanishi mumkin.»"
+    },
+    {
+      "q": "Qaytalama terlama hisobda nima uchun kam ko'rsatilishi mumkin?",
+      "c": "Belgilar bezgak va grippga o'xshash",
+      "w": [
+        "Spirohetalar eritrotsit ichida ko'rinadi",
+        "Rezervuar hayvonlar kam uchraydi",
+        "Ro'yxat kuzatuvsiz yuritiladi",
+        "Rezervuar hayvonlar yashamaydi"
+      ],
+      "x": "«belgilar bezgak va grippga o'xshash»"
+    },
+    {
+      "q": "Yo'llanmaga bemorning qaysi ma'lumoti yozib qo'yiladi?",
+      "c": "Bemor tunagan joy",
+      "w": [
+        "Isitma xurujlari davri",
+        "Qon surtmasi natijasi",
+        "Ro'yxatga olingan hudud",
+        "Kanalar yig'ilgan joy"
+      ],
+      "x": "«Bemor tunagan joy so'raladi va yo'llanmaga yoziladi.»"
+    },
+    {
+      "q": "G'or kanasi O. cholodkovskyi qayerda topilgan?",
+      "c": "G'uzor tumanidagi Qizilcha mahallasi atrofida",
+      "w": [
+        "Namangan va Farg'ona viloyatlari atrofida",
+        "Qashqadaryo tog' va tog' oldi hududlarida",
+        "Toshkent viloyatining tog' oldi hududlarida",
+        "Surxondaryo tog' daryolari vodiylarida"
+      ],
+      "x": "«G'or kanasi O. cholodkovskyi esa faqat Qashqadaryo viloyati G'uzor tumanidagi Qizilcha mahallasi atrofida topilgan»"
+    },
+    {
+      "q": "Qaysi viloyatlarga respublika bo'yicha kasallanishning 80% to'g'ri keladi?",
+      "c": "Namangan va Farg'ona viloyatlariga",
+      "w": [
+        "Andijon va Samarqand viloyatlariga",
+        "Toshkent va Surxondaryo viloyatlariga",
+        "Jizzax va Navoiy viloyatlariga",
+        "Qashqadaryo va Samarqand viloyatlariga"
+      ],
+      "x": "«respublika bo'yicha kasallanishning 80% Namangan va Farg'ona viloyatlariga to'g'ri keladi»"
+    },
+    {
+      "q": "O. papillipes kanalari qanday vodiylardagi aholi punktlarida ko'p uchraydi?",
+      "c": "Tog' daryolari oqib o'tadigan vodiylarda",
+      "w": [
+        "Cho'l va yarim cho'l zonasidagi eski uylarda",
+        "Kemiruvchilar yashaydigan quruq issiq joylarda",
+        "Namangan va Farg'ona viloyatlari qo'ralarida",
+        "Tosh devorlar yonidagi eski omborlarda"
+      ],
+      "x": "«tog' daryolari oqib o'tadigan vodiylardagi qadimiy aholi punktlarida ko'p uchraydi»"
+    },
+    {
+      "q": "Aniq hududlar nima bilan aniqlanadi?",
+      "c": "Klinik tasdiqlangan holatlar",
+      "w": [
+        "Mintaqaviy ma'lumot va nazariy imkoniyat",
+        "Kemiruvchilar yashaydigan joylar soni",
+        "Landshaftning cho'l zonasiga mansubligi",
+        "Eski uylar va qo'ralar soni"
+      ],
+      "x": "«Aniq hududlar klinik tasdiqlangan holatlar yoki kanalarda spirohetalar topilishi bilan aniqlanadi»"
+    }
+  ],
+  "070": [
+    {
+      "q": "Tabiiy o'choq qaysi uch asosiy komponentdan iborat?",
+      "c": "Qo'zg'atuvchi, rezervuar hayvonlar va tashuvchi kanalar",
+      "w": [
+        "Epidemiolog, entomolog, zoolog va laborant hamkorligi",
+        "Kemiruvchilar, itlar, mushuklar va qo'ralar",
+        "Eski binolar, g'orlar, tosh yoriqlari va qo'ralar",
+        "Namunalar, qon surtmasi va serologiya usullari"
+      ],
+      "x": "«Tabiiy o'choq uch asosiy komponentdan iborat: qo'zg'atuvchi (Borrelia), rezervuar hayvonlar va tashuvchi kanalar.»"
+    },
+    {
+      "q": "KQTda odam qanday xo'jayin hisoblanadi?",
+      "c": "Tasodifiy xo'jayin",
+      "w": [
+        "Asosiy xo'jayin",
+        "Yagona xo'jayin",
+        "Doimiy xo'jayin",
+        "Epidemik xo'jayin"
+      ],
+      "x": "«KQTda odam yagona manba emas va epidemik kuchaytiruvchi ham emas, u tasodifiy xo'jayin.»"
+    },
+    {
+      "q": "Kana orqali yuqadigan KQT odatda qanday holatlar sifatida uchraydi?",
+      "c": "Yakka holatlar yoki oila ichidagi holatlar",
+      "w": [
+        "Ommaviy epidemiya holatlari",
+        "Shifoxona ichidagi holatlar",
+        "Bit orqali yuqadigan holatlar",
+        "Kemiruvchilar orasidagi ommaviy holatlar"
+      ],
+      "x": "«kana orqali yuqadigan KQT odatda yakka holatlar yoki oila ichidagi holatlar sifatida uchraydi, ommaviy epidemiya ehtimoli past»"
+    },
+    {
+      "q": "Spirohetalar kana avlodidan avlodga o'tishi o'choqning nimasini tushuntiradi?",
+      "c": "O'choqning barqarorligini",
+      "w": [
+        "Itlar va mushuklar ahamiyatini",
+        "Epidemik kuchayishni",
+        "Kana chaqishining og'riqsizligini",
+        "Odamning tasodifiy zararlanishini"
+      ],
+      "x": "«Bu mexanizm o'choqning barqarorligini tushuntiradi»"
+    },
+    {
+      "q": "Qaysi joylarda tunash xavfli hisoblanadi?",
+      "c": "Bo'sh qolgan eski binolarda va g'orlarda",
+      "w": [
+        "Kanalardan himoyalangan yashash joyida",
+        "Aholi punktlaridagi tozalangan uy-joylarda",
+        "Ishlov berilgan va tozalangan qo'ralarda",
+        "Qurilish bilan himoyalangan omborlarda"
+      ],
+      "x": "«Shu sababli bo'sh qolgan eski binolarda, g'orlarda va qo'ralarda tunash xavfli hisoblanadi»"
+    },
+    {
+      "q": "Kemiruvchilarning qoni infeksiya manbasini aniqlash uchun nima bilan tekshiriladi?",
+      "c": "Qon surtmasi yoki serologiya",
+      "w": [
+        "Molekulyar usullar bilan turni belgilash",
+        "Kanalarni yig'ib tur aniqlash",
+        "Bemor tunagan joyni tekshirish",
+        "Kanalarda spirohetalar izlanadi"
+      ],
+      "x": "«kemiruvchilar tutiladi va ularning qoni qon surtmasi yoki serologiya bilan tekshiriladi»"
+    },
+    {
+      "q": "Kemiruvchilar manbai bo'lgani uchun uy-joylarda qanday kurash zarur?",
+      "c": "Kemiruvchilarga qarshi kurash va qurilish",
+      "w": [
+        "Kanalarga qarshi kurash va hayvonlarni yig'ish",
+        "Aholiga tushuntirish va tadqiqotlarni rivojlantirish",
+        "Bo'sh binolarda tunash va dam olish",
+        "Itlar va mushuklarni yig'ib yo'q qilish"
+      ],
+      "x": "«Kemiruvchilar manbai bo'lgani uchun uy-joylarda kemiruvchilarga qarshi kurash va ularga yo'l bermaydigan qurilish zarur.»"
+    },
+    {
+      "q": "KQT ni to'liq yo'qotish nima uchun qiyin?",
+      "c": "Odam o'choqqa kirganda tasodifan zararlanadi",
+      "w": [
+        "Kana odamdan keyingi odamga yuqtiradi",
+        "Itlar va mushuklar asosiy rezervuar bo'ladi",
+        "Spirohetalar qonda ko'p bo'ladi",
+        "Kanalar odam yashaydigan joylarda doimiy bo'ladi"
+      ],
+      "x": "«Odam esa o'choqqa kirganda tasodifan zararlanadi. Shuning uchun KQT ni to'liq yo'qotish qiyin»"
+    },
+    {
+      "q": "Kana populyatsiyasi nima uchun uzoq yillar yuqumli bo'lib qoladi?",
+      "c": "Qo'zg'atuvchini avlodiga tuxum orqali o'tkazadi",
+      "w": [
+        "Odamdan spirohetani olib yuqtiradi",
+        "Kemiruvchilar qonidan spirohetani oladi",
+        "Qo'zg'atuvchi eritrotsitlar orasida saqlanadi",
+        "Bemor tunagan joyda doimiy yashaydi"
+      ],
+      "x": "«Ular qo'zg'atuvchini o'z avlodiga tuxum orqali o'tkazishi mumkin, shuning uchun kana populyatsiyasi uzoq yillar yuqumli bo'lib qoladi.»"
+    },
+    {
+      "q": "Odam uchun yagona kasallik manbai nima hisoblanadi?",
+      "c": "Ornithodoros kanalari",
+      "w": [
+        "Uy kemiruvchilari",
+        "Umurtqali hayvonlar",
+        "Qum sichqon inlari",
+        "Ko'rshapalaklar yashaydigan joylar"
+      ],
+      "x": "«odam uchun (shifoxona ichidagi zararlanishdan tashqari) yagona kasallik manbai Ornithodoros kanalaridir»"
+    },
+    {
+      "q": "Kanalar uchun birlamchi manba nima hisoblanadi?",
+      "c": "Spiroxetoz bilan kasallangan umurtqali hayvonlar",
+      "w": [
+        "Spirohetalarni saqlovchi Ornithodoros kanalari",
+        "Uy kemiruvchilari, uy hayvonlari va odamlar",
+        "Zararlangan kemiruvchilar va kanalar turi",
+        "Bo'sh qolgan eski binolar va g'orlar"
+      ],
+      "x": "«Kanalar uchun birlamchi manba spiroxetoz bilan kasallangan umurtqali hayvonlar hisoblanadi»"
+    }
+  ]
+}

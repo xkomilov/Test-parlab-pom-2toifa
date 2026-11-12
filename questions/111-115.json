@@ -1,0 +1,595 @@
+{
+  "111": [
+    {
+      "q": "Difillobotriaz bilan zararlanish qaysi yo'l orqali sodir bo'ladi?",
+      "c": "Pleroserkoid lichinkali baliqni xom iste'mol qilish",
+      "w": [
+        "Bemor odam bilan bevosita kontakt qilish",
+        "Zararlangan suv yoki tuproq orqali yutish",
+        "Qisqichbaqasimonlarni xom holda iste'mol qilish",
+        "Hayvon najasi bilan kontakt qilish"
+      ],
+      "x": "«Difillobotriaz bilan zararlanish yagona yo'l orqali, ya'ni pleroserkoid lichinkali baliqni xom yoki yaxshi pishirmay iste'mol qilish orqali sodir bo'ladi.»"
+    },
+    {
+      "q": "Qaysi mahsulotlar xavfli mahsulotlar qatoriga kiradi?",
+      "c": "Yengil tuzlangan baliq va xom ikra",
+      "w": [
+        "Yetarli qizdirilgan baliq go'shti",
+        "Muzlatilgan baliq go'shti",
+        "Toza ko'rinishdagi oshxona jihozlari",
+        "Yaxshilab yuvilgan suv sabzavotlari"
+      ],
+      "x": "«Xavfli mahsulotlar qatoriga xom baliq, yengil tuzlangan baliq, yengil dudlangan baliq, xom ikra va quritilgan baliq kiradi»"
+    },
+    {
+      "q": "Nima uchun hid va ko'rinishga qarab baliq xavfsizligini baholab bo'lmaydi?",
+      "c": "Lichinkalarni oddiy ko'z bilan ko'rish qiyin",
+      "w": [
+        "Mahsulotlar doim ifloslangan ko'rinadi",
+        "Lichinkalar faqat baliqda yashaydi",
+        "Baliq go'shtida tuxumlar bo'lmaydi",
+        "Mahsulotlar yetarli muzlatilmagan bo'ladi"
+      ],
+      "x": "«Lichinkalarni oddiy ko'z bilan ko'rish qiyin, shuning uchun hid va ko'rinishga qarab xavfsizlikni baholab bo'lmaydi.»"
+    },
+    {
+      "q": "Nima uchun katta yirtqich baliqning go'shtida lichinkalar ko'p bo'lishi mumkin?",
+      "c": "Mayda baliqlarni yeb, ulardagi lichinkalarni to'playdi",
+      "w": [
+        "Suv havzasidagi tuxumlarni to'playdi",
+        "Qisqichbaqasimonlarni yeb, tuxum chiqaradi",
+        "Oqova suv lichinkalarini to'playdi",
+        "Hayvon najasini yeb, lichinkalarni to'playdi"
+      ],
+      "x": "«Yirtqich baliq mayda baliqlarni yeb, ulardagi lichinkalarni to'playdi, shuning uchun katta yirtqich baliqning go'shtida lichinkalar ko'p bo'lishi mumkin.»"
+    },
+    {
+      "q": "Tuxumlar suv havzasiga nima orqali tushadi?",
+      "c": "Odam yoki hayvon najasi orqali",
+      "w": [
+        "Sovutilgan baliq va ikra orqali",
+        "Qisqichbaqasimonlar najasi orqali",
+        "Baliqchilar ifloslagan suv orqali",
+        "Muzlatilgan mahsulot orqali"
+      ],
+      "x": "«Tuxumlar suv havzasiga odam yoki hayvon najasi bilan tushadi.»"
+    },
+    {
+      "q": "Qaysi hayvonlar tabiiy o'choqlarning saqlanishiga hissa qo'shadi?",
+      "c": "It, mushuk, tulki va ayiq",
+      "w": [
+        "Cho'rtan, laqqa va sudak",
+        "Baliqchilar, oshpazlar va baliq sotuvchilar",
+        "Qisqichbaqasimonlar, cho'rtan va sudak",
+        "Tulki, laqqa va qisqichbaqasimonlar"
+      ],
+      "x": "«hayvon rezervuarlari, ya'ni it, mushuk, tulki va ayiq, tabiiy o'choqlarning saqlanishiga hissa qo'shadi»"
+    },
+    {
+      "q": "Qaysi kasb egalari difillobotriaz bilan zararlanish xavfi ostida ko'proq bo'ladi?",
+      "c": "Baliqchilar, oshpazlar va baliq sotuvchilar",
+      "w": [
+        "Laborantlar, bolalar va shifokorlar",
+        "Turistlar, bolalar va tulkilar",
+        "Cho'rtan, laqqa va sudak",
+        "Epidemiologlar va laboratoriya xodimlari"
+      ],
+      "x": "«Baliqchilar, oshpazlar, baliq sotuvchilar va baliq mahsulotlarini tayyorlovchilar ko'proq xavfda»"
+    },
+    {
+      "q": "Import baliq orqali kasallik aniqlangan hududlarda nimaga e'tibor qaratiladi?",
+      "c": "Iste'mol qilingan mahsulot kelib chiqishiga",
+      "w": [
+        "Bemor yashagan joy ifloslanishiga",
+        "Suv havzasi ifloslanishi darajasiga",
+        "Baliq tayyorlash vaqti va usuliga",
+        "Oshxona jihozlarining yuvilishiga"
+      ],
+      "x": "«bemor yashagan joyga emas, iste'mol qilgan mahsulot kelib chiqishiga e'tibor qaratiladi.»"
+    },
+    {
+      "q": "Qaysi choralar lichinkalarni o'ldirishga yordam beradi?",
+      "c": "To'liq pishirish va tegishli haroratda muzlatish",
+      "w": [
+        "Xom baliqni tatib ko'rish va tuzlash",
+        "Hid va ko'rinishga qarab baholash",
+        "Tashqi ko'rinishi toza baliq tanlash",
+        "Baliqni yengil tuzlab iste'mol qilish"
+      ],
+      "x": "«Baliqni to'liq pishirish, tegishli muddat va haroratda muzlatish, tuzlash va dudlashni yetarli muddat o'tkazish lichinkalarni o'ldirishga yordam beradi»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra, baliq orqali yuqadigan gelmintozlarda invaziyani tarqatuvchi omil nima?",
+      "c": "Xom baliq va undan tayyorlangan mahsulotlar",
+      "w": [
+        "Suv transporti ishchilari va baliqchilar",
+        "Oqova suvlar va maishiy chiqindilar",
+        "Tuproq qatlamlari va hojatxonalar",
+        "Sovutilgan baliq va ikra yetkazish"
+      ],
+      "x": "«121-son buyruqning 4-ilovasiga ko'ra, baliq orqali yuqadigan gelmintozlarda invaziyani tarqatuvchi omil xom baliq va undan tayyorlangan mahsulotlardir»"
+    },
+    {
+      "q": "Laborant najasda tuxum topganda bemordan nimalarni aniqlashi mumkin?",
+      "c": "Baliq turi, tayyorlash usuli va iste'mol vaqti",
+      "w": [
+        "Tuproq turi va suv harorati",
+        "Suv harorati va qisqichbaqasimonlar zichligi",
+        "Iqlim va yirtqich baliqlar mavjudligi",
+        "Bemor yoshi va kasb turi"
+      ],
+      "x": "«Laborant najasda tuxum topganda bemor bilan qisqa suhbat o'tkazib, baliq turi, tayyorlash usuli, olingan joy va iste'mol vaqtini aniqlashi mumkin.»"
+    }
+  ],
+  "112": [
+    {
+      "q": "Epidemiyaga qarshi chora-tadbirlar zanjirning qaysi bo'g'inlarini qamrab oladi?",
+      "c": "Manba, yuqish yo'li va ta'sirchan aholi",
+      "w": [
+        "Manba, laboratoriya va hisobot",
+        "Tashxis, davolash va dispanser kuzatuvi",
+        "Baliq, suv havzasi va hayvon",
+        "Bemor, shifokor va epidemiolog"
+      ],
+      "x": "«zanjirning uchta bo'g'inini qamrab oladi: manba, yuqish yo'li va ta'sirchan aholi»"
+    },
+    {
+      "q": "Nima uchun difillobotrizda karantin yoki izolyatsiya shart emas?",
+      "c": "Kasallik odamdan odamga yuqmaydi",
+      "w": [
+        "Bemorlar najasda tuxum chiqarmaydi",
+        "Baliq mahsulotlari nazorat qilinmaydi",
+        "Kasallik faqat hayvonlarga yuqadi",
+        "Suv havzalari ifloslanmaydi"
+      ],
+      "x": "«Odamdan odamga yuqmaydigan kasallikda karantin yoki izolyatsiya shart emas.»"
+    },
+    {
+      "q": "Asosiy tadbirlar nimalardan iborat?",
+      "c": "Manbani yo'qotish va baliq iste'moli xavfsizligini ta'minlash",
+      "w": [
+        "Bemorlarni izolyatsiya qilish va karantin e'lon qilish",
+        "Hayvonlarni davolash va yaylovlarni tozalash",
+        "Baliq sotuvini to'xtatish va suv havzalarini yopish",
+        "Aholini ma'rifatlash va ijtimoiy tarmoqlarni nazorat qilish"
+      ],
+      "x": "«Asosiy tadbirlar manbani yo'qotish, suv havzalarini ifloslanishdan saqlash va baliq iste'moli xavfsizligini ta'minlashdan iborat»"
+    },
+    {
+      "q": "Suv havzalarini himoya qilishda eng muhim tadbir qaysi?",
+      "c": "Oqova suvlarni tozalamasdan quyishni to'xtatish",
+      "w": [
+        "Oqova suvlarni suv havzalariga yo'naltirish",
+        "Hayvonlar najasini suvga tushishiga yo'l qo'yish",
+        "Baliqchilar tomonidan suvga chiqindi tashlash",
+        "Suv bo'yidagi hojatxonalarni ko'paytirish"
+      ],
+      "x": "«Eng muhim tadbirlardan biri — oqova suvlarni tozalamasdan ko'l va daryolarga quyishni to'xtatish.»"
+    },
+    {
+      "q": "Baliq sotiladigan joylarda qanday nazorat o'tkaziladi?",
+      "c": "Veterinariya-sanitariya ekspertizasi o'tkazish",
+      "w": [
+        "Najas mikroskopiyasi va takroriy tekshiruv",
+        "Sotuvchilarning shaxsiy hujjatlarini tekshirish",
+        "Baliq tayyorlovchilarning idishlarini yuvish",
+        "Ijtimoiy tarmoqlarda axborot berish"
+      ],
+      "x": "«Baliq sotiladigan joylarda veterinariya-sanitariya ekspertizasi o'tkaziladi.»"
+    },
+    {
+      "q": "It va mushuklar qanday yo'l bilan zararlanishi mumkin?",
+      "c": "Xom baliq qoldiqlarini yeb",
+      "w": [
+        "Muzlatilgan baliq mahsulotini yeb",
+        "Suvni tuxum bilan ifloslantirib",
+        "Odam najasi bilan aloqa qilib",
+        "Davolangan bemorlar bilan kontaktda bo'lib"
+      ],
+      "x": "«It va mushuklar xom baliq qoldiqlarini yeb zararlanishi va suvni tuxum bilan ifloslantirishi mumkin.»"
+    },
+    {
+      "q": "Mikroskopistlar tuxumlarni nimadan farqlashni bilishi shart?",
+      "c": "Boshqa trematoda tuxumlaridan",
+      "w": [
+        "Hayvon najasidagi tuxumlardan",
+        "Baliqdagi zararlanish belgilaridan",
+        "Hisobot shakllaridan",
+        "Suv havzasidagi ifloslanishdan"
+      ],
+      "x": "«Mikroskopistlar tuxumlarni boshqa trematoda tuxumlaridan farqlashni bilishi shart»"
+    },
+    {
+      "q": "Har bir aniqlangan holat uchun nimalar ro'yxatga olinadi?",
+      "c": "Bemor ma'lumotlari va tashxis sanasi",
+      "w": [
+        "Hududiy hokimiyat va ekologiya xizmati",
+        "Oshpazlar soni va baliq sotuvchilar",
+        "Hisobot shakllari va hududiy qoidalar",
+        "Plakatlar va mahalla yig'inlari"
+      ],
+      "x": "«Har bir aniqlangan holat ro'yxatga olinadi: bemor ma'lumotlari, tashxis sanasi, iste'mol qilingan baliq turi va manbasi, o'tkazilgan chora-tadbirlar.»"
+    },
+    {
+      "q": "Chora-tadbirlar samarasi nima bilan baholanadi?",
+      "c": "Yangi holatlar sonining kamayishi",
+      "w": [
+        "Baliqdagi zararlanishning kuchayishi",
+        "Aholi xabardorligining pasayishi",
+        "Hisobot shakllarining soni",
+        "Hayvonlar orasidagi siklning kuchayishi"
+      ],
+      "x": "«Samara yangi holatlar sonining kamayishi, baliqdagi zararlanishning pasayishi va aholi xabardorligining oshishi bilan baholanadi.»"
+    },
+    {
+      "q": "Davolangan bemorlar najasi nima maqsadda qayta tekshiriladi?",
+      "c": "Tuxum va bo'laklar yo'qligi tasdiqlanadi",
+      "w": [
+        "Baliqdagi zararlanish darajasi baholanadi",
+        "Suv havzalari ifloslanishi aniqlanadi",
+        "Dispanser kuzatuv muddati belgilanadi",
+        "Hisobot shakllari mahalliy qoidalarga moslanadi"
+      ],
+      "x": "«Davolangan bemorlar najasi belgilangan muddatlarda qayta tekshiriladi, tuxum va bo'laklar yo'qligi tasdiqlanadi.»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra, DSENMlar qayerlarda sanitariya nazoratini o'tkazadi?",
+      "c": "Baliq yetishtiruvchi va qayta ishlovchi korxonalar",
+      "w": [
+        "Veterinariya xizmati va hokimiyat binolari",
+        "Ko'l bo'yidagi qishloq va yaylovlar",
+        "Hayvonlar davolanadigan veterinariya punktlari",
+        "Tibbiy punktlar va mahalla yig'inlari"
+      ],
+      "x": "«DSENMlar aholi punktlari, baliq yetishtiruvchi va qayta ishlovchi korxonalar hamda umumiy ovqatlanish joylarida sanitariya nazoratini o'tkazadi»"
+    }
+  ],
+  "113": [
+    {
+      "q": "Birlamchi profilaktikaning asosiy qoidasi nima?",
+      "c": "Baliqni iste'mol qilishdan oldin to'liq pishirish",
+      "w": [
+        "Yengil tuzlangan baliqni iste'mol qilish",
+        "Yengil dudlangan baliqni iste'mol qilish",
+        "Tatib ko'rib baliq tayyorlash",
+        "Xom baliqni uy muzlatgichida saqlash"
+      ],
+      "x": "«Asosiy qoida — baliqni iste'mol qilishdan oldin to'liq pishirish, bu lichinkalarni o'ldiradi.»"
+    },
+    {
+      "q": "Lichinkalarni o'ldirishning ikkinchi usuli qaysi?",
+      "c": "Belgilangan haroratda belgilangan muddat muzlatish",
+      "w": [
+        "Yengil tuzlash va sovuq dudlash usullari",
+        "Uy muzlatgichida baliqni uzoq saqlash",
+        "Pichoq, taxta va qo'llarni yaxshilab yuvish",
+        "Tayyorlash vaqtida baliqni tatib ko'rish"
+      ],
+      "x": "«Lichinkalarni o'ldirishning ikkinchi usuli — baliqni belgilangan haroratda belgilangan muddat muzlatish.»"
+    },
+    {
+      "q": "Nima uchun yengil tuzlangan va sovuq dudlangan mahsulotlar xavfli hisoblanadi?",
+      "c": "Lichinkalarni har doim ham o'ldirmaydi",
+      "w": [
+        "Lichinkalarni baliq go'shtida to'playdi",
+        "Qizdirish haroratini oshirib yuboradi",
+        "Tuxumlarni baliq go'shtida to'playdi",
+        "Lichinkalar tuxum chiqara boshlaydi"
+      ],
+      "x": "«Yengil tuzlash va sovuq dudlash lichinkalarni har doim ham o'ldirmaydi.»"
+    },
+    {
+      "q": "Xom baliq bilan ishlaganda nima yaxshilab yuviladi?",
+      "c": "Pichoq, taxta va qo'llar",
+      "w": [
+        "Baliq va tayyor ovqatlar",
+        "Sovutgich va muzlatgich",
+        "Baliq ichki a'zolari",
+        "Xom va tayyor ovqatlar"
+      ],
+      "x": "«Xom baliq bilan ishlaganda pichoq, taxta va qo'llar yaxshilab yuviladi.»"
+    },
+    {
+      "q": "Tabiiy sikl uzilishiga qaratilgan chora qaysi?",
+      "c": "Oqova suvni tozalash va hojatxonalarni uzoqda qurish",
+      "w": [
+        "Najas mikroskopiyasini davriy o'tkazish",
+        "Aholiga xom baliq xavfini tushuntirish",
+        "Baliqni uy sharoitida tuzlash va dudlash",
+        "Bemorlarni najas tekshiruviga yo'llash"
+      ],
+      "x": "«Ikkilamchi emas, balki tabiiy sikl uzilishiga qaratilgan chora — oqova suvni tozalash va hojatxonalarni suv havzalaridan uzoqda qurish»"
+    },
+    {
+      "q": "Ikkilamchi profilaktika nimani nazarda tutadi?",
+      "c": "Kasallikni erta aniqlash va davolash",
+      "w": [
+        "Baliqni to'liq pishirish va muzlatish",
+        "Aholiga xom baliq xavfini tushuntirish",
+        "Suv bo'yida defekatsiya qilmaslik",
+        "Najasni topshirish qoidalarini tushuntirish"
+      ],
+      "x": "«Ikkilamchi profilaktika kasallikni erta aniqlash va davolashni nazarda tutadi.»"
+    },
+    {
+      "q": "Laborant bemorga nimani tushuntiradi?",
+      "c": "Najasni to'g'ri topshirish qoidalarini",
+      "w": [
+        "Baliqni muzlatish rejimini va haroratini",
+        "Suv bo'yida defekatsiya qilmaslik qoidalarini",
+        "Sayohatdan keyingi kuzatuv qoidalarini",
+        "Suv havzalarini himoya qilish qoidalarini"
+      ],
+      "x": "«U bemorga najasni to'g'ri topshirish qoidalarini tushuntiradi.»"
+    },
+    {
+      "q": "Najasda tasmasimon uzun bo'laklar ko'rilsa, nima qilish kerak?",
+      "c": "O'z-o'zini davolamasdan shifokorga murojaat qilish",
+      "w": [
+        "Muzlatilgan baliqni yaxshilab pishirish",
+        "Baliq tayyorlashda tatib ko'rish",
+        "Tuzlangan baliqni iste'mol qilish",
+        "Xom baliq taomlarini kamaytirish"
+      ],
+      "x": "«Najasda tasmasimon uzun bo'laklar ko'rilsa, qorinda uzoq davom etuvchi noqulaylik yoki sababsiz holsizlik bo'lsa, o'z-o'zini davolamasdan shifokorga murojaat qilish kerak.»"
+    },
+    {
+      "q": "Profilaktikaning ilmiy asosi nimada?",
+      "c": "Lichinkalarning issiqlik va sovuqqa sezgirligida",
+      "w": [
+        "Tuxumlarning issiqlik va sovuqqa sezgirligida",
+        "Baliqning yangiligi va sovutilganligida",
+        "Qo'llar va pichoqlarning tozaligida",
+        "Suv havzalarining ifloslanish darajasida"
+      ],
+      "x": "«Profilaktikaning ilmiy asosi lichinkalarning issiqlik va sovuqqa sezgirligida»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra, baliq mahsulotlarining zararsizlantirilganligi qayerda tekshiriladi?",
+      "c": "Akkreditatsiyadan o'tgan DSENM laboratoriyalarida",
+      "w": [
+        "Xususiy restoranlar va kafelar oshxonalarida",
+        "Baliq sotiladigan joylar laboratoriyalarida",
+        "Uy sharoitida tuzlangan baliqda",
+        "Baliqchilar yashaydigan hududlarda"
+      ],
+      "x": "«baliq mahsulotlarining parazitlardan zararsizlantirilganligi bo'yicha laboratoriya tekshiruvlari O'zbekiston davlat standarti bo'yicha akkreditatsiyadan o'tgan DSENM, Davlat veterinariya xizmati va boshqa tashkilotlar laboratoriyalarida o'tkaziladi»"
+    }
+  ],
+  "114": [
+    {
+      "q": "Fassiolyozni asosan qaysi turlar qo'zg'atadi?",
+      "c": "Fasciola hepatica va Fasciola gigantica",
+      "w": [
+        "Fassiolopsis buski va opistorx",
+        "Opistorx va klonorx turlari",
+        "Lymnaea turlari va Fasciola sp.",
+        "Klonorx va Fassiolopsis buski"
+      ],
+      "x": "«Fassiolyozni asosan Fasciola hepatica (jigar fassiolasi) va Fasciola gigantica (yirik fassiola) qo'zg'atadi.»"
+    },
+    {
+      "q": "Fassiola tuxumi trematoda tuxumlari orasida qanday o'ringa ega?",
+      "c": "Eng yirigi bo'lib, yuz o'ttiz mikrometr",
+      "w": [
+        "Opistorx tuxumidan ancha kichik",
+        "Klonorx tuxumiga juda o'xshash",
+        "Difillobotriaz tuxumidan ancha kichik",
+        "Mikroskopda qiyin ajraladigan"
+      ],
+      "x": "«Fassiola tuxumi trematoda tuxumlari ichida eng yirigi bo'lib, taxminan yuz o'ttiz mikrometr atrofida.»"
+    },
+    {
+      "q": "Mirasidiy qaysi xo'jayinga kirib ko'payadi?",
+      "c": "Chuchuk suv mollyuskasiga",
+      "w": [
+        "Yirik chorva hayvoniga",
+        "Suv o'simliklariga",
+        "Qo'y jigariga",
+        "Baliq jigariga"
+      ],
+      "x": "«U chuchuk suv mollyuskasiga, ko'pincha Lymnaea turlariga kirib, sporotsista, redi va serkariya bosqichlarida ko'payadi»"
+    },
+    {
+      "q": "Fassiolyozning infeksion bosqichi qaysi?",
+      "c": "Suv o'simliklariga yopishgan metaserkariya",
+      "w": [
+        "Suv mollyuskasidagi sporotsista",
+        "Tuxumdan chiqadigan mirasidiy lichinka",
+        "Jigardagi voyaga yetgan fassiola chuvalchangi",
+        "Mollyuskadan chiqadigan serkariya"
+      ],
+      "x": "«Infeksion bosqich — suv o'simliklariga yopishgan metaserkariya, ya'ni kista.»"
+    },
+    {
+      "q": "Fassiolyozni opistorxozdan ajratib turadigan muhim xususiyat qaysi?",
+      "c": "Ikkinchi oraliq xo'jayin yo'q",
+      "w": [
+        "Ikkita oraliq xo'jayin bo'lishi",
+        "Baliq orqali yuqishi",
+        "Chuchuk suvda yashamasligi",
+        "Voyaga yetgan chuvalchangning bo'lmasligi"
+      ],
+      "x": "«Ikkinchi oraliq xo'jayin yo'q, bu fassiolyozni boshqa trematodozlardan, masalan opistorxozdan ajratib turadigan muhim xususiyatdir»"
+    },
+    {
+      "q": "Soxta fassiolyoz nima?",
+      "c": "Zararlangan jigarni yegandan keyin najasda tuxum topilishi",
+      "w": [
+        "Jigar to'qimasida yallig'lanish va qon quyilishi",
+        "O't yo'llarida chuvalchanglar joylashishi",
+        "Suv o'simliklarida kista paydo bo'lishi",
+        "Mollyuskada serkariyalar ko'payishi"
+      ],
+      "x": "«Odam fassiola bilan zararlangan chorva jigarini yeganda najasda tuxumlar topilishi mumkin, ammo bu haqiqiy infeksiya emas: tuxumlar ichakdan shunchaki o'tadi.»"
+    },
+    {
+      "q": "Surunkali bosqichda chuvalchanglar qayerga joylashadi?",
+      "c": "O't yo'llariga",
+      "w": [
+        "Jigar to'qimasiga",
+        "Suv o'simliklariga",
+        "Chorva hayvonlari jigariga",
+        "Ichakdan jigarga"
+      ],
+      "x": "«Keyinchalik chuvalchanglar o't yo'llariga joylashib, surunkali bosqichga o'tadi»"
+    },
+    {
+      "q": "Zararlangan hayvonlarda mahsuldorlik qanday o'zgaradi?",
+      "c": "Sut va go'sht mahsuldorligi pasayadi",
+      "w": [
+        "Sut va go'sht mahsuldorligi oshadi",
+        "Sut mahsuldorligi saqlanib qoladi",
+        "Jigar to'qimasi shikastlanmaydi",
+        "O'sish tezlashadi va jigar sog'lomlashadi"
+      ],
+      "x": "«zararlangan hayvonlarda jigar shikastlanadi, o'sish sekinlashadi, sut va go'sht mahsuldorligi pasayadi»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra, fassiolyozda oraliq xo'jayin kim?",
+      "c": "Chuchuk suv chig'anoqlari",
+      "w": [
+        "Yirik va mayda shoxli hayvonlar",
+        "Otlar, tuyalar va kemiruvchilar",
+        "Suv o'simliklari va ko'lmaklar",
+        "Odam va chorva hayvonlari"
+      ],
+      "x": "«oraliq xo'jayin esa chuchuk suv chig'anoqlari»"
+    },
+    {
+      "q": "Odam metaserkariyalarni qanday yo'llar orqali yutadi?",
+      "c": "Suv o'tlari, xom ko'katlar va ifloslangan suv",
+      "w": [
+        "Zararlangan hayvon sutini va jigarini",
+        "Mollyuska go'shti va chig'anoq qobig'i",
+        "Chorva hayvonlari bilan kontaktda bo'lish",
+        "Quritilgan o'tlar va tozalangan suv"
+      ],
+      "x": "«Odam ularni suv o'tlari, xom ko'katlar va ifloslangan suv bilan yutadi»"
+    }
+  ],
+  "115": [
+    {
+      "q": "Fassiolyozning asosiy yuqish yo'li qaysi?",
+      "c": "Xom suv o'simliklarini iste'mol qilish",
+      "w": [
+        "Zararlangan hayvon jigarini yeyish",
+        "Chorva hayvonlari bilan aloqa qilish",
+        "Mollyuskalarni xom holda iste'mol qilish",
+        "Issiqlik ishlovidan o'tgan ko'katlarni yeyish"
+      ],
+      "x": "«Asosiy yo'l — xom suv o'simliklarini yoki ular bilan ifloslangan ko'katlarni iste'mol qilish.»"
+    },
+    {
+      "q": "Zararlangan hayvon jigarini yeyish nimaga olib kelishi mumkin?",
+      "c": "Soxta fassiolyoz keltirib chiqarishi",
+      "w": [
+        "Metaserkariyalarni yutish xavfi",
+        "Ichimlik suvining ifloslanishi",
+        "Yaylov rejimining o'zgarishi",
+        "Metaserkariyalarning ko'payishi"
+      ],
+      "x": "«Zararlangan hayvon jigarini yeyish orqali yuqish haqiqiy zararlanish emas, balki soxta fassiolyoz keltirib chiqarishi mumkin.»"
+    },
+    {
+      "q": "Qaysi ko'katlar xavfli mahsulotlarga kiradi?",
+      "c": "Ariq, kanal va botqoq bo'yida o'sadigan yovvoyi ko'katlar",
+      "w": [
+        "Issiqlik ishlovidan o'tgan va toza suvda yuvilgan ko'katlar",
+        "Markazlashgan ta'minotdagi tozalangan suvda o'sgan ko'katlar",
+        "Toza joylarda o'sgan va yaxshilab yuvilgan ko'katlar",
+        "Toza joylarda yig'ilgan va qaynatilgan ko'katlar"
+      ],
+      "x": "«Xavfli mahsulotlarga ariq, kanal va botqoq bo'yida o'sadigan yovvoyi ko'katlar, suv o'tlari, suv sabzavotlari kiradi.»"
+    },
+    {
+      "q": "Aholi uchun profilaktikaning asosiy chorasi qaysi?",
+      "c": "Ishonchli, tozalangan suv manbalarini ta'minlash",
+      "w": [
+        "Faqat oddiy xlor ishlovi o'tkazish",
+        "Xom ko'katlarni suv bilan sug'orish",
+        "Mollyuskalarni yaylovlarda ko'paytirish",
+        "Chorva yaylovlaridagi suvni ichish"
+      ],
+      "x": "«Aholi uchun ishonchli, tozalangan suv manbalarini ta'minlash profilaktikaning asosiy chorasidir.»"
+    },
+    {
+      "q": "Qaysi mollyuskalar fassiolyoz sikli uchun zarur?",
+      "c": "Chuchuk suv mollyuskalari, ko'pincha Lymnaea turlari",
+      "w": [
+        "Namli yaylov mollyuskalari, ko'pincha Fasciola turlari",
+        "Botqoq mollyuskalari, ko'pincha Fasciola turlari",
+        "Sekin oqadigan ariq mollyuskalari",
+        "Namli yaylov mollyuskalari"
+      ],
+      "x": "«Chuchuk suv mollyuskalari, ko'pincha Lymnaea turlari, sikl uchun zarur.»"
+    },
+    {
+      "q": "Tuxumni yaylov va suv havzalariga kimlar tarqatadi?",
+      "c": "Zararlangan qo'y, qoramol va echkilar",
+      "w": [
+        "Chorvadorlar, cho'ponlar va dehqonlar",
+        "Sug'orish ishchilari va ariq tozalovchilar",
+        "Turistlar, geologlar va boshqa guruhlar",
+        "Mollyuskalar va tabiiy o'choqlar"
+      ],
+      "x": "«Zararlangan qo'y, qoramol va echkilar tuxumni najas bilan yaylov va suv havzalariga tarqatadi.»"
+    },
+    {
+      "q": "Qaysi omillar zararlanish xavfini oshiradi?",
+      "c": "Sanitariya-gigiyena madaniyatining past darajasi",
+      "w": [
+        "Toza ichimlik suvining yetarliligi",
+        "Aholining xom ko'katlar xavfini bilishi",
+        "Markazlashgan suv ta'minoti mavjudligi",
+        "Chorvani davolash va yaylov rejimi"
+      ],
+      "x": "«Sanitariya-gigiyena madaniyatining past darajasi, toza ichimlik suvining yetishmasligi va kanalizatsiyaning yo'qligi zararlanish xavfini oshiradi.»"
+    },
+    {
+      "q": "Nima uchun bolalarda zararlanish xavfi yuqori?",
+      "c": "Gigiyena odatlari hali shakllanmagan",
+      "w": [
+        "Chorva bilan ko'p ishlaydi",
+        "Kasallik belgilari ko'p bo'ladi",
+        "Sug'orish ishchilari bilan ishlaydi",
+        "Xom ko'katlarni yeyishdan qochadi"
+      ],
+      "x": "«Ularning gigiyena odatlari hali shakllanmagani uchun xavf yuqori»"
+    },
+    {
+      "q": "Qaysi ishlov barcha lichinkalarni o'ldirmasligi mumkin?",
+      "c": "Oddiy xlor ishlovi",
+      "w": [
+        "Ichimlik suvini qaynatish",
+        "Ko'katlarni yaxshilab yuvish",
+        "Ko'katlarga issiqlik ishlovi",
+        "Ichimlik suvini tozalash"
+      ],
+      "x": "«Ammo oddiy xlor ishlovi barcha lichinkalarni o'ldirmasligi mumkin»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra, odam adoleskariylarni qanday yutib zararlanadi?",
+      "c": "Salat o'tlarini yuvmasdan iste'mol qilganda",
+      "w": [
+        "Sabzavotlarni qaynatib iste'mol qilganda",
+        "Tomorqa ko'katlarini issiqlik ishlovidan o'tkazganda",
+        "Suv o'tlarini qaynatib iste'mol qilganda",
+        "Chorva yaylovlarida ishlaganda"
+      ],
+      "x": "«odam fassiolyoz bilan zararlangan hayvonlar manba bo'lgan sharoitda shovul, tomorqa ko'katlari va salat o'tlarini yuvmasdan iste'mol qilganda»"
+    },
+    {
+      "q": "Fassiolyoz zoonoz bo'lgani uchun odamdagi holatlar odatda nima bilan bog'liq?",
+      "c": "Chorvadagi zararlanish darajasi",
+      "w": [
+        "Suvdagi ifloslanish darajasi",
+        "Mollyuskalar yashaydigan ariqlar soni",
+        "Aholining ovqatlanish cheklovlari",
+        "Ariqlar tozalanishi"
+      ],
+      "x": "«Fassiolyoz zoonoz bo'lgani uchun odamdagi holatlar odatda chorvadagi zararlanish bilan bog'liq bo'ladi.»"
+    }
+  ]
+}

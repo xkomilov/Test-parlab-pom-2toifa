@@ -1,0 +1,584 @@
+{
+  "031": [
+    {
+      "q": "Yupqa surtma qanday maqsadlarda ishlatiladi?",
+      "c": "Tur aniqlash va parazitemiyani baholash",
+      "w": [
+        "Qalin tomchida parazitni topishga xizmat qilish",
+        "Eritrotsitlarni butun holda saqlash",
+        "Leykotsitlarni tekis taqsimlash",
+        "Qalin tomchini fiksatsiya qilish"
+      ],
+      "x": "«Agar qalin tomchi parazitni topishga xizmat qilsa, yupqa surtma uning turini aniqlash, parazitemiya darajasini baholash va eritrotsitlar morfologiyasini ko'rish uchun ishlatiladi»"
+    },
+    {
+      "q": "Spreder oynasi tomchi oldiga qanday burchak ostida qo'yiladi?",
+      "c": "45 graduslik burchak",
+      "w": [
+        "30 graduslik burchak",
+        "10 graduslik burchak",
+        "96 graduslik burchak",
+        "90 graduslik burchak"
+      ],
+      "x": "«Toza spreder oynasining cheti tomchi oldiga 45 graduslik burchak ostida qo'yiladi va asta orqaga tortiladi»"
+    },
+    {
+      "q": "JSST SOPiga ko'ra yupqa surtma qaysi modda bilan fiksatsiya qilinadi?",
+      "c": "Metanol bilan fiksatsiya qilinadi",
+      "w": [
+        "Giemza bilan fiksatsiya qilinadi",
+        "Fen bilan fiksatsiya qilinadi",
+        "Buferli suv bilan fiksatsiya qilinadi",
+        "Paster pipetkasi bilan fiksatsiya qilinadi"
+      ],
+      "x": "«JSST SOPiga ko'ra yupqa surtma metanol bilan fiksatsiya qilinadi»"
+    },
+    {
+      "q": "Giemza bilan to'g'ri bo'yalgan preparatda parazit yadrosi va sitoplazmasi qanday bo'ladi?",
+      "c": "Yadrosi qizil, sitoplazmasi ko'k",
+      "w": [
+        "Yadrosi ko'k, sitoplazmasi qizil",
+        "Yadrosi yashil, sitoplazmasi qizil",
+        "Yadrosi qizil, sitoplazmasi yashil",
+        "Yadrosi pushti, sitoplazmasi ko'k"
+      ],
+      "x": "«Giemza bilan to'g'ri bo'yalgan preparatda parazit yadrosi qizil, sitoplazmasi ko'k bo'ladi»"
+    },
+    {
+      "q": "Bo'yash tugagach, preparat qanday yuviladi?",
+      "c": "Bo'yoqni to'kib tashlamasdan sekin yuviladi",
+      "w": [
+        "Bo'yoq to'kib tashlangandan keyin yuviladi",
+        "Metanol tomchilari bilan sekin yuviladi",
+        "Preparat yuvilmasdan quritishga qo'yiladi",
+        "Bo'yoq yuzasidagi parda bilan yuviladi"
+      ],
+      "x": "«Bo'yash tugagach, bo'yoqni to'kib tashlamasdan, buferli suv tomchilari bilan sekin yuvib yuboriladi»"
+    },
+    {
+      "q": "Tezkor usulda Giemza eritmasi qanday konsentratsiyada va qancha vaqt ishlatiladi?",
+      "c": "10 foizli eritma 8–10 daqiqa",
+      "w": [
+        "3 foizli eritma 8–10 daqiqa",
+        "10 foizli eritma 45–60 daqiqa",
+        "Sekin usulda 3 foizli eritma 45–60 daqiqa",
+        "Tezkor usulda 3 foizli eritma 20 daqiqa"
+      ],
+      "x": "«Tezkor usulda 10 foizli eritma 8–10 daqiqa, sekin usulda 3 foizli eritma 45–60 daqiqa ishlatiladi»"
+    },
+    {
+      "q": "Eritrotsitlar to'p-to'p bo'lib to'planib qolsa, surtma qanday hisoblanadi?",
+      "c": "Juda qalin surtma",
+      "w": [
+        "Juda yupqa surtma",
+        "Notekis chiqadigan surtma",
+        "Yaxshi surtma",
+        "Patsimon surtma"
+      ],
+      "x": "«Eritrotsitlar to'p-to'p bo'lib to'planib qolsa, surtma juda qalin»"
+    },
+    {
+      "q": "Yupqa surtma uchun qon tomchisi qanday olinadi?",
+      "c": "Bitta kichik tomchi",
+      "w": [
+        "Bitta katta tomchi",
+        "Ortiqcha katta tomchi",
+        "Qo'shimcha tomchilar",
+        "Ortiqcha qon tomchisi"
+      ],
+      "x": "«yupqa surtma uchun bitta kichik tomchi oynaning o'rta qismiga olinadi»"
+    },
+    {
+      "q": "Fiksatsiya vaqtida metanol qaysi preparatga tegmasligi shart?",
+      "c": "Qalin tomchi",
+      "w": [
+        "Yupqa surtma",
+        "Spreder oynasi",
+        "Patsimon uch",
+        "Buyum oynasi"
+      ],
+      "x": "«metanol qalin tomchiga tegmasligi shart»"
+    },
+    {
+      "q": "Parazitemiya darajasi yupqa surtmada qanday hisoblanadi?",
+      "c": "Zararlangan eritrotsitlar ulushi bo'yicha",
+      "w": [
+        "Jami leykotsitlar soni bo'yicha",
+        "Leykotsitlar tekis taqsimlanishi bo'yicha",
+        "Buferli suv pH qiymati bo'yicha",
+        "Surtma rangi tozaligi bo'yicha"
+      ],
+      "x": "«Uchinchisi parazitemiya darajasini zararlangan eritrotsitlar ulushi bo'yicha hisoblash»"
+    }
+  ],
+  "032": [
+    {
+      "q": "Qalin tomchi bezgak diagnostikasida nima uchun ishlatiladi?",
+      "c": "Kam sonli parazitlarni aniqlash",
+      "w": [
+        "Eritrotsitlarni butun saqlash",
+        "Eritrotsit morfologiyasini ko'rish",
+        "Zararlangan eritrotsitlar ulushini hisoblash",
+        "Parazit turini aniqlash"
+      ],
+      "x": "«Qalin tomchi bir joyga bir necha tomchi qonni to'plab, kam sonli parazitlarni ham aniqlash imkonini beradi»"
+    },
+    {
+      "q": "Qalin tomchi bo'yash paytida nima bo'ladi?",
+      "c": "Eritrotsitlar parchalanadi",
+      "w": [
+        "Eritrotsitlar butun qoladi",
+        "Leykotsitlar parchalanadi",
+        "Parazitlar parchalanadi",
+        "Trombotsitlar parchalanadi"
+      ],
+      "x": "«Bo'yash paytida eritrotsitlar parchalanadi va ko'rish maydonida leykotsitlar, trombotsitlar va parazitlar qoladi»"
+    },
+    {
+      "q": "Qalin tomchi nima sababdan fiksatsiya qilinmaydi?",
+      "c": "Eritrotsitlar yorilishi kerak",
+      "w": [
+        "Eritrotsitlar butun qolishi kerak",
+        "Leykotsitlar yorilishi kerak",
+        "Parazit yadrosi qizarishi kerak",
+        "Metanol bug'i tushishi kerak"
+      ],
+      "x": "«Qalin tomchi fiksatsiya qilinmaydi, chunki u bo'yash vaqtida gemoglobinsizlanishi, ya'ni eritrotsitlar yorilishi kerak»"
+    },
+    {
+      "q": "Giemza eritmasi qaysi tarkibiy qismlardan iborat?",
+      "c": "Eozin va metilen ko'k",
+      "w": [
+        "Eozin va metanol",
+        "Metilen ko'k va metanol",
+        "Azur va buferli suv",
+        "Buferli suv va metanol"
+      ],
+      "x": "«Giemza eritmasi eozin va metilen ko'k (azur) dan iborat»"
+    },
+    {
+      "q": "Tezkor usulda bir vaqtda nechta preparatni bo'yash mumkin?",
+      "c": "1–15 ta preparat",
+      "w": [
+        "20 va undan ortiq preparat",
+        "8–10 ta preparat",
+        "45–60 ta preparat",
+        "100 ta preparat"
+      ],
+      "x": "«Tezkor usul 10 foizli ishchi eritma bilan bajariladi va bir vaqtda 1–15 ta preparatni bo'yash uchun mos»"
+    },
+    {
+      "q": "Sekin usulda preparatlar qancha vaqt bo'yaladi?",
+      "c": "45–60 daqiqa",
+      "w": [
+        "8–10 daqiqa",
+        "20 daqiqa",
+        "15–20 daqiqa",
+        "10 daqiqa"
+      ],
+      "x": "«Preparatlar bo'yash idishiga ketma-ket qo'yiladi va 45–60 daqiqa davomida bo'yaladi»"
+    },
+    {
+      "q": "Sekin usul qaysi holatlarda ayniqsa qulay?",
+      "c": "Epidemiologik tekshiruvlar va dala tadqiqotlarida",
+      "w": [
+        "Ambulator poliklinikalarda shoshilinch tashxisda",
+        "Band laboratoriyalarda 1–15 preparat bo'yashda",
+        "Faqat qalin tomchini fiksatsiya qilishda",
+        "Preparatlarni saqlash qutilarida"
+      ],
+      "x": "«u ayniqsa epidemiologik tekshiruvlar, dala tadqiqotlari va o'quv maqsadida preparatlar tayyorlashda qulay»"
+    },
+    {
+      "q": "Yupqa surtmada eritrotsitlar qanday rangda ko'rinadi?",
+      "c": "Pushti rangda",
+      "w": [
+        "Qizil rangda",
+        "Ko'k rangda",
+        "To'q binafsha rangda",
+        "Fon bilan bir rangda"
+      ],
+      "x": "«eritrotsitlar yupqa surtmada pushti rangda ko'rinadi»"
+    },
+    {
+      "q": "Qalin tomchi yetarlicha qalin hisoblanishi uchun ko'rish maydonida nechta leykotsit bo'lishi kerak?",
+      "c": "15–20 ta leykotsit",
+      "w": [
+        "100 ta leykotsit",
+        "8–10 ta leykotsit",
+        "45–60 ta leykotsit",
+        "10 ta leykotsit"
+      ],
+      "x": "«qalin tomchida 15–20 ta leykotsit ko'rish maydonida bo'lsa, qalinlik yaxshi hisoblanadi»"
+    },
+    {
+      "q": "Parazit yo'q deyish uchun kamida nechta maydon ko'rib chiqiladi?",
+      "c": "100 ta maydon",
+      "w": [
+        "15 ta maydon",
+        "20 ta maydon",
+        "45 ta maydon",
+        "10 ta maydon"
+      ],
+      "x": "«Parazit yo'q deyish uchun kamida 100 ta maydon ko'rib chiqiladi»"
+    }
+  ],
+  "033": [
+    {
+      "q": "Standart protseduralar faqat kimning ruxsati bilan o'zgartirilishi mumkin?",
+      "c": "Sifatni nazorat qiluvchi milliy koordinator",
+      "w": [
+        "Ikkinchi mikroskopist yoki ma'lumotnoma laboratoriyasi",
+        "Laboratoriyani tekshirgan va tasdiqlagan mutaxassis",
+        "Bemor ma'lumotlarini yozgan laborant",
+        "Tashqi sifat baholash dasturi mutaxassisi"
+      ],
+      "x": "«JSST SOPlarida har bir protsedura faqat bezgak mikroskopiyasi sifatini nazorat qiluvchi milliy koordinator ruxsati bilan o'zgartirilishi mumkinligi»"
+    },
+    {
+      "q": "Yaxshi qalin tomchida ko'rish maydonida taxminan nechta leykotsit ko'rinishi kerak?",
+      "c": "15–20 ta leykotsit",
+      "w": [
+        "100 ta qalin leykotsit",
+        "10 ta leykotsit",
+        "40 ta leykotsit",
+        "45 ta leykotsit"
+      ],
+      "x": "«Qalin tomchi yetarlicha qalin bo'lishi, ya'ni ko'rish maydonida taxminan 15–20 leykotsit ko'rinishi kerak»"
+    },
+    {
+      "q": "Parazit topilsa, aralash infeksiyani aniqlash uchun qo'shimcha nechta maydon ko'riladi?",
+      "c": "Yana 100 ta maydon",
+      "w": [
+        "Yana 20 ta maydon",
+        "15 ta maydon",
+        "Yana 40 ta maydon",
+        "10 ta maydon"
+      ],
+      "x": "«Parazit topilsa, aralash infeksiyani aniqlash uchun yana 100 ta maydon ko'riladi»"
+    },
+    {
+      "q": "Yaroqsiz preparat bilan qanday ish tutiladi?",
+      "c": "Qayta tayyorlanadi",
+      "w": [
+        "Mikroskopda ko'riladi",
+        "Ikkinchi mutaxassisga yuboriladi",
+        "Natija jurnalga yoziladi",
+        "Bo'yoq bilan qayta yuviladi"
+      ],
+      "x": "«Yaroqsiz preparat ko'rilmaydi, balki qayta tayyorlanadi»"
+    },
+    {
+      "q": "Mikroskopiya sifatining eng muhim vositasi nima?",
+      "c": "Preparatlarni ikkinchi mutaxassis tomonidan qayta ko'rib chiqish",
+      "w": [
+        "Preparatlarni laboratoriya jurnaliga yozib borish",
+        "Mikroskop obyektivlari va yoritish tizimini muntazam tekshirish",
+        "Xodimlarni muntazam qayta tayyorlash va kontrol preparatlarda mashq qilish",
+        "Qon bilan ifloslangan materiallarni yoqish yoki avtoklavlash"
+      ],
+      "x": "«Mikroskopiya sifatining eng muhim vositasi preparatlarni ikkinchi mutaxassis tomonidan qayta ko'rib chiqishdir»"
+    },
+    {
+      "q": "Tezkor test manfiy bo'lib, klinik shubha saqlansa, nima qilinadi?",
+      "c": "Mikroskopiya takrorlanadi",
+      "w": [
+        "Test natijasi yozib qo'yiladi",
+        "Preparat qayta tayyorlanadi",
+        "Yupqa surtma fiksatsiya qilinadi",
+        "Bo'yoq partiyasi almashtiriladi"
+      ],
+      "x": "«tezkor test manfiy bo'lib, klinik shubha saqlansa, mikroskopiya takrorlanadi»"
+    },
+    {
+      "q": "Xorijiy davlatlarga borib kelganlar preparatlarining necha foizi hududiy DSENM parazitologiya laboratoriyasiga yuboriladi?",
+      "c": "100 foizi",
+      "w": [
+        "Taxminan 10 foizi",
+        "15 foizi",
+        "20 foizi",
+        "40 foizi"
+      ],
+      "x": "«barcha musbat preparatlar va xorijiy davlatlarga borib kelganlar preparatlarining 100 foizi hududiy DSENM parazitologiya laboratoriyasiga yuborilishi kerak»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra tibbiy xodimlarning bilimi qanday usulda baholanadi?",
+      "c": "So'rov va test orqali",
+      "w": [
+        "Kolleksiya preparatlari orqali",
+        "Tashqi baholash dasturlari orqali",
+        "Jurnal yozuvlari tahlili orqali",
+        "Mikroskopiya takrorlash orqali"
+      ],
+      "x": "«Tibbiy xodimlarning bilimi so'rov va test»"
+    },
+    {
+      "q": "Tumandagi davolash-profilaktika muassasalarida bezgak diagnostikasi sifatini kim nazorat qiladi?",
+      "c": "Tuman DSENM parazitologi va vrach-laboranti",
+      "w": [
+        "Hududiy DSENM parazitologiya laboratoriyasi",
+        "Mustaqil ikkinchi mikroskopist",
+        "Ma'lumotnoma laboratoriyasi mutaxassislari",
+        "Milliy koordinator va ikkinchi mikroskopist"
+      ],
+      "x": "«tumandagi davolash-profilaktika muassasalarida bezgak diagnostikasi sifatini tuman DSENM parazitologi va vrach-laboranti nazorat qiladi»"
+    },
+    {
+      "q": "Mikroskopik tekshiruvda preparat qaysi tartibda ko'riladi?",
+      "c": "Chap yuqori burchakdan boshlab maydon-maydon",
+      "w": [
+        "Chap pastki burchakdan boshlab maydon-maydon",
+        "Preparat o'rtasidan boshlab maydon-maydon",
+        "Patsimon uchdan boshlab maydon-maydon",
+        "Qalin tomchi chetidan boshlab maydon-maydon"
+      ],
+      "x": "«Preparat tizimli ravishda, chap yuqori burchakdan boshlab, maydon-maydon ko'riladi»"
+    }
+  ],
+  "034": [
+    {
+      "q": "Sertifikatlash uchun ariza topshirishga ketma-ket necha yil mahalliy holat bo'lmagan mamlakatlar haqli?",
+      "c": "Kamida uch yil",
+      "w": [
+        "Kamida bir yil",
+        "Kamida ikki yil",
+        "Uzoq yillar davomida",
+        "Kamida 2018 yil"
+      ],
+      "x": "«O'zbekiston 2018-yilda bezgakdan holi deb sertifikatlangan va bu kamida uch yil mahalliy holat bo'lmaganini anglatadi»"
+    },
+    {
+      "q": "Mahalliy (indigen) holat nima?",
+      "c": "Hudud ichida chivin orqali zararlangan bemor",
+      "w": [
+        "Boshqa mamlakatda zararlanib, keyin aniqlangan bemor",
+        "Qon quyish orqali kasallangan bemor",
+        "Davolashdan keyin kasalligi qaytalangan bemor",
+        "Sayohat tarixi aniqlangan bemor"
+      ],
+      "x": "«Mahalliy, ya'ni indigen, holat zararlanish shu hudud ichida, shu yerdagi chivin orqali sodir bo'lgan bemordir»"
+    },
+    {
+      "q": "Import qilingan holatda zararlanish qayerda yuz bergan?",
+      "c": "Boshqa mamlakat yoki hududda",
+      "w": [
+        "Hudud ichida, mahalliy chivin chaqishidan",
+        "Qon quyilganligi aniqlangan hududda",
+        "Bemor yashaydigan joylarda",
+        "Epidemiologik tekshiruv hujjatlarida"
+      ],
+      "x": "«import qilingan holatda zararlanish boshqa mamlakat yoki hududda yuz bergan, kasallik esa keyin aniqlangan»"
+    },
+    {
+      "q": "Chet elga chiqmagan odamda bezgak topilsa, bu nima deb qaraladi?",
+      "c": "Favqulodda signal",
+      "w": [
+        "Import qilingan holat",
+        "Qaytalangan holat",
+        "Sun'iy yuqtirilgan holat",
+        "Qon orqali yuqqan holat"
+      ],
+      "x": "«Shuning uchun chet elga chiqmagan odamda bezgak topilsa, bu favqulodda signal»"
+    },
+    {
+      "q": "Mahalliy holat aniqlanganda atrofdagi aholi orasida nima qilinadi?",
+      "c": "Isitmalovchilar faol qidiriladi",
+      "w": [
+        "Epidemiologik tekshiruv to'xtatiladi",
+        "Sertifikatlash uchun ariza topshiriladi",
+        "Holat import deb tasniflanadi",
+        "Chivinlarga qarshi ishlov berilmaydi"
+      ],
+      "x": "«atrofdagi aholi orasida isitmalovchilar faol qidiriladi»"
+    },
+    {
+      "q": "Uch yillik davr qaysi sanadan keyin hisoblanadi?",
+      "c": "Oxirgi mahalliy holat yilidan",
+      "w": [
+        "Sertifikat olingan yildan",
+        "Import holat aniqlangan yildan",
+        "Ariza topshirilgan yildan",
+        "Chivinlar aniqlangan yildan"
+      ],
+      "x": "«Oxirgi mahalliy holat yili sertifikatlash jarayoni uchun hisoblanadi: uch yillik davr shu sanadan keyin hisoblanadi»"
+    },
+    {
+      "q": "Holatni mahalliy deb tasniflash uchun qaysi mezon aniqlanishi kerak?",
+      "c": "Zararlanish joyida tashuvchi chivinlar mavjudligi",
+      "w": [
+        "Zararlanish joyida tashuvchi chivinlar yo'qligi",
+        "Bemorning endemik hududga borganligi",
+        "Qon mahsulotlari orqali yuqqanligi",
+        "Epidemiologik tekshiruv hujjatlari yo'qligi"
+      ],
+      "x": "«zararlanish joyida tashuvchi chivinlar mavjudligi aniqlanishi kerak»"
+    },
+    {
+      "q": "Bezgakdan holi maqom olingandan keyin laboratoriya tashxisi nima sababdan to'xtatilmaydi?",
+      "c": "Import holatlar xavfi saqlanadi",
+      "w": [
+        "Mahalliy holatlar soni ko'payadi",
+        "Aholi xabardor qilinmaydi",
+        "Sertifikat qaytarib olinadi",
+        "Chivinlar ko'payishi to'xtaydi"
+      ],
+      "x": "«Maqom olgandan keyin ham import holatlar xavfi saqlanadi»"
+    },
+    {
+      "q": "Oxirgi holatdan keyin ko'p vaqt o'tgan bo'lsa, yoshlar haqida nima deyish mumkin?",
+      "c": "Bezgak bilan hech qachon uchrashmagan",
+      "w": [
+        "Immunitetga ega bo'lgan",
+        "Muntazam bezgak bilan uchrashadi",
+        "Mahalliy chivinlar orqali zararlangan",
+        "Bezgakdan holi maqomga ega emas"
+      ],
+      "x": "«yoshlar bezgak bilan hech qachon uchrashmagan va immunitetga ega emas»"
+    },
+    {
+      "q": "Rasmiy hisobotlarda import qilingan holatlar qanday yoziladi?",
+      "c": "Qaysi mamlakatdan kelgani bilan yoziladi",
+      "w": [
+        "Mahalliy holatlar bilan birga sanaladi",
+        "Faqat hudud va viloyat bilan yoziladi",
+        "Sertifikat yili bilan yoziladi",
+        "Epidemiologik tekshiruv kartasiga yoziladi"
+      ],
+      "x": "«import qilingan holatlar esa qaysi mamlakatdan kelgani bilan yoziladi»"
+    },
+    {
+      "q": "JSST vektorga qarshi kurashni nima deb hisoblaydi?",
+      "c": "Bezgak nazoratining muhim qismi",
+      "w": [
+        "Mahalliy holat ta'rifining asosi",
+        "Sertifikatlash jarayonining asosiy qismi",
+        "Import holatlar hisobotining qismi",
+        "Tashxis qo'yilgan holatlar ro'yxati"
+      ],
+      "x": "«JSST vektorga qarshi kurashni bezgak nazoratining muhim qismi deb hisoblaydi»"
+    }
+  ],
+  "035": [
+    {
+      "q": "JSST odamda bezgak qo'zg'atadigan nechta Plasmodium turini ajratadi?",
+      "c": "Beshta tur",
+      "w": [
+        "To'rt ta tur",
+        "Uch ta tur",
+        "Ikki ta tur",
+        "Bir ta tur"
+      ],
+      "x": "«JSST odamda bezgak qo'zg'atadigan beshta Plasmodium turini ko'rsatadi»"
+    },
+    {
+      "q": "Tropik bezgakni qaysi tur qo'zg'atadi?",
+      "c": "P. falciparum",
+      "w": [
+        "P. vivax, ya'ni uch kunlik",
+        "P. malariae",
+        "P. ovale",
+        "P. knowlesi"
+      ],
+      "x": "«tropik bezgak (P. falciparum)»"
+    },
+    {
+      "q": "P. malariae qo'zg'atgan bezgak nima deb ataladi?",
+      "c": "To'rt kunlik bezgak",
+      "w": [
+        "Uch kunlik bezgak",
+        "Uch kunlik ovale-bezgak",
+        "Zoonoz bezgak",
+        "Ovale-bezgak"
+      ],
+      "x": "«to'rt kunlik bezgak (P. malariae)»"
+    },
+    {
+      "q": "Aralash bezgak nima?",
+      "c": "Bir bemorda ikki yoki undan ortiq tur parazitlari",
+      "w": [
+        "Davolashdan keyin jigardagi gipnozoitlar tufayli qaytalanish",
+        "Qon quyish orqali yuqqan bir tur infeksiya",
+        "Onadan homilaga yuqqan tug'ma infeksiya",
+        "Uch kunlik bezgakning qaytalanishi"
+      ],
+      "x": "«Bir bemorda ikki yoki undan ortiq tur parazitlari bir vaqtda bo'lishi mumkin; bunday holat aralash bezgak yoki aralash infeksiya deyiladi»"
+    },
+    {
+      "q": "Quyidagilardan qaysi biri og'ir bezgak belgisi hisoblanadi?",
+      "c": "Hushning buzilishi",
+      "w": [
+        "Isitma va titroq",
+        "Bosh og'rig'i",
+        "Yengil kechuvchi isitma",
+        "Titroq va bosh og'rig'i"
+      ],
+      "x": "«Og'ir belgilar: o'ta holsizlik, hushning buzilishi, ko'p marta tutqanoq, nafas qiyinlashuvi, to'q yoki qonli siydik, sariqlik va g'ayritabiiy qon ketish»"
+    },
+    {
+      "q": "Jigardagi gipnozoitlar tufayli qaytalanish qanday ataladi?",
+      "c": "Uzoq qaytalanish",
+      "w": [
+        "Yaqin qaytalanish",
+        "Yengil qaytalanish",
+        "Aralash qaytalanish",
+        "Tropik qaytalanish"
+      ],
+      "x": "«uzoq qaytalanish, ya'ni jigardagi gipnozoitlar tufayli»"
+    },
+    {
+      "q": "Yuqish yo'li bo'yicha parenteral shakl qanday yuqadi?",
+      "c": "Ifloslangan ignalar orqali",
+      "w": [
+        "Urg'ochi chivinlar orqali",
+        "Qon quyish yo'li orqali",
+        "Onadan homilaga",
+        "Donorlar orqali"
+      ],
+      "x": "«parenteral, ya'ni ifloslangan ignalar orqali»"
+    },
+    {
+      "q": "Bezgak belgilari odatda zararlangan chivin chaqqanidan keyin necha kun ichida boshlanadi?",
+      "c": "10–15 kun ichida",
+      "w": [
+        "1–15 kun ichida",
+        "20 kun ichida",
+        "45–60 kun ichida",
+        "100 kun ichida"
+      ],
+      "x": "«JSST belgilar odatda zararlangan chivin chaqqanidan keyin 10–15 kun ichida boshlanishini ko'rsatadi»"
+    },
+    {
+      "q": "Davolashning samarasizligi tasnifda qanday ta'riflanadi?",
+      "c": "Qondagi parazit kamaymasligi",
+      "w": [
+        "Klinik va parazitologik tiklanish",
+        "Artemizininga qisman qarshilik",
+        "Jigardagi gipnozoitlar tufayli qaytalanish",
+        "Yaqin qaytalanish xavfi"
+      ],
+      "x": "«davolashning samarasizligi, ya'ni qondagi parazit kamaymasligi»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra holatlar tasnifi nimaga asos bo'ladi?",
+      "c": "O'choq toifasini belgilashga",
+      "w": [
+        "Donorlar tekshiruviga",
+        "Chivinlarga qarshi kurash usuliga",
+        "Artemizininga qarshilikni aniqlashga",
+        "Aralash infeksiyani belgilashga"
+      ],
+      "x": "«Bu tasnif har bir holat bo'yicha epidemiologik tekshiruv natijasida aniqlanadi va o'choq toifasini belgilash uchun asos bo'ladi»"
+    },
+    {
+      "q": "Tropik bezgak asoratlar xavfi yuqori bo'lgani uchun nimani talab qiladi?",
+      "c": "Shoshilinch yordam",
+      "w": [
+        "Qaytalanishlarni kuzatish",
+        "Ikkinchi ko'rib chiqish",
+        "Parazit qarshiligini aniqlash",
+        "Donorlarni tekshirish"
+      ],
+      "x": "«tropik bezgak asoratlar xavfi yuqori bo'lgani uchun shoshilinch yordam talab qiladi»"
+    }
+  ]
+}

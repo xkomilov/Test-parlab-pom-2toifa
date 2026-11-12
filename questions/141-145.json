@@ -1,0 +1,573 @@
+{
+  "141": [
+    {
+      "q": "Ichak gelmintozlarini tekshirish qaysi ikki turdagi ko'rsatmaga asosan tayinlanadi?",
+      "c": "Klinik va epidemiologik ko'rsatmalarga",
+      "w": [
+        "Laboratoriya va profilaktik ko'rsatmalarga",
+        "Sanitariya va klinik ko'rsatmalarga",
+        "Individual va ommaviy ko'rsatmalarga",
+        "Ichak va qon ko'rsatmalarga"
+      ],
+      "x": "«Tekshiruv ikki sababga ko'ra tayinlanadi: shikoyat va belgilar bo'lganda (klinik ko'rsatma) hamda zararlanish xavfi yuqori bo'lgan guruhlarda belgisiz bo'lsa ham (epidemiologik ko'rsatma).»"
+    },
+    {
+      "q": "Yengil intensivlikdagi tuproq gelmintozlari odatda qanday kechadi?",
+      "c": "Kasallik belgilari bermaydi",
+      "w": [
+        "Ichak tutilishi bilan kechadi",
+        "Og'ir kamqonlik belgilari beradi",
+        "O'sishdan orqada qolish beradi",
+        "Diareya va qorin og'rig'i beradi"
+      ],
+      "x": "«JSST tuproq gelmintlari yengil intensivlikda odatda kasallik belgilari bermasligini, og'ir zararlanishda esa belgilar paydo bo'lishini ta'kidlaydi»"
+    },
+    {
+      "q": "Ankilostomalar nima sababdan kamqonlikka olib kelishi mumkin?",
+      "c": "Ichakda surunkali qon yo'qotilishiga olib keladi",
+      "w": [
+        "Ichak tutilishi va ishtahasizlikka olib keladi",
+        "To'yib ovqatlanmaslik va holsizlikka olib keladi",
+        "Qorin og'rig'i va diareyaga olib keladi",
+        "O'sish va rivojlanishning susayishiga olib keladi"
+      ],
+      "x": "«ankilostomalar ichakda surunkali qon yo'qotilishiga olib keladi va bu o'spirin qizlar va tug'ish yoshidagi ayollarda kamqonlikka sabab bo'lishi mumkin»"
+    },
+    {
+      "q": "Juda yuqori intensivlikda qanday holat bo'lishi mumkin?",
+      "c": "Ichak tutilishi",
+      "w": [
+        "Surunkali kamqonlik",
+        "Ishtahasizlik va ko'ngil aynishi",
+        "O'sishning susayishi",
+        "Qorin dam bo'lishi"
+      ],
+      "x": "«Juda yuqori intensivlikda ichak tutilishi ham bo'lishi mumkin.»"
+    },
+    {
+      "q": "Enterobioz uchun namuna qaysi usul bilan olinadi?",
+      "c": "Yuvinishdan oldin yopishqoq tasma usuli",
+      "w": [
+        "Toza quruq idishga najas olish usuli",
+        "Siydik bilan aralashgan najas usuli",
+        "Tuproq va qum yuvindisi usuli",
+        "Qo'l yuvindisini topshirish usuli"
+      ],
+      "x": "«Enterobioz uchun ertalab yuvinishdan oldin yopishqoq tasma usuli ishlatiladi»"
+    },
+    {
+      "q": "Askaridada 50 000 va undan yuqori epg qaysi intensivlik toifasiga kiradi?",
+      "c": "Og'ir intensivlik",
+      "w": [
+        "Yengil intensivlik",
+        "O'rta intensivlik",
+        "Juda yuqori intensivlik",
+        "Past intensivlik"
+      ],
+      "x": "«Intensivlik toifalari: askaridada 1–4999 epg yengil, 5000–49 999 o'rta, 50 000 va undan yuqori og'ir»"
+    },
+    {
+      "q": "JSST tuproq gelmintlari tarqalishi qancha bo'lgan hududlarda davriy ommaviy davolashni tavsiya qiladi?",
+      "c": "20 foiz va undan yuqori",
+      "w": [
+        "24 foiz va undan yuqori",
+        "50 foiz va undan yuqori",
+        "20 foiz va undan past",
+        "1,5 milliard va undan yuqori"
+      ],
+      "x": "«JSST tuproq gelmintlari tarqalishi 20 foiz va undan yuqori bo'lgan hududlarda davriy ommaviy davolashni tavsiya qilgan»"
+    },
+    {
+      "q": "Teniidozlarga yiliga 1 marta qaysi kontingent tekshiriladi?",
+      "c": "Chorvachilik va qushxona xodimlari, qassoblar, oshpazlar",
+      "w": [
+        "Fermerlar, sabzavot yetishtiruvchilar va kattalar",
+        "Maktabgacha muassasa bolalari va xodimlari",
+        "Basseynga qatnaydiganlar va bemorlar bilan muloqotdagilar",
+        "1–4-sinf o'quvchilari va dekretiv kontingentlar"
+      ],
+      "x": "«teniidozlarga esa chorvachilik va qushxona xodimlari, qassoblar va oshpazlar yiliga 1 marta tekshiriladi»"
+    },
+    {
+      "q": "Bitta bola enterobioz bilan aniqlansa, oilada nima qilinadi?",
+      "c": "Boshqa a'zolar ham tekshiriladi",
+      "w": [
+        "Faqat bola tekshiriladi",
+        "Boshqa a'zolar tekshirilmaydi",
+        "Bola muassasaga qabul qilinmaydi",
+        "Dehqonlar va sabzavotchilar tekshiriladi"
+      ],
+      "x": "«Enterobioz oilada va jamoada tez tarqaladi, shuning uchun bitta bola aniqlansa, boshqa a'zolar ham tekshiriladi»"
+    },
+    {
+      "q": "Davolashdan oldin o'tkaziladigan tekshiruv nimani aniqlaydi?",
+      "c": "Zararlanish turi va intensivligini",
+      "w": [
+        "Xavf guruhi va kasb turini",
+        "Namuna idishining toza ekanini",
+        "Najas siydik bilan aralashganini",
+        "Davolash samaradorligini"
+      ],
+      "x": "«Davolashdan oldin tekshiruv zararlanish turi va intensivligini aniqlaydi, davodan keyin esa samaradorligi baholanadi»"
+    }
+  ],
+  "142": [
+    {
+      "q": "Gelmintozlarni muntazam nazorat qilishda eng ko'p ishlatiladigan usul qaysi?",
+      "c": "Najasda tuxumlarni topish",
+      "w": [
+        "Antitelolarni aniqlash usuli",
+        "Immunologik serologik tekshiruv",
+        "Perianal tasma usuli",
+        "Strongiloidoz uchun maxsus usul"
+      ],
+      "x": "«Eng ko'p ishlatiladigan usul — najasda tuxumlarni topish.»"
+    },
+    {
+      "q": "Kato–Katz usuli najasning standart miqdoridagi tuxumlarni sanab, nimani beradi?",
+      "c": "Bir gramm najasdagi tuxum sonini",
+      "w": [
+        "Epg bo'yicha intensivlikni",
+        "Intensivlik toifalari bo'yicha taqsimotni",
+        "Antitelolar miqdorini",
+        "Mikroskopist malakasini"
+      ],
+      "x": "«Usul najasning standart miqdoridagi tuxumlarni sanab, bir gramm najasdagi tuxum sonini (epg) beradi.»"
+    },
+    {
+      "q": "Qilbosh chuvalangda 1000–9999 epg qaysi intensivlik toifasiga kiradi?",
+      "c": "O'rta intensivlik",
+      "w": [
+        "Yengil intensivlik",
+        "Og'ir intensivlik",
+        "Past intensivlik",
+        "Tuxum yo'q"
+      ],
+      "x": "«Qilbosh chuvalangda 1–999 epg yengil, 1000–9999 o'rta, 10 000 va undan yuqori og'ir»"
+    },
+    {
+      "q": "Strongyloides stercoralis nima sababdan ko'pincha aniqlanmay qoladi?",
+      "c": "Farqli diagnostik usullar talab qiladi",
+      "w": [
+        "Yengil zararlanishda sezgirligi past bo'ladi",
+        "Mikroskopist yaxshi o'qitilmagan bo'ladi",
+        "Najas namunasi yuqumli bo'lib qoladi",
+        "Albendazol va mebendazolga sezgir bo'ladi"
+      ],
+      "x": "«JSST Strongyloides stercoralis boshqa tuproq gelmintlaridan farqli diagnostik usullarni talab qilishini, shu sababli u ko'pincha aniqlanmay qolishini yozgan»"
+    },
+    {
+      "q": "Enterobioz uchun najas tekshiruvi ishonchsiz bo'lsa, qaysi usul qo'llanadi?",
+      "c": "Yopishqoq tasma usuli",
+      "w": [
+        "Kato–Katz surtmasi usuli",
+        "Sirka-efirli cho'ktirish usuli",
+        "Berman lichinka usuli",
+        "Flotatsiya eritmasi usuli"
+      ],
+      "x": "«Enterobioz uchun najas tekshiruvi ishonchsiz, shuning uchun yopishqoq tasma usuli qo'llanadi.»"
+    },
+    {
+      "q": "Immunologik usullarda antitelolarni aniqlash nimani farqlamaydi?",
+      "c": "Joriy va o'tgan infeksiyani",
+      "w": [
+        "Enterobioz va strongiloidozni",
+        "Askarida va qilbosh chuvalangni",
+        "Yengil va og'ir intensivlikni",
+        "Kato–Katz va McMaster usullarini"
+      ],
+      "x": "«JSST trematodozlar bo'yicha immunologik usullar sezgirroq bo'lishi mumkin, ammo antitelolarni aniqlash joriy, yaqinda o'tgan va o'tgan infeksiyani farqlamasligini ko'rsatadi»"
+    },
+    {
+      "q": "Dehelmintizatsiya dasturlari tarqalish qancha bo'lgan hududlarda tavsiya etilgan?",
+      "c": "20 foiz va undan yuqori",
+      "w": [
+        "10 foiz va undan yuqori",
+        "50 foiz va undan yuqori",
+        "20 foiz va undan past",
+        "1–999 epg va undan yuqori"
+      ],
+      "x": "«Dehelmintizatsiya dasturlari tarqalish 20 foiz va undan yuqori bo'lgan hududlarda tavsiya etilgan»"
+    },
+    {
+      "q": "Mikroskopiya sifati nimalarga bog'liq?",
+      "c": "Mutaxassis tayyorgarligi va ichki nazorat",
+      "w": [
+        "Tanlanma hajmi, namuna soni va saqlash muddati",
+        "Tarqalish darajasi, tuxum soni va hududlar farqi",
+        "Usul tafsilotlari, namuna soni va hisobotlar",
+        "Perianal tasma, immunologik usul va serologiya"
+      ],
+      "x": "«Mikroskopiya sifati mutaxassis tayyorgarligi, preparatlar sifati va ichki nazoratga bog'liq.»"
+    },
+    {
+      "q": "Lichinkalarni aniqlash (koprolarvoskopiya) uchun qaysi usul keltirilgan?",
+      "c": "Berman usuli",
+      "w": [
+        "Kato usuli",
+        "Kalantaryan usuli",
+        "Sirka-efirli cho'ktirish",
+        "Perianal surtma usuli"
+      ],
+      "x": "«lichinkalarni aniqlash (koprolarvoskopiya) uchun Berman usuli»"
+    },
+    {
+      "q": "Oziq-ovqat orqali yuqadigan trematodozlar uchun nechta Kato–Katz surtmasi tayyorlash tavsiya etiladi?",
+      "c": "2 ta surtma",
+      "w": [
+        "1 ta surtma",
+        "3 ta surtma",
+        "4 ta surtma",
+        "5 ta surtma"
+      ],
+      "x": "«2 ta Kato–Katz surtmasi tayyorlash tavsiya etiladi»"
+    }
+  ],
+  "143": [
+    {
+      "q": "Sanitariya-gelmintologik nazorat atrof-muhit ob'ektlarida nimani aniqlaydi?",
+      "c": "Gelmint tuxumlari va lichinkalari bor-yo'qligini",
+      "w": [
+        "Aholining tibbiy ko'rikdan o'tish natijalarini",
+        "Tuproqdagi zararli moddalar konsentratsiyalarini",
+        "Najas bilan o'g'itlash hajmini",
+        "Hojatxonalar soni va joylashuvini"
+      ],
+      "x": "«Sanitariya-gelmintologik nazorat — atrof-muhit ob'ektlarida gelmint tuxumlari, lichinkalari va boshqa yuqumli bosqichlari bor-yo'qligini aniqlash orqali aholi zararlanish xavfini baholash va kamaytirishdir.»"
+    },
+    {
+      "q": "Tuproq namunalari laboratoriyada qaysi usullar bilan tekshiriladi?",
+      "c": "Cho'ktirish yoki flotatsiya usullari",
+      "w": [
+        "Filtrlash va dezinfeksiya usullari",
+        "Dalolatnoma va bayonnoma usullari",
+        "Tuproqni almashtirish usullari",
+        "Mikroskopda ko'rish va hujjatlashtirish"
+      ],
+      "x": "«Tuproq va chiqindi namunalari konsentratsiya usullari bilan tekshiriladi: namuna suv yoki eritma bilan aralashtiriladi, cho'ktiriladi yoki flotatsiya qilinadi»"
+    },
+    {
+      "q": "Najas bilan chiqqan tuxumlar yuqumli bo'lishi uchun tuproqda taxminan qancha pishadi?",
+      "c": "3 hafta",
+      "w": [
+        "1 hafta",
+        "2 hafta",
+        "5 hafta",
+        "6 hafta"
+      ],
+      "x": "«JSST ma'lumotiga ko'ra, tuxumlar najas bilan chiqib, tuproqda taxminan 3 hafta pishgandan keyin yuqumli bo'ladi»"
+    },
+    {
+      "q": "Quyidagilardan qaysi biri ifloslanish manbai hisoblanadi?",
+      "c": "Najas bilan o'g'itlash",
+      "w": [
+        "Tuproqni almashtirish",
+        "Suvni tozalash",
+        "O'yin joylarini yopish",
+        "Gigiyena ta'limi"
+      ],
+      "x": "«Ifloslanish manbalari: najas bilan o'g'itlash, kanalizatsiyasiz hojatxonalar, izg'ib yuruvchi itlar va mushuklar, oqova suvlar bilan sug'orish.»"
+    },
+    {
+      "q": "Tuproq va oqova suv namunalari bilan ishlaganda laborant nimalardan foydalanadi?",
+      "c": "Qo'lqop, xalat va niqob",
+      "w": [
+        "Tamponlar, steril idishlar va tarozi",
+        "Mikroskop, preparat va flotatsiya eritmasi",
+        "Natriy ishqori va glitserin eritmasi",
+        "Yopiq idish, jurnal va dalolatnoma"
+      ],
+      "x": "«laborant qo'lqop, xalat va niqob ishlatadi»"
+    },
+    {
+      "q": "Surtmalar qaysi eritmaga bo'ktirilgan tamponlar bilan olinadi?",
+      "c": "1% natriy ishqori yoki 20% glitserin eritmasi",
+      "w": [
+        "1% natriy xlorid yoki 20% glitserin eritmasi",
+        "20% natriy ishqori yoki 1% glitserin eritmasi",
+        "Steril suv yoki 20% natriy ishqori",
+        "Flotatsiya eritmasi yoki cho'kma yuvindisi"
+      ],
+      "x": "«surtmalar 1% natriy ishqori yoki 20% glitserin eritmasiga bo'ktirilgan tamponlar bilan olinadi»"
+    },
+    {
+      "q": "Namunalar o'choqlarda yiliga necha marta olinadi?",
+      "c": "2–3 marta",
+      "w": [
+        "Kamida 1 marta",
+        "4–5 marta",
+        "6–7 marta",
+        "2–3 hafta"
+      ],
+      "x": "«Namunalar yiliga kamida 1 marta, o'choqlarda 2–3 marta olinadi»"
+    },
+    {
+      "q": "Tuproqning intensiv ifloslanish ko'rsatkichi nima bo'yicha aniqlanadi?",
+      "c": "Tuproqdagi tuxum, lichinka va sista soni",
+      "w": [
+        "Aniqlangan namunalar sonining foizdagi nisbati",
+        "Steril idishlardagi namunalar umumiy soni",
+        "Tuproqdagi zararli moddalar konsentratsiyasi",
+        "Ruxsat etilgan maksimal konsentratsiyalar soni"
+      ],
+      "x": "«intensiv ifloslanish ko'rsatkichi esa 100 g yoki 1 kg tuproqdagi tuxum, lichinka, sista va oosistalar soni bo'yicha aniqlanadi»"
+    },
+    {
+      "q": "Nazoratni davriy rejalashtirishda nimaga qarab belgilanadi?",
+      "c": "Mavsumga va oldingi natijalarga",
+      "w": [
+        "Hujjat shakllari va saqlash muddatiga",
+        "Tuxum turi, soni va hayotiyligiga",
+        "Namuna idishining hajmi va shakliga",
+        "Dalolatnoma va jurnal yozuviga"
+      ],
+      "x": "«Nazorat bir martalik emas, davriy bo'lishi kerak: mavsumga, hududning xavf darajasiga va oldingi natijalarga qarab rejalashtiriladi»"
+    },
+    {
+      "q": "Tuxumning hayotiyligini baholash nimani ko'rsatadi?",
+      "c": "Ob'ektning haqiqiy xavfini",
+      "w": [
+        "Namuna olingan joy nomini",
+        "Namuna olish tartibini",
+        "Laboratoriya jurnali shaklini",
+        "Natijalarni saqlash muddatini"
+      ],
+      "x": "«Tuxumning hayotiyligini baholash ob'ektning haqiqiy xavfini ko'rsatadi.»"
+    }
+  ],
+  "144": [
+    {
+      "q": "Nima uchun tuproq eng muhim ob'ekt hisoblanadi?",
+      "c": "Geogelmintlar tuxumlari tuproqda pishadi",
+      "w": [
+        "Amyoba kistalari xlorga chidamli bo'ladi",
+        "Sirtlardan enterobioz tuxumlari topiladi",
+        "Suv orqali protozoy kistalari tarqaladi",
+        "Sabzavotga tuxumlar yopishib qoladi"
+      ],
+      "x": "«Tuproq eng muhim ob'ekt, chunki geogelmintlar tuxumlari shu yerda pishadi.»"
+    },
+    {
+      "q": "AQShda parklar va qum qutilaridagi tuproqda Toxocara tuxumlari necha foizgacha topilgan?",
+      "c": "0,3 dan 39 foizgacha",
+      "w": [
+        "3 dan 39 foizgacha",
+        "1 dan 24 foizgacha",
+        "5 dan 50 foizgacha",
+        "0,3 dan 9 foizgacha"
+      ],
+      "x": "«AQShda parklar va qum qutilaridan olingan tuproq namunalarida Toxocara tuxumlari 0,3 dan 39 foizgacha topilgani xabar qilingan»"
+    },
+    {
+      "q": "Nima uchun suvni faqat xlorlash yetarli deb hisoblanmaydi?",
+      "c": "Amyoba kistalari xlorga chidamli",
+      "w": [
+        "Lyamblia tuxumlari tuproqda pishadi",
+        "Ichimlik suvi xlorlanmaydi",
+        "Suv manbalari tekshirilmaydi",
+        "Protozoy kistalari suv orqali tarqalmaydi"
+      ],
+      "x": "«Amyoba kistalari xlorga chidamli bo'lgani uchun suvni faqat xlorlash yetarli deb hisoblanmaydi»"
+    },
+    {
+      "q": "Bolalar muassasalaridagi sirtlardan qaysi tuxumlar topiladi?",
+      "c": "Enterobioz tuxumlari",
+      "w": [
+        "Askarida va Toxocara tuxumlari",
+        "Amyoba kistalari",
+        "Lyamblia kistalari",
+        "Askarida tuxumlari"
+      ],
+      "x": "«Enterobioz tuxumlari sirtlarda ham topiladi, shuning uchun bola muassasalarida bu ob'ektlar ahamiyatli.»"
+    },
+    {
+      "q": "Toxocara tuxumlari bilan ifloslanishi mumkin bo'lgan qaysi hayvonlar najasi nazoratga kiradi?",
+      "c": "It va mushuk najasi",
+      "w": [
+        "Go'sht va baliq chiqindilari",
+        "Chorvachilik xo'jaliklari najasi",
+        "Oqova suvlar cho'kindisi",
+        "Kanalizatsiya oqovasi"
+      ],
+      "x": "«It va mushuk najasi, ularning uy-joylari va yurish joylari ham nazoratga kiradi, chunki Toxocara kabi hayvon askaridalari odamni zararlashi mumkin»"
+    },
+    {
+      "q": "Ob'ektlar xavf darajasiga qarab tanlanganda birinchi navbatda qaysilar tekshiriladi?",
+      "c": "Bolalar muassasalari va o'yin maydonlari",
+      "w": [
+        "Chorvachilik xo'jaliklari va so'yish joylari",
+        "Surunkali ruhiy kasalliklar shifoxonalari",
+        "Tozalash inshootlari va cho'kindi",
+        "Egasiz hayvonlar yashash joylari"
+      ],
+      "x": "«bolalar muassasalari, o'yin maydonlari, ichimlik suvi manbalari, bozorlar va sug'orish tizimlari birinchi navbatda tekshiriladi»"
+    },
+    {
+      "q": "Oqava suvlarni gijja tuxumidan zararsizlantiruvchi tozalash inshootlari samaradorligini kim nazorat qiladi?",
+      "c": "DSENM tomonidan",
+      "w": [
+        "Veterinariya xizmati tomonidan",
+        "Mahalliy xizmat tomonidan",
+        "Laborantlar tomonidan",
+        "Rahbariyat tomonidan"
+      ],
+      "x": "«Oqava suvlarni gijja tuxumidan zararsizlantiruvchi tozalash inshootlarining samaradorligi ham DSENM tomonidan nazorat qilinadi»"
+    },
+    {
+      "q": "Muassasada birorta namunada musbat natija aniqlansa, bu nima hisoblanadi?",
+      "c": "Sanitariya-gigiyena tartibining qo'pol buzilishi",
+      "w": [
+        "Parazitologik nazoratning rejaviy natijasi",
+        "Laboratoriya sifat nazoratining xatosi",
+        "Sanitariya rejimining bir qismi",
+        "Sirtlar nazorati sanitariya rejimining bir qismi"
+      ],
+      "x": "«Muassasada birorta namunada musbat natija aniqlansa, bu sanitariya-gigiyena tartibining qo'pol buzilishi hisoblanadi»"
+    },
+    {
+      "q": "Hududingizdagi aniq ob'ektlar ro'yxati qayerdan olinadi?",
+      "c": "Mahalliy xizmatning yillik nazorat rejasidan",
+      "w": [
+        "Natijalar yuboriladigan xizmatlardan",
+        "Veterinariya xizmati hisobotlaridan",
+        "Bolalar muassasalari rahbariyatidan",
+        "Jahon sog'liqni saqlash tashkiloti ma'lumotnomasidan"
+      ],
+      "x": "«Hududingizda aynan qaysi ob'ektlar tekshirilishini bilish uchun mahalliy sanitariya-epidemiologiya xizmati yillik nazorat rejasi va hisobotlarini ko'rish kerak.»"
+    },
+    {
+      "q": "Ekologik ob'ekt nima?",
+      "c": "Zararlanish manbai bo'lishi mumkin bo'lgan qismi",
+      "w": [
+        "Laboratoriyada namunalar tekshiriladigan xona qismi",
+        "Aholi yashash muhitidagi tekshiruv natijalari bayonnomasi",
+        "Mahalliy xizmat rejasidagi hududlar ro'yxati qismi",
+        "Sirt yuvindilari natijalari saqlanadigan yagona baza"
+      ],
+      "x": "«Ekologik ob'ekt — odam yashash muhitining zararlanish manbai yoki yuqish omili bo'lishi mumkin bo'lgan qismi»"
+    }
+  ],
+  "145": [
+    {
+      "q": "Gelmintoz o'chog'i nima?",
+      "c": "Manba, omillar va moyil aholi uchrashadigan hudud",
+      "w": [
+        "Tuproq namunalari olinadigan sanitariya hududi",
+        "Tuxumlar tuproqda pishadigan iqlim zonasi",
+        "Aholi tanlanma tekshiriladigan najas hududi",
+        "Davolash va gigiyena ta'limi o'tkaziladigan hudud"
+      ],
+      "x": "«Gelmintoz o'chog'i — zararlanish manbai, yuqish omillari va moyil aholi bir joyda uchrashadigan hudud.»"
+    },
+    {
+      "q": "Geogelmintozlarda yuqish omili nima?",
+      "c": "Najas bilan ifloslangan tuproq, suv va sabzavot",
+      "w": [
+        "Zararlangan odam va ayniqsa bolalar",
+        "Moyil aholi va sanitariya holati ko'rsatkichlari",
+        "Yalang oyoq yurish va iqlim sharoiti",
+        "Tuproq turi, namlik va harorat sharoiti"
+      ],
+      "x": "«Geogelmintozlarda manba — zararlangan odam, yuqish omili — najas bilan ifloslangan tuproq, suv va sabzavot, moyil aholi esa ayniqsa bolalar»"
+    },
+    {
+      "q": "Najas bilan chiqqan tuxumlar yuqumli bo'lishi uchun tuproqda taxminan qancha pishadi?",
+      "c": "3 hafta",
+      "w": [
+        "1 hafta",
+        "2 hafta",
+        "5 hafta",
+        "8 hafta"
+      ],
+      "x": "«najas bilan chiqqan tuxumlar yuqumli bo'lishi uchun tuproqda taxminan 3 hafta pishadi»"
+    },
+    {
+      "q": "Qilbosh chuvalangda 10 000 va undan yuqori epg qaysi toifaga kiradi?",
+      "c": "Og'ir intensivlik",
+      "w": [
+        "Yengil intensivlik",
+        "O'rta intensivlik",
+        "Sust intensivlik",
+        "Tuxum yo'q"
+      ],
+      "x": "«qilbosh chuvalangda 1–999 yengil, 1000–9999 o'rta, 10 000 va undan yuqori og'ir»"
+    },
+    {
+      "q": "JSST davriy davolashni tarqalish qaysi darajada va undan yuqori bo'lgan hududlarda tavsiya qiladi?",
+      "c": "20 foiz",
+      "w": [
+        "15 foiz",
+        "30 foiz",
+        "10 foiz",
+        "5 foiz"
+      ],
+      "x": "«JSST tuproq gelmintlariga qarshi davriy davolashni tarqalish 20 foiz va undan yuqori bo'lgan hududlarda tavsiya qilgan»"
+    },
+    {
+      "q": "Ankilostomalar teri orqali yuqishi qaysi xavfni oshiradi?",
+      "c": "Yalang oyoq yurish xavfini",
+      "w": [
+        "Tuproq ifloslanishi xavfini",
+        "Suv ifloslanishi xavfini",
+        "Bolalar zararlanishi xavfini",
+        "Qayta zararlanish xavfini"
+      ],
+      "x": "«ankilostomalar teri orqali yuqadi va yalang oyoq yurish xavfini oshiradi»"
+    },
+    {
+      "q": "Gelmintlarning qayta zararlanishi qachon yuz beradi?",
+      "c": "Yuqumli bosqichlar bilan aloqadan keyin",
+      "w": [
+        "Odam tanasida gelmintlar ko'payganidan keyin",
+        "Yangi najas bilan bevosita aloqadan keyin",
+        "Sanitariya yaxshilangandan keyin",
+        "Tuxumlar odam tanasida pishgandan keyin"
+      ],
+      "x": "«JSST qayta zararlanish faqat atrof-muhitdagi yuqumli bosqichlar bilan aloqadan keyin yuz berishini aytgan, chunki gelmintlar odam tanasida ko'paymaydi»"
+    },
+    {
+      "q": "Qo'zg'atuvchining tashqi muhitda aylanishi va aholini zararlash sharoiti bo'lgan o'choq qanday ataladi?",
+      "c": "Asl o'choq",
+      "w": [
+        "Yolg'on o'choq",
+        "Sust intensiv o'choq",
+        "Intensiv o'choq",
+        "O'rta intensiv o'choq"
+      ],
+      "x": "«Qo'zg'atuvchining tashqi muhitda aylanishi va aholini zararlash sharoiti bo'lgan o'choq»"
+    },
+    {
+      "q": "Askaridoz o'chog'i qaysi zararlanish darajasida intensiv turga kiradi?",
+      "c": "30 foiz va undan yuqori",
+      "w": [
+        "15 foiz gacha",
+        "10–15 foiz va undan yuqori",
+        "3–9 foiz va undan past",
+        "5 foiz va undan yuqori"
+      ],
+      "x": "«Askaridoz o'choqlari aholining zararlanishi bo'yicha intensiv (30% va undan yuqori), o'rta intensiv (15–29%) va sust intensiv (15% gacha) turlarga bo'linadi»"
+    },
+    {
+      "q": "Asl va yolg'on o'choqlar o'rtasida bog'liqlik bo'lsa, mikroo'choqlarda sog'lomlashtirish qancha davom etadi?",
+      "c": "2 yil davomida",
+      "w": [
+        "1 yil davomida",
+        "3 yil davomida",
+        "4 yil davomida",
+        "5–6 yil davomida"
+      ],
+      "x": "«ikkala turdagi mikroo'choqlarda 2 yil davomida sog'lomlashtirish o'tkaziladi»"
+    },
+    {
+      "q": "Dasturning samarasi qancha yillik davolashdan keyin baholanishi kerak?",
+      "c": "5–6 yillik davolashdan keyin",
+      "w": [
+        "1–2 yillik davolashdan keyin",
+        "3–4 yillik davolashdan keyin",
+        "7–8 yillik davolashdan keyin",
+        "10 yillik davolashdan keyin"
+      ],
+      "x": "«Dasturning samarasi 5–6 yillik davolashdan keyin epidemiologik baholash orqali o'lchanishi kerak»"
+    }
+  ]
+}

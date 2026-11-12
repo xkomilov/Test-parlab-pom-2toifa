@@ -1,0 +1,617 @@
+{
+  "016": [
+    {
+      "q": "Bezgakning asosiy manbai kim?",
+      "c": "Qonida gametotsitlar bo'lgan odam",
+      "w": [
+        "Anopheles turkumi urg'ochi chivini",
+        "Bezgakdan holi hududdagi sog'lom odam",
+        "Endemik hududdan kelgan homilador ayol",
+        "Besh yoshgacha bo'lgan bola"
+      ],
+      "x": "«Bezgakning asosiy manbai qonida parazitning jinsiy shakllari, ya'ni gametotsitlar bo'lgan odamdir»"
+    },
+    {
+      "q": "Epidemiologik jihatdan eng xavfli guruh kimlar?",
+      "c": "Belgisiz parazit tashuvchilar",
+      "w": [
+        "Besh yoshgacha bolalar",
+        "Homilador ayollar",
+        "Sayohatchilar va OIV bilan yashovchilar",
+        "Bezgakdan holi hudud aholisi"
+      ],
+      "x": "«Epidemiologik jihatdan eng xavfli guruh belgisiz parazit tashuvchilardir»"
+    },
+    {
+      "q": "Bezgakning asosiy yuqish yo'li qaysi?",
+      "c": "Transmissiv, ya'ni Anopheles urg'ochi chivinlarining chaqishi",
+      "w": [
+        "Transfuzion, ya'ni donor qonini quyish orqali",
+        "Parenteral, ya'ni ifloslangan ignalar orqali yuqish yo'li",
+        "Transplatsentar, ya'ni onadan homilaga o'tish",
+        "Sporogoniya, ya'ni chivin ichidagi rivojlanish davri"
+      ],
+      "x": "«Bezgakning asosiy yuqish yo'li transmissiv, ya'ni Anopheles turkumi urg'ochi chivinlarining chaqishidir»"
+    },
+    {
+      "q": "Parazit chivin ichida rivojlanib, bir necha kundan so'ng qayerga o'tadi?",
+      "c": "Chivinning so'lak bezlariga",
+      "w": [
+        "Sekin oqadigan suv havzalariga",
+        "Sholipoya va zax joylarga",
+        "Endemik hududdagi sayohatchilarga",
+        "Zax joylardagi turg'un suvga"
+      ],
+      "x": "«Parazit chivin ichida rivojlanib, bir necha kundan so'ng so'lak bezlariga o'tadi»"
+    },
+    {
+      "q": "JSST ga ko'ra bezgak qon orqali qanday yo'llar bilan yuqishi mumkin?",
+      "c": "Qon quyish va ifloslangan ignalar orqali",
+      "w": [
+        "Chivin so'lagi va tibbiy asboblar orqali",
+        "Donor qonini tekshirish va sterillash orqali",
+        "Onadan homilaga va chaqaloq qoni orqali",
+        "Sholipoyalar va zax joylardagi suv orqali"
+      ],
+      "x": "«bezgak qon quyish va ifloslangan ignalar orqali ham yuqishi mumkin»"
+    },
+    {
+      "q": "Onadan homilaga o'tadigan bezgak nima deyiladi?",
+      "c": "Tug'ma bezgak",
+      "w": [
+        "Transfuzion bezgak",
+        "Qaytalangan bezgak",
+        "Import qilingan bezgak",
+        "Mahalliy bezgak"
+      ],
+      "x": "«Bezgak onadan homilaga ham o'tishi mumkin, bu tug'ma bezgak deyiladi»"
+    },
+    {
+      "q": "JSST ga ko'ra homiladorlik davridagi bezgak nimaga olib kelishi mumkin?",
+      "c": "Muddatidan oldin tug'ilish yoki kam vaznli bola tug'ilishiga",
+      "w": [
+        "Qisman immunitet shakllanishi va chivin faolligi oshishiga",
+        "Jigarda uxlab yotuvchi shakllar hosil bo'lishiga",
+        "Kasallik belgilarining yo'qolishi va parazit tashuvchi bo'lishiga",
+        "Donor qonini tekshirish zaruratining oshishiga"
+      ],
+      "x": "«homiladorlik davridagi bezgak muddatidan oldin tug'ilish yoki kam vaznli bola tug'ilishiga olib kelishi mumkinligini»"
+    },
+    {
+      "q": "JSST og'ir kasallanish xavfi yuqori bo'lgan guruhlar sifatida kimlarni ko'rsatadi?",
+      "c": "Chaqaloqlar, besh yoshgacha bolalar, homilador ayollar, sayohatchilar va OIV bilan yashovchilar",
+      "w": [
+        "Endemik hududda uzoq yashagan kishilar va qisman immunitet shakllangan odamlar",
+        "Belgisiz parazit tashuvchilar va ilgari bezgak bilan og'rigan endemik hudud shaxslari",
+        "Donorlar, tibbiy asboblar va sterillash qoidalariga rioya qiluvchi xodimlar",
+        "Deraza to'rlari mavjud uy-joyda yashovchi aholi va tungi faoliyat bilan band epidemiologlar"
+      ],
+      "x": "«chaqaloqlar, besh yoshgacha bolalar, homilador ayollar, sayohatchilar va OIV bilan yashovchilarni og'ir kasallanish xavfi yuqori bo'lgan guruhlar»"
+    },
+    {
+      "q": "Iliq iqlim bezgak tarqalishiga qanday ta'sir qiladi?",
+      "c": "Parazit rivojlanishini tezlashtiradi va chivin faolligini oshiradi",
+      "w": [
+        "Parazit rivojlanishini to'xtatadi va chivin faolligini kamaytiradi",
+        "Chivin faolligini oshiradi va moyil aholini kamaytiradi",
+        "Chivin ichidagi rivojlanishni to'xtatadi va yuqishni cheklaydi",
+        "Moyil aholi xavfini oshiradi va profilaktikani kuchaytiradi"
+      ],
+      "x": "«Iliq iqlim parazit rivojlanishini tezlashtiradi va chivin faolligini oshiradi»"
+    },
+    {
+      "q": "Gametotsitlarni yutgan chivin nima sababdan darhol yuqumli bo'lmaydi?",
+      "c": "Parazit chivin ichida bir necha kun rivojlanishi kerak",
+      "w": [
+        "Gametotsitlar chivin ichida jigar bosqichini o'tishi kerak",
+        "Chivin so'lak bezlari qon quyilishini kutishi kerak",
+        "Parazit chivinning eritrotsitlarida ko'payishi kerak",
+        "Chivin endemik hududga borib qaytishi kerak"
+      ],
+      "x": "«parazit chivin ichida bir necha kun rivojlanishi kerak»"
+    },
+    {
+      "q": "Yuqish yo'llarini uzish uchun qanday choralar ko'riladi?",
+      "c": "Chivinlarga qarshi kurash va chaqishdan himoyalanish",
+      "w": [
+        "Kimyoprofilaktika va xavf guruhlarini himoya qilish",
+        "Isitmali bemorlarni qon surtmasi bilan tekshirish",
+        "Qaytalanayotgan bemorlarni aniqlash va davolash",
+        "Endemik hududdan kelganlarni maxsus nazoratga olish"
+      ],
+      "x": "«yo'llarni uzish uchun chivinlarga qarshi kurash va chaqishdan himoyalanish»"
+    }
+  ],
+  "017": [
+    {
+      "q": "JSST ga ko'ra bezgak belgilari zararlangan chivin chaqqanidan keyin odatda necha kun ichida boshlanadi?",
+      "c": "10–15 kun ichida",
+      "w": [
+        "48 soat ichida",
+        "Bir necha soat ichida",
+        "Oylar yoki yillar o'tgach",
+        "Xurujdan bir necha kun oldin"
+      ],
+      "x": "«belgilar odatda zararlangan chivin chaqqanidan keyin 10–15 kun ichida boshlanadi»"
+    },
+    {
+      "q": "Isitma xurujining birinchi bosqichida nima kuzatiladi?",
+      "c": "Sovuq qotish, qaltirash va titroq",
+      "w": [
+        "Kuchli terlash bilan harorat tushishi",
+        "Isitma ko'tarilib, bemor qizarishi",
+        "Taloq kattalashuvi va yengil sariqlik",
+        "Bosh og'rig'i va chanqoq sezish"
+      ],
+      "x": "«Birinchi bosqichda sovuq qotish, qaltirash va titroq paydo bo'ladi»"
+    },
+    {
+      "q": "Uch kunlik bezgakda xurujlar qanday tartibda takrorlanadi?",
+      "c": "Har 48 soatda, ya'ni bir kun oralatib",
+      "w": [
+        "Har 24 soatda, ya'ni har kuni",
+        "Har 72 soatda, ya'ni har uch kunda",
+        "Tartibsiz, ya'ni sutka davomida bir necha marta",
+        "Faqat kasallik boshida, ya'ni birinchi kuni"
+      ],
+      "x": "«xurujlar har 48 soatda, ya'ni bir kun oralatib takrorlanadi»"
+    },
+    {
+      "q": "Isitma davriyligi nima bilan bog'liq?",
+      "c": "Parazitning eritrotsitlar ichidagi rivojlanish sikli",
+      "w": [
+        "Parazitning jigardagi uxlab yotuvchi shakllari faolligi",
+        "Taloq va jigarning kattalashish darajasi",
+        "Chivin chaqqan joydagi gametotsitlar",
+        "Bemorning endemik hududda bo'lgan muddati"
+      ],
+      "x": "«Davriylik parazitning eritrotsitlar ichidagi rivojlanish sikli bilan bog'liq»"
+    },
+    {
+      "q": "Teri va shilliq pardalarning rangparligi nimani bildiradi?",
+      "c": "Kamqonlikni bildiradi",
+      "w": [
+        "Yengil sariqlikni bildiradi",
+        "Taloq yorilganini bildiradi",
+        "Qaytalanish boshlanganini bildiradi",
+        "Parazitemiya yuqoriligini bildiradi"
+      ],
+      "x": "«Teri va shilliq pardalar rangpar bo'ladi, bu kamqonlikni bildiradi»"
+    },
+    {
+      "q": "P. vivax qaytalanishlarining sababi nima?",
+      "c": "Jigarda saqlanuvchi uxlab yotuvchi shakllar, ya'ni gipnozoitlar",
+      "w": [
+        "Qonda saqlanuvchi jinsiy shakllar, ya'ni gametotsitlar",
+        "Taloq kattalashuvi va yengil sariqlik hosil bo'lishi",
+        "Qizil qon tanachalarining yosh shakllari va parazitemiya",
+        "Eritrotsitlarni yorib chiqadigan yetilgan parazitlar soni ortishi"
+      ],
+      "x": "«P. vivax jigarda uxlab yotuvchi shakllar, ya'ni gipnozoitlar hosil qiladi»"
+    },
+    {
+      "q": "JSST P. vivax bezgagida qaytalanishni oldini olish uchun nimani tavsiya etadi?",
+      "c": "Asosiy davoga primakvin qo'shishni",
+      "w": [
+        "Asosiy davoni to'xtatib tezkor test o'tkazishni",
+        "Qon surtmasini takroriy olishni",
+        "Taloqni paypaslab kuzatishni",
+        "Dozalarni milliy protokolsiz belgilashni"
+      ],
+      "x": "«JSST P. vivax bezgagida qaytalanishni oldini olish uchun asosiy davoga primakvin qo'shishni tavsiya etadi»"
+    },
+    {
+      "q": "Uch kunlik bezgakda uzoq davom etgan kasallikda qanday asoratlar kuzatilishi mumkin?",
+      "c": "Kamqonlik, taloqning kattalashishi va taloq yorilishi",
+      "w": [
+        "Sepsis, qorin tifi va brutsellyoz rivojlanishi",
+        "Grippga o'xshash holsizlik va ishtaha pasayishi",
+        "Jigar va taloq kattalashmasdan xurujlar to'xtashi",
+        "Sovuq qotish, qaltirash va kuchli terlash"
+      ],
+      "x": "«Uzoq davom etgan kasallikda kamqonlik, taloqning kattalashishi va uning jarohatlanish xavfi, ayniqsa taloq yorilishi, kuzatilishi mumkin»"
+    },
+    {
+      "q": "Uch kunlik bezgakni boshqa isitmali kasalliklardan ajratishda nima hal qiluvchi?",
+      "c": "Epidemiologik anamnez",
+      "w": [
+        "Taloq kattalashishi darajasi",
+        "Isitmaning davriyligi",
+        "Kamqonlik darajasi",
+        "Tezkor diagnostik test natijasi"
+      ],
+      "x": "«Ajratishda epidemiologik anamnez hal qiluvchi: endemik hududda bo'lish, chivin chaqishi, qon quyilishi»"
+    },
+    {
+      "q": "Klinik belgilar va qon surtmasi natijasi mos kelmasa nima qilinadi?",
+      "c": "Tekshiruv takrorlanadi",
+      "w": [
+        "Taloq kattalashuvi va kamqonlik aniqlanadi",
+        "Bemor yangi surtmasiz kuzatiladi",
+        "Tezkor test natijasi yetarli hisoblanadi",
+        "Bemor uzoq kuzatuvga olinadi"
+      ],
+      "x": "«Klinik belgilar va qon surtmasi natijasi mos kelmasa, tekshiruv takrorlanadi»"
+    },
+    {
+      "q": "Isitma tibbiy ko'rik vaqtida bo'lishi shart emas: qancha muddat ichida kuzatilgani haqidagi ma'lumot yetarli?",
+      "c": "Oxirgi 3 kun ichida",
+      "w": [
+        "10–15 kun ichida",
+        "4 kun va undan ortiq davomida",
+        "Oylar yoki yillar ichida",
+        "Xurujdan bir necha kun oldin"
+      ],
+      "x": "«oxirgi 3 kun ichida kuzatilgani haqidagi ma'lumot yetarli»"
+    }
+  ],
+  "018": [
+    {
+      "q": "Tropik bezgakda isitma qanday kechadi?",
+      "c": "Ko'pincha tartibsiz yoki doimiy tipda",
+      "w": [
+        "Qat'iy davriy, har 48 soatda takrorlanadi",
+        "Sutka davomida bir marta ko'tariladi",
+        "Isitma qat'iy tipda kechadi",
+        "Uch kunlik bezgakdagidek qat'iy davriy"
+      ],
+      "x": "«U ko'pincha tartibsiz yoki doimiy tipda kechadi va sutka davomida bir necha marta ko'tarilishi mumkin»"
+    },
+    {
+      "q": "Tropik bezgakda isitma nima sababdan qat'iy davriy bo'lmaydi?",
+      "c": "Parazitlar eritrotsitlarni sinxron bo'lmagan holda zararlaydi",
+      "w": [
+        "Parazitlar yosh eritrotsitlarni zararlaydi",
+        "Taloq kattalashuvi uch kunlik bezgakdagi kabi bo'ladi",
+        "Parazitlarning rivojlanishi bir vaqtda tugaydi va davriylik saqlanadi",
+        "Parazitlar eritrotsitlarni bir vaqtda zararlaydi"
+      ],
+      "x": "«P. falciparum parazitlarining eritrotsitlarni sinxron bo'lmagan holda zararlashi»"
+    },
+    {
+      "q": "Nima sababdan tropik bezgakda parazitemiya juda yuqori bo'lishi mumkin?",
+      "c": "P. falciparum turli yoshdagi eritrotsitlarni zararlay oladi",
+      "w": [
+        "Parazitemiya darajasi pasayadi",
+        "Taloq kattalashuvi uch kunlik bezgakdagidek bo'ladi",
+        "Kasallik o'tkir boshlanib, qusish va umumiy holsizlik bilan kechadi",
+        "Qon tahlilida trombotsitopeniya uchraydi"
+      ],
+      "x": "«chunki P. falciparum turli yoshdagi eritrotsitlarni zararlay oladi»"
+    },
+    {
+      "q": "JSST sanab o'tgan og'ir bezgak belgilari qaysilar?",
+      "c": "Hushning buzilishi, ko'p marta tutqanoq, to'q yoki qonli siydik, sariqlik",
+      "w": [
+        "Yengil sariqlik, rangsizlik, trombotsitopeniya va leykopeniya",
+        "Titroq, ko'ngil aynishi, qusish, mushak va bo'g'im og'rig'i bilan umumiy holsizlik",
+        "Halqasimon trofozoitlar va yarimoy shaklidagi gametotsitlar",
+        "Taloq va jigar kattalashgani, teri va shilliq pardalar rangsizligi"
+      ],
+      "x": "«o'ta holsizlik va charchoq, hushning buzilishi, ko'p marta tutqanoq, nafas olishning qiyinlashuvi, to'q yoki qonli siydik, sariqlik va g'ayritabiiy qon ketish»"
+    },
+    {
+      "q": "Bolalarda tropik bezgak ko'pincha qanday boshlanadi?",
+      "c": "Isitma, qusish va holsizlik bilan boshlanadi",
+      "w": [
+        "Tutqanoq, koma va nafas qisilishi bilan boshlanadi",
+        "Qonli siydik va sariqlik bilan boshlanadi",
+        "Taloq kattalashuvi va rangsizlik bilan boshlanadi",
+        "Titroq, bosh og'rig'i va mushak og'rig'i bilan boshlanadi"
+      ],
+      "x": "«Bolalarda tropik bezgak ko'pincha isitma, qusish va holsizlik bilan boshlanadi»"
+    },
+    {
+      "q": "Geografik anamnezi ijobiy bo'lganda boshqa simptomlardan qat'i nazar qon nimaga tekshiriladi?",
+      "c": "Bezgakka tekshiriladi",
+      "w": [
+        "Gripp va virusli gepatitga tekshiriladi",
+        "Sepsis va meningitga tekshiriladi",
+        "Qorin tifi va leptospirozga tekshiriladi",
+        "Gripp va meningitga tekshiriladi"
+      ],
+      "x": "«geografik anamnezi ijobiy bo'lganda boshqa simptomlardan qat'i nazar qon bezgakka tekshiriladi»"
+    },
+    {
+      "q": "Homilador ayollarda tropik bezgak nimaga olib kelishi mumkin?",
+      "c": "Muddatidan oldin tug'ilish va kam vaznli bola tug'ilishiga",
+      "w": [
+        "Bosh miya bezgagi, hush buzilishi va komaga olib kelishiga",
+        "Qand miqdorining pasayishi va og'ir kamqonlikka olib kelishiga",
+        "Taloq kattalashuvi, yengil sariqlik va rangsizlikka",
+        "Tashxis kechikishi va tekshiruv takrorlanishiga olib kelishiga"
+      ],
+      "x": "«homiladorlik davridagi bezgak muddatidan oldin tug'ilish va kam vaznli bola tug'ilishiga olib kelishi mumkinligini»"
+    },
+    {
+      "q": "Tropik bezgak tashxisi nimaga asoslanadi?",
+      "c": "Qon surtmasida parazitni topishga",
+      "w": [
+        "Isitma davriyligini kutib turishga",
+        "Taloq kattalashuvini paypaslab aniqlashga",
+        "Kamqonlik va trombotsitopeniyani aniqlashga",
+        "Geografik anamnezga bog'liq o'choqli simptomlarga"
+      ],
+      "x": "«Tropik bezgak tashxisi qon surtmasida parazitni topishga asoslanadi»"
+    },
+    {
+      "q": "Yupqa surtma nima uchun qulay?",
+      "c": "Turni aniqlash va parazitemiya foizini hisoblash",
+      "w": [
+        "Parazitni aniqlashga sezgirlikni oshirish",
+        "Davolash samarasini kuzatish va dozani belgilash",
+        "Dori qarshiligini aniqlash va tashxisni kechiktirish",
+        "Taloq va jigar kattalashuvini baholash"
+      ],
+      "x": "«yupqa surtma esa turni aniqlash va parazitemiya foizini hisoblash uchun qulay»"
+    },
+    {
+      "q": "Tropik bezgakni davolashda qaysi terapiya eng samarali hisoblanadi?",
+      "c": "Artemizinin asosidagi kombinatsiyalangan terapiya",
+      "w": [
+        "Qon quyish asosidagi kombinatsiyalangan terapiya",
+        "Dispanser kuzatuviga asoslangan davolash terapiyasi",
+        "Dozalar milliy protokol bo'yicha belgilanadigan terapiya",
+        "Tomir ichiga yuboriladigan hayotiy a'zolar terapiyasi"
+      ],
+      "x": "«Tropik bezgakni davolashda artemizinin asosidagi kombinatsiyalangan terapiya eng samarali hisoblanadi»"
+    },
+    {
+      "q": "Laborant qon surtmasida P. falciparum aniqlagan zahoti nima qilishi kerak?",
+      "c": "Shifokorga darhol xabar berishi kerak",
+      "w": [
+        "Natijani ro'yxatga yozish bilan cheklanishi kerak",
+        "Tekshiruvni ertaga qoldirishi kerak",
+        "Birinchi surtma manfiy bo'lishini kutishi kerak",
+        "Davriylikni kutib turishi kerak"
+      ],
+      "x": "«Laborant qon surtmasida P. falciparum aniqlagan zahoti shifokorga darhol xabar berishi kerak»"
+    }
+  ],
+  "019": [
+    {
+      "q": "Gipnozoitlar deb nimaga aytiladi?",
+      "c": "Oylar yoki yillar o'tgach faollashadigan uxlab yotuvchi shakl",
+      "w": [
+        "Qonga yangi parazitlar chiqaradigan sporozoit shakli",
+        "Eritrotsitdan oldingi bosqichda ko'payuvchi minglab merozoitlar",
+        "Chivin ichida rivojlanadigan jinsiy shakl",
+        "Qon eritrotsitlarida ko'payadigan halqasimon shakl"
+      ],
+      "x": "«Bu uxlab yotuvchi shakl, ya'ni gipnozoit, oylar yoki yillar o'tgach faollashadi va qonga yangi parazitlar chiqaradi»"
+    },
+    {
+      "q": "JSST ga ko'ra qaytalanishni oldini olish uchun primakvin qo'shiladigan bezgak turlari qaysi?",
+      "c": "P. vivax va P. ovale",
+      "w": [
+        "P. falciparum va P. malariae",
+        "P. falciparum va P. vivax",
+        "P. malariae va P. ovale",
+        "P. knowlesi va P. malariae"
+      ],
+      "x": "«JSST P. vivax va P. ovale bezgaklarida infeksiyaning qaytalanishini oldini olish uchun asosiy davoga primakvin qo'shilishini tavsiya etadi»"
+    },
+    {
+      "q": "Jigarda uyqusiz shakllar qaysi nozologik shakllar uchun xos?",
+      "c": "Uch kunlik bezgak va ovale-bezgak",
+      "w": [
+        "Tropik bezgak va to'rt kunlik bezgak",
+        "To'rt kunlik bezgak va ovale-bezgak",
+        "Uch kunlik bezgak va to'rt kunlik bezgak",
+        "Tropik bezgak va ovale-bezgak"
+      ],
+      "x": "«jigarda uyqusiz shakllar uch kunlik bezgak (P. vivax) va ovale-bezgak (P. ovale) uchun xos»"
+    },
+    {
+      "q": "Gipnozoitlar jamiyat uchun qanday xavf tug'diradi?",
+      "c": "Qaytalangan bemor yana manba bo'lib, chivinlarni zararlashi mumkin",
+      "w": [
+        "Bemor birinchi xurujdan keyin o'zini sog'lom his qilib davolanmaydi",
+        "Import bemor mahalliy chivinlarni chaqib o'choqni yo'q qiladi",
+        "Qon surtmasida parazit ko'rinib, tashxis kechikadi",
+        "Mahalliy chivinlar faolligi oshib, dori qarshiligi paydo bo'ladi"
+      ],
+      "x": "«qaytalangan bemor yana manba bo'lishi, ya'ni chivinlarni zararlashi mumkinligidir»"
+    },
+    {
+      "q": "Nima sababdan gipnozoitlarni qon surtmasida aniqlab bo'lmaydi?",
+      "c": "Ular jigar hujayralarida joylashgan va juda kam",
+      "w": [
+        "Ular eritrotsitlar ichida joylashgan va juda ko'p",
+        "Ular qonga chiqib, jigarda ko'payadi",
+        "Qon testlari faqat jigar bosqichini aniqlaydi",
+        "Ular chivin ichida rivojlanib so'lak bezlariga o'tadi"
+      ],
+      "x": "«Ular jigar hujayralarida joylashgan va juda kam bo'lgani uchun qon surtmasida ko'rinmaydi»"
+    },
+    {
+      "q": "Manfiy qon surtmasi nimani isbotlamaydi?",
+      "c": "Gipnozoitlar yo'qligini",
+      "w": [
+        "Davolash samarali bo'lganini",
+        "Eritrositar bosqich yo'qligini",
+        "Bemor sog'lom ekanini",
+        "Primakvin kerakligini"
+      ],
+      "x": "«manfiy qon surtmasi gipnozoitlar yo'qligini isbotlamaydi»"
+    },
+    {
+      "q": "Gipnozoitlarga ta'sir qiladigan dori qaysi bosqichga qarshi bo'lishi kerak?",
+      "c": "Jigar bosqichiga qarshi",
+      "w": [
+        "Eritrositar bosqichga qarshi",
+        "Chivin ichidagi bosqichga qarshi",
+        "Sporozoit bosqichiga qarshi",
+        "Qon shakllariga qarshi"
+      ],
+      "x": "«Gipnozoitlarga ta'sir qiladigan dori jigar bosqichiga qarshi bo'lishi kerak»"
+    },
+    {
+      "q": "Xlorokin yoki artemizinin guruhi kabi qon shakllariga qarshi dori nimani yo'qotadi?",
+      "c": "Qondagi parazitlarni yo'qotadi",
+      "w": [
+        "Jigardagi gipnozoitlarni yo'qotadi",
+        "Sporozoitlarni yo'qotadi",
+        "Jigar hujayralarini yo'qotadi",
+        "Merozoitlarni yo'qotadi"
+      ],
+      "x": "«faqat qondagi parazitlarni yo'qotadi, jigardagi shakllarga ta'sir qilmaydi»"
+    },
+    {
+      "q": "Uzoq muddatli qaytalanish nima tufayli yuz beradi?",
+      "c": "Jigardagi gipnozoitlarning faollashuvi",
+      "w": [
+        "Qondagi parazitlar to'liq yo'qotilmaganligi",
+        "Dori qarshiligi yoki davolash samarasizligi",
+        "Jigar bosqichining qisqa va bir martalik bo'lishi",
+        "Mahalliy chivinlarning faollashuvi"
+      ],
+      "x": "«Ikkinchisi uzoq muddatli qaytalanish bo'lib, u jigardagi gipnozoitlarning faollashuvi tufayli oylar va yillar o'tgach yuz beradi»"
+    },
+    {
+      "q": "Bezgakdan holi hududda import qilingan bemor qaytalansa, qanday xavf paydo bo'ladi?",
+      "c": "Mahalliy tarqalish xavfi",
+      "w": [
+        "Yangi o'choq yo'qolishi xavfi",
+        "Gipnozoitlarni aniqlab bo'lmaslik xavfi",
+        "Primakvin dozasini oshirish xavfi",
+        "Tropik bezgakka aylanish xavfi"
+      ],
+      "x": "«Bezgakdan holi hududda import qilingan bemor qaytalansa, mahalliy tarqalish xavfi qayta paydo bo'ladi»"
+    },
+    {
+      "q": "Jigarda bradisporozoit holatida uzoq muddat qancha vaqt saqlanishi mumkin?",
+      "c": "2 yil va undan ko'proq",
+      "w": [
+        "6 haftagacha",
+        "6–15 sutkadan 3 haftagacha",
+        "3 haftagacha",
+        "Bir necha hafta ichida"
+      ],
+      "x": "«jigarda uzoq muddat, 2 yil va undan ko'proq vaqt mudroq bradisporozoit holatida saqlanishi mumkin»"
+    }
+  ],
+  "020": [
+    {
+      "q": "Bezgakning qaysi shakli og'ir asoratlarni asosan keltirib chiqaradi?",
+      "c": "Tropik bezgak, ya'ni P. falciparum",
+      "w": [
+        "Uch kunlik bezgak, ya'ni P. vivax",
+        "To'rt kunlik bezgak, ya'ni P. malariae",
+        "Uch kunlik va to'rt kunlik bezgak, ya'ni qaytalanishlar",
+        "Bezgakdan holi hudud bezgagi, ya'ni import xavfi"
+      ],
+      "x": "«Og'ir asoratlarni asosan tropik bezgak, ya'ni P. falciparum keltirib chiqaradi»"
+    },
+    {
+      "q": "JSST P. falciparum ni qanday bezgak paraziti deb ataydi?",
+      "c": "Eng o'ldiruvchi bezgak paraziti",
+      "w": [
+        "Eng yengil bezgak paraziti",
+        "Eng kam uchraydigan bezgak paraziti",
+        "Eng uzoq saqlanadigan bezgak paraziti",
+        "Eng ko'p qaytalanadigan bezgak paraziti"
+      ],
+      "x": "«JSST P. falciparum ni eng o'ldiruvchi bezgak paraziti deb ataydi»"
+    },
+    {
+      "q": "Bezgakning eng xavfli asorati qaysi?",
+      "c": "Bosh miya, ya'ni serebral bezgak",
+      "w": [
+        "Og'ir kamqonlik, ya'ni eritrotsitlar parchalanishi",
+        "Buyrak yetishmovchiligi, ya'ni qonli siydik",
+        "Gipoglikemiya, ya'ni qand miqdorining pasayishi",
+        "O'pka shishi, ya'ni nafas qisilishi"
+      ],
+      "x": "«Eng xavfli asorat bosh miya, ya'ni serebral bezgakdir»"
+    },
+    {
+      "q": "Serebral bezgakda nima rivojlanadi?",
+      "c": "Hushning buzilishi, tutqanoq va koma",
+      "w": [
+        "Qonli siydik, sariqlik va qon ketish",
+        "Nafas qisilishi, rangpar teri va yurak urishi",
+        "Qand miqdorining pasayishi, holsizlik va charchoq",
+        "Siydik ajralishining kamayishi va kamqonlik"
+      ],
+      "x": "«natijada hushning buzilishi, tutqanoq va koma rivojlanadi»"
+    },
+    {
+      "q": "Tropik bezgakda kamqonlik nima sababdan tez va chuqur rivojlanadi?",
+      "c": "Parazitemiya yuqori bo'lgani sababli",
+      "w": [
+        "Qon ketishi ko'p bo'lgani sababli",
+        "Gemoglobin ko'tarilgani sababli",
+        "Siydik ajralishi kamaygani sababli",
+        "Jigar hujayralari zararlangani sababli"
+      ],
+      "x": "«Tropik bezgakda parazitemiya yuqori bo'lgani sababli kamqonlik tez va chuqur rivojlanadi»"
+    },
+    {
+      "q": "Og'ir kamqonlik nimalar bilan namoyon bo'ladi?",
+      "c": "Rangpar teri, yurak urishining tezlashuvi, nafas qisilishi",
+      "w": [
+        "To'q siydik, sariqlik va g'ayritabiiy qon ketishi",
+        "Hushning buzilishi, tutqanoq va komaga tushish",
+        "Siydik ajralishi kamayishi va jigar yetishmovchiligi",
+        "Qand miqdorining pasayishi va muddatidan oldin tug'ilish"
+      ],
+      "x": "«Og'ir kamqonlik rangpar teri, yurak urishining tezlashuvi, nafas qisilishi va bolalarda holsizlik bilan namoyon bo'ladi»"
+    },
+    {
+      "q": "Jigar hujayralari zararlanganda nima paydo bo'ladi?",
+      "c": "Sariqlik paydo bo'ladi",
+      "w": [
+        "Qonli siydik paydo bo'ladi",
+        "Hush buzilishi paydo bo'ladi",
+        "Tutqanoq paydo bo'ladi",
+        "Qon ketishi paydo bo'ladi"
+      ],
+      "x": "«Jigar hujayralari zararlanganda sariqlik paydo bo'ladi, qonda bilirubin ko'tariladi»"
+    },
+    {
+      "q": "Qon shakar miqdorining pasayishi, ya'ni gipoglikemiya, kimlarda tez-tez uchraydi?",
+      "c": "Bolalarda va homilador ayollarda",
+      "w": [
+        "Qariyalar va immuniteti pasaygan odamlarda",
+        "Faqat uch kunlik bezgak bilan og'riganlarda",
+        "Endemik hududdan kelgan sayohatchilarda",
+        "Endemik hududdan kelgan odamlarda"
+      ],
+      "x": "«ya'ni gipoglikemiya, ham xavfli asorat bo'lib, bolalarda va homilador ayollarda tez-tez uchraydi»"
+    },
+    {
+      "q": "G'ayritabiiy qon ketishlar nimani bildiradi?",
+      "c": "Qonning ivish tizimi buzilganini",
+      "w": [
+        "Jigar hujayralari zararlanganini",
+        "Buyrak qon aylanishi buzilganini",
+        "Eritrotsitlar parchalanganini",
+        "Nafas yetishmovchiligi kelib chiqqanini"
+      ],
+      "x": "«G'ayritabiiy qon ketishlar qonning ivish tizimi buzilganini bildiradi»"
+    },
+    {
+      "q": "Homiladorlik davridagi bezgak nimaga olib kelishi mumkin?",
+      "c": "Muddatidan oldin tug'ilish yoki kam vaznli bola tug'ilishiga",
+      "w": [
+        "Bosh miya bezgagi, hush buzilishi va komaga tushishga",
+        "Buyrak yetishmovchiligi, qonli siydik va sariqlikka",
+        "Qonning ivish tizimi buzilishi va g'ayritabiiy qon ketishga",
+        "Og'ir kamqonlik, nafas qisilishi va holsizlikka"
+      ],
+      "x": "«homiladorlik davridagi bezgak muddatidan oldin tug'ilish va kam vaznli bola tug'ilishiga olib kelishi mumkinligini»"
+    },
+    {
+      "q": "Tropik bezgak bilan og'rigan bemorlar qayerda davolanadi?",
+      "c": "Yuqumli kasalliklar shifoxonasida",
+      "w": [
+        "Tibbiy xodim nazoratida uy sharoitida",
+        "Intensiv terapiya va qon quyish sharoitida",
+        "Endemik hududdagi laboratoriyada",
+        "Shoshilinch yordam bo'limida"
+      ],
+      "x": "«tropik bezgak bilan og'rigan bemorlar yuqumli kasalliklar shifoxonasiga yotqizilib, davolash kursi shifoxona sharoitida o'tkaziladi»"
+    }
+  ]
+}

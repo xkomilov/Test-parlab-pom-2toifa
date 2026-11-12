@@ -1,0 +1,573 @@
+{
+ "081": [
+  {
+   "q": "Mitti tasmasimon chuvalchang bilan zararlanishning ko'pchiligi qanday kechadi?",
+   "c": "Belgisiz yoki yengil kechadi",
+   "w": [
+    "Asab tizimi belgilari bilan kechadi",
+    "Ich ketishi va qusish bilan kechadi",
+    "Kamqonlik va vazn yo'qotish bilan kechadi",
+    "Eozinofiliya va qichishish bilan kechadi"
+   ],
+   "x": "«Mitti tasmasimon chuvalchang bilan zararlanishning ko'pchiligi belgisiz yoki yengil kechadi»"
+  },
+  {
+   "q": "Gimenolepidozda ichak belgilari qachon paydo bo'ladi?",
+   "c": "Zararlanish intensiv bo'lganda",
+   "w": [
+    "Chuvalchanglar soni kam bo'lganda",
+    "Eozinofillar normal bo'lganda",
+    "Davolashdan keyin belgilar yo'qolsa",
+    "Bemor kasallikni sezmasa"
+   ],
+   "x": "«Zararlanish intensiv bo'lganda ichak belgilari paydo bo'ladi»"
+  },
+  {
+   "q": "Bolalardagi asab tizimi belgilari qaysi ta'sir bilan izohlanadi?",
+   "c": "Gelmintozning umumiy toksik-allergik ta'siri",
+   "w": [
+    "Ichak shilliq qavatidagi kuchli yallig'lanish",
+    "Oziq moddalar so'rilishining buzilishi",
+    "Immuniteti pasaygan bemorlar holati",
+    "Mitti tasmasimon chuvalchang tuxumi"
+   ],
+   "x": "«Bunday belgilar gelmintozning umumiy toksik-allergik ta'siri bilan izohlanadi»"
+  },
+  {
+   "q": "Gimenolepidozda eozinofiliya haqida qaysi fikr to'g'ri?",
+   "c": "Gelmintozlar uchun umumiy va spetsifik emas",
+   "w": [
+    "Gimenolepidozning asosiy belgisi",
+    "Normal bo'lsa kasallik inkor etiladi",
+    "Har doim ichak gelmintlarida chaqiriladi",
+    "Tashxisni najassiz tasdiqlaydi"
+   ],
+   "x": "«ammo bu belgi gelmintozlar uchun umumiy va spetsifik emas»"
+  },
+  {
+   "q": "Kamqonlik aniqlanganda yana qaysi sabablar ko'rib chiqiladi?",
+   "c": "Temir tanqisligi va boshqa gelmintozlar",
+   "w": [
+    "Lyambliyoz va o'tkir ichak infeksiyalari",
+    "Tutqanoq va bosh aylanishi",
+    "Autoinvaziya va immunosupressantlar",
+    "Teri toshmalari va qichishish"
+   ],
+   "x": "«Kamqonlik aniqlansa, boshqa sabablar ham, masalan temir tanqisligi va boshqa gelmintozlar, ko'rib chiqiladi»"
+  },
+  {
+   "q": "Immunosupressantlar qabul qilgan bemorlarda parazitlar soni qanday o'zgarishi mumkin?",
+   "c": "Keskin oshishi mumkin",
+   "w": [
+    "Tuxum soni kamayishi mumkin",
+    "Belgisiz kechishi mumkin",
+    "O'z-o'zidan to'xtashi mumkin",
+    "Tuxum chiqarmay qolishi mumkin"
+   ],
+   "x": "«parazitlar soni keskin oshishi mumkin»"
+  },
+  {
+   "q": "Gimenolepidozni boshqa ichak gelmintozlaridan ajratish qaysi usul bilan amalga oshiriladi?",
+   "c": "Najas mikroskopiyasi",
+   "w": [
+    "Qon tahlilidagi eozinofiliya",
+    "Dispanser kuzatuvi",
+    "Klinik belgilarni baholash",
+    "Bemorning yoshini aniqlash"
+   ],
+   "x": "«Ajratish najas mikroskopiyasi bilan amalga oshiriladi»"
+  },
+  {
+   "q": "Tuxumlar yo'qolganligini tasdiqlash uchun davolashdan keyin nima tavsiya etiladi?",
+   "c": "Kuzatuv najas tekshiruvi",
+   "w": [
+    "Takroriy qon tahlili",
+    "Eozinofillar sonini aniqlash",
+    "Bolani maktabdan chetlatish",
+    "Ichak shilliq qavati tekshiruvi"
+   ],
+   "x": "«Biroq tuxumlar yo'qolganligini tasdiqlash uchun kuzatuv najas tekshiruvi tavsiya etiladi»"
+  },
+  {
+   "q": "Gimenolepidoz bilan kasallanganlar necha oy dispanser kuzatuvida bo'ladi?",
+   "c": "6 oy davomida",
+   "w": [
+    "1 oy davomida",
+    "3 oy davomida",
+    "5 oy davomida",
+    "7 kun davomida"
+   ],
+   "x": "«gimenolepidoz bilan kasallanganlar 6 oy davomida dispanser kuzatuvida bo'ladi»"
+  },
+  {
+   "q": "Kontakt gelmintozlar bilan invaziyalangan bolalar davolanish va nazorat tekshiruvi davrida nima qilinadi?",
+   "c": "Qatnashdan vaqtincha chetlatiladi",
+   "w": [
+    "Oziqlanish holati baholanadi",
+    "Kuzatuv tekshiruvi buyuriladi",
+    "Ishtaha o'zgarishi kuzatiladi",
+    "Najas tekshiruvidan o'tkazilmaydi"
+   ],
+   "x": "«Kontakt gelmintozlar bilan invaziyalangan bolalar davolanish va nazorat tekshiruvi davrida maktabgacha ta'lim muassasalari va maktablarga qatnashdan vaqtincha chetlatiladi»"
+  }
+ ],
+ "082": [
+  {
+   "q": "Kontakt gelmintozlarda yuqish yo'li qanday?",
+   "c": "Qo'l, buyum va chang orqali tuxumlarni yutish",
+   "w": [
+    "Ifloslangan suv orqali lichinkalarni yutish",
+    "Sabzavot va mevalar orqali tuxum yutish",
+    "Kemiruvchilar orqali tuproqqa tuxum tushishi",
+    "Hasharotlar orqali don mahsulotlarini zararlash"
+   ],
+   "x": "«yuqish yo'li esa qo'l, buyum va chang orqali tuxumlarni yutish»"
+  },
+  {
+   "q": "Shaxsiy gigiyenada eng muhim chora qaysi?",
+   "c": "Qo'lni sovun bilan yuvish",
+   "w": [
+    "Xonalarni nam usulda tozalash",
+    "Tirnoqlarni qisqa olish",
+    "Sabzavot va mevalarni yuvish",
+    "Ichki kiyimni almashtirish"
+   ],
+   "x": "«Eng muhim chora qo'lni sovun bilan yuvishdir»"
+  },
+  {
+   "q": "Kiyim-kechak va choyshabni kamida necha darajada yuvish tavsiya etiladi?",
+   "c": "Kamida 40 darajada",
+   "w": [
+    "Kamida 30 darajada",
+    "Kamida 60 darajada",
+    "Kamida 80 darajada",
+    "Kamida 20 darajada"
+   ],
+   "x": "«kiyim-kechak va choyshabni kamida 40 darajada yuvish»"
+  },
+  {
+   "q": "Enterobiozda tashxis qaysi usul bilan qo'yiladi?",
+   "c": "Yopishqoq tasma testi",
+   "w": [
+    "Epidemiologik kuzatuv o'tkazish",
+    "Sanitariya-gelmintologik surtma olish",
+    "Tuproq va qum namunasini olish",
+    "Kemiruvchilarni tekshirish"
+   ],
+   "x": "«Enterobiozda tashxis yopishqoq tasma testi bilan qo'yiladi»"
+  },
+  {
+   "q": "Gimenolepidozda davolash qanday o'tkaziladi?",
+   "c": "Barcha bemorlarda bir vaqtda",
+   "w": [
+    "Faqat bitta bemorda alohida",
+    "Jamoadagi bolalarda yiliga bir marta",
+    "Kemiruvchilarga qarshi kurashdan keyin",
+    "Xonalarni nam tozalashdan so'ng"
+   ],
+   "x": "«Davolash oila va jamoadagi barcha bemorlarda bir vaqtda o'tkaziladi»"
+  },
+  {
+   "q": "Omborlarda kemiruvchilar kirishi mumkin bo'lgan teshiklar bilan nima qilinadi?",
+   "c": "Teshiklar yopiladi",
+   "w": [
+    "Choyshab issiq suvda yuviladi",
+    "Sabzavot va mevalar yuviladi",
+    "Hojatxonalar zararsizlantiriladi",
+    "Don mahsulotlari yuviladi"
+   ],
+   "x": "«kemiruvchilar kirishi mumkin bo'lgan teshiklar yopiladi»"
+  },
+  {
+   "q": "Jamoada bitta holat aniqlansa nima qilinadi?",
+   "c": "Hamma bolalar va xodimlar tekshiriladi",
+   "w": [
+    "Faqat kasal bola davolanadi",
+    "Kemiruvchilarga qarshi kurash boshlanadi",
+    "Bolalarga yangi sochiqlar beriladi",
+    "Xonalar quruq usulda supuriladi"
+   ],
+   "x": "«Jamoada bitta holat aniqlansa, hamma bolalar va xodimlar tekshiriladi»"
+  },
+  {
+   "q": "Bolalar muassasalarida sanitariya-gelmintologik namunalar yiliga kamida necha marta olinadi?",
+   "c": "Yiliga kamida 1 marta",
+   "w": [
+    "Yiliga kamida 4 marta",
+    "Yiliga kamida 6 marta",
+    "Yiliga kamida 12 marta",
+    "Yiliga kamida 5 marta"
+   ],
+   "x": "«bunday namunalar yiliga kamida 1 marta»"
+  },
+  {
+   "q": "Birorta namunada musbat natija topilsa, bu nima hisoblanadi?",
+   "c": "Sanitariya-gigiyena tartibining qo'pol buzilishi",
+   "w": [
+    "Qayta zararlanishning oddiy belgisi",
+    "Kemiruvchilar kirishining belgisi",
+    "Sanitariya tozalash tartibining yetarli bo'lmasligi",
+    "Jamoada tarqalishning cheklanishi"
+   ],
+   "x": "«Birorta namunada musbat natija topilsa, bu sanitariya-gigiyena tartibining qo'pol buzilishi hisoblanadi»"
+  },
+  {
+   "q": "Kontakt gelmintozlar o'choqlarida bolalarni nima bilan ta'minlash talab etiladi?",
+   "c": "Alohida sochiqlar",
+   "w": [
+    "Yangi choyshablar",
+    "Toza o'yinchoqlar",
+    "Yangi mebel va gilamlar",
+    "Individual kiyimlar"
+   ],
+   "x": "«bolalarni alohida sochiqlar bilan ta'minlash talab etiladi»"
+  }
+ ],
+ "083": [
+  {
+   "q": "Ommaviy degelmintizatsiya nima?",
+   "c": "Xavf ostidagi aholini individual tashxissiz davriy davolash",
+   "w": [
+    "Bemorlarni individual tashxis asosida davriy davolash",
+    "Najas namunalarini miqdoriy usullar bilan qayta tekshirish",
+    "Aholini sanitariya va gigiyena bo'yicha o'qitish",
+    "Barcha aholini individual tashxis bilan davolash"
+   ],
+   "x": "«Ommaviy degelmintizatsiya, ya'ni profilaktik kimyoterapiya, xavf ostidagi aholini individual tashxissiz davriy davolashdir»"
+  },
+  {
+   "q": "JSST bolalar o'rtasida ommaviy degelmintizatsiya uchun qaysi dorilarni tavsiya etadi?",
+   "c": "Albendazol va mebendazol",
+   "w": [
+    "Ivermektin va A vitamini",
+    "Albendazol va ivermektin",
+    "Mebendazol va ivermektin",
+    "A vitamini qo'shimchalari"
+   ],
+   "x": "«JSST tavsiya etgan dorilar albendazol va mebendazol»"
+  },
+  {
+   "q": "Ivermektin qaysi kasallikka qarshi muhim hisoblanadi?",
+   "c": "Strongiloidozga qarshi",
+   "w": [
+    "Askaridozga qarshi",
+    "Qilbosh chuvalchangga qarshi",
+    "G'ajakbosh chuvalchangga qarshi",
+    "Tuproq gelmintozlariga qarshi"
+   ],
+   "x": "«Biroq ivermektin tuproq gelmintozlari uchun asosiy tavsiya etilgan dori emas, u strongiloidozga qarshi muhim»"
+  },
+  {
+   "q": "Xavf ostidagi yuqori xavfli kasblar vakillariga qaysilar misol bo'ladi?",
+   "c": "Choy teruvchilar va konchilar",
+   "w": [
+    "Maktab o'qituvchilari va ota-onalar",
+    "Dori berish xodimlari va laborantlar",
+    "Homilador ayollar va bolalar",
+    "Shifokorlar va o'qitilgan xodimlar"
+   ],
+   "x": "«yuqori xavfli kasblar vakillari, masalan choy teruvchilar va konchilar»"
+  },
+  {
+   "q": "JSST dastur muvaffaqiyatini joriy etilgandan necha yil o'tgach baholashni tavsiya etadi?",
+   "c": "5–6 yil o'tgach",
+   "w": [
+    "1–2 yil o'tgach",
+    "2–3 yil o'tgach",
+    "10–12 yil o'tgach",
+    "3–4 yil o'tgach"
+   ],
+   "x": "«profilaktik kimyoterapiya joriy etilgandan 5–6 yil o'tgach, samarali davolash qamrovi kamida 75 foiz bo'lganda baholashni tavsiya etadi»"
+  },
+  {
+   "q": "Dastur samarasi samarali davolash qamrovi kamida necha foiz bo'lganda baholanadi?",
+   "c": "Kamida 75 foiz",
+   "w": [
+    "Kamida 50 foiz",
+    "Kamida 90 foiz",
+    "Kamida 20 foiz",
+    "Kamida 30 foiz"
+   ],
+   "x": "«samarali davolash qamrovi kamida 75 foiz bo'lganda baholashni tavsiya etadi»"
+  },
+  {
+   "q": "Tarqalganlik 20 foizdan past tushsa nima qilinadi?",
+   "c": "Dastur qamrovi va chastotasi qayta ko'rib chiqiladi",
+   "w": [
+    "Degelmintizatsiya dasturi to'liq to'xtatiladi",
+    "Maktab orqali emlash kunlari tashkil etiladi",
+    "Najas tekshiruvi laboratoriyada bekor qilinadi",
+    "Yiliga 2 marta ommaviy davolash qayta o'tkaziladi"
+   ],
+   "x": "«Tarqalganlik 20 foizdan past tushsa, dastur qamrovi va chastotasi qayta ko'rib chiqiladi»"
+  },
+  {
+   "q": "Degelmintizatsiya nima bilan birga o'tkaziladi?",
+   "c": "Sanitariya, qo'l yuvish va gigiyena ta'limi",
+   "w": [
+    "Individual tashxis va najas tekshiruvi",
+    "Dori qarshiligi xavfi va muntazam baholash",
+    "Maktab orqali emlash kunlari va monitoring",
+    "Najas namunalarini belgilash va nazorat"
+   ],
+   "x": "«u sanitariya, qo'l yuvish va gigiyena ta'limi bilan birga o'tkaziladi»"
+  },
+  {
+   "q": "Laborant monitoringda najas namunalarini qaysi usullar bilan tekshiradi?",
+   "c": "Kato-Katz yoki miqdoriy usullar",
+   "w": [
+    "Faqat sifatli bir martalik usullar",
+    "Individual tashxis qo'yish usullari",
+    "Tuxum sonini hisoblamaydigan usullar",
+    "Tuxum soni bo'yicha sifatli usullar"
+   ],
+   "x": "«najas namunalarini Kato-Katz yoki shunga o'xshash miqdoriy usullar bilan tekshiradi»"
+  },
+  {
+   "q": "Monitoringda natijalar tuxum soni bo'yicha qanday guruhlarga ajratiladi?",
+   "c": "Yengil, o'rta va og'ir zararlanish",
+   "w": [
+    "Maktabgacha, maktab va tug'ish yoshidagi guruhlar",
+    "Endemik, nazoratdagi va xavfsiz hududlar",
+    "Albendazol, mebendazol va ivermektin guruhlari",
+    "Yuqori, o'rta va past qamrov"
+   ],
+   "x": "«Natijalar tuxum soni bo'yicha yengil, o'rta va og'ir zararlanish guruhlariga ajratiladi»"
+  },
+  {
+   "q": "Zararlanish 30% va undan yuqori bo'lgan intensiv o'choqlarda aholiga yiliga necha marta ommaviy degelmintizatsiya o'tkaziladi?",
+   "c": "Yiliga 2 marta",
+   "w": [
+    "Yiliga 1 marta",
+    "Yiliga 3 marta",
+    "Yiliga 4 marta",
+    "Yiliga 12 marta"
+   ],
+   "x": "«aholiga yiliga 2 marta ommaviy degelmintizatsiya o'tkaziladi»"
+  }
+ ],
+ "084": [
+  {
+   "q": "Askaridozning qo'zg'atuvchisi qaysi?",
+   "c": "Ascaris lumbricoides",
+   "w": [
+    "Ascaris suum",
+    "Qilbosh chuvalchang",
+    "G'ajakbosh chuvalchang",
+    "Tuproq gelmintlari"
+   ],
+   "x": "«Askaridoz odam askaridasi (Ascaris lumbricoides) keltirib chiqaradigan, dunyoda eng keng tarqalgan gelmintoz»"
+  },
+  {
+   "q": "Najas bilan chiqqan askarida tuxumi tuproqda taxminan necha hafta yetiladi?",
+   "c": "Taxminan 3 hafta",
+   "w": [
+    "Taxminan 1 hafta",
+    "Taxminan 2 hafta",
+    "Taxminan 8 hafta",
+    "Taxminan 12 hafta"
+   ],
+   "x": "«JSST tuxumlar tuproqda yetilishi uchun taxminan 3 hafta kerakligini»"
+  },
+  {
+   "q": "Askaridozning yagona manbasi kim?",
+   "c": "Faqat zararlangan odam",
+   "w": [
+    "Zararlangan cho'chqa",
+    "Ifloslangan tuproq",
+    "Najas bilan o'g'itlangan sabzavot",
+    "Ifloslangan suv"
+   ],
+   "x": "«Askaridoz antroponoz: manba faqat zararlangan odam»"
+  },
+  {
+   "q": "Askarida qaysi gelmintozlar guruhiga kiradi?",
+   "c": "Tuproq orqali yuqadigan gelmintozlar",
+   "w": [
+    "Kontakt orqali yuqadigan gelmintozlar",
+    "Oraliq xo'jayin orqali yuqadigan gelmintozlar",
+    "Hayvonlardan yuqadigan gelmintozlar",
+    "Suv orqali yuqadigan gelmintozlar"
+   ],
+   "x": "«U tuproq orqali yuqadigan gelmintozlar, ya'ni geogelmintozlar, guruhiga kiradi»"
+  },
+  {
+   "q": "Voyaga yetgan urg'ochi askarida uzunligi qancha?",
+   "c": "Taxminan 20–35 sm",
+   "w": [
+    "Taxminan 5–10 sm",
+    "Taxminan 15–30 sm",
+    "Taxminan 40–50 sm",
+    "Taxminan 45–75 sm"
+   ],
+   "x": "«urg'ochisi uzunligi taxminan 20–35 sm»"
+  },
+  {
+   "q": "Voyaga yetgan askarida odam tanasida qancha yashashi mumkin?",
+   "c": "Bir yildan ortiq",
+   "w": [
+    "Bir haftadan kam",
+    "Uch haftadan kam",
+    "Bir necha hafta ichida",
+    "Ikki-uch oy davomida"
+   ],
+   "x": "«U odam tanasida bir yildan ortiq yashashi mumkin»"
+  },
+  {
+   "q": "Askaridozda zararlanish intensivligi nimaga bog'liq?",
+   "c": "Yutilgan tuxum soniga",
+   "w": [
+    "Chuvalchanglar ko'payishiga",
+    "Tuxum qobig'ining qalinligiga",
+    "Tuxumning tuproqda saqlanishiga",
+    "Odam tanasida ko'payishiga"
+   ],
+   "x": "«zararlanish intensivligi faqat yutilgan tuxum soniga bog'liq»"
+  },
+  {
+   "q": "Lichinkalar ichak devoridan o'tgach, qon orqali qaysi tartibda boradi?",
+   "c": "Jigarga, so'ng o'pkaga",
+   "w": [
+    "O'pkaga, so'ng jigarga",
+    "Jigarga, so'ng ichakka",
+    "Ichakka, so'ng bronxlarga",
+    "O'pkaga, so'ng ichak devoriga"
+   ],
+   "x": "«qon orqali jigarga, so'ng o'pkaga boradi»"
+  },
+  {
+   "q": "Urug'lanmagan askarida tuxumi qanday bo'ladi?",
+   "c": "Cho'ziqroq, yupqa qobiqli",
+   "w": [
+    "Oval, qalin qobiqli",
+    "Dumaloq, bo'rtmali qobiqli",
+    "Silliq, qatlamli qobiqli",
+    "Sarg'ish-jigarrang, qalin qobiqli"
+   ],
+   "x": "«Urug'lanmagan tuxum cho'ziqroq, qobig'i yupqaroq va ichi donador moddalar bilan to'la»"
+  },
+  {
+   "q": "Aholini askaridoz bilan yuqtirish mavsumi qaysi davrga to'g'ri keladi?",
+   "c": "Yoz-kuz davri",
+   "w": [
+    "Kech kuz va qish boshi",
+    "Faqat qish davri",
+    "Kuz oxiri va qish davri",
+    "Qish va yoz davri"
+   ],
+   "x": "«aholini yuqtirish mavsumi yoz-kuz davriga to'g'ri keladi»"
+  }
+ ],
+ "085": [
+  {
+   "q": "Askaridozning erta davri qachon boshlanadi?",
+   "c": "Lichinkalar jigar va o'pkaga ko'chgan paytda",
+   "w": [
+    "Voyaga yetgan askaridalar ichakda joylashgach",
+    "Tuxum najas bilan chiqqan paytda",
+    "Chuvalchang qusiq bilan chiqqan paytda",
+    "Allergik reaksiyalar kuchaygan paytda"
+   ],
+   "x": "«Erta davr yutilgan tuxumdan chiqqan lichinkalar ichak devoridan o'tib, jigar va o'pkaga ko'chgan paytda boshlanadi»"
+  },
+  {
+   "q": "Askaridozning erta (migratsion) davri taxminan qancha davom etadi?",
+   "c": "Taxminan 1–2 hafta",
+   "w": [
+    "Taxminan 3–4 hafta",
+    "Taxminan 6–8 hafta",
+    "Taxminan 2–3 oy",
+    "Taxminan 5–6 hafta"
+   ],
+   "x": "«boshlanadi va taxminan 1–2 hafta davom etadi»"
+  },
+  {
+   "q": "Erta davrda qanday belgilar kuzatilishi mumkin?",
+   "c": "Yo'tal, nafas qisilishi, past isitma",
+   "w": [
+    "Qorin og'rig'i, ko'ngil aynishi, qusish",
+    "Ich ketishi, ishtaha pasayishi, ich qotishi",
+    "Sariqlik, pankreatit, jigar abssessi",
+    "Qusish, qorin shishishi, ich kelmasligi"
+   ],
+   "x": "«Bu davrda yo'tal, nafas qisilishi, past isitma, teri toshmasi va qonda eozinofiliya kuzatilishi mumkin»"
+  },
+  {
+   "q": "Kech davrda qorin og'rig'i ko'pincha qayerda bo'ladi?",
+   "c": "Kindik atrofida",
+   "w": [
+    "O't pufagi atrofida",
+    "Jigar atrofida",
+    "Oshqozon osti bezi atrofida",
+    "Ichak devori atrofida"
+   ],
+   "x": "«qorin og'rig'i, ko'pincha kindik atrofida, xurujsimon»"
+  },
+  {
+   "q": "Askaridozning eng og'ir asorati qaysi?",
+   "c": "Ichak tutilishi",
+   "w": [
+    "O't yo'llari askaridozi",
+    "Oshqozon osti bezi yallig'lanishi",
+    "Jigar abssessi",
+    "Nafas yo'liga chuvalchang tushishi"
+   ],
+   "x": "«Eng og'ir asorat ichak tutilishidir»"
+  },
+  {
+   "q": "Ichak tutilishida qanday belgilar paydo bo'ladi?",
+   "c": "Qusish, qorin shishishi va ich kelmasligi",
+   "w": [
+    "Yo'tal, nafas qisilishi va eozinofiliya",
+    "Sariqlik, qichima va bronxospazm",
+    "Ishtaha pasayishi, ich qotishi va holsizlik",
+    "Teri toshmasi, past isitma va yo'tal"
+   ],
+   "x": "«Qorin og'rig'i kuchayadi, qusish, qorin shishishi va ich kelmasligi paydo bo'ladi»"
+  },
+  {
+   "q": "Askaridoz bilan qaysi yoshdagi bolalar eng ko'p zarar ko'radi?",
+   "c": "3–10 yosh",
+   "w": [
+    "11–17 yosh",
+    "15–18 yosh",
+    "1–2 yosh",
+    "0–1 yosh"
+   ],
+   "x": "«Bolalar, 3–10 yosh, eng ko'p zarar ko'radi»"
+  },
+  {
+   "q": "Askaridozda toksik ta'sir qanday namoyon bo'ladi?",
+   "c": "Holsizlik, bosh og'rig'i va uyqu buzilishi",
+   "w": [
+    "Qichima, bronxospazm va eozinofiliya",
+    "Sariqlik, o't pufagi koliksi va pankreatit",
+    "Vazn va bo'yning orqada qolishi",
+    "Ko'ngil aynishi, qusish va ishtaha pasayishi"
+   ],
+   "x": "«Toksik ta'sir holsizlik, bosh og'rig'i va uyqu buzilishi bilan namoyon bo'ladi»"
+  },
+  {
+   "q": "Bolalar askaridoz bilan nima uchun eng ko'p zarar ko'radi?",
+   "c": "Tuproq bilan ko'p aloqada bo'ladi",
+   "w": [
+    "Najasda tuxum ko'p chiqaradi",
+    "Allergik moyilligi bor bo'ladi",
+    "Ichak tutilishi kam uchraydi",
+    "Qayta zararlanish bo'lmaydi"
+   ],
+   "x": "«chunki ular tuproq bilan ko'p aloqada bo'ladi va tanalari kichik»"
+  },
+  {
+   "q": "Askaridozda aniq tashxis qanday qo'yiladi?",
+   "c": "Najasda tuxum yoki chuvalchang topilishi",
+   "w": [
+    "Qonda eozinofiliya va yallig'lanish topilishi",
+    "Rentgenda infiltratlar topilishi",
+    "Qorin og'rig'ining kuchayishi",
+    "O'pkada o'tkinchi o'zgarishlar"
+   ],
+   "x": "«Aniq tashxis najasda tuxum yoki chuvalchang topilishi bilan qo'yiladi»"
+  }
+ ]
+}

@@ -1,0 +1,617 @@
+{
+  "131": [
+    {
+      "q": "Lyamblioz bilan zararlanish qanday sodir bo'ladi?",
+      "c": "Kistalarni og'iz orqali yutish natijasida",
+      "w": [
+        "Ifloslangan suvni qaynatish natijasida",
+        "Sanitariya jihozlarini yuvish natijasida",
+        "Sanitariya choralarini kuchaytirish natijasida",
+        "Kistalarni sovuq suvda saqlash natijasida"
+      ],
+      "x": "«Lyamblioz bilan zararlanish kistalarni og'iz orqali yutish natijasida sodir bo'ladi.»"
+    },
+    {
+      "q": "Kistalar xlorlashga chidamli bo'lsa, suvni qaysi usullar ishonchliroq tozalaydi?",
+      "c": "Filtrlash va qaynatish",
+      "w": [
+        "Faqat xlor bilan tozalash",
+        "Ochiq havzada cho'milish",
+        "Suvni sovuq saqlash",
+        "Hojatxonalarni tozalash"
+      ],
+      "x": "«filtrlash va qaynatish samaraliroq»"
+    },
+    {
+      "q": "Lyamblioz odamdan odamga qaysi vosita orqali yuqadi?",
+      "c": "Ifloslangan qo'l orqali",
+      "w": [
+        "Ochiq suv havzalari orqali",
+        "Xom sabzavot va mevalar orqali",
+        "Hayvonlar najasi orqali",
+        "Sayohat vaqtidagi shisha suv orqali"
+      ],
+      "x": "«Odamdan odamga yuqish ifloslangan qo'l orqali amalga oshadi.»"
+    },
+    {
+      "q": "Lyamblioz tarqalishini oshiradigan sanitariya omili qaysi?",
+      "c": "Kanalizatsiya yetishmasligi",
+      "w": [
+        "Filtrlash va qaynatish choralari",
+        "Toza ichimlik suvi bilan ta'minlash",
+        "Oshxona xodimlari gigiyenasi qoidalari",
+        "Shisha suvdan foydalanish qoidasi"
+      ],
+      "x": "«Kanalizatsiya yetishmasligi, hojatxonalarning noto'g'ri holati, ichimlik suvi bilan ta'minlashdagi nuqsonlar va chiqindilarni noto'g'ri yo'q qilish lyamblioz tarqalishini oshiradi.»"
+    },
+    {
+      "q": "Nima uchun lyamblioz bilan zararlanish oson sodir bo'ladi?",
+      "c": "Kichik miqdordagi kistalar ham kasallik keltiradi",
+      "w": [
+        "Kistalar tashqi muhitda darhol nobud bo'ladi",
+        "Kistalar xlorlashdan keyin kasallik keltirmaydi",
+        "Faqat katta miqdordagi kistalar kasallik keltiradi",
+        "Odam najasida kistalar bo'lmaydi"
+      ],
+      "x": "«Kichik miqdordagi kistalar ham kasallik keltirishi mumkin»"
+    },
+    {
+      "q": "Lyamblia kistalari sovuq va nam sharoitda tashqi muhitda qancha vaqt saqlanishi mumkin?",
+      "c": "Haftalar va oylar davomida",
+      "w": [
+        "Yoz va kuz davomida",
+        "Bir necha soat davomida",
+        "Faqat yoz oylari davomida",
+        "Quritilganda haftalar davomida"
+      ],
+      "x": "«Kistalar sovuq va nam sharoitda tashqi muhitda haftalar va oylar davomida saqlanishi mumkin»"
+    },
+    {
+      "q": "Giardia hayvonlardan odamga yuqish ehtimoli nimaga asoslanadi?",
+      "c": "Ba'zi genotiplari odamni ham zararlaydi",
+      "w": [
+        "Giardia faqat bolalarda uchraydi",
+        "Kistalar faqat odam najasida uchraydi",
+        "Hayvon kistalari odamni umuman zararlamaydi",
+        "Chorva hayvonlari odamni zararlamaydi"
+      ],
+      "x": "«Ularning ba'zi genotiplari odamni ham zararlashi mumkin, shuning uchun zoonoz yuqish ehtimoli ko'rib chiqiladi»"
+    },
+    {
+      "q": "Davolangandan keyin ham qayta zararlanish nega mumkin?",
+      "c": "Kasallikdan keyin turg'un immunitet shakllanmaydi",
+      "w": [
+        "Davolangandan keyin kistalar to'liq nobud bo'ladi",
+        "Oila ichidagi manba butunlay yo'q bo'ladi",
+        "Kasallikdan keyin to'liq himoya shakllanadi",
+        "Bolalar jamoalarida kasal bolalar bo'lmaydi"
+      ],
+      "x": "«chunki kasallikdan keyin turg'un immunitet shakllanmaydi yoki to'liq himoya bermaydi»"
+    },
+    {
+      "q": "Kistalar qanday sharoitda nobud bo'ladi?",
+      "c": "Quritilganda va yuqori haroratda",
+      "w": [
+        "Sovuq va nam sharoitda",
+        "Ochiq suv havzalarida",
+        "Kanalizatsiya suvi ichida",
+        "Bolalar jamoalari hojatxonasida"
+      ],
+      "x": "«quritilganda va yuqori haroratda tez nobud bo'ladi»"
+    },
+    {
+      "q": "Sayohat vaqtida lyamblioz xavfini kamaytirish uchun nima tavsiya etiladi?",
+      "c": "Shisha suvdan foydalanish",
+      "w": [
+        "Ochiq suv havzalarida cho'milish",
+        "Xom sabzavotlarni ko'p iste'mol qilish",
+        "Ifloslangan suvni xlor bilan ichish",
+        "Xom iste'mol qilinadigan mahsulotlar"
+      ],
+      "x": "«Sayohat vaqtida shisha suvdan foydalanish, xom sabzavotdan qochish va qo'l yuvish tavsiya etiladi.»"
+    },
+    {
+      "q": "9 yoshgacha bo'lgan bolalarda lyamblioz kattalarga nisbatan necha marta ko'p uchraydi?",
+      "c": "2–3 marta",
+      "w": [
+        "10–100 marta",
+        "55 marta",
+        "66 marta",
+        "72 marta"
+      ],
+      "x": "«9 yoshgacha bo'lgan bolalarda kasallik kattalarga nisbatan 2–3 marta ko'p uchraydi»"
+    }
+  ],
+  "132": [
+    {
+      "q": "Lyambliozni oldini olish asosan nimaga qaratilgan?",
+      "c": "Najas-og'iz mexanizmini to'sishga",
+      "w": [
+        "Kistalarni najasda aniq topishga",
+        "Dori dozalarini belgilashga",
+        "Hayvonlarni jamoadan chetlatishga",
+        "Natijalarni o'z vaqtida yetkazishga"
+      ],
+      "x": "«Lyambliozni oldini olish najas-og'iz mexanizmini to'sishga qaratilgan»"
+    },
+    {
+      "q": "Lyamblioz profilaktikasida eng muhim shaxsiy chora qaysi?",
+      "c": "Qo'lni sovun va oqar suv bilan yuvish",
+      "w": [
+        "Spirtli qo'l dezinfektanti bilan artish",
+        "Faqat suvni xlorlash bilan cheklanish",
+        "Hojatxonalarni quduqdan uzoqda qurish",
+        "Plakatlar va mahalla yig'inlari"
+      ],
+      "x": "«Eng muhim shaxsiy chora — qo'lni sovun va oqar suv bilan yuvish»"
+    },
+    {
+      "q": "Oddiy qo'l yuvish kistalarga qanday ta'sir qiladi?",
+      "c": "Kistalarni mexanik olib tashlaydi",
+      "w": [
+        "Kistalarni xlor bilan yo'qotadi",
+        "Kistalarni filtrlab nobud qiladi",
+        "Kistalarni ultrabinafsha bilan o'ldiradi",
+        "Kistalarni qaynatib nobud qiladi"
+      ],
+      "x": "«Oddiy qo'l yuvish kistalarni mexanik olib tashlaydi.»"
+    },
+    {
+      "q": "Uy sharoitida suvni tozalashning eng oson va ishonchli usuli qaysi?",
+      "c": "Suvni qaynatish",
+      "w": [
+        "Faqat xlorlash",
+        "Quduq suvini ichish",
+        "Ochiq havzadan ichish",
+        "Qaynatilmagan suvni ichish"
+      ],
+      "x": "«Uy sharoitida suvni qaynatish eng oson va ishonchli usul.»"
+    },
+    {
+      "q": "Giardia kistalari va Cryptosporidium oositalariga qaysi usul nisbatan chidamli bo'lishi mumkin?",
+      "c": "Xlorlash usuli",
+      "w": [
+        "Filtrlash usuli",
+        "Qaynatish usuli",
+        "Ultrabinafsha ishlovi",
+        "Qo'l yuvish usuli"
+      ],
+      "x": "«Xlorlash ko'p bakteriyalarni o'ldiradi, ammo Giardia kistalari va Cryptosporidium oositalariga chidamli bo'lishi mumkin.»"
+    },
+    {
+      "q": "Bolalar jamoalarida lyamblioz holati topilsa, kontaktlarga nisbatan nima qilinadi?",
+      "c": "Kontaktlar tekshiriladi",
+      "w": [
+        "Kontaktlar ishdan chetlatiladi",
+        "Hojatxonalar dezinfeksiya qilinadi",
+        "Ichimlik suvi xlorlanadi",
+        "O'yinchoqlar jamoadan olib tashlanadi"
+      ],
+      "x": "«Jamoada holat topilsa, kontaktlar tekshiriladi.»"
+    },
+    {
+      "q": "Ikkilamchi profilaktika nimani anglatadi?",
+      "c": "Kasallikni erta aniqlash va davolash",
+      "w": [
+        "Qo'l yuvishni nazorat qilish",
+        "Hojatxonalarni quduqdan uzoqda qurish",
+        "Aholini ma'rifatlash ishlari",
+        "Suvni filtrlash va qaynatish"
+      ],
+      "x": "«Kasallikni erta aniqlash va davolash ikkilamchi profilaktika hisoblanadi.»"
+    },
+    {
+      "q": "Qishloq joylarda hojatxonalarni qayerda qurish muhim?",
+      "c": "Quduq va suv manbalaridan uzoqda",
+      "w": [
+        "Bolalar jamoasi hojatxonasi yonida",
+        "Aholi zichligi yuqori hududda",
+        "Ovqat tayyorlovchi xodimlar yonida",
+        "Ochiq suv havzasi bo'yida"
+      ],
+      "x": "«Qishloq joylarda hojatxonalarni quduq va suv manbalaridan uzoqda qurish muhim.»"
+    },
+    {
+      "q": "Lyamblioz haqida ma'rifiy ishda asosiy maqsadli guruh kim?",
+      "c": "Ota-onalar va tarbiyachilar",
+      "w": [
+        "Veterinar nazoratidagi hayvonlar",
+        "Ovqat tayyorlovchi xodimlar",
+        "Laborantlar va bemorlar",
+        "Kasal bolalar va tashuvchilar"
+      ],
+      "x": "«Ota-onalar va tarbiyachilar asosiy maqsadli guruh»"
+    },
+    {
+      "q": "Oilada lyamblioz topilsa, nima qilinadi?",
+      "c": "Barcha a'zolar tekshiriladi",
+      "w": [
+        "Faqat bola davolanadi",
+        "Hayvonlar veterinarga ko'rsatiladi",
+        "Suv manbasi xlorlanadi",
+        "Hojatxonalar quduqdan uzoqda quriladi"
+      ],
+      "x": "«Oilada lyamblioz topilsa, barcha a'zolar tekshiriladi va gigiyena qoidalari kuchaytiriladi.»"
+    },
+    {
+      "q": "Maktabgacha ta'lim muassasalariga boruvchi bolalar tekshiruvida JSST usuli bo'yicha kontingentning qanchasi tanlab tekshiriladi?",
+      "c": "Kamida 5%",
+      "w": [
+        "Kamida 10%",
+        "Kamida 50%",
+        "Kamida 1%",
+        "Kamida 4%"
+      ],
+      "x": "«JSST usuli bo'yicha tanlab, kontingentning kamida 5%»"
+    }
+  ],
+  "133": [
+    {
+      "q": "Amyobiaz qo'zg'atuvchisi qaysi protozoy?",
+      "c": "Entamoeba histolytica",
+      "w": [
+        "Entamoeba coli",
+        "Endolimax nana",
+        "Iodamoeba butschlii",
+        "Entamoeba moshkovskii"
+      ],
+      "x": "«Amyobiaz sababchisi — psevdopodiyalar hosil qiladigan, xivchinsiz protozoy Entamoeba histolytica»"
+    },
+    {
+      "q": "Tur nomidagi 'histolytica' so'zi nimani bildiradi?",
+      "c": "To'qimalarni eritadigan",
+      "w": [
+        "Yo'g'on ichakda yashaydigan",
+        "Xivchinsiz harakatlanadigan",
+        "Kista hosil qiladigan",
+        "Eritrotsitlarni yutadigan"
+      ],
+      "x": "«Tur nomi 'histolytica', ya'ni to'qimalarni eritadigan degan ma'noni bildiradi»"
+    },
+    {
+      "q": "Amyobiazda yuqish qaysi shaklni yutish orqali sodir bo'ladi?",
+      "c": "Infeksion kistalarni",
+      "w": [
+        "Invaziv trofozoitlarni",
+        "Xromatoid tanachalarni",
+        "Soxta oyoqchalarni",
+        "Yadro qobig'ini"
+      ],
+      "x": "«Yuqish infeksion kistalarni yutish orqali sodir bo'ladi.»"
+    },
+    {
+      "q": "Pishgan kistada nechta yadro bo'ladi?",
+      "c": "To'rtta yadro",
+      "w": [
+        "Bitta yadro",
+        "Ikkita yadro",
+        "Uchta yadro",
+        "Markazdagi yadro"
+      ],
+      "x": "«Pishgan kistada to'rtta yadro bo'ladi»"
+    },
+    {
+      "q": "Trofozoitning o'lchami qancha?",
+      "c": "Taxminan 15–60 mkm",
+      "w": [
+        "Taxminan 10–15 mkm",
+        "Taxminan 7–18 mkm",
+        "Taxminan 1–4 mkm",
+        "Taxminan 66–72 mkm"
+      ],
+      "x": "«Trofozoit o'lchami taxminan 15–60 mkm»"
+    },
+    {
+      "q": "Mikroskopda E. histolytica dan farq qilmaydigan zararsiz turlar qaysilar?",
+      "c": "E. dispar va E. moshkovskii",
+      "w": [
+        "Entamoeba coli va Endolimax nana",
+        "Iodamoeba butschlii va Entamoeba coli",
+        "E. hartmanni va Iodamoeba butschlii",
+        "Endolimax nana va E. hartmanni"
+      ],
+      "x": "«Amyobiaz etiologiyasidagi asosiy murakkablik — E. histolytica ning morfologik jihatdan zararsiz turlardan, ya'ni E. dispar va E. moshkovskii dan, farq qilmasligi.»"
+    },
+    {
+      "q": "Mikroskopik topilma laboratoriyada qanday yoziladi?",
+      "c": "E. histolytica/dispar/moshkovskii kompleksi",
+      "w": [
+        "Faqat E. histolytica kistasi",
+        "Zararsiz E. dispar kistasi",
+        "Eritrotsit yutgan E. histolytica trofozoiti",
+        "Entamoeba coli kompleksi"
+      ],
+      "x": "«Mikroskopik topilma 'E. histolytica/dispar/moshkovskii kompleksi' deb yozilishi mumkin»"
+    },
+    {
+      "q": "Aniq tur qaysi usullar bilan aniqlanadi?",
+      "c": "Antigen yoki PZR",
+      "w": [
+        "Faqat mikroskopiya",
+        "Xromatoid tanachalarni aniqlash",
+        "Kariosoma joylashuvini ko'rish",
+        "Kista o'lchamini o'lchash"
+      ],
+      "x": "«aniq tur esa antigen yoki PZR bilan aniqlanadi»"
+    },
+    {
+      "q": "Qaysi xususiyat E. histolytica ni B toifadagi ustuvor biologik xavf patogeniga aylantirgan?",
+      "c": "Kichik infeksion doza",
+      "w": [
+        "Xivchinlar hosil qilishi",
+        "Faqat oshqozonda ko'payishi",
+        "Jigarga o'tishi mumkinligi",
+        "Kolba shaklidagi kista"
+      ],
+      "x": "«buning sabablari — uning suvdagi barqarorligi, kichik infeksion doza va xlorlashga chidamliligi»"
+    },
+    {
+      "q": "Nima uchun najas namunasini darhol ko'rish kerak?",
+      "c": "Trofozoit yangi najasda nobud bo'ladi",
+      "w": [
+        "Kista yangi najasda nobud bo'ladi",
+        "Kariosoma yangi najasda butunlay yo'qoladi",
+        "Yadro qobig'i yangi najasda eriydi",
+        "Psevdopodiyalar najasda ko'payadi"
+      ],
+      "x": "«Trofozoit yangi najasda tez nobud bo'ladi, shuning uchun namunani darhol ko'rish kerak.»"
+    },
+    {
+      "q": "Katta vegetativ (eritrofag) shaklning diametri qancha?",
+      "c": "20–30 mkm",
+      "w": [
+        "15–20 mkm",
+        "7–18 mkm",
+        "10–15 mkm",
+        "1–4 mkm"
+      ],
+      "x": "«katta vegetativ (to'qima, eritrofag) shakli diametri 20–30 mkm»"
+    }
+  ],
+  "134": [
+    {
+      "q": "Amyobiaz bilan zararlanish qanday sodir bo'ladi?",
+      "c": "Kistalarni og'iz orqali yutish",
+      "w": [
+        "Trofozoitlarni og'iz orqali yutish",
+        "Kistalarni xlorlangan suv bilan yo'qotish",
+        "Tashuvchilarni najas bilan aniqlash",
+        "Kistalarni sovun bilan yuvish"
+      ],
+      "x": "«Amyobiaz bilan zararlanish E. histolytica kistalarini og'iz orqali yutish natijasida sodir bo'ladi.»"
+    },
+    {
+      "q": "Epidemiologik jihatdan eng muhim manba kim?",
+      "c": "Belgisiz tashuvchilar",
+      "w": [
+        "Kasal bolalar",
+        "Ovqat tayyorlovchilar",
+        "Sayohatchilar va muhojirlar",
+        "Immuniteti pasaygan odamlar"
+      ],
+      "x": "«Zararlangan odamlarning ko'pchiligi belgisiz tashuvchi bo'lib, kistalarni uzoq vaqt chiqarib turadi. Ular epidemiologik jihatdan eng muhim manba»"
+    },
+    {
+      "q": "Amyoba kistalari odatdagi xlorlash miqdoriga nisbatan qanday?",
+      "c": "Chidamli bo'lishi mumkin",
+      "w": [
+        "Chidamsiz bo'ladi",
+        "Kislotaga chidamsiz bo'ladi",
+        "Quritilganda nobud bo'ladi",
+        "Tashqi muhitda nobud bo'ladi"
+      ],
+      "x": "«Kistalar odatdagi xlorlash miqdoriga chidamli bo'lishi mumkin»"
+    },
+    {
+      "q": "Insoniy najas bilan o'g'itlangan yerdagi sabzavotlar nima uchun xavfli?",
+      "c": "Kistalar bilan ifloslanadi",
+      "w": [
+        "Kistalar xlorlashda nobud bo'ladi",
+        "Trofozoitlar tashqi muhitda ko'payadi",
+        "Sabzavotlar toza suv bilan yuviladi",
+        "Suv ta'minoti yaxshilanadi"
+      ],
+      "x": "«Sabzavot, meva, ko'katlar va tayyor ovqatlar ifloslangan qo'l, suv yoki o'g'it orqali kistalar bilan ifloslanishi mumkin. Insoniy najas bilan o'g'itlangan yerdagi sabzavotlar alohida xavfli»"
+    },
+    {
+      "q": "Tashuvchi oshpaz kimni zararlashi mumkin?",
+      "c": "Bir necha o'nlab odamni",
+      "w": [
+        "Faqat bolalarni zararlaydi",
+        "Sayohatchilarni zararlashi mumkin",
+        "Sayohatchilarni zararlaydi",
+        "Shaxsiy gigiyenasiz odamlarni zararlaydi"
+      ],
+      "x": "«Tashuvchi oshpaz bir necha o'nlab odamni zararlashi mumkin»"
+    },
+    {
+      "q": "Amyobiazning yashirin davri qancha vaqtni tashkil etadi?",
+      "c": "1 haftadan 3 oygacha",
+      "w": [
+        "1 haftadan 6 oygacha",
+        "3 haftadan 6 oygacha",
+        "3 haftadan 3 oygacha",
+        "6 haftadan 3 oygacha"
+      ],
+      "x": "«yashirin davr 1 haftadan 3 oygacha»"
+    },
+    {
+      "q": "Amyobiaz bilan og'riganlarning yarmi endemik mamlakatlarga borgandan keyin qancha vaqt ichida kasallanadi?",
+      "c": "1,5 yil ichida",
+      "w": [
+        "3 oy ichida",
+        "1 hafta ichida",
+        "6 hafta ichida",
+        "3–6 hafta ichida"
+      ],
+      "x": "«amyobiaz bilan og'riganlarning yarmi endemik mamlakatlarga borgan vaqtidan keyingi 1,5 yil ichida kasallanadi»"
+    },
+    {
+      "q": "1 g najasda necha sista bo'lishi mumkin?",
+      "c": "6 mln gacha sista",
+      "w": [
+        "1 mln gacha sista",
+        "60 mln gacha sista",
+        "3 mln gacha sista",
+        "72 mln gacha sista"
+      ],
+      "x": "«1 g najasda 6 mln gacha sista bo'ladi»"
+    },
+    {
+      "q": "Qishloq joylarda qaysi omil ayniqsa xavfli hisoblanadi?",
+      "c": "Quduq suvining hojatxonaga yaqinligi",
+      "w": [
+        "Quduq suvining hojatxonadan uzoqligi",
+        "Ichimlik suvining sifatli tozalanishi",
+        "Sabzavotlarni yaxshilab yuvish",
+        "Kanalizatsiya tizimining yaxshi ishlashi"
+      ],
+      "x": "«Ayniqsa qishloq joylarda quduq suvining hojatxonaga yaqinligi xavf omili.»"
+    },
+    {
+      "q": "Quyidagilardan qaysi biri zararlanish xavfini oshiradi?",
+      "c": "Tig'iz yashash sharoiti",
+      "w": [
+        "Toza suv va sovun yetarliligi",
+        "Gigiyena bo'yicha yuqori bilim",
+        "Yaxshi kanalizatsiya tizimi",
+        "Suv tozalash tizimining yaxshi ishlashi"
+      ],
+      "x": "«Qashshoqlik, toza suv va sovun yetishmasligi, gigiyena bo'yicha bilimning pastligi, tig'iz yashash sharoiti zararlanish xavfini oshiradi.»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra amyobiazning manbai kim?",
+      "c": "Kasallangan odam yoki amyoba tashuvchisi",
+      "w": [
+        "Kasallangan hayvon yoki parazit tashuvchisi",
+        "Ifloslangan suv yoki oziq-ovqat mahsuloti",
+        "Ovqat tayyorlovchi yoki sayohatchi odam",
+        "Kista chiqarmaydigan sog'lom odam"
+      ],
+      "x": "«amyobiazning manbai kasallangan odam yoki amyoba tashuvchisi»"
+    }
+  ],
+  "135": [
+    {
+      "q": "Amyobali kolitda najas ko'pincha qanday ko'rinishda bo'ladi?",
+      "c": "Malina jele ko'rinishida",
+      "w": [
+        "Kolba shaklidagi ko'rinishda",
+        "Eritrotsitsiz ko'rinishda",
+        "Qabziyat ko'rinishida",
+        "Xo'ppoz ko'rinishida"
+      ],
+      "x": "«Najas ko'pincha 'malina jele' ko'rinishida bo'ladi, bu klassik tavsif.»"
+    },
+    {
+      "q": "Trofozoitlar jigarga qanday yo'l bilan o'tadi?",
+      "c": "Qon oqimi orqali",
+      "w": [
+        "Ichak devori orqali",
+        "Najas orqali",
+        "O'pka va plevra orqali",
+        "Perikard va miya orqali"
+      ],
+      "x": "«Ba'zan qon oqimi orqali jigarga o'tib, xo'ppoz keltirib chiqaradi»"
+    },
+    {
+      "q": "Zararlanganlarning ko'pchiligida klinik holat qanday bo'ladi?",
+      "c": "Belgisiz bo'ladi va kista chiqaradi",
+      "w": [
+        "O'tkir amyobali kolit rivojlanadi",
+        "Jigar xo'ppozi bilan og'ir kechadi",
+        "Fulminant kolit va peritonit rivojlanadi",
+        "Surunkali diareya qabziyat bilan almashadi"
+      ],
+      "x": "«Zararlanganlarning ko'pchiligi belgisiz bo'ladi va kista chiqaradi.»"
+    },
+    {
+      "q": "Noto'g'ri tashxis qo'yilganda qaysi davo amyobiazni og'irlashtirishi mumkin?",
+      "c": "Gormonlar bilan davolash",
+      "w": [
+        "Nitroimidazollar bilan davolash",
+        "Nazorat najas tekshiruvi",
+        "Erta davolash va prognoz",
+        "Serologik tekshiruv o'tkazish"
+      ],
+      "x": "«Noto'g'ri tashxis, ayniqsa gormonlar bilan davolash, amyobiazni og'irlashtirishi mumkin.»"
+    },
+    {
+      "q": "Fulminant amyobali kolitda nima rivojlanishi mumkin?",
+      "c": "Ichak devori nekrozi va teshilishi",
+      "w": [
+        "O'ng qovurg'a ostida og'riq",
+        "Qabziyat bilan almashuvchi diareya",
+        "Jigarning o'ng bo'lagida xo'ppoz",
+        "Kista chiqaruvchi belgisiz tashuvchilik"
+      ],
+      "x": "«ichak devori nekrozi va teshilishi, peritonit rivojlanishi mumkin»"
+    },
+    {
+      "q": "Amyobali xo'ppoz ko'pincha qayerda joylashadi?",
+      "c": "Jigarning o'ng bo'lagida",
+      "w": [
+        "Yo'g'on ichak shilliq qavatida",
+        "O'pka va plevrada",
+        "Ichak devorida",
+        "Qo'shni a'zolarda"
+      ],
+      "x": "«Xo'ppoz ko'pincha jigarning o'ng bo'lagida joylashadi.»"
+    },
+    {
+      "q": "Jigar xo'ppozi tashxisida qaysi tasviriy usullar yordam beradi?",
+      "c": "Ultratovush yoki tomografiya",
+      "w": [
+        "Najas mikroskopiyasi yoki PZR",
+        "Antigen testi yoki serologiya",
+        "Koprologik tekshiruv yoki EChT",
+        "Leykotsitoz yoki kamqonlik"
+      ],
+      "x": "«Tasviriy usullar, ya'ni ultratovush yoki tomografiya, tashxisda yordam beradi.»"
+    },
+    {
+      "q": "Qaysi tekshiruv ichakdan tashqari shakllarda ayniqsa foydali?",
+      "c": "Serologik tekshiruv",
+      "w": [
+        "Koprologik tekshiruv",
+        "Najas mikroskopiyasi",
+        "Antigen testlari",
+        "PZR tekshiruvi"
+      ],
+      "x": "«Serologiya ichakdan tashqari shakllarda ayniqsa foydali.»"
+    },
+    {
+      "q": "Bolalarda amyobiaz qanday oqibatlarga olib kelishi mumkin?",
+      "c": "Suvsizlanish va o'sishdan orqada qolish",
+      "w": [
+        "Jigar xo'ppozi va ichak torayishi",
+        "Fulminant kolit va peritonit",
+        "Qabziyat va vazn oshishi",
+        "Belgisiz tashuvchilik va immunitet oshishi"
+      ],
+      "x": "«Bolalarda amyobiaz og'irroq kechishi, suvsizlanish, ovqatlanish buzilishi va o'sishning orqada qolishiga olib kelishi mumkin.»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra dispanser kuzatuv kamida necha oy davom etadi?",
+      "c": "Kamida 12 oy",
+      "w": [
+        "Kamida 1 oy",
+        "Kamida 3 oy",
+        "Kamida 5 oy",
+        "Kamida 2 oy"
+      ],
+      "x": "«Dispanser kuzatuv kamida 12 oy davom etadi»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra tashxis najasda nimani topish bilan tasdiqlanadi?",
+      "c": "Katta vegetativ shaklni topish",
+      "w": [
+        "Jigar fermentlari o'zgarishini topish",
+        "Ichak devorida amyomani topish",
+        "Qonda EChT oshishini topish",
+        "Najasda qon va shilimshiqni topish"
+      ],
+      "x": "«Tashxis najasda eritrotsitlarni fagotsitoz qilgan katta vegetativ shaklni topish bilan tasdiqlanadi»"
+    }
+  ]
+}

@@ -1,0 +1,595 @@
+{
+  "021": [
+    {
+      "q": "Bezgak yuqish zanjirining manbasi nima?",
+      "c": "Kasal odam",
+      "w": [
+        "Anopheles chivini",
+        "Moyil odam",
+        "Chivin to'rlari",
+        "Qon surtmasi"
+      ],
+      "x": "«manba, ya'ni kasal odam, yuqish yo'li, ya'ni Anopheles chivini, va moyil odam»"
+    },
+    {
+      "q": "Yuqish yo'lini uzish uchun qaysi chora qo'llanadi?",
+      "c": "Chivin soni kamaytiriladi",
+      "w": [
+        "Bemorlar erta aniqlanadi",
+        "Kimyoprofilaktika qo'llanadi",
+        "Emlash o'tkaziladi",
+        "Dozalar belgilanadi"
+      ],
+      "x": "«Yo'lni uzish uchun chivin soni kamaytiriladi va chaqish oldi olinadi»"
+    },
+    {
+      "q": "JSST qaysi qaytaruvchi vosita tarkiblarini sanab o'tadi?",
+      "c": "DEET, IR3535 yoki ikaridin",
+      "w": [
+        "Spiral va bug'latgichlar",
+        "Chivin to'rlari va deraza to'rlari",
+        "Himoya kiyimi va to'rlar",
+        "Insektitsid va ichki purkash"
+      ],
+      "x": "«kechqurundan keyin DEET, IR3535 yoki ikaridin tarkibli qaytaruvchi vositalardan foydalanish»"
+    },
+    {
+      "q": "Vektorga qarshi kurashning ikki asosiy usuli qaysi?",
+      "c": "Insektitsid bilan ishlov berilgan to'rlar va ichki purkash",
+      "w": [
+        "Chivin to'rlari va himoya kiyimi",
+        "Turg'un suvlarni kamaytirish va hovuzlarni tozalash",
+        "Kimyoprofilaktika va emlash dasturlari",
+        "Spiral va bug'latgichlarni ishlatish"
+      ],
+      "x": "«ikki asosiy usulni ko'rsatadi: insektitsid bilan ishlov berilgan to'rlar va xonalarga ichki purkash»"
+    },
+    {
+      "q": "Chivinlarning insektitsidlarga chidamliligi paydo bo'lsa, nima qilinadi?",
+      "c": "Usullar baholanadi va almashtiriladi",
+      "w": [
+        "Dori bilan profilaktika boshlanadi",
+        "Emlash dasturi rejalashtiriladi",
+        "Chivin to'rlari soni oshiriladi",
+        "Aholi punktlari atrofi tozalanadi"
+      ],
+      "x": "«usullar muntazam baholanadi va kerak bo'lsa almashtiriladi»"
+    },
+    {
+      "q": "Sug'orish tarmoqlarida nima chivinlarning ko'payish maydoniga aylanishi mumkin?",
+      "c": "To'planib qolgan suv",
+      "w": [
+        "Yaxshilangan suv oqimi",
+        "To'g'ri tashkil qilingan sug'orish",
+        "Tozalangan aholi punktlari atrofi",
+        "Insektitsid bilan ishlov"
+      ],
+      "x": "«sug'orish tarmoqlarida to'planib qolgan suv»"
+    },
+    {
+      "q": "JSST ikkinchi samarali vaksina sifatida qaysi vaksinani ma'qulladi?",
+      "c": "R21/Matrix-M vaksinasi",
+      "w": [
+        "RTS,S/AS01 vaksinasi",
+        "Ikaridin tarkibli vaksina",
+        "Bolalar vaksinasi",
+        "Insektitsidli vaksina"
+      ],
+      "x": "«2023-yil oktyabrda esa ikkinchi samarali vaksina R21/Matrix-M ni ma'qullagan»"
+    },
+    {
+      "q": "JSST gumon qilingan barcha holatlarni qanday tasdiqlashni tavsiya etadi?",
+      "c": "Mikroskopiya yoki tezkor test",
+      "w": [
+        "Isitma belgilari bo'yicha",
+        "Kuzatuv natijasiga qarab",
+        "Hudud holatiga qarab",
+        "Entomologik kuzatuv natijasi bo'yicha"
+      ],
+      "x": "«barcha gumon qilingan holatlar mikroskopiya yoki tezkor test bilan tasdiqlanishini tavsiya etadi»"
+    },
+    {
+      "q": "Davolangan bemor nima uchun yuqish zanjirini uzadi?",
+      "c": "Chivinlarni zararlamaydi",
+      "w": [
+        "Chivin to'rlari ostida uxlaydi",
+        "Qaytaruvchi vositalardan foydalanadi",
+        "Chivin soni kamayadi",
+        "Yangi zararlanishdan himoyalanadi"
+      ],
+      "x": "«chunki davolangan bemor chivinlarni zararlamaydi»"
+    },
+    {
+      "q": "Bezgak yo'q qilingan hududda qaysi chora kerak emas?",
+      "c": "Ommaviy dori berish yoki ichki purkash",
+      "w": [
+        "Import qilingan holatlarni aniqlash",
+        "Aholini xabardor qilish",
+        "Chivinlar ko'p joylarni kuzatish",
+        "Laboratoriya tayyorligini saqlash"
+      ],
+      "x": "«Bezgak yo'q qilingan hududda ommaviy dori berish yoki ichki purkash kerak emas»"
+    },
+    {
+      "q": "Laborant nima uchun profilaktikaning birinchi bo'g'inida turadi?",
+      "c": "Parazitni birinchi bo'lib ko'radi",
+      "w": [
+        "Chivinlarga qarshi kurash olib boradi",
+        "Dori sxemasini tanlaydi",
+        "Chivin to'rlarini o'rnatadi",
+        "Kuzatuv ma'lumotlarini tahlil qiladi"
+      ],
+      "x": "«u parazitni birinchi bo'lib ko'radi va epidemiologik zanjirni uzish imkonini beradi»"
+    }
+  ],
+  "022": [
+    {
+      "q": "Uch kunlik bezgakda qaytalanishlar nima tufayli yuz beradi?",
+      "c": "Jigardagi gipnozoitlar faollashishi",
+      "w": [
+        "Dori to'liq ichilmasligi",
+        "Qayta yuqish bo'lishi",
+        "Isitma va titroq paydo bo'lishi",
+        "Qondagi parazitlar yo'qolmasligi"
+      ],
+      "x": "«qaytalanishlar jigardagi gipnozoitlar faollashishi tufayli yuz beradi»"
+    },
+    {
+      "q": "Dispanser kuzatuvining maqsadlaridan biri qaysi?",
+      "c": "Qaytalanishni erta aniqlash",
+      "w": [
+        "Bemorning shaxsiy manfaati",
+        "Primakvin dorisini qo'llash",
+        "Bemorni shifoxonada saqlash",
+        "Hududda chivin nazoratini kuchaytirish"
+      ],
+      "x": "«qaytalanishni erta aniqlash va qayta yuqish manbasini yo'qotishdir»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra uch kunlik bezgak bilan og'riganlar necha yil dispanser nazoratida turadi?",
+      "c": "3 yil",
+      "w": [
+        "1 yil",
+        "2 yil",
+        "5 yil",
+        "6 yil"
+      ],
+      "x": "«uch kunlik bezgak bilan og'rigan bemorlar 3 yil davomida infeksionist va hududiy terapevt hisobida dispanser nazoratida turadi»"
+    },
+    {
+      "q": "Uch kunlik bezgak bilan og'riganlar qaysi mutaxassislar hisobida turadi?",
+      "c": "Infeksionist va hududiy terapevt",
+      "w": [
+        "Parazitolog va laborant",
+        "Epidemiolog va laborant",
+        "Oilaviy shifokor va epidemiolog",
+        "Laborant va shifokor"
+      ],
+      "x": "«infeksionist va hududiy terapevt hisobida dispanser nazoratida turadi»"
+    },
+    {
+      "q": "Qaytalanishning oldini olish maqsadida epidemik mavsum boshlanishidan oldin nima o'tkaziladi?",
+      "c": "Bezgakka qarshi davolash",
+      "w": [
+        "Bemorni shifoxonaga yotqizish",
+        "Hududiy terapevt ko'rigi",
+        "Qon surtmasi tekshiruvi",
+        "Kuzatuv ko'rigi o'tkazilishi"
+      ],
+      "x": "«epidemik mavsum boshlanishidan oldin bezgakka qarshi davolash o'tkaziladi»"
+    },
+    {
+      "q": "Dispanser davrida bezgakka shubha bo'lsa, bemor qayerga yotqiziladi?",
+      "c": "Darhol shifoxonaga",
+      "w": [
+        "Oilaviy poliklinikaga",
+        "Sanitariya-epidemiologiya xizmatiga",
+        "Kuzatuv ko'rigiga",
+        "Hududiy terapevt qabuliga"
+      ],
+      "x": "«bezgakka shubha bo'lsa darhol shifoxonaga yotqiziladi»"
+    },
+    {
+      "q": "Plasmodium vivax jigarda qanday shakllar hosil qiladi?",
+      "c": "Uxlab yotuvchi shakllar",
+      "w": [
+        "Faol shakllar",
+        "Qalin tomchi shakllari",
+        "Yupqa surtma shakllari",
+        "Davolovchi shakllar"
+      ],
+      "x": "«Plasmodium vivax jigarda uxlab yotuvchi shakllar hosil qiladi»"
+    },
+    {
+      "q": "Bemorni kuzatuvdan chiqarish uchun qon surtmasi qanday bo'lishi kerak?",
+      "c": "Qon surtmasi manfiy ekani",
+      "w": [
+        "Parazit soni kamayganini",
+        "Primakvin berilganini",
+        "Qalin tomchi takrorlanganini",
+        "Qaytalanish aniqlanganini"
+      ],
+      "x": "«qon surtmasi manfiy ekani va klinik sog'lig'i tiklangani kerak»"
+    },
+    {
+      "q": "Laborant qaytalanishda nima uchun qalin tomchini ehtiyotkorlik bilan o'rganadi?",
+      "c": "Parazit soni kamroq bo'lishi mumkin",
+      "w": [
+        "Parazit soni ko'proq bo'lishi mumkin",
+        "Qon surtmasi yupqa bo'lishi mumkin",
+        "Gipnozoitlar qonda faollashishi mumkin",
+        "Chivinlar soni kamayishi mumkin"
+      ],
+      "x": "«Qaytalanishda parazit soni ilk xurujga qaraganda kamroq bo'lishi mumkin»"
+    },
+    {
+      "q": "Kuzatuv ma'lumotlari nima uchun bir joyda jamlanadi?",
+      "c": "Bemor ko'chib ketsa ham nazorat uzilmaydi",
+      "w": [
+        "Chivin faol mavsumi boshlanadi",
+        "Primakvin berilishi kuzatiladi",
+        "Qon surtmasi sifati yaxshilanadi",
+        "Gipnozoitlar faollashishi kuzatiladi"
+      ],
+      "x": "«Kuzatuv ma'lumotlari bir joyda jamlanadi, shunda bemor ko'chib ketsa ham nazorat uzilmaydi»"
+    }
+  ],
+  "023": [
+    {
+      "q": "Tropik bezgakda jigarda uxlab yotuvchi shakllar bo'lmagani uchun nima kutilmaydi?",
+      "c": "Uzoq muddatli qaytalanish",
+      "w": [
+        "Davolash samarasizligi",
+        "Asoratlar kuzatilishi",
+        "Parazitemiya qaytishi",
+        "Qayta zararlanish"
+      ],
+      "x": "«shuning uchun to'g'ri va to'liq davolangan bemorda uzoq muddatli qaytalanish kutilmaydi»"
+    },
+    {
+      "q": "JSST primakvinni qaysi bezgaklarda asosiy davoga qo'shishni tavsiya etadi?",
+      "c": "P. vivax va P. ovale",
+      "w": [
+        "Faqat P. falciparum bezgagida",
+        "P. falciparum va P. vivax",
+        "P. falciparum va P. ovale",
+        "Tropik bezgakning har bir shaklida"
+      ],
+      "x": "«primakvinni faqat P. vivax va P. ovale bezgagida asosiy davoga qo'shishni tavsiya etadi»"
+    },
+    {
+      "q": "Tropik bezgakda qaytalanish ko'pincha nimani ko'rsatadi?",
+      "c": "Davolash muvaffaqiyatsiz bo'lganini",
+      "w": [
+        "Gipnozoitlar jigarda faollashganini",
+        "Kuzatuv muddati to'liq tugaganini",
+        "Jigar va taloq zararlanganini",
+        "Chivinlar soni kamayganini"
+      ],
+      "x": "«Tropik bezgakda qaytalanish ko'pincha qondagi parazitlar to'liq yo'qotilmaganini, ya'ni davolash muvaffaqiyatsiz bo'lganini ko'rsatadi»"
+    },
+    {
+      "q": "Tropik bezgakda parazit qayta aniqlansa, bunga qaysi sabab bo'lishi mumkin?",
+      "c": "Dorilar to'liq ichilmagan",
+      "w": [
+        "Jigarda gipnozoitlar faollashgan",
+        "Primakvin ichilmagan",
+        "Chivinlar soni kamaygan",
+        "Kuzatuv muddati tugagan"
+      ],
+      "x": "«dorilar to'liq ichilmagan, parazit dori ta'siriga chidamli yoki bemor qayta zararlangan bo'lishi mumkin»"
+    },
+    {
+      "q": "Tropik bezgakdan keyin qaysi oqibatlar kuzatiladi?",
+      "c": "Kamqonlik va a'zolar zararlanishi",
+      "w": [
+        "Parazitlar to'liq yo'qolishi",
+        "Parazit dori ta'siriga chidamliligi",
+        "Chivin chaqishi oqibatlari",
+        "Qayta zararlanish oqibatlari"
+      ],
+      "x": "«kasallikdan keyingi oqibatlarni, masalan kamqonlik va a'zolar zararlanishini kuzatishdir»"
+    },
+    {
+      "q": "Davolashdan keyingi dastlabki haftalarda qon surtmasi nima uchun takroriy tekshiriladi?",
+      "c": "Parazitemiya qaytishi mumkin",
+      "w": [
+        "Gipnozoitlar faollashishi mumkin",
+        "Chivinlar zararlanishi mumkin",
+        "Primakvin ta'siri tugashi mumkin",
+        "Kamqonlik aniqlanishi mumkin"
+      ],
+      "x": "«qisqa vaqt ichida parazitemiya qaytishi mumkin»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra tropik bezgak bilan og'riganlar necha yil dispanser nazoratida turadi?",
+      "c": "1 yil",
+      "w": [
+        "3 yil",
+        "2 yil",
+        "5 yil",
+        "6 yil"
+      ],
+      "x": "«tropik bezgak bilan og'rigan bemorlar 1 yil davomida infeksionist va hududiy terapevt hisobida dispanser nazoratida turadi»"
+    },
+    {
+      "q": "Tropik bezgak bilan og'riganlar davolash kursini qayerda o'tadi?",
+      "c": "Yuqumli kasalliklar shifoxonasida",
+      "w": [
+        "Infeksionist hisobida",
+        "Hududiy terapevt hisobida",
+        "Qon surtmasi laboratoriyasida",
+        "Dispanser kuzatuvida"
+      ],
+      "x": "«Tropik bezgak bilan og'riganlar davolash kursini yuqumli kasalliklar shifoxonasida o'tadi»"
+    },
+    {
+      "q": "Kuzatuvdan chiqarilgan bemorga kelgusida isitma paydo bo'lsa, nima tavsiya etiladi?",
+      "c": "Darhol murojaat qilish",
+      "w": [
+        "Primakvin qabul qilish",
+        "Kuzatuv muddatini belgilash",
+        "Temir saqlovchi mahsulot iste'mol qilish",
+        "Oila a'zolarini kuzatish"
+      ],
+      "x": "«Kuzatuvdan chiqarilgan bemorga kelgusida isitma paydo bo'lganda darhol murojaat qilish tavsiya etiladi»"
+    },
+    {
+      "q": "Tropik bezgakda kuzatuv davomida qaysi a'zolar faoliyati nazorat qilinadi?",
+      "c": "Buyrak, jigar va asab tizimi",
+      "w": [
+        "Tana harorati va rangi",
+        "Qon tahlili va gemoglobin darajasi",
+        "Qalin tomchi va yupqa surtma",
+        "Taloq va qon surtmasi"
+      ],
+      "x": "«ya'ni buyrak, jigar va asab tizimi faoliyati ham kuzatiladi»"
+    },
+    {
+      "q": "Uch kunlik bezgakda kuzatuv nuqtai nazaridan asosiy xavf nima?",
+      "c": "Gipnozoitlar tufayli kechikkan qaytalanish",
+      "w": [
+        "Dori ta'siriga chidamli parazit qaytishi",
+        "Davolashdan keyingi qayta zararlanish xavfi",
+        "Chivin chaqishidan himoya choralari",
+        "Davolash samarasizligi va asoratlar"
+      ],
+      "x": "«Uch kunlik bezgakda asosiy xavf jigardagi gipnozoitlar tufayli kechikkan qaytalanish»"
+    }
+  ],
+  "024": [
+    {
+      "q": "JSST bezgakni yo'q qilishni qanday ta'riflaydi?",
+      "c": "Mahalliy yuqishining ongli to'xtatilishi",
+      "w": [
+        "Qo'zg'atuvchini butun dunyoda yo'qotish",
+        "Kasallik darajasini xavfsiz darajaga tushirish",
+        "Import holatlarining to'liq yo'qolishi",
+        "Chivinlarni tabiatdan yo'qotish"
+      ],
+      "x": "«mahalliy yuqishining ongli tadbirlar natijasida to'xtatilishi deb ta'riflaydi»"
+    },
+    {
+      "q": "Bezgakdan holi mamlakatda qaysi holatlar saqlanishi mumkin?",
+      "c": "Import qilingan holatlar",
+      "w": [
+        "Mahalliy yuqish holatlari",
+        "Chivinlardan yuqish holatlari",
+        "Sertifikatlangan holatlar",
+        "Yangi o'choq holatlari"
+      ],
+      "x": "«import qilingan holatlar esa saqlanishi mumkin»"
+    },
+    {
+      "q": "Nazoratda maqsad nima?",
+      "c": "Kasallik darajasini xavf tug'dirmaydigan darajaga tushirish",
+      "w": [
+        "Belgilangan hududda mahalliy yuqishni nolga tushirish",
+        "Mamlakatni sertifikatlash uchun ariza topshirish",
+        "Import qilingan holatlarni nolga tushirish",
+        "Chivinlarni butun dunyoda yo'qotish"
+      ],
+      "x": "«Nazoratda maqsad kasallik darajasini jamiyat uchun xavf tug'dirmaydigan darajaga tushirish»"
+    },
+    {
+      "q": "Tugatish, ya'ni eradikatsiya, nimani anglatadi?",
+      "c": "Kasallikni butun dunyoda yo'qotish",
+      "w": [
+        "Mahalliy yuqishni belgilangan hududda to'xtatish",
+        "Kasallik darajasini kamaytirish va o'limni pasaytirish",
+        "Kasallikni butun mamlakatda kamaytirish",
+        "Import qilingan holatlarni butun dunyoda yo'qotish"
+      ],
+      "x": "«Tugatish, ya'ni eradikatsiya, kasallikni butun dunyoda yo'qotish, ya'ni qo'zg'atuvchini tabiatdan yo'q qilishdir»"
+    },
+    {
+      "q": "Sertifikatlash uchun ariza topshirishdan oldin mamlakatda mahalliy holat qancha vaqt qayd etilmagan bo'lishi kerak?",
+      "c": "Kamida uch yil",
+      "w": [
+        "Ketma-ket ikki yil",
+        "Ketma-ket bir yil",
+        "Bir yil davomida",
+        "Ikki yil davomida"
+      ],
+      "x": "«JSST kamida ketma-ket uch yil davomida mahalliy bezgak holatlari qayd etilmagan mamlakatlar»"
+    },
+    {
+      "q": "Bezgakni yo'q qilganlik sertifikatini kim beradi?",
+      "c": "Bosh direktor",
+      "w": [
+        "Sog'liqni saqlash vazirligi",
+        "Mamlakat laboratoriyasi",
+        "Mamlakat epidemiologi",
+        "Epidemiolog va parazitolog"
+      ],
+      "x": "«Sertifikatni Bosh direktor beradi.»"
+    },
+    {
+      "q": "JSSTning global texnik strategiyasi qaysi yillarga mo'ljallangan?",
+      "c": "2016–2030-yillarga",
+      "w": [
+        "2015–2030-yillarga",
+        "2016–2021-yillarga",
+        "2018–2030-yillarga",
+        "2021–2030-yillarga"
+      ],
+      "x": "«JSSTning 2016–2030-yillarga mo'ljallangan bezgak bo'yicha global texnik strategiyasi»"
+    },
+    {
+      "q": "Strategiya qanday yondashuvni tavsiya qiladi?",
+      "c": "Ko'p qatlamli yondashuvni",
+      "w": [
+        "Faqat vektorga qarshi yondashuvni",
+        "Bosqichma-bosqich yondashuvni",
+        "Kuchli kuzatuv yondashuvini",
+        "Epidemiologik yondashuvni"
+      ],
+      "x": "«Strategiya ko'p qatlamli yondashuvni tavsiya qiladi»"
+    },
+    {
+      "q": "Mahalliy holatlar to'xtatilgandan keyin qaysi bosqich boshlanadi?",
+      "c": "Qayta kiritilishining oldini olish",
+      "w": [
+        "Nazorat dasturi orqali kamaytirish",
+        "Ko'p hududda ko'rsatkichlar pasayishi",
+        "Sertifikatlash uchun ariza bosqichi",
+        "Tugatish va yo'q qilish bosqichi"
+      ],
+      "x": "«yo'q qilish bosqichida mahalliy holatlar to'xtatiladi va nihoyat qayta kiritilishining oldini olish bosqichi boshlanadi»"
+    },
+    {
+      "q": "Mamlakat bezgakdan holi deb tan olinganidan keyin ish nima uchun tugamaydi?",
+      "c": "Chivinlar saqlanib qoladi",
+      "w": [
+        "Aholida kuchli immunitet bo'ladi",
+        "Import qilingan holatlar to'xtaydi",
+        "Entomologik kuzatuv tugatiladi",
+        "Mahalliy yuqish davom etadi"
+      ],
+      "x": "«Chivinlar saqlanib qoladi, import qilingan holatlar kelib turadi, aholi esa immunitetga ega emas»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra hududning yuqumlilik darajasi nimani bildiradi?",
+      "c": "Mavsum davomida chivinlar mavjudligi",
+      "w": [
+        "Infeksiyaning tashqaridan olib kelinish ehtimoli",
+        "Chivinlarning insektitsidlarga chidamliligi darajasi",
+        "Mahalliy yuqish holatlarining soni",
+        "Aholi o'rtasida immunitet bo'lishi"
+      ],
+      "x": "«yuqumlilik darajasi, ya'ni mavsum davomida chivinlar mavjudligi va kasallikni o'tkazish qobiliyati»"
+    }
+  ],
+  "025": [
+    {
+      "q": "O'zbekiston bezgakdan holi hudud sertifikatini nechanchi yilda olgan?",
+      "c": "2018-yilda",
+      "w": [
+        "2017-yilda",
+        "2023-yilda",
+        "2025-yilda",
+        "2024-yilda"
+      ],
+      "x": "«JSST 2018-yilda O'zbekiston bilan bir qatorda Paragvayni ham bezgakdan holi deb sertifikatlaganini»"
+    },
+    {
+      "q": "Markaziy Osiyodan Qirg'iziston bezgakdan holi sertifikatni qaysi yilda olgan?",
+      "c": "2016-yilda",
+      "w": [
+        "2002-yilda",
+        "2015-yilda",
+        "2017-yildan beri",
+        "2024-yildan beri"
+      ],
+      "x": "«Markaziy Osiyodan Qirg'iziston 2016-yilda, Tojikiston esa 2023-yilda sertifikat olgan»"
+    },
+    {
+      "q": "Sertifikat nimani rasman tan olishdir?",
+      "c": "Bezgakning mahalliy yuqishi to'xtatilganini",
+      "w": [
+        "Bezgakning import qilinmasligini",
+        "Chivinlar yo'qolganini",
+        "Aholida immunitet paydo bo'lganini",
+        "Mamlakat bezgakdan butunlay xalos bo'lganini"
+      ],
+      "x": "«Sertifikat JSST tomonidan mamlakat hududida bezgakning mahalliy yuqishi to'xtatilganini rasman tan olishdir»"
+    },
+    {
+      "q": "Sertifikat bergan mamlakatda qanday holatlar uchrashi mumkin?",
+      "c": "Chetdan kelgan bemorlar",
+      "w": [
+        "Mahalliy yuqish zanjiri",
+        "Immunitetga ega aholi",
+        "Bezgakdan holi chivinlar",
+        "Sertifikatsiz mamlakatlar bemorlari"
+      ],
+      "x": "«Sertifikat bezgak import qilinmaydi degani emas: chetdan kelgan bemorlar topilishi mumkin»"
+    },
+    {
+      "q": "Import qilingan holat nima?",
+      "c": "Bemor boshqa mamlakatda zararlangan",
+      "w": [
+        "Zararlanish hududda sodir bo'lgan",
+        "Bemor chivin chaqishidan zararlangan",
+        "Bemor sertifikatsiz mamlakatda aniqlangan",
+        "Bemor immunitetga ega bo'lgan"
+      ],
+      "x": "«bemor bezgak bilan boshqa mamlakatda zararlangan»"
+    },
+    {
+      "q": "Qaysi holatlar sertifikatni xavf ostiga qo'yadi?",
+      "c": "Mahalliy holatlar",
+      "w": [
+        "Import qilingan holatlar",
+        "Chetdan kelgan bemorlar",
+        "Sayohatchilar holatlari",
+        "Bolalar va homilador ayollar"
+      ],
+      "x": "«Import qilingan holatlar sertifikatga to'sqinlik qilmaydi, mahalliy holatlar esa uni xavf ostiga qo'yadi»"
+    },
+    {
+      "q": "Sertifikatlash uchun ariza topshirish imkoniyati qaysi shartda paydo bo'ladi?",
+      "c": "Ketma-ket kamida uch yil",
+      "w": [
+        "Ketma-ket kamida bir yil",
+        "Ketma-ket kamida ikki yil",
+        "Kamida o'n yil davomida",
+        "Kamida o'n to'rt yil"
+      ],
+      "x": "«ketma-ket kamida uch yil davomida mahalliy bezgak holatlari qayd etilmagan mamlakatlar sertifikatlash uchun ariza topshirishi mumkin»"
+    },
+    {
+      "q": "Sertifikatni saqlash uchun kuzatuv va laboratoriya tayyorligi nima sababdan doimiy saqlanadi?",
+      "c": "Chivinlar yo'qolmaydi, aholi immunitetga ega emas",
+      "w": [
+        "Chet eldan bezgak olib kirilmaydi, chivinlar yo'qolgan",
+        "Aholi immunitetga ega, chivinlar yo'qolgan",
+        "Mahalliy yuqish davom etadi, chivinlar kamaygan",
+        "Chivinlar soni kamayib boradi, bemorlar topilmaydi"
+      ],
+      "x": "«chivinlar yo'qolmaydi, aholi immunitetga ega emas, chet eldan bezgak olib kirilishi davom etadi»"
+    },
+    {
+      "q": "Sertifikatning iqtisodiy ahamiyati nimada?",
+      "c": "Xarajatlar va mehnat yo'qotilishi kamayadi",
+      "w": [
+        "Xalqaro obro' va sayohat qulayligi oshadi",
+        "Chegara hududlarida hamkorlik kuchayadi",
+        "Kuzatuv va laboratoriya tayyorligi saqlanadi",
+        "Bolalar va homilador ayollar xavfi kamayadi"
+      ],
+      "x": "«iqtisodiy jihatdan: kasallik uchun sarflanadigan xarajatlar va mehnat qobiliyati yo'qotilishi kamayadi»"
+    },
+    {
+      "q": "Noto'g'ri tashxis qo'yilsa yoki holat o'tkazib yuborilsa, nima yuz berishi mumkin?",
+      "c": "Mahalliy yuqishning boshlanishi",
+      "w": [
+        "Import qilingan holatlar kamayishi",
+        "Chivinlar soni kamayishi",
+        "Sertifikat mamlakatga qaytarilishi",
+        "Laborant ko'nikmalari saqlanishi"
+      ],
+      "x": "«Noto'g'ri tashxis qo'yilsa yoki holat o'tkazib yuborilsa, mahalliy yuqishning boshlanishiga olib kelishi mumkin»"
+    }
+  ]
+}

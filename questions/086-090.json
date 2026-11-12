@@ -1,0 +1,584 @@
+{
+ "086": [
+  {
+   "q": "Askaridozda aniq tashxis nima bilan tasdiqlanadi?",
+   "c": "Najasda tuxum yoki chuvalchang topilishi",
+   "w": [
+    "Eozinofiliya va kamqonlik aniqlanishi",
+    "Rentgenda infiltratlar topilishi",
+    "Klinik shikoyatlarga qarab baholash",
+    "Klinik shubha va anamnez"
+   ],
+   "x": "«Aniq tashxis najasda tuxum yoki chuvalchang topilishi bilan tasdiqlanadi»"
+  },
+  {
+   "q": "Askaridozni aniqlashda eng keng qo'llanadigan usul qaysi?",
+   "c": "Najasni mikroskopik tekshirish",
+   "w": [
+    "Qonning umumiy tahlilini o'tkazish",
+    "Ultratovush yordamida tekshirish",
+    "Rentgen yordamida tekshirish",
+    "Serologik usullarni qo'llash"
+   ],
+   "x": "«Eng keng qo'llanadigan usul najasni mikroskopik tekshirishdir»"
+  },
+  {
+   "q": "Miqdoriy baholash uchun qaysi usul keng ishlatiladi?",
+   "c": "Kato-Katz usuli",
+   "w": [
+    "Cho'ktirish usuli",
+    "Flotatsiya usuli",
+    "Natiw surtma usuli",
+    "Formalin-efir usuli"
+   ],
+   "x": "«Miqdoriy baholash uchun Kato-Katz usuli keng ishlatiladi»"
+  },
+  {
+   "q": "JSST tavsiyalarida askaridada yengil zararlanish qancha epg hisoblanadi?",
+   "c": "1–4999 epg",
+   "w": [
+    "5000–49 999 epg",
+    "50 000 va undan yuqori epg",
+    "1–999 epg",
+    "5000 va undan yuqori epg"
+   ],
+   "x": "«JSST tavsiyalarida askaridada 1–4999 epg yengil»"
+  },
+  {
+   "q": "Erta davrda najas tahlili nima uchun manfiy bo'lishi mumkin?",
+   "c": "Chuvalchanglar hali voyaga yetmagan",
+   "w": [
+    "Tuxumlar boshqa tuzilmalarga o'xshaydi",
+    "Urug'lanmagan tuxumlar infeksion emas",
+    "Boyitish usullari miqdoriy emas",
+    "Najas oddiy surtmada ko'rilgan"
+   ],
+   "x": "«Migratsion davrda najasda tuxum yo'q, chunki chuvalchanglar hali voyaga yetmagan»"
+  },
+  {
+   "q": "Davolashdan keyin najasda tuxum topilmasa, davolash qanday hisoblanadi?",
+   "c": "Samarali deb hisoblanadi",
+   "w": [
+    "Samarasiz deb hisoblanadi",
+    "To'liq bo'lmagan deb hisoblanadi",
+    "Qayta zararlanish deb hisoblanadi",
+    "Yengil zararlanish deb hisoblanadi"
+   ],
+   "x": "«Tuxum topilmasa, davolash samarali deb hisoblanadi»"
+  },
+  {
+   "q": "Qobiqsiz tuxumlar mikroskopda qanday ko'rinadi?",
+   "c": "Silliq, boshqa tuzilmalarga o'xshaydi",
+   "w": [
+    "Bo'rtmali va qalin qobiqli ko'rinadi",
+    "Cho'ziq va donador ko'rinadi",
+    "Dumaloq va sarg'ish-jigarrang ko'rinadi",
+    "Ichida embrion bilan ko'rinadi"
+   ],
+   "x": "«ular silliq ko'rinadi va boshqa tuzilmalarga o'xshab ketishi mumkin»"
+  },
+  {
+   "q": "Urug'langan askarida tuxumi ichida nima ko'rinadi?",
+   "c": "Bir hujayrali embrion",
+   "w": [
+    "Donador tuzilmalar",
+    "Boshqa tuzilmalar",
+    "Chuvalchang lichinkasi",
+    "O'simlik urug'i"
+   ],
+   "x": "«Urug'langan tuxum ichida bir hujayrali embrion ko'rinadi»"
+  },
+  {
+   "q": "Qaysi biri tashxis xatosi hisoblanadi?",
+   "c": "Najasni eski holda tekshirish",
+   "w": [
+    "Namunani yangi holda tekshirish",
+    "Bir necha preparatni ko'rish",
+    "Shubhali topilmani ikkinchi mutaxassisga ko'rsatish",
+    "Takroriy namunalar olish"
+   ],
+   "x": "«Eng ko'p xatolar: najasni eski holda tekshirish»"
+  },
+  {
+   "q": "Zararlanish intensivligini baholash nimani ko'rsatadi?",
+   "c": "Kasallik og'irligi va davolash zaruratini",
+   "w": [
+    "Tuxum morfologiyasini aniqlashni",
+    "Faqat urg'ochi chuvalchanglar borligini",
+    "Serologik tasdiq uchun asosni",
+    "Qayta zararlanish muddatini"
+   ],
+   "x": "«Intensivlik kasallik og'irligi va davolash zaruratini ko'rsatadi»"
+  },
+  {
+   "q": "Erta davrda najasda tuxum bo'lmasa, tashxis nimalar bilan qo'yilishi mumkin?",
+   "c": "Eozinofiliya va balg'amdagi lichinkalar",
+   "w": [
+    "Najasdagi tuxum va chuvalchang topilishi",
+    "Rentgen va ultratovush tekshiruvi",
+    "Kato-Katz usulida tuxum hisoblash",
+    "Anamnez va epidemiologik ma'lumot"
+   ],
+   "x": "«tashxis qon tahlilidagi eozinofiliya, o'pka belgilari va ba'zan balg'amdagi lichinkalar bilan qo'yilishi mumkin»"
+  }
+ ],
+ "087": [
+  {
+   "q": "Trixosefalyozning qo'zg'atuvchisi qaysi?",
+   "c": "Trichuris trichiura",
+   "w": [
+    "Askarida chuvalchangi",
+    "G'ajakbosh chuvalchang",
+    "Ostritsa chuvalchangi",
+    "Odam askaridasi"
+   ],
+   "x": "«qilbosh chuvalchang (Trichuris trichiura) keltirib chiqaradigan, tuproq orqali yuqadigan gelmintoz»"
+  },
+  {
+   "q": "Qilbosh chuvalchangning orqa qismi qanday bo'ladi?",
+   "c": "Yo'g'onroq, qamchiga o'xshaydi",
+   "w": [
+    "Ingichka, ip singari",
+    "Spiral shaklda buralgan",
+    "Uchdan ikki qismi ingichka",
+    "Erkagidan biroz kattaroq va yo'g'on"
+   ],
+   "x": "«orqa qismi esa yo'g'onroq, qamchiga yoki qilga o'xshaydi»"
+  },
+  {
+   "q": "Qilbosh chuvalchang odam ichagining qaysi qismida joylashadi?",
+   "c": "Yo'g'on ichakda, asosan ko'r ichakda",
+   "w": [
+    "Ingichka ichakda, shilliq qavat ustida",
+    "Ingichka ichakning old qismida",
+    "O'pka orqali ichak devorida",
+    "Ichak tashqarisida, jigar atrofida"
+   ],
+   "x": "«Chuvalchang yo'g'on ichakda, asosan ko'r ichak va unga yaqin qismlarda»"
+  },
+  {
+   "q": "Qilbosh chuvalchang tuxumi qanday shaklda bo'ladi?",
+   "c": "Limon yoki bochka shaklida",
+   "w": [
+    "Dumaloq va bo'rtmali shaklda",
+    "Assimetrik va shaffof shaklda",
+    "Cho'ziq va shaffof shaklda",
+    "Dumaloq va assimetrik shaklda"
+   ],
+   "x": "«Tuxum limon yoki bochka shaklida, ikki qutbida shaffof tiqinlari bor»"
+  },
+  {
+   "q": "Trixosefalyozda o'pka belgilari nima uchun bo'lmaydi?",
+   "c": "Lichinkalari o'pka orqali ko'chmaydi",
+   "w": [
+    "Lichinkalari ichak orqali ko'chmaydi",
+    "Tuxumlari o'pka orqali yetilmaydi",
+    "Chuvalchang o'pka orqali yashamaydi",
+    "Lichinkalari yo'g'on ichakka o'tmaydi"
+   ],
+   "x": "«Askaridadan farqli, qilbosh chuvalchang lichinkalari o'pka orqali ko'chmaydi»"
+  },
+  {
+   "q": "JSST ma'lumotiga ko'ra, tuproq gelmintlarining tuxumlari tuproqda taxminan necha hafta yetiladi?",
+   "c": "Taxminan 3 hafta",
+   "w": [
+    "Taxminan 1 hafta",
+    "Taxminan 2 hafta",
+    "Taxminan 8 hafta",
+    "Taxminan 12 hafta"
+   ],
+   "x": "«JSST tuproq gelmintlarining tuxumlari tuproqda taxminan 3 hafta yetilishi kerakligini ta'kidlaydi»"
+  },
+  {
+   "q": "Tuxumlarning yetilishi uchun qanday tuproq qulay?",
+   "c": "Nam, iliq va soyali tuproq",
+   "w": [
+    "Quruq va quyoshli tuproq",
+    "Sovuq va quruq tuproq",
+    "Quyoshli va issiq tuproq",
+    "Issiq va quruq tuproq"
+   ],
+   "x": "«Yetilish uchun nam, iliq va soyali tuproq qulay»"
+  },
+  {
+   "q": "Trixosefalyozning manbai kim?",
+   "c": "Zararlangan odam",
+   "w": [
+    "Boshqa Trichuris turlari",
+    "Ifloslangan tuproq",
+    "Ifloslangan suv",
+    "Najas bilan o'g'itlangan bog'"
+   ],
+   "x": "«Trixosefalyoz antroponoz: manba zararlangan odam»"
+  },
+  {
+   "q": "JSST bo'yicha qilbosh chuvalchangda og'ir zararlanish qancha epg hisoblanadi?",
+   "c": "10 000 dan yuqori epg",
+   "w": [
+    "50 000 va undan yuqori epg",
+    "1000–9999 epg",
+    "50 000 epg",
+    "1–999 epg"
+   ],
+   "x": "«10 000 dan yuqori epg og'ir zararlanish hisoblanadi»"
+  },
+  {
+   "q": "Trixosefalyoz qanday iqlimli hududlarda ko'proq uchraydi?",
+   "c": "Issiq va nam iqlimli hududlarda",
+   "w": [
+    "Quruq va sovuq iqlimli hududlarda",
+    "Quruq va quyoshli hududlarda",
+    "Sovuq va soyali hududlarda",
+    "Sanitariyasi yetarli hududlarda"
+   ],
+   "x": "«Kasallik issiq va nam iqlimli, sanitariyasi yetarli bo'lmagan hududlarda ko'proq uchraydi»"
+  }
+ ],
+ "088": [
+  {
+   "q": "Trixosefalyozning yengil zararlanishida klinik ko'rinish qanday?",
+   "c": "Belgilar bo'lmaydi yoki juda yengil bo'ladi",
+   "w": [
+    "Surunkali diareya va kamqonlik kuzatiladi",
+    "Qonli diareya va tenezmlar paydo bo'ladi",
+    "To'g'ri ichak prolapsi uchraydi",
+    "O'sishdan orqada qolish kuzatiladi"
+   ],
+   "x": "«Yengil zararlanishda belgilar bo'lmaydi yoki juda yengil bo'ladi»"
+  },
+  {
+   "q": "Trixosefalyozning og'ir zararlanishida qanday belgilar kuzatiladi?",
+   "c": "Surunkali diareya, qorin og'rig'i, kamqonlik",
+   "w": [
+    "Belgisiz kechish, yengil ich qotishi",
+    "Appenditsit, shishlar, oqsil tanqisligi",
+    "Ko'ngil aynishi, ishtaha pasayishi, qorin dam bo'lishi",
+    "Rangpar teri, holsizlik, nafas qisilishi"
+   ],
+   "x": "«og'ir zararlanishda esa surunkali diareya, qorin og'rig'i, kamqonlik va bolalarda o'sishdan orqada qolish kuzatiladi»"
+  },
+  {
+   "q": "Trixuriaz dizenteriyasi qanday belgi bilan namoyon bo'ladi?",
+   "c": "Shilliq va qon aralash ich ketishi",
+   "w": [
+    "Rangpar teri va holsizlik",
+    "Qorin dam bo'lishi va ich qotishi",
+    "Vazn yo'qotish va shishlar",
+    "Ko'ngil aynishi va ishtaha pasayishi"
+   ],
+   "x": "«Og'ir zararlanishda surunkali shilliq va qon aralash ich ketishi, tenezmlar»"
+  },
+  {
+   "q": "Tenezmlar nima?",
+   "c": "Yolg'on hojatga chaqiruv",
+   "w": [
+    "Ichak shilliq qavatining yallig'lanishi",
+    "Qonli najas ketishi",
+    "Qorinning pastki o'ng qismidagi og'riq",
+    "Gemoglobinning kamayishi"
+   ],
+   "x": "«tenezmlar, ya'ni yolg'on hojatga chaqiruv»"
+  },
+  {
+   "q": "To'g'ri ichak prolapsi nima?",
+   "c": "Ichak shilliq qavatining tashqariga tushishi",
+   "w": [
+    "Ichak tutilishi va qon ketishi",
+    "Yo'g'on ichak shilliq qavatining yallig'lanishi",
+    "Chuvalchanglarning to'g'ri ichakka o'tishi",
+    "Qorinning pastki o'ng qismidagi doimiy og'riq"
+   ],
+   "x": "«to'g'ri ichak prolapsi, ya'ni ichak shilliq qavatining tashqariga tushishi»"
+  },
+  {
+   "q": "Trixosefalyozda kamqonlik nima sababdan rivojlanadi?",
+   "c": "Surunkali qon yo'qotish va temir tanqisligi",
+   "w": [
+    "Oqsil tanqisligi va shishlar",
+    "Oziq moddalarning yomon so'rilishi",
+    "Ikkilamchi infeksiyalar va vazn yo'qotish",
+    "Appenditsit va ichak yallig'lanishi"
+   ],
+   "x": "«surunkali qon yo'qotish va temir tanqisligi kamqonligi rivojlanadi»"
+  },
+  {
+   "q": "Kamqonlikda qon tahlilida qaysi ko'rsatkich kamayadi?",
+   "c": "Gemoglobin kamayadi",
+   "w": [
+    "Eozinofillar kamayadi",
+    "Tuxum soni kamayadi",
+    "Temir preparatlari kamayadi",
+    "Qon ketishi kamayadi"
+   ],
+   "x": "«Qon tahlilida gemoglobin kamayadi»"
+  },
+  {
+   "q": "Surunkali trixosefalyoz bolalarda nimaga olib keladi?",
+   "c": "O'sishdan va rivojlanishdan orqada qolishga",
+   "w": [
+    "Bakterial dizenteriya va yarali kolitga",
+    "Appenditsit va ikkilamchi infeksiyaga",
+    "Rangpar teri va holsizlikka",
+    "Qon ketishi, shishlar va oqsil tanqisligiga"
+   ],
+   "x": "«ichak yallig'lanishi tufayli o'sishdan va rivojlanishdan orqada qolishga olib keladi»"
+  },
+  {
+   "q": "Klinik belgilar o'xshash bo'lgani uchun trixosefalyozda nima hal qiluvchi hisoblanadi?",
+   "c": "Laboratoriya tasdig'i",
+   "w": [
+    "Bemor holsizligi",
+    "Klinik belgilarning o'xshashligi",
+    "Rangpar teri va holsizlik",
+    "Qorin og'rig'i va ich ketishi"
+   ],
+   "x": "«Klinik belgilar o'xshash bo'lgani uchun laboratoriya tasdig'i hal qiluvchi»"
+  },
+  {
+   "q": "Kurash samarasini baholash uchun o'choqdagi doimiy aholi guruhi oxirgi degelmintizatsiyadan qancha vaqt o'tgach qayta tekshiriladi?",
+   "c": "3 oy o'tgach",
+   "w": [
+    "2 yil o'tgach",
+    "1 oy o'tgach",
+    "6 oy o'tgach",
+    "5 oy o'tgach"
+   ],
+   "x": "«oxirgi degelmintizatsiyadan 3 oy o'tgach qayta tekshiriladi»"
+  }
+ ],
+ "089": [
+  {
+   "q": "Trixosefalyozda aniq tashxis qanday qo'yiladi?",
+   "c": "Najasda qilbosh chuvalchang tuxumini topish",
+   "w": [
+    "Qon tahlilida kamqonlikni aniqlash",
+    "Koloskopiyada chuvalchanglarni ko'rish",
+    "Klinik belgilarga qarab baholash",
+    "Anamnezda tuproq bilan o'ynashni aniqlash"
+   ],
+   "x": "«shuning uchun aniq tashxis najasda qilbosh chuvalchang tuxumini topish bilan qo'yiladi»"
+  },
+  {
+   "q": "Qilbosh chuvalchang tuxumining tiqinlarini ko'rish uchun nima ishlatiladi?",
+   "c": "Yetarli kattalashtirish",
+   "w": [
+    "Qalin surtma tayyorlash",
+    "Miqdoriy hisoblash usuli",
+    "Koloskopiya tekshiruvi",
+    "Bakteriologik tekshiruv"
+   ],
+   "x": "«Tiqinlarni ko'rish uchun yetarli kattalashtirish ishlatiladi»"
+  },
+  {
+   "q": "Dizenteriya sindromi qachon trixosefalyozga bog'lanadi?",
+   "c": "Qilbosh chuvalchang tuxumi topilsa",
+   "w": [
+    "Bakterial infeksiya istisno qilinsa",
+    "Kamqonlik va eozinofiliya aniqlansa",
+    "Koloskopiya natijasi manfiy bo'lsa",
+    "Serologik usul qo'llansa"
+   ],
+   "x": "«Qilbosh chuvalchang tuxumi topilsa, dizenteriya sindromi trixosefalyozga bog'lanadi»"
+  },
+  {
+   "q": "Kato-Katz usulida nima hisoblanadi?",
+   "c": "Bir gramm najasdagi tuxum soni",
+   "w": [
+    "Bir preparatdagi chuvalchang soni",
+    "Bir bemordagi lichinkalar soni",
+    "Bir namunadagi najas hajmi",
+    "Bir namunadagi preparatlar soni"
+   ],
+   "x": "«bir gramm najasdagi tuxum soni, ya'ni epg, hisoblanadi»"
+  },
+  {
+   "q": "JSST tavsiyalarida qilbosh chuvalchangda og'ir zararlanish qancha epg hisoblanadi?",
+   "c": "10 000 dan yuqori epg",
+   "w": [
+    "50 000 va undan yuqori epg",
+    "1000 dan yuqori epg",
+    "1000–9999 epg",
+    "1–999 epg"
+   ],
+   "x": "«10 000 dan yuqori epg og'ir zararlanish deb ajratilgan»"
+  },
+  {
+   "q": "Qilbosh chuvalchang bilan yengil zararlanish ko'pincha qanday kechadi?",
+   "c": "Ko'pincha belgisiz",
+   "w": [
+    "Surunkali ich ketishi bilan kechadi",
+    "Kamqonlik va dizenteriya sindromi bilan kechadi",
+    "O'sishdan orqada qolish bilan kechadi",
+    "Qorin og'rig'i va kamqonlik bilan kechadi"
+   ],
+   "x": "«yengil zararlanish esa ko'pincha belgisiz»"
+  },
+  {
+   "q": "Og'ir holatlarda koloskopiya nimani ko'rsatishi mumkin?",
+   "c": "Yo'g'on ichak shilliq qavatida chuvalchanglarni",
+   "w": [
+    "Yo'g'on ichak devorida tuxumlarni",
+    "Yo'g'on ichak shilliq qavatida tuxumlarni",
+    "Qon tahlilidagi kamqonlik va eozinofiliyani",
+    "Najasdagi tuxum sonini va intensivligini"
+   ],
+   "x": "«koloskopiya yo'g'on ichak shilliq qavatida chuvalchanglarni ko'rsatishi mumkin»"
+  },
+  {
+   "q": "Davolashdan keyin najasda tuxum topilsa, nimalar aniqlanadi?",
+   "c": "Qayta zararlanish yoki davolash to'liq emas",
+   "w": [
+    "Dizenteriya sindromi yoki kamqonlik darajasi",
+    "Bakterial infeksiya yoki aralash zararlanish",
+    "Tuxum shakli yoki o'lchami",
+    "Intensivlik toifasi yoki namuna hajmi"
+   ],
+   "x": "«topilsa, sabablari, ya'ni qayta zararlanish yoki davolashning to'liq bo'lmasligi, aniqlanadi»"
+  },
+  {
+   "q": "Surunkali shilliq va qon aralash ich ketishida najas qanday tekshiriladi?",
+   "c": "Bakteriologik va parazitologik",
+   "w": [
+    "Mikroskopik va epidemiologik",
+    "Koloskopik va epidemiologik",
+    "Serologik va koloskopik",
+    "Miqdoriy va epidemiologik"
+   ],
+   "x": "«najas bakteriologik va parazitologik tekshiriladi»"
+  },
+  {
+   "q": "Qaysi biri tashxis xatosi hisoblanadi?",
+   "c": "Najasni eski holda tekshirish",
+   "w": [
+    "Namunani yangi holda olish",
+    "Bir necha preparatni sinchiklab ko'rish",
+    "Shubhali topilmani ikkinchi mutaxassisga ko'rsatish",
+    "Natija sifatini nazorat qilish"
+   ],
+   "x": "«Eng ko'p xatolar: najasni eski holda tekshirish»"
+  },
+  {
+   "q": "Kato va Miura usulida qalin surtma tayyorlash uchun nima qo'llanadi?",
+   "c": "Gigroskopik tsellofan",
+   "w": [
+    "Formalin-efir aralashmasi",
+    "Flotatsiya usuli",
+    "Sedimentatsiya idishi",
+    "Boyitish usuli"
+   ],
+   "x": "«Kato va Miura usulida qalin surtma tayyorlash uchun glitserin va fenol aralashmasi bilan to'ydirilgan gigroskopik tsellofan»"
+  }
+ ],
+ "090": [
+  {
+   "q": "Askaridoz va trixosefalyoz qanday yo'l bilan yuqadi?",
+   "c": "Infeksion tuxumlarni og'iz orqali yutish",
+   "w": [
+    "Odamdan odamga bevosita yuqish",
+    "Yangi najasdan to'g'ridan-to'g'ri yuqish",
+    "Lichinkalarning teri orqali kirishi",
+    "Tuxumlarning nafas yo'li orqali kirishi"
+   ],
+   "x": "«Askaridoz va trixosefalyoz peroral yo'l bilan yuqadi, ya'ni infeksion tuxumlar og'iz orqali yutiladi»"
+  },
+  {
+   "q": "Najas bilan chiqqan tuxumlar tuproqda taxminan necha hafta yetiladi?",
+   "c": "Taxminan 3 hafta",
+   "w": [
+    "Taxminan 1 hafta",
+    "Taxminan 2 hafta",
+    "Taxminan 8 hafta",
+    "Taxminan 12 hafta"
+   ],
+   "x": "«JSST tuxumlar tuproqda yetilishi uchun taxminan 3 hafta kerakligini»"
+  },
+  {
+   "q": "Ko'katlar va ildiz mevalar nima uchun ayniqsa xavfli?",
+   "c": "Ularga tuproq yopishgan bo'ladi",
+   "w": [
+    "Ular najas bilan o'g'itlanadi",
+    "Pishirilgan holda iste'mol qilinadi",
+    "Tuxumlar sabzavotda yetiladi",
+    "Ochiq suv havzalarida yetiladi"
+   ],
+   "x": "«Ko'katlar va ildiz mevalar ayniqsa xavfli, chunki ularga tuproq yopishgan bo'ladi»"
+  },
+  {
+   "q": "Bolalar nima uchun eng ko'p zararlanadi?",
+   "c": "Tuproq bilan ko'p aloqada bo'ladi",
+   "w": [
+    "Gigiyena ko'nikmalari shakllangan bo'ladi",
+    "Najas bilan o'g'itlangan bog'da ishlaydi",
+    "Ko'proq sabzavot pishirib yeydi",
+    "Toza ichimlik suvini kam ichadi"
+   ],
+   "x": "«Bolalar eng ko'p zararlanadi, chunki ular tuproq bilan ko'p aloqada bo'ladi»"
+  },
+  {
+   "q": "Askaridoz qaysi yoshdagi bolalarda ko'proq uchraydi?",
+   "c": "3–10 yoshli bolalarda",
+   "w": [
+    "1–2 yoshli bolalarda",
+    "11–17 yoshli bolalarda",
+    "15–18 yoshli bolalarda",
+    "0–1 yoshli bolalarda"
+   ],
+   "x": "«Askaridoz 3–10 yoshli bolalarda ko'proq uchraydi»"
+  },
+  {
+   "q": "Qaysi gelmint lichinkalari o'pka orqali ko'chadi?",
+   "c": "Askarida lichinkalari",
+   "w": [
+    "Qilbosh chuvalchang lichinkalari",
+    "Ankilostoma lichinkalari",
+    "Ikkala gelmint lichinkalari",
+    "Tuproq gelmintlari lichinkalari"
+   ],
+   "x": "«Askarida lichinkalari o'pka orqali ko'chadi»"
+  },
+  {
+   "q": "Qilbosh chuvalchang odam tanasining qayerida yashaydi?",
+   "c": "Yo'g'on ichakda yashaydi",
+   "w": [
+    "Ingichka ichakda yashaydi",
+    "O'pkada yashaydi",
+    "Tuproqda yashaydi",
+    "Suvda yashaydi"
+   ],
+   "x": "«Askarida ingichka ichakda, qilbosh chuvalchang yo'g'on ichakda yashaydi»"
+  },
+  {
+   "q": "Qaysi biri zararlanish xavf omili hisoblanadi?",
+   "c": "Hojatxonaning yo'qligi",
+   "w": [
+    "Sabzavotni yaxshilab yuvish",
+    "Tirnoqni qisqa olish",
+    "Qo'lni sovun bilan yuvish",
+    "Ichimlik suvini tozalash"
+   ],
+   "x": "«Xavf omillari: hojatxonaning yo'qligi»"
+  },
+  {
+   "q": "Faqat davolash nima uchun yetarli emas?",
+   "c": "Qayta zararlanishni to'xtatmaydi",
+   "w": [
+    "Tuxumlarni tuproqda yetiltiradi",
+    "Lichinkalarni o'pkaga ko'chiradi",
+    "Sanitariya choralarini bekor qiladi",
+    "Tirnoq ostida tuproq to'playdi"
+   ],
+   "x": "«Faqat davolash qayta zararlanishni to'xtatmaydi»"
+  },
+  {
+   "q": "Najasni o'g'it sifatida ishlatish qachon xavfli?",
+   "c": "Yetarli ishlov berilmagan bo'lsa",
+   "w": [
+    "Tuproq nam bo'lsa",
+    "Sabzavot yuvilgan bo'lsa",
+    "Tirnoq qisqa olingan bo'lsa",
+    "Ichimlik suvi qaynatilgan bo'lsa"
+   ],
+   "x": "«Najasni o'g'it sifatida ishlatish xavfli, agar yetarli ishlov berilmagan bo'lsa»"
+  }
+ ]
+}
