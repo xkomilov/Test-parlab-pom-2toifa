@@ -1,0 +1,606 @@
+{
+  "091": [
+    {
+      "q": "Geogelmintozlarni epidemiologik tekshirishning birinchi maqsadi nima?",
+      "c": "Yuqish manbai va omillarini aniqlash",
+      "w": [
+        "Xavf ostidagi guruhlarni va hududlarni belgilash",
+        "Davolash va profilaktika dasturlarini rejalashtirish",
+        "Najas mikroskopiyasida tuxumlarni topish",
+        "Intensivlik toifalarini baholash"
+      ],
+      "x": "«Birinchisi yuqish manbai va omillarini aniqlash: bemor qayerda, nima orqali zararlangan.»"
+    },
+    {
+      "q": "Geogelmintozlarda tekshiruv faqat bemor bilan cheklanmasligining sababi nima?",
+      "c": "Manba ifloslangan tuproq va zararlangan odamlar",
+      "w": [
+        "Bemorlar soni hududlar bo'yicha solishtiriladi",
+        "Hujjat shakllari milliy hujjatda belgilanadi",
+        "Davolash chastotasi tarqalganlikka bog'liq bo'ladi",
+        "Tashqi muhit usullari alohida mavzuda yoritiladi"
+      ],
+      "x": "«Geogelmintozlarda manba tashqi muhitdagi ifloslangan tuproq va zararlangan odamlar bo'lgani uchun tekshiruv faqat bemor bilan cheklanmaydi.»"
+    },
+    {
+      "q": "Geogelmintoz holati qanday laboratoriya tasdig'i bilan qayd etiladi?",
+      "c": "Najas mikroskopiyasida tuxumlar topilishi",
+      "w": [
+        "Oila a'zolarida shikoyatlar aniqlanishi",
+        "Tuproq namunasida tuxumlar topilishi",
+        "Bemor yashash joyi aniqlanishi",
+        "Sabzavotlarni yuvish odati so'ralishi"
+      ],
+      "x": "«Holat laboratoriya tasdig'i bilan qayd etiladi: najas mikroskopiyasida tuxumlar topiladi.»"
+    },
+    {
+      "q": "Intensivlik JSST toifalari bo'yicha qanday yoziladi?",
+      "c": "Yengil, o'rta yoki og'ir",
+      "w": [
+        "Past, o'rta yoki yuqori",
+        "Tarqalganlik, intensivlik yoki qamrov",
+        "Yosh, jins yoki hudud",
+        "Bolalar, dehqonlar yoki sabzavot yetishtiruvchilar"
+      ],
+      "x": "«Intensivlik JSST toifalari bo'yicha yengil, o'rta yoki og'ir deb yoziladi»"
+    },
+    {
+      "q": "Peroral yo'l qaysi chuvalchanglarda zararlanish yo'li hisoblanadi?",
+      "c": "Askarida va qilbosh chuvalchangda",
+      "w": [
+        "Qilbosh chuvalchangda va g'ajakboshda",
+        "Askarida va g'ajakboshda",
+        "G'ajakboshda perkutan yo'l orqali",
+        "Sabzavot va ko'katlarda tuxumlarda"
+      ],
+      "x": "«peroral yo'l askarida va qilbosh chuvalchangda»"
+    },
+    {
+      "q": "Aholi darajasidagi skriningda najas tekshiruvi odatda qaysi guruhda o'tkaziladi?",
+      "c": "Maktab o'quvchilarida",
+      "w": [
+        "Oila a'zolarida",
+        "Bolalar maydonchalarida",
+        "Dehqonlar va sabzavot yetishtiruvchilarda",
+        "Tomorqadagi sabzavotlarda"
+      ],
+      "x": "«tanlab olingan aholi guruhlarida, odatda maktab o'quvchilarida, najas tekshiruvi o'tkaziladi.»"
+    },
+    {
+      "q": "Tarqalganlik qancha yuqori bo'lsa, og'ir intensivlik ulushi qanday bo'ladi?",
+      "c": "Shuncha ko'p bo'ladi",
+      "w": [
+        "Shuncha past bo'ladi",
+        "Past tarqalganlikda ko'proq bo'ladi",
+        "Davolash qamroviga bog'liq bo'ladi",
+        "Yosh va jinsga bog'liq bo'ladi"
+      ],
+      "x": "«tarqalganlik qancha yuqori bo'lsa, og'ir intensivlik ulushi ham shuncha ko'p bo'ladi»"
+    },
+    {
+      "q": "Tashqi muhitni tekshirish nimaga yordam beradi?",
+      "c": "Tuxumlar ifloslanish manbasini topishga",
+      "w": [
+        "Bemor anamnezini to'ldirishga",
+        "Qayta zararlanish tezligini baholashga",
+        "Aralash zararlanish ulushini hisoblashga",
+        "Hujjat shakllarini belgilashga"
+      ],
+      "x": "«Bu tekshiruv tuxumlar ifloslanish manbasini topishga yordam beradi.»"
+    },
+    {
+      "q": "Past tarqalganlikda davolash qanday o'tkaziladi?",
+      "c": "Faqat aniqlangan bemorlar davolanadi",
+      "w": [
+        "Ommaviy davolash o'tkaziladi",
+        "Dehqonlar va bolalar davolanadi",
+        "Bemorlar oilasi va jamoa davolanadi",
+        "Hududdagi maktab o'quvchilari davolanadi"
+      ],
+      "x": "«Past tarqalganlikda faqat aniqlangan bemorlar davolanishi, yuqori tarqalganlikda esa ommaviy davolash o'tkazilishi mumkin.»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra, o'choqni kim epidemiologik tekshiradi va pasportlashtiradi?",
+      "c": "Parazitolog yoki uning yordamchisi",
+      "w": [
+        "Hududiy DSENM vrachi yoki laboranti",
+        "Epidemiolog yoki shifokor",
+        "Bemor yoki uning oilasi",
+        "Laborant yoki epidemiolog"
+      ],
+      "x": "«invaziyalanganlar bo'yicha parazitolog yoki uning yordamchisi o'choqni epidemiologik tekshiradi va pasportlashtiradi»"
+    }
+  ],
+  "092": [
+    {
+      "q": "Geogelmintozlarga qarshi kurash nima uchun faqat davolash bilan hal bo'lmaydi?",
+      "c": "Qayta zararlanish doimiy xavf bo'lib qoladi",
+      "w": [
+        "Chuvalchanglar odamda ko'payib ketadi",
+        "Davolash dorilari yetarli bo'lmaydi",
+        "Sanitariya choralari kerak bo'lmaydi",
+        "Gigiyena ta'limi samarasiz bo'lib qoladi"
+      ],
+      "x": "«qayta zararlanish esa tuproq va suvning ifloslanishi tufayli doimiy xavf bo'lib qoladi»"
+    },
+    {
+      "q": "Kompleks kurash qaysi yo'nalishlarni birlashtiradi?",
+      "c": "Davolash, sanitariya, gigiyena va kuzatuvni",
+      "w": [
+        "Davolash, koordinatsiya, transport va hisobotni",
+        "Sanitariya, reaktivlar, ta'lim va hokimiyatni",
+        "Tashxis, dori, resurs va monitoringni",
+        "Gigiyena, o'yin, suhbat va hisobotni"
+      ],
+      "x": "«kompleks, ya'ni davolash, sanitariya, gigiyena va kuzatuvni birlashtirgan holda tashkil etiladi»"
+    },
+    {
+      "q": "JSST strategiyasida xavf ostidagi aholi qanday davolanadi?",
+      "c": "Individual tashxissiz davriy davolash",
+      "w": [
+        "Individual tashxis qo'yib davolash",
+        "Faqat maktabdagi bolalarni davolash",
+        "Qayta zararlanishdan keyin davolash",
+        "Gigiyena ta'limidan keyin davolash"
+      ],
+      "x": "«xavf ostidagi aholini individual tashxissiz davriy davolash»"
+    },
+    {
+      "q": "Davolash chastotasi tarqalganlik darajasiga qarab qanday bo'lishi mumkin?",
+      "c": "Yiliga bir yoki ikki marta",
+      "w": [
+        "Yiliga ikki yoki uch marta",
+        "Har 5–6 yilda bir marta",
+        "Dastur boshida bir marta",
+        "Oyiga bir yoki ikki marta"
+      ],
+      "x": "«Davolash chastotasi tarqalganlik darajasiga qarab yiliga bir yoki ikki marta bo'lishi mumkin»"
+    },
+    {
+      "q": "Sanitariya choralari nima uchun eng barqaror natija beradi?",
+      "c": "Tuxum ifloslanishining manbasini yo'qotadi",
+      "w": [
+        "Dori ta'minotini JSST orqali yetkazadi",
+        "Xodimlarni Kato-Katz kabi usullarga o'qitadi",
+        "Bolalarni maktab orqali o'qitadi",
+        "Hisobot aniqligini oshiradi"
+      ],
+      "x": "«chunki tuxum ifloslanishining manbasini yo'qotadi»"
+    },
+    {
+      "q": "Gigiyena ta'limi kimlarga qaratiladi?",
+      "c": "O'quvchilar, ota-onalar va o'qituvchilarga",
+      "w": [
+        "Laborantlar, shifokorlar va o'qituvchilarga",
+        "Hokimiyat, kommunal xizmat va laborantlarga",
+        "Yetishtiruvchilar, shifokorlar va laborantlarga",
+        "Ta'lim va suv ta'minoti tashkilotlariga"
+      ],
+      "x": "«O'quvchilar, ota-onalar va o'qituvchilarga qo'l yuvish, sabzavot va mevalarni yuvish, tirnoqni qisqa olish, yalang oyoq yurmaslik haqida tushuntiriladi.»"
+    },
+    {
+      "q": "Sanitariya-gelmintologik nazorat tashqi muhitning qaysi ob'ektlarini kuzatadi?",
+      "c": "Tuproq, suv, sabzavot, oqova suv",
+      "w": [
+        "Tuproq, dori, transport, hisobot",
+        "Suv, reaktivlar, sabzavot, laboratoriya",
+        "Oqova suv, hokimiyat, sabzavot, maktab",
+        "Suv, tuproq, laborant, kanalizatsiya"
+      ],
+      "x": "«Sanitariya-gelmintologik nazorat tashqi muhitni kuzatadi: tuproq, suv, sabzavot, oqova suv.»"
+    },
+    {
+      "q": "JSST epidemiologik baholashni qachon o'tkazishni tavsiya etadi?",
+      "c": "5–6 yildan keyin, qamrov kamida 75 foiz bo'lganda",
+      "w": [
+        "2 yildan keyin, qamrov kamida 75 foiz bo'lganda",
+        "5–6 yildan keyin, qamrov kamida 30 foiz bo'lganda",
+        "Har yili, qamrov kamida 75 foiz bo'lganda",
+        "Dastur boshida, qamrov kamida 30 foiz bo'lganda"
+      ],
+      "x": "«JSST epidemiologik baholashni 5–6 yildan keyin, samarali davolash qamrovi kamida 75 foiz bo'lganda o'tkazishni tavsiya etadi»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra, zararlanish 30% va undan yuqori intensiv o'choqlarda ommaviy degelmintizatsiya qanday o'tkaziladi?",
+      "c": "Aholiga yiliga 2 marta",
+      "w": [
+        "Aholiga yiliga bir marta",
+        "Aholiga yiliga uch marta",
+        "Faqat mikroo'choqlarda yiliga 2 marta",
+        "Aholiga har 5–6 yilda bir marta"
+      ],
+      "x": "«zararlanish 30% va undan yuqori bo'lgan intensiv o'choqlarda aholiga yiliga 2 marta ommaviy degelmintizatsiya o'tkaziladi»"
+    },
+    {
+      "q": "O'rta intensiv o'choqlarda degelmintizatsiya qayerda o'tkaziladi?",
+      "c": "Invaziya aniqlangan mikroo'choqlarda",
+      "w": [
+        "Hududdagi xavf ostidagi maktablarda",
+        "Tashqi muhit ifloslangan joylarda",
+        "Sabzavot yetishtiruvchilar hududida",
+        "Xavf ostidagi guruhlar oilasida"
+      ],
+      "x": "«o'rta intensiv o'choqlarda faqat invaziya aniqlangan mikroo'choqlarda»"
+    },
+    {
+      "q": "Birinchi degelmintizatsiya qachon o'tkaziladi?",
+      "c": "Bahor oxiri–yoz boshida",
+      "w": [
+        "Kech kuzda va qish boshida",
+        "Qish oxiri–bahor boshida",
+        "Yoz oxiri–kuz boshida",
+        "Bahor boshida–yoz oxirida"
+      ],
+      "x": "«birinchi degelmintizatsiya bahor oxiri–yoz boshida, ikkinchisi kech kuzda va qish boshida o'tkaziladi»"
+    }
+  ],
+  "093": [
+    {
+      "q": "Teniarinxozni qaysi qo'zg'atuvchi keltirib chiqaradi?",
+      "c": "Qoramol tasmasimon chuvalchangi",
+      "w": [
+        "Cho'chqa tasmasimon chuvalchangi",
+        "Cysticercus bovis finnasi",
+        "Taenia solium onkosferasi",
+        "Qoramol onkosferasi"
+      ],
+      "x": "«Teniarinxoz qoramol tasmasimon chuvalchangi, ya'ni ho'kiz tasmasimon chuvalchangi (Taenia saginata), qo'zg'atadigan ichak gelmintozi.»"
+    },
+    {
+      "q": "Taenia saginata skolekslida nima bor?",
+      "c": "Kanca yo'q, to'rtta so'rg'ich bor",
+      "w": [
+        "Ikki qator kanca bor",
+        "Kancalar va to'rtta so'rg'ich bor",
+        "Faqat kancalar bor, so'rg'ich yo'q",
+        "Oltita kanchali embrion bor"
+      ],
+      "x": "«Taenia saginata skolekslida kanca yo'q, to'rtta so'rg'ich bor»"
+    },
+    {
+      "q": "Chuvalchang odamda qayerda jinsiy voyaga yetadi?",
+      "c": "Odam ichagida",
+      "w": [
+        "Qoramol mushaklarida",
+        "Qoramol ichagida",
+        "Odam mushaklarida",
+        "Cho'chqa ichagida"
+      ],
+      "x": "«Oxirgi xo'jayin odam: chuvalchang faqat odam ichagida jinsiy voyaga yetadi va tuxum chiqaradi.»"
+    },
+    {
+      "q": "Qoramolda onkosfera ichakdan chiqib, qayerga o'tadi?",
+      "c": "Qon orqali mushaklarga",
+      "w": [
+        "Ichak shilliq qavatiga",
+        "Qon orqali oshqozonga",
+        "Najas orqali o'tloqqa",
+        "Najas orqali mushaklarga"
+      ],
+      "x": "«Qoramol tuxumni yutganda onkosfera ichakdan chiqib, qon orqali mushaklarga o'tadi va u yerda finna, ya'ni Cysticercus bovis, hosil qiladi.»"
+    },
+    {
+      "q": "Finna qanday tuzilishga ega?",
+      "c": "Ichida skoleks bor kichik pufakcha",
+      "w": [
+        "Ichida onkosfera bor dumaloq tuxum",
+        "Oltita kanchali embrion tutgan tuxum",
+        "Bachadonga ega pishgan bo'g'im",
+        "To'rtta so'rg'ichli yassi tasma"
+      ],
+      "x": "«Finna kichik, suyuqlik bilan to'lgan pufakcha bo'lib, ichida skoleks bor.»"
+    },
+    {
+      "q": "Odam finnani qanday yutadi?",
+      "c": "Xom yoki yaxshi pishirilmagan zararlangan go'shtni yeb",
+      "w": [
+        "Qoramol ifloslangan o'tloq yoki suvdan tuxumni yutib",
+        "Pishgan bo'g'imlarni anal teshikdan chiqarib",
+        "Odam najas bilan tuxumni tashqi muhitga chiqarib",
+        "Qoramol mushaklarida finna hosil qilib"
+      ],
+      "x": "«odam xom yoki yaxshi pishirilmagan zararlangan go'shtni yeb, finnani yutadi»"
+    },
+    {
+      "q": "Qoramol tuxumni qayerdan yutadi?",
+      "c": "Ifloslangan o'tloq yoki suvdan",
+      "w": [
+        "Zararlangan mol go'shtidan",
+        "Finnali mushaklardan",
+        "Najas bilan tushgan bo'g'imlardan",
+        "Oshqozon-ichak shirasidan"
+      ],
+      "x": "«qoramol ifloslangan o'tloq yoki suvdan tuxumni yutadi»"
+    },
+    {
+      "q": "Qaysi turning tuxumini yutgan odam tsistitserkoz bilan kasallanishi mumkin?",
+      "c": "T. solium",
+      "w": [
+        "T. saginata",
+        "Cysticercus bovis",
+        "Ho'kiz tasmasimon chuvalchangi",
+        "Onkosfera embrioni"
+      ],
+      "x": "«Teniarinxozdan farqi shundaki, T. solium tuxumini yutgan odam tsistitserkoz bilan kasallanishi mumkin»"
+    },
+    {
+      "q": "Mikroskopda T. saginata va T. solium tuxumlari qanday farqlanadi?",
+      "c": "Bir-biridan ajratilmaydi",
+      "w": [
+        "Radial chiziqlari bo'yicha ajratiladi",
+        "Onkosfera soni bo'yicha ajratiladi",
+        "Bachadon yon shoxlari bo'yicha ajratiladi",
+        "Skolekslar bo'yicha ajratiladi"
+      ],
+      "x": "«Taenia tuxumlari T. saginata va T. solium uchun mikroskopda bir-biridan ajratilmaydi»"
+    },
+    {
+      "q": "Laboratoriyada Taenia turi nima bo'yicha aniqlanadi?",
+      "c": "Bachadon yon shoxlari soni bo'yicha",
+      "w": [
+        "Tuxum ichidagi onkosfera bo'yicha",
+        "Qalin radial chiziqli qobiq bo'yicha",
+        "Bo'yin va boshcha o'lchami bo'yicha",
+        "Dumaloq tuxum shakli bo'yicha"
+      ],
+      "x": "«Tur bo'g'imlarning tuzilishi, ya'ni bachadon yon shoxlari soni, yoki skolekslar bo'yicha aniqlanadi.»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra, hayvonlarda sistitserkoz topilsa kim kimga xabar beradi?",
+      "c": "Veterinariya bo'limlari DSENMga",
+      "w": [
+        "DSENM veterinariya bo'limlariga",
+        "Laborantlar veterinariya bo'limlariga",
+        "Qoramolchilik veterinariya bo'limlariga",
+        "Veterinariya bo'limlari qoramolchilikka"
+      ],
+      "x": "«hayvonlarda sistitserkoz topilsa esa veterinariya bo'limlari DSENMga xabar berishi shart»"
+    }
+  ],
+  "094": [
+    {
+      "q": "Teniarinxozning eng xarakterli belgisi nima?",
+      "c": "Bo'g'imlarning anal teshikdan chiqishi",
+      "w": [
+        "Qorin og'rig'i, ko'ngil aynishi va ich ketishi",
+        "Teri toshmasi va eozinofiliya",
+        "Ishtaha o'zgarishi va holsizlik",
+        "Ichak tutilishi va appenditsit"
+      ],
+      "x": "«Eng xarakterli belgi pishgan bo'g'imlarning anal teshikdan faol chiqishi yoki najas bilan tushishidir.»"
+    },
+    {
+      "q": "Teniarinxozning katta qismi qanday kechadi?",
+      "c": "Belgisiz yoki yengil kechadi",
+      "w": [
+        "Og'ir asoratlar bilan kechadi",
+        "Tsistitserkoz bilan kechadi",
+        "Kamqonlik bilan kechadi",
+        "Ichak tutilishi bilan kechadi"
+      ],
+      "x": "«Teniarinxozning katta qismi belgisiz yoki yengil belgilar bilan kechadi.»"
+    },
+    {
+      "q": "Belgisiz bemor davolanishining sababi nima?",
+      "c": "Qoramolni zararlashi mumkin",
+      "w": [
+        "Odamda tsistitserkoz keltiradi",
+        "Ichak shilliq qavatini tirnaydi",
+        "Bolalarda ishtaha o'zgaradi",
+        "Appenditsit keltirib chiqaradi"
+      ],
+      "x": "«Belgisiz bemor ham tuxum va bo'g'imlar chiqarib, boshqalarni, ya'ni qoramolni, zararlashi mumkin.»"
+    },
+    {
+      "q": "Bemor bo'g'imlarni qayerda topishi mumkin?",
+      "c": "Ichki kiyimida, to'shakda yoki najasda",
+      "w": [
+        "O't yo'llarida yoki appendiksda",
+        "Skoleksda yoki chuvalchang boshchasida",
+        "Ovqatdan keyin qorin sohasida",
+        "Laboratoriya najas tekshiruvida"
+      ],
+      "x": "«Bemor ichki kiyimida, to'shakda yoki najasda oq, yassi, harakatchan bo'g'imlarni topadi.»"
+    },
+    {
+      "q": "Ichak belgilarida og'riq ko'pincha qayerda bo'ladi?",
+      "c": "Epigastral sohada yoki kindik atrofida",
+      "w": [
+        "Ichak shilliq qavatida yoki o't yo'llarida",
+        "Anal atrofida yoki ichki kiyim sohasida",
+        "Bosh va qorin atrofida",
+        "Appendiks yoki o't yo'llari sohasida"
+      ],
+      "x": "«Og'riq ko'pincha epigastral sohada yoki kindik atrofida bo'ladi va ovqatdan keyin o'zgarishi mumkin»"
+    },
+    {
+      "q": "Qaysi chuvalchang odamda sistitserkoz keltirib chiqarmaydi?",
+      "c": "Taenia saginata",
+      "w": [
+        "Taenia solium",
+        "Cho'chqa tasmasimon chuvalchangi",
+        "Keng tasmasimon chuvalchang",
+        "Mitti tasmasimon chuvalchang"
+      ],
+      "x": "«Taenia saginata odamda sistitserkoz keltirib chiqarmaydi»"
+    },
+    {
+      "q": "Teniarinxoz asoratlari qanday uchraydi?",
+      "c": "Kam uchraydi",
+      "w": [
+        "Ko'p uchraydi va og'ir kechadi",
+        "Tenioz asoratlaridan ancha og'ir",
+        "Tsistitserkoz asorati ko'p uchraydi",
+        "Har doim kamqonlik keltiradi"
+      ],
+      "x": "«Teniarinxoz asoratlari kam uchraydi.»"
+    },
+    {
+      "q": "Davolashdan keyin kuzatuv va najas tekshiruvi nimani tasdiqlash uchun o'tkaziladi?",
+      "c": "Chuvalchang boshchasi chiqarilganini",
+      "w": [
+        "Bo'g'imlar tuzilishi o'zgarganini",
+        "Qoramol zararlanmaganini",
+        "Tsistitserkoz rivojlanmaganini",
+        "Ishtaha o'zgarmaganini"
+      ],
+      "x": "«Davolashdan keyin chuvalchang boshchasi chiqarilganini tasdiqlash uchun kuzatuv va najas tekshiruvi o'tkaziladi»"
+    },
+    {
+      "q": "Davolash muvaffaqiyatli bo'lmasa, boshcha ichakda qolganda nima bo'ladi?",
+      "c": "Chuvalchang qayta o'sadi",
+      "w": [
+        "Tsistitserkoz rivojlanadi",
+        "Bo'g'imlar chiqishi kamayadi",
+        "Ichak tutilishi uchraydi",
+        "Allergik belgilar ortadi"
+      ],
+      "x": "«Davolash muvaffaqiyatli bo'lmasa, boshchaning ichakda qolishi mumkin va chuvalchang qayta o'sadi.»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra, davolangan bemorlar qaysi oylarda nazorat tekshiruviga chaqiriladi?",
+      "c": "2, 4 va 6 oyda",
+      "w": [
+        "1, 3 va 6 oyda",
+        "2, 3 va 4 oyda",
+        "1, 2 va 4 oyda",
+        "3, 4 va 6 oyda"
+      ],
+      "x": "«2, 4 va 6 oyda nazorat tekshiruviga chaqiriladi»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra, necha marta manfiy natijadan keyin bemor hisobdan chiqariladi?",
+      "c": "3 marta",
+      "w": [
+        "2 marta",
+        "4 marta",
+        "6 marta",
+        "1 marta"
+      ],
+      "x": "«3 marta manfiy natijadan keyin hisobdan chiqariladi»"
+    }
+  ],
+  "095": [
+    {
+      "q": "Odam teniarinxoz bilan qanday zararlanadi?",
+      "c": "Finnali mol go'shtini xom iste'mol qilish",
+      "w": [
+        "Finnali cho'chqa go'shtini iste'mol qilish",
+        "Tuxumni ifloslangan suvdan yutish",
+        "Bemor bilan bevosita aloqa qilish",
+        "Bemor najasi bilan ifloslangan o'tlarni yeyish"
+      ],
+      "x": "«Teniarinxozning yagona asosiy yuqish yo'li finnali mol go'shtini xom yoki yetarlicha issiqlik ishlovi berilmagan holda iste'mol qilishdir.»"
+    },
+    {
+      "q": "Quyidagilardan qaysi biri xavfli go'sht turiga kiradi?",
+      "c": "Yarim pishgan, ichi qizil qolgan kabob",
+      "w": [
+        "Yaxshi pishirilgan sho'rva go'shti",
+        "Ekspertizadan o'tgan mol go'shti",
+        "Chuqur muzlatilgan va pishirilgan go'sht",
+        "Ichigacha yaxshi pishirilgan kabob"
+      ],
+      "x": "«yarim pishgan, ichi qizil qolgan kabob va shashlik»"
+    },
+    {
+      "q": "Qoramol teniarinxoz bilan qanday zararlanadi?",
+      "c": "Tuxumni o'tloq yoki suvdan yutib",
+      "w": [
+        "Finnali go'shtni xom holda yeb",
+        "Bemor bilan bevosita aloqa qilib",
+        "Najas bilan bo'g'imlarni chiqarib",
+        "Hojatxonasiz joyda najas chiqarib"
+      ],
+      "x": "«qoramol ifloslangan o'tloq, ozuqa yoki suvdan tuxumni yutadi»"
+    },
+    {
+      "q": "Zararlangan qoramol tashqi ko'rinishdan sog'lom bo'lishi mumkin, shuning uchun nima zarur?",
+      "c": "Veterinariya ekspertizasi",
+      "w": [
+        "Hojatxona qurish",
+        "Bemorlarni davolash",
+        "Chuqur muzlatish",
+        "Najasni xavfsiz yo'qotish"
+      ],
+      "x": "«Zararlangan qoramol tashqi ko'rinishdan sog'lom bo'lishi mumkin, shuning uchun veterinariya ekspertizasi zarur»"
+    },
+    {
+      "q": "Teniarinxoz nima uchun odamdan odamga bevosita yuqmaydi?",
+      "c": "Tuxumi odam uchun infeksion emas",
+      "w": [
+        "Finna odam mushaklarida rivojlanadi",
+        "Tuxum tashqi muhitga tushmaydi",
+        "Bemor najasida tuxum bo'lmaydi",
+        "Bo'g'imlar najasda topiladi"
+      ],
+      "x": "«T. saginata tuxumi odam uchun infeksion emas, finna esa faqat qoramol mushaklarida rivojlanadi.»"
+    },
+    {
+      "q": "Tenioz qaysi go'sht orqali yuqadi?",
+      "c": "Finnali cho'chqa go'shti",
+      "w": [
+        "Finnali mol go'shti",
+        "Ekspertizadan o'tgan go'sht",
+        "Chuqur muzlatilgan go'sht",
+        "Yaxshi pishirilgan kabob"
+      ],
+      "x": "«Tenioz cho'chqa tasmasimon chuvalchangi bilan chaqiriladi va finnali cho'chqa go'shti orqali yuqadi.»"
+    },
+    {
+      "q": "Zararlanishning oldini olish uchun go'sht qanday ishlanishi kerak?",
+      "c": "Ichigacha yaxshi pishirilishi yoki chuqur muzlatilishi",
+      "w": [
+        "Tuzlangan yoki dudlangan lekin ishlov berilmagan holda",
+        "Quritilgan yoki yarim pishgan holda iste'mol qilingan",
+        "Xom qiyma va tartar kabi taomlarda saqlangan",
+        "Qovurilgan yoki kabob qilingan lekin ichi qizil"
+      ],
+      "x": "«go'sht ichigacha yaxshi pishirilishi yoki chuqur muzlatilishi kerak»"
+    },
+    {
+      "q": "Quyidagilardan qaysi biri zararlanish xavfini oshiradi?",
+      "c": "Go'sht ekspertizasidan o'tmagan go'sht sotib olish",
+      "w": [
+        "Go'shtni ichigacha yaxshi pishirib iste'mol qilish",
+        "Veterinariya ekspertizasidan o'tgan go'sht sotib olish",
+        "Go'shtni chuqur muzlatish",
+        "Bemorlarni davolash va najasni yo'qotish"
+      ],
+      "x": "«go'sht ekspertizasidan o'tmagan go'sht sotib olish»"
+    },
+    {
+      "q": "Epidemiologik tekshiruvda zararlanish yo'lini aniqlash nimaga yordam beradi?",
+      "c": "Manbani topishga yordam beradi",
+      "w": [
+        "Ekspertizadan o'tkazishga yordam beradi",
+        "Odamdan odamga yuqishni aniqlashga yordam beradi",
+        "Hojatxona qurishga yordam beradi",
+        "Qoramolni davolashga yordam beradi"
+      ],
+      "x": "«Bu ma'lumotlar manbani, ya'ni zararlangan qoramol yoki sotuvchini, topishga yordam beradi»"
+    },
+    {
+      "q": "Qassoblar va oshpazlar qishloq vrachlik punktlarida qaysi usullar bilan tekshiriladi?",
+      "c": "So'rov va laboratoriya usullari",
+      "w": [
+        "Go'sht ekspertizasi va sanitariya usullari",
+        "Anamnez va epidemiologik usullar",
+        "Veterinariya va ekspertiza usullari",
+        "Tashqi muhit va o'tloq usullari"
+      ],
+      "x": "«so'rov va laboratoriya usullari bilan yiliga 1 marta tekshiriladi»"
+    },
+    {
+      "q": "Bayram oldidan aholiga go'sht bo'yicha nima tushuntiriladi?",
+      "c": "Go'shtni yaxshi pishirish",
+      "w": [
+        "Xom go'shtni tatib ko'rish",
+        "Mollarni uyda so'yish",
+        "Qoramolni o'tlovga chiqarish",
+        "Oqova suvni o'tloqqa yo'naltirish"
+      ],
+      "x": "«bayram oldidan aholiga go'shtni yaxshi pishirish va faqat ekspertizadan o'tgan go'shtni ishlatish bo'yicha tushuntirish beriladi»"
+    }
+  ]
+}

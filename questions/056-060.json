@@ -1,0 +1,617 @@
+{
+  "056": [
+    {
+      "q": "Infektsiya manbai qanday organizm hisoblanadi?",
+      "c": "Qonida yoki teri to'qimasida amastigoti bor organizm",
+      "w": [
+        "Faqat kasallik belgilari bor, davolanayotgan bemor",
+        "Parazit ajratib olinmagan, rezervuar hayvon turi",
+        "Immuniteti pasaygan, OIV bilan yashovchi moyil odam",
+        "Moyil odam yoki parazitni tashuvchi chivincha"
+      ],
+      "x": "«Manba qonida yoki teri to'qimasida chivincha yutishi mumkin bo'lgan parazit, ya'ni amastigot, bor organizmdir.»"
+    },
+    {
+      "q": "Hindiston subkontinenti va Sharqiy Afrikada visseral leyshmaniozning asosiy manbai kim?",
+      "c": "Odamning o'zi, Leishmania donovani bilan zararlangan bemorlar",
+      "w": [
+        "Leishmania infantum bilan zararlangan kasal itlar",
+        "Kasallangan itlar, ya'ni tulkilar, shakallar va bo'rilar",
+        "Yarim sinantrop qishloq turidagi itlar va odam",
+        "Leishmania infantum bilan zararlangan yovvoyi hayvonlar"
+      ],
+      "x": "«visseral leyshmaniozning asosiy manbai odamning o'zi, ya'ni Leishmania donovani bilan zararlangan bemorlardir»"
+    },
+    {
+      "q": "Antroponoz o'choqlarda kurash nimaga qaratiladi?",
+      "c": "Bemorlarni erta aniqlash va to'liq davolash",
+      "w": [
+        "Itlarni tekshirish va chivinchalardan himoya qilish",
+        "Rezervuar hayvonlarni nazorat qilish va tekshirish",
+        "Veterinariya xizmati bilan hamkorlik qilish",
+        "Tulkilar, shakallar va bo'rilarni nazorat qilish"
+      ],
+      "x": "«kurash bemorlarni erta aniqlash, to'liq davolash va tashuvchilarga qarshi ishlovga qaratiladi»"
+    },
+    {
+      "q": "Zoonoz visseral o'choqlarda asosiy rezervuar kimlar?",
+      "c": "It va it oilasi vakillari",
+      "w": [
+        "Belgisiz tashuvchilar va bemorlar",
+        "Tashuvchi chivinchalar va moyil odamlar",
+        "PKDL bilan og'rigan bemorlar",
+        "Odam va belgisiz tashuvchilar"
+      ],
+      "x": "«uning asosiy rezervuari it va it oilasi vakillari, ya'ni tulkilar, shakallar va bo'rilardir»"
+    },
+    {
+      "q": "Zoonoz zanjirda odam qanday xo'jayin hisoblanadi?",
+      "c": "Tasodifiy xo'jayin",
+      "w": [
+        "Asosiy rezervuar xo'jayin",
+        "Asosiy manba xo'jayin",
+        "Belgisiz tashuvchi xo'jayin",
+        "Qo'shimcha rezervuar xo'jayin"
+      ],
+      "x": "«Odam bu zanjirda tasodifiy xo'jayin bo'lib»"
+    },
+    {
+      "q": "PKDL nima?",
+      "c": "Kala-azardan keyingi teri leyshmaniozi",
+      "w": [
+        "Visseral leyshmaniozdan oldingi teri toshmasi",
+        "Leyshmaniya va OIV koinfeksiyasi shakli",
+        "Zoonoz o'choqlardagi teri leyshmaniozi shakli",
+        "Belgisiz tashuvchilarning teri leyshmaniozi"
+      ],
+      "x": "«bu kala-azardan keyingi teri leyshmaniozi, ya'ni PKDL»"
+    },
+    {
+      "q": "OIV bilan yashovchi va leyshmaniya bilan zararlangan odamlarda nima yuqori bo'ladi?",
+      "c": "Kasallik rivojlanishi, qaytalanish va o'lim xavfi",
+      "w": [
+        "Belgisiz tashuvchi bo'lish va tashxis qo'yilmaslik xavfi",
+        "Parazitning qonda va teri to'qimasida kamayishi",
+        "Kasallik tarqalishining susayishi va davolanish ehtimoli",
+        "Hayvon rezervuarlarining ahamiyati va itlar nazorati"
+      ],
+      "x": "«OIV bilan yashovchi va leyshmaniya bilan zararlangan odamlarda kasallikning to'liq rivojlanish ehtimoli, qaytalanish va o'lim xavfi yuqori»"
+    },
+    {
+      "q": "Belgisiz tashuvchilarning manba sifatidagi ahamiyati qanday?",
+      "c": "Ahamiyati o'rganilmoqda",
+      "w": [
+        "To'liq aniqlangan va o'rganilgan",
+        "Ahamiyatsiz deb hisoblanadi",
+        "Faqat itlarda ahamiyatli",
+        "Itlar orasida ahamiyati yo'q"
+      ],
+      "x": "«ularning manba sifatidagi ahamiyati o'rganilmoqda»"
+    },
+    {
+      "q": "Yangi visseral leyshmanioz holati aniqlanganda epidemiolog manbani qayerdan izlaydi?",
+      "c": "Bemorning uyi atrofidagi itlar, boshqa bemorlar",
+      "w": [
+        "Chivinchalar yutgan amastigotlar va makrofaglar",
+        "Boshqa hududlardagi tulkilar va shakallar",
+        "Veterinariya xizmati xaritalari va jurnallari",
+        "Bemorning uyidagi chivinchalar va tulkilar"
+      ],
+      "x": "«epidemiolog manbani izlaydi: bemorning uyi atrofidagi itlar, boshqa bemorlar, PKDL bilan og'rigan odamlar»"
+    },
+    {
+      "q": "121-son hujjatga ko'ra, visseral leyshmaniozning asosiy tabiiy rezervuari va qo'shimcha manbalari kimlar?",
+      "c": "Itlar, qo'shimcha manbalari esa chiyabo'ri, tulki va bo'rilar",
+      "w": [
+        "Tulki va chiyabo'ri, qo'shimcha manbalari esa odam va itlar",
+        "Odamlar, qo'shimcha manbalari esa itlar, tulki va chiyabo'ri",
+        "Bo'rilar, qo'shimcha manbalari esa itlar va yovvoyi hayvonlar",
+        "Yovvoyi hayvonlar, qo'shimcha manbalari esa odam va tulki"
+      ],
+      "x": "«qo'zg'atuvchining asosiy tabiiy rezervuari itlar, qo'shimcha manbalari chiyabo'ri, tulki va bo'rilar»"
+    },
+    {
+      "q": "121-son hujjatga ko'ra, mintaqada qanday o'choq turlari farqlanadi?",
+      "c": "Tabiiy, yarim sinantrop va shahar turi",
+      "w": [
+        "Antroponoz, zoonoz va sinantrop turi",
+        "Antroponoz, tabiiy va yovvoyi hayvon turi",
+        "Shahar, antroponoz va yovvoyi turi",
+        "Zoonoz, qishloq va antroponoz turi"
+      ],
+      "x": "«uch turdagi o'choqlar farqlanadi: tabiiy (manba tulki va chiyabo'ri), yarim sinantrop yoki qishloq turi (itlar ishtirokida) va shahar turi»"
+    }
+  ],
+  "057": [
+    {
+      "q": "JSST visseral leyshmaniozning xarakterli belgilari sifatida nimalarni sanaydi?",
+      "c": "Tartibsiz isitma, vazn yo'qotish va kamqonlik",
+      "w": [
+        "Gepatosplenomegaliya, intoksikatsiya sindromi va kaxeksiya",
+        "Sepsis, ko'p a'zolar yetishmovchiligi va kaxeksiya",
+        "Qon ketishlar, shishlar va oqsil tanqisligi",
+        "Sil, limfoma va OIV/OITS belgilari"
+      ],
+      "x": "«xarakterli belgilari sifatida tartibsiz isitma, vazn yo'qotish, taloq va jigarning kattalashishi hamda kamqonlikni sanaydi»"
+    },
+    {
+      "q": "Visseral leyshmanioz yana qanday nomlar bilan ataladi?",
+      "c": "Qora azar yoki kala-azar",
+      "w": [
+        "Qorin tifi yoki brutsellyoz",
+        "Pansitopeniya yoki giperspleniya",
+        "Kaxeksiya yoki gepatosplenomegaliya",
+        "Bezgak yoki pnevmoniya"
+      ],
+      "x": "«Visseral leyshmanioz, yana qora azar yoki kala-azar deb ataladi»"
+    },
+    {
+      "q": "Visseral leyshmaniozning eng xarakterli ob'ektiv belgisi nima?",
+      "c": "Taloqning kattalashishi",
+      "w": [
+        "Jigarning kattalashishi",
+        "Qorindagi shishlar paydo bo'lishi",
+        "Teri toshmasi paydo bo'lishi",
+        "Bemorning rangpar bo'lishi"
+      ],
+      "x": "«Eng xarakterli ob'ektiv belgi taloqning kattalashishidir»"
+    },
+    {
+      "q": "Visseral leyshmaniozda isitma qanday xarakterga ega?",
+      "c": "Tartibsiz, to'lqinsimon yoki uzoq davom etuvchi",
+      "w": [
+        "Subfebril, asta-sekin boshlanadigan past harorat",
+        "Kunlik ikki marta ko'tariladigan yuqori isitma",
+        "O'tkir boshlanuvchi, yuqori va davomli isitma",
+        "Subfebril, o'tkir boshlanuvchi va to'lqinsimon isitma"
+      ],
+      "x": "«Visseral leyshmaniozning xarakterli belgisi tartibsiz, to'lqinsimon yoki uzoq davom etuvchi isitmadir.»"
+    },
+    {
+      "q": "Taloq va jigar kattalashishi o'rtasidagi nisbat qanday?",
+      "c": "Taloq, jigar esa kamroq kattalashadi",
+      "w": [
+        "Jigar, taloq esa kamroq kattalashadi",
+        "Ikkalasi ham bir xil kattalashadi",
+        "Taloq kattalashadi, jigar esa kichrayadi",
+        "Jigar kattalashadi, taloq esa o'zgarmaydi"
+      ],
+      "x": "«Jigar ham kattalashadi, lekin odatda taloqdan kamroq»"
+    },
+    {
+      "q": "Pansitopeniya qaysi o'zgarishlarni o'z ichiga oladi?",
+      "c": "Kamqonlik, leykopeniya va trombotsitopeniya",
+      "w": [
+        "Giperglobulinemiya, kamqonlik va EChT oshishi",
+        "Leykopeniya, giperglobulinemiya va sepsis",
+        "Trombotsitopeniya, shishlar va qon ketishlar",
+        "Kaxeksiya, giperspleniya va kamqonlik"
+      ],
+      "x": "«Natijada kamqonlik, leykopeniya va trombotsitopeniya rivojlanadi; bu pansitopeniya deyiladi»"
+    },
+    {
+      "q": "Giperspleniya nima?",
+      "c": "Taloq qon hujayralarini ko'proq yo'q qiladi",
+      "w": [
+        "Parazit suyak ko'migida qon hosil qiladi",
+        "Taloq qon hujayralarini ko'proq hosil qiladi",
+        "Jigar oqsil fraksiyalarini ko'proq yo'q qiladi",
+        "Suyak ko'migi qon hujayralarini ko'proq yo'q qiladi"
+      ],
+      "x": "«taloq esa qon hujayralarini ko'proq yo'q qiladi, ya'ni giperspleniya»"
+    },
+    {
+      "q": "Davolanmagan kasallikda immunitet susayganda qaysi ikkilamchi infeksiyalar qo'shiladi?",
+      "c": "Zotiljam, ich ketishi, sil va sepsis",
+      "w": [
+        "Bezgak, qorin tifi va brutsellyoz",
+        "Gripp, bronxit va pnevmoniya",
+        "Limfoma, qon kasalliklari va OIV infeksiyasi",
+        "Gipoalbuminemiya, giperglobulinemiya va pansitopeniya"
+      ],
+      "x": "«immunitet susayadi va ikkilamchi infeksiyalar qo'shiladi: zotiljam, ich ketishi, sil, sepsis»"
+    },
+    {
+      "q": "Umumiy qon tahlilida qaysi ko'rsatkichlar kamayadi?",
+      "c": "Gemoglobin, leykotsitlar va trombotsitlar",
+      "w": [
+        "EChT, globulinlar va oqsil fraksiyalari miqdori",
+        "Globulinlar va giperglobulinemiya ko'rsatkichlari",
+        "EChT va biokimyoviy oqsil ko'rsatkichlari",
+        "Giperglobulinemiya, EChT va oqsil fraksiyalari"
+      ],
+      "x": "«Umumiy qon tahlilida pansitopeniya kuzatiladi: gemoglobin, leykotsitlar va trombotsitlar kamayadi»"
+    },
+    {
+      "q": "Kasallikning oxirgi bosqichida o'lim ko'pincha nimadan bo'ladi?",
+      "c": "Ikkilamchi infeksiya yoki qon ketishdan",
+      "w": [
+        "Chuqur ozish yoki doimiy shishlardan",
+        "Taloq va jigarning kattalashishidan",
+        "Isitma va kamqonlik rivojlanishidan",
+        "Giperglobulinemiya yoki leykopeniyadan"
+      ],
+      "x": "«o'lim ko'pincha ikkilamchi infeksiya yoki qon ketishdan bo'ladi»"
+    },
+    {
+      "q": "JSST visseral leyshmaniozni davolash haqida nimani ta'kidlaydi?",
+      "c": "Davolash mumkin, lekin dorilar parazitni to'liq chiqarmaydi",
+      "w": [
+        "Dorilar parazitni tanadan to'liq chiqaradi va qaytalanmaydi",
+        "Davolash mumkin emas, faqat kuzatuv va oziqlanish yordam beradi",
+        "Davolash mumkin, immuniteti pasayganda qaytalanish kuzatilmaydi",
+        "Davolash mumkin emas, dorilar parazitni tanadan chiqarmaydi"
+      ],
+      "x": "«JSST visseral leyshmaniozni davolash mumkin ekanini ta'kidlaydi, lekin dorilar parazitni tanadan to'liq chiqarmaydi»"
+    }
+  ],
+  "058": [
+    {
+      "q": "Teri leyshmaniozi leyshmaniozning qaysi shakli hisoblanadi?",
+      "c": "Eng ko'p tarqalgan shakli",
+      "w": [
+        "Eng og'ir kechadigan shakli",
+        "Ochiq joylarda uchraydigan shakli",
+        "Shilliq qavatlarga o'tadigan shakli",
+        "Faqat bolalarda uchraydigan shakli"
+      ],
+      "x": "«Teri leyshmaniozi leyshmaniozning eng ko'p tarqalgan shaklidir»"
+    },
+    {
+      "q": "Teri leyshmaniozi qanday birlamchi element bilan boshlanadi?",
+      "c": "Chaqish joyidagi kichik qizil dog' yoki papula",
+      "w": [
+        "Chaqish joyidagi chetlari ko'tarilgan chuqur yara",
+        "Ustida po'stloq hosil bo'lgan tugun",
+        "Yuzdagi atrofik rangi o'zgargan chandiq",
+        "Limfa yo'li bo'ylab joylashgan tugunlar"
+      ],
+      "x": "«Kasallik chaqish joyida kichik qizil dog' yoki papula paydo bo'lishi bilan boshlanadi»"
+    },
+    {
+      "q": "Papula sekin kattalashib, zichlashgach nimaga aylanadi?",
+      "c": "Tugun, ya'ni leyshmaniomga",
+      "w": [
+        "Yaraga, ya'ni piodermiyaga",
+        "Chandiqqa, ya'ni keloidga",
+        "Papulaga, ya'ni birlamchi elementga",
+        "Po'stloqqa, ya'ni infiltratsiyaga"
+      ],
+      "x": "«Papula sekin kattalashadi, zichlashadi va tugun hosil qiladi, ya'ni leyshmaniom»"
+    },
+    {
+      "q": "Zoonoz teri leyshmaniozida yara odatda qanday bo'ladi?",
+      "c": "Katta, chetlari ko'tarilgan va valiksimon",
+      "w": [
+        "Kichik, quruqroq va ancha sekin rivojlanuvchi",
+        "Ho'l, kichik va chetlari ko'tarilmagan",
+        "Og'riqli, yiringli va chandiqsiz bitadigan",
+        "Quruq, kichik va chetlari tekis"
+      ],
+      "x": "«yara odatda katta, bir necha santimetr, chetlari ko'tarilgan va valiksimon, tubi notekis»"
+    },
+    {
+      "q": "Teri leyshmaniozi yarasi oddiy yiringli yaralardan nimasi bilan farq qiladi?",
+      "c": "Kam og'riydi",
+      "w": [
+        "Ko'proq og'riydi",
+        "Ko'p yiringlaydi",
+        "Yaralar soni ko'p",
+        "Ostida yara hosil bo'ladi"
+      ],
+      "x": "«Yara kam og'riydi, shu bilan oddiy yiringli yaralardan farq qiladi.»"
+    },
+    {
+      "q": "Antroponoz shakl nima sababdan yilli yara deb ataladi?",
+      "c": "Bir yildan ortiq davom etishi mumkin",
+      "w": [
+        "Yaralar yil davomida ho'l bo'ladi",
+        "Yangi yaralar yil davomida paydo bo'ladi",
+        "Bir necha oy ichida o'z-o'zidan bitadi",
+        "Mustahkam immunitet qoldiradi va bitadi"
+      ],
+      "x": "«Antroponoz shakl uzoq, bir yildan ortiq davom etishi mumkin, shu sababli yilli yara deb ataladi»"
+    },
+    {
+      "q": "Zoonoz shakl qanday kechadi va qanday natija qoldiradi?",
+      "c": "O'z-o'zidan bitishi va mustahkam immunitet",
+      "w": [
+        "Uzoq davom etishi va kichik quruq yaralar",
+        "Qaytalanishi va keloid chandiq kontrakturasi",
+        "Shilliq qavatlarga tarqalishi va nogironlik",
+        "Ikkilamchi infeksiya va qo'pol chandiq"
+      ],
+      "x": "«bir necha oy ichida o'z-o'zidan bitishi mumkin va mustahkam immunitet qoldiradi»"
+    },
+    {
+      "q": "121-son hujjatga ko'ra, zoonoz shaklda kasallikdan keyin qanday immunitet hosil bo'ladi?",
+      "c": "Bir umrga mustahkam immunitet",
+      "w": [
+        "Bir hafta davom etuvchi immunitet",
+        "Immunitet umuman hosil bo'lmaydi",
+        "Faqat chandiq atrofida immunitet",
+        "Bir necha oy davom etuvchi immunitet"
+      ],
+      "x": "«Kasallikdan keyin bir umrga mustahkam immunitet hosil bo'ladi»"
+    },
+    {
+      "q": "Differensial tashxisda teri leyshmaniozi qaysi kasalliklardan ajratiladi?",
+      "c": "Piodermiya, teri sili, moxov va sifilis",
+      "w": [
+        "Leyshmaniom, papula, infiltratsiya va po'stloq",
+        "Keloid, kontraktura va lupoid shakl",
+        "Granulyatsiya, epitelizatsiya va atrofik chandiq",
+        "Diffuz teri leyshmaniozi va retsidiv shakl"
+      ],
+      "x": "«Teri leyshmaniozini quyidagilardan ajratish kerak: piodermiya, ya'ni yiringli yaralar, teri sili, moxov, sifilis»"
+    },
+    {
+      "q": "Ikkilamchi bakterial infeksiya qo'shilsa, yara qanday bo'ladi?",
+      "c": "Yara yiringlab, og'riqli bo'ladi",
+      "w": [
+        "Yara quruqlashib, og'riqsiz bitadi",
+        "Yara kichik, quruq va og'riqsiz bo'ladi",
+        "Yara ichida yangi tugunlar paydo bo'ladi",
+        "Yara limfa yo'li bo'ylab ketma-ket joylashadi"
+      ],
+      "x": "«ikkilamchi bakterial infeksiya, ya'ni yara yiringlab, og'riqli bo'ladi»"
+    },
+    {
+      "q": "Bolalarda yaralar ko'pincha qayerda joylashadi?",
+      "c": "Yuzda, chunki yuz ochiq va chivinchalar chaqadi",
+      "w": [
+        "Qo'llar va oyoqlarda, chunki ular ochiq",
+        "Bo'yin va tanada, chunki chivinchalar chaqadi",
+        "Shilliq qavatlarda, chunki immunitet pasaygan",
+        "Oyoqlarda, chunki ular chivinchalar chaqadigan joy"
+      ],
+      "x": "«Bolalarda yaralar ko'pincha yuzda joylashadi, chunki yuz ochiq va chivinchalar uni chaqadi»"
+    }
+  ],
+  "059": [
+    {
+      "q": "JSST visseral leyshmaniozda tashxis nimalarni birlashtirish asosida qo'yilishini ta'kidlaydi?",
+      "c": "Klinik belgilar bilan parazitologik yoki serologik testlar",
+      "w": [
+        "Epidemiologik anamnez bilan qon surtmasi va aspirat natijalari",
+        "Differensial tashxis bilan davolash natijalari",
+        "Umumiy qon tahlili bilan EChT ko'rsatkichlari",
+        "Aspirat mikroskopiyasi bilan algoritm bosqichlari"
+      ],
+      "x": "«tashxis klinik belgilar bilan parazitologik yoki serologik testlarni birlashtirish asosida qo'yilishini»"
+    },
+    {
+      "q": "Biokimyoviy tahlilda qon zardobidagi oqsil nisbati qanday buziladi?",
+      "c": "Albumin kamayadi, globulinlar ko'payadi",
+      "w": [
+        "Globulinlar kamayadi, albumin ko'payadi",
+        "Albumin va globulinlar birga ko'payadi",
+        "Globulinlar o'zgarmaydi, albumin kamayadi",
+        "Albumin o'zgarmaydi, globulinlar kamayadi"
+      ],
+      "x": "«biokimyoda qon zardobidagi oqsil nisbatining buzilishi, ya'ni albumin kamayishi va globulinlar ko'payishi»"
+    },
+    {
+      "q": "Visseral leyshmaniozda antitelolar odatda qanday titrda bo'ladi?",
+      "c": "Yuqori titrda bo'ladi",
+      "w": [
+        "Past titrda bo'ladi",
+        "Juda past titrda bo'ladi",
+        "Yuqori titrda emas, past bo'ladi",
+        "Past titrda ham bo'ladi"
+      ],
+      "x": "«Visseral leyshmaniozda antitelolar odatda yuqori titrda bo'ladi»"
+    },
+    {
+      "q": "Serologiya nima sababdan tashxisda yagona asos emas?",
+      "c": "O'tgan infeksiyani ham ko'rsatishi mumkin",
+      "w": [
+        "Faqat maydon sharoitida qo'llanishi mumkin",
+        "Differensial tashxisni to'liq almashtirishi mumkin",
+        "Amastigotlarni aspiratda ko'rsatishi mumkin",
+        "Albumin kamayishini ko'rsatishi mumkin"
+      ],
+      "x": "«Serologiya o'tgan infeksiyani ham ko'rsatishi mumkin va immuniteti pasaygan bemorlarda past bo'lishi mumkin»"
+    },
+    {
+      "q": "Visseral leyshmaniozda tashxisning aniq tasdig'i nima?",
+      "c": "Ichki a'zolar aspiratida amastigotlarni topish",
+      "w": [
+        "Umumiy qon tahlilida pansitopeniyani topish",
+        "Qon zardobida antitelolar titrini aniqlash",
+        "Biokimyoda globulinlar ko'payishini topish",
+        "Tezkor testning ijobiy natijasini olish"
+      ],
+      "x": "«Tashxisning aniq tasdig'i ichki a'zolar aspiratida amastigotlarni topishdir»"
+    },
+    {
+      "q": "Aspirat uchun qaysi material eng xavfsiz va keng qo'llanadi?",
+      "c": "Suyak ko'migi",
+      "w": [
+        "Taloq aspirati",
+        "Limfa tuguni",
+        "Jigar to'qimasi",
+        "Taloq va jigar"
+      ],
+      "x": "«Material suyak ko'migi, bu eng xavfsiz va keng qo'llanadi»"
+    },
+    {
+      "q": "Taloq aspirati haqida qaysi gap to'g'ri?",
+      "c": "Eng sezgir, lekin xavfli",
+      "w": [
+        "Eng xavfsiz va keng qo'llanadi",
+        "Eng xavfli, lekin kam sezgir",
+        "Eng sezgir, lekin xavfsiz usul",
+        "Eng qulay maydon usuli"
+      ],
+      "x": "«taloq, bu eng sezgir, lekin xavfli»"
+    },
+    {
+      "q": "Pop tumani tadqiqotida tur nima sababdan aniqlanmagan?",
+      "c": "Parazit ajratib olinmagan",
+      "w": [
+        "Aspirat tekshiruvi o'tkazilmagan",
+        "Serologik test o'tkazilmagan",
+        "Bemorlar uzoq vaqt davolanmagan",
+        "Ma'lumotnoma laboratoriyalarida bajarilmagan"
+      ],
+      "x": "«Pop tumani tadqiqotida parazit ajratib olinmagani sababli tur aniqlanmagan»"
+    },
+    {
+      "q": "Bezgak nima sababdan muhim differensial tashxis hisoblanadi?",
+      "c": "Ikkala kasallikda isitma va taloq kattalashadi",
+      "w": [
+        "Ikkala kasallik ham ichki a'zolarda joylashgan",
+        "Ikkala kasallikda tartibsiz isitma bo'lmaydi",
+        "Bezgak faqat endemik hududlarda uchraydi",
+        "Bezgak sepsis bilan birga kechadi"
+      ],
+      "x": "«chunki ikkala kasallik ham isitma va taloq kattalashishi bilan kechadi»"
+    },
+    {
+      "q": "Tashxis qo'yishdagi xatolardan biri qaysi?",
+      "c": "Serologik natijaga haddan tashqari tayanish",
+      "w": [
+        "Klinik shubhani saqlab tekshiruvni takrorlash",
+        "Test manfiy bo'lsa aspirat tekshiruvini qo'shish",
+        "Anamnezni endemik hudud bilan aloqa asosida yig'ish",
+        "Bezgak uchun qon surtmasini tekshirish"
+      ],
+      "x": "«serologik natijaga haddan tashqari tayanish»"
+    },
+    {
+      "q": "121-son hujjatga ko'ra, birlamchi visseral leyshmaniozda rK39 testi musbat bo'lsa, nima qilinadi?",
+      "c": "Parazitologik usulni qo'llashga zarurat qolmaydi",
+      "w": [
+        "Suyak ko'migi punktatini tekshirish majburiy bo'ladi",
+        "Faqat parazitologik usul qo'llanadi, serologiya olinmaydi",
+        "Taloq aspirati darhol olinadi va tekshiriladi",
+        "Kultura va PZR bilan tasdiqlash majburiy bo'ladi"
+      ],
+      "x": "«birlamchi visseral leyshmaniozda rK39 testi musbat bo'lsa, parazitologik usulni qo'llashga zarurat qolmaydi»"
+    }
+  ],
+  "060": [
+    {
+      "q": "Visseral leyshmanioz holati aniqlanganda epidemiologik tadbirlarning maqsadlaridan biri nima?",
+      "c": "O'choqni cheklash va yangi holatlarning oldini olish",
+      "w": [
+        "Chivinchalar ko'payishini nazorat qilish va hisobot yuborish",
+        "Bemorni davolash va o'choqni kengaytirmaslik",
+        "Itlarni tekshirish va aholini ro'yxatga olish",
+        "Hujjatlarni saqlash va bemorlarni ajratish"
+      ],
+      "x": "«Maqsad bemorni davolash, yuqish manbasi va yo'lini aniqlash, o'choqni cheklash va yangi holatlarning oldini olishdir»"
+    },
+    {
+      "q": "Gumon qilingan yoki tasdiqlangan holat haqida shifokor yoki laboratoriya xodimi kimga xabar beradi?",
+      "c": "Sanitariya-epidemiologiya xizmatiga",
+      "w": [
+        "Oilaviy poliklinika va mahallaga",
+        "Veterinariya xizmati va yuqori idoraga",
+        "Maktab va oilaviy poliklinikaga",
+        "Epidemiologga va yuqori idoraga"
+      ],
+      "x": "«gumon qilingan yoki tasdiqlangan holat haqida belgilangan tartibda sanitariya-epidemiologiya xizmatiga xabar beradi»"
+    },
+    {
+      "q": "Bildirishnomada qanday ma'lumotlar bo'ladi?",
+      "c": "Bemor ma'lumotlari, tashxis va yashash joyi",
+      "w": [
+        "Itlar soni, chivinchalar zichligi va ishlov sanasi",
+        "Mas'ul shaxslar, muddatlar va hisobot shakli",
+        "Entomologik natija, ishlov turi va javobgarlar",
+        "O'choq chegarasi, ishlov sanasi va aholi ro'yxati"
+      ],
+      "x": "«Bildirishnomada bemor ma'lumotlari, tashxis va yashash joyi»"
+    },
+    {
+      "q": "Epidemiolog tekshiruvda qaysi joylarni o'rganadi?",
+      "c": "Bemor yashagan, ishlagan va bo'lgan joylarni",
+      "w": [
+        "Bemor davolangan poliklinika va laboratoriyalarni",
+        "Bemorning uyi atrofidagi chorva binolarini",
+        "Itlar va boshqa hayvonlar yashagan joylarni",
+        "Bemor ishlagan laboratoriya va poliklinikalarni"
+      ],
+      "x": "«Epidemiolog bemor yashagan, ishlagan va bo'lgan joylarni o'rganadi»"
+    },
+    {
+      "q": "Faol qidiruv nima sababdan belgilari bor odamlar bilan cheklanadi?",
+      "c": "Zararlanganlarning faqat kichik qismi kasallanadi",
+      "w": [
+        "Belgisiz zararlanganlar epidemiologik jihatdan ahamiyatsiz",
+        "Belgisiz zararlanganlarda kasallik bo'lmaydi",
+        "Zararlanganlarning barchasi kasallikni rivojlantiradi",
+        "Qidiruv faqat qo'shnilar orasida o'tkaziladi"
+      ],
+      "x": "«JSST parazit bilan zararlanganlarning faqat kichik qismi kasallikni rivojlantirishini ta'kidlaydi»"
+    },
+    {
+      "q": "O'choqda chivinchalarga qarshi qanday chora-tadbirlar o'tkaziladi?",
+      "c": "Insektitsid purkash, ishlangan to'rlar va shaxsiy himoya",
+      "w": [
+        "Daydi itlarni ushlash va veterinar ko'rigi o'tkazish",
+        "Bemorlarni davolash, ro'yxatga olish va hisobot topshirish",
+        "Aholini o'qitish, ma'rifiy ishlar va mahalla orqali tushuntirish",
+        "Epidemiologik tekshiruv, faol qidiruv va hujjatlashtirish"
+      ],
+      "x": "«insektitsid purkash, insektitsid bilan ishlangan to'rlar, atrof-muhitni boshqarish va shaxsiy himoya»"
+    },
+    {
+      "q": "Zoonoz o'choqlarda manba hayvonlardan qaysilari nazorat qilinadi?",
+      "c": "Ayniqsa itlar",
+      "w": [
+        "Kemiruvchilar va it populyatsiyasi",
+        "Ayniqsa chorva hayvonlari",
+        "Chivinchalar va ularning ko'payish joylari",
+        "Chivinchalar va chorva hayvonlari"
+      ],
+      "x": "«Zoonoz o'choqlarda manba hayvonlar, ayniqsa itlar, nazorat qilinadi»"
+    },
+    {
+      "q": "Ma'rifiy ishlar qaysi tuzilmalar orqali olib boriladi?",
+      "c": "Mahalla, maktab va oilaviy poliklinika",
+      "w": [
+        "Laboratoriya, epidemiolog va veterinariya xizmati",
+        "Sanitariya-epidemiologiya xizmati va yuqori idora",
+        "Shifokor, laborant va hujjatlashtirish xodimlari",
+        "Bildirishnoma, bayonnoma va yuqori idora"
+      ],
+      "x": "«Ma'rifiy ishlar mahalla, maktab va oilaviy poliklinika orqali olib boriladi»"
+    },
+    {
+      "q": "Tadbirlar tugagach, samarasi qanday savollar bilan baholanadi?",
+      "c": "Yangi holatlar paydo bo'ldimi, chivinchalar zichligi pasaydimi",
+      "w": [
+        "Hujjatlar yuqori idoraga yuborildimi, muddatlar o'tdimi",
+        "Itlar tekshirildimi, veterinar xizmati xabardor qilindimi",
+        "Bayonnoma yozildimi, javobgarlar va muddatlar belgilandimi",
+        "Aholi to'rlar oldimi, bemorlar davolandimi"
+      ],
+      "x": "«samarasi baholanadi: yangi holatlar paydo bo'ldimi, chivinchalar zichligi pasaydimi»"
+    },
+    {
+      "q": "Samaradorlik ko'rsatkichlari yomonlashsa, nima qilinadi?",
+      "c": "Sabablari tahlil qilinadi",
+      "w": [
+        "Bayonnoma yozilmaydi",
+        "Hujjatlar yuqori idoraga yuboriladi",
+        "Ishlov o'tkazilmaydi",
+        "Aholi o'qitilmaydi"
+      ],
+      "x": "«Ko'rsatkichlar yomonlashsa, sabablari tahlil qilinadi»"
+    },
+    {
+      "q": "121-son hujjatga ko'ra, endemik bo'lmagan tumanlarda bemorlar qanday aniqlanadi?",
+      "c": "Pediatriya va gematologiya muassasalarida tekshirish orqali",
+      "w": [
+        "Davolash-profilaktika muassasalariga murojaat qilish orqali",
+        "Xonadonma-xonadon faol aniqlash orqali",
+        "Sanitariya-epidemiologiya xizmati ko'rigi orqali",
+        "Endemik hududlardagi daydi itlarni ushlash orqali"
+      ],
+      "x": "«endemik bo'lmagan tumanlarda esa pediatriya va gematologiya muassasalarida hamda endemik hududlarga borib kelganlarni tekshirish orqali aniqlanadi»"
+    }
+  ]
+}

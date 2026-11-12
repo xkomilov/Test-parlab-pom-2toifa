@@ -1,0 +1,494 @@
+{
+  "146": [
+    {
+      "q": "Parazitologiyada zararlanish qaysi ikki ma'noda ishlatiladi?",
+      "c": "Zararlanganlar ulushi va parazitlar soni",
+      "w": [
+        "Insidens va prevalentlik ulushi ko'rsatkichi",
+        "Kasal bo'lganlar va tuxumlar soni",
+        "Namuna soni va usul sezgirligi",
+        "Infeksiya va kasallik belgilari"
+      ],
+      "x": "«zararlanganlar ulushi (tarqalish yoki zararlanish ekstensivligi) va har bir zararlangan odamdagi parazitlar soni (zararlanish intensivligi)»"
+    },
+    {
+      "q": "Gelmintozlarda zararlanish intensivligi nima bilan ifodalanadi?",
+      "c": "Najasning bir grammidagi tuxumlar soni",
+      "w": [
+        "Zararlanganlar ulushining foizi",
+        "Namunadagi ko'paytirish koeffitsienti",
+        "Zararlanganlar epg yig'indisi",
+        "Kasallik belgilari soni"
+      ],
+      "x": "«Gelmintozlarda u najasning bir grammidagi tuxumlar soni (epg) bilan ifodalanadi»"
+    },
+    {
+      "q": "JSST intensivlikni qaysi sinflarga ajratadi?",
+      "c": "Tuxum yo'q, yengil, o'rta, og'ir",
+      "w": [
+        "Yengil, o'rta, og'ir, juda ko'p",
+        "Tuxum yo'q, kam, o'rta, ko'p",
+        "Yengil, o'rta, og'ir, ekstensiv",
+        "Tuxum yo'q, yengil, ekstensiv, og'ir"
+      ],
+      "x": "«JSST intensivlikni to'rt sinfga ajratadi: tuxum yo'q, yengil, o'rta, og'ir»"
+    },
+    {
+      "q": "Askaridozda 5000–49 999 epg qaysi intensivlik sinfiga kiradi?",
+      "c": "O'rta intensivlik",
+      "w": [
+        "Yengil intensivlik",
+        "Og'ir intensivlik",
+        "Past intensivlik",
+        "Tuxum yo'q"
+      ],
+      "x": "«Askaridoz uchun: 1–4999 epg yengil, 5000–49 999 epg o'rta, 50 000 va undan yuqori og'ir.»"
+    },
+    {
+      "q": "Epg qanday formula bilan hisoblanadi?",
+      "c": "Namunadagi tuxumlar soni × ko'paytirish koeffitsienti",
+      "w": [
+        "Zararlanganlar soni ÷ namunadagi tuxumlar soni",
+        "Namunadagi tuxumlar soni ÷ ko'paytirish koeffitsienti",
+        "Zararlanganlar epg yig'indisi ÷ zararlanganlar soni",
+        "Ko'paytirish koeffitsienti ÷ zararlanganlar soni"
+      ],
+      "x": "«Epg = namunadagi tuxumlar soni × ko'paytirish koeffitsienti.»"
+    },
+    {
+      "q": "Tadqiqotda tarqalish bilan qaysi ko'rsatkich o'rtasidagi bog'liqlik tenglamalar bilan ifodalangan?",
+      "c": "O'rta va og'ir zararlanishlar ulushi",
+      "w": [
+        "Yengil va o'rta sezgirlik ulushi",
+        "Namunalar soni va mikroskopist malakasi",
+        "Usul sezgirligi va haqiqiy tarqalish",
+        "Davolashdan keyingi qayta zararlanish ulushi"
+      ],
+      "x": "«gelmint infeksiyalari tarqalishi bilan o'rta va og'ir intensivlikdagi zararlanishlar ulushi o'rtasidagi bog'liqlik tenglamalar bilan ifodalangan»"
+    },
+    {
+      "q": "Faqat shikoyati bor odamlarni tekshirish tarqalishga qanday ta'sir qiladi?",
+      "c": "Tarqalishni oshirib ko'rsatadi",
+      "w": [
+        "Tarqalishni aniqroq ko'rsatadi",
+        "Tarqalishni haqiqiy ko'rsatadi",
+        "Intensivlikni aniqroq ko'rsatadi",
+        "Intensivlikni oshirib ko'rsatadi"
+      ],
+      "x": "«Faqat shikoyati bor odamlarni tekshirish tarqalishni oshirib ko'rsatadi»"
+    },
+    {
+      "q": "Usul sezgirligi 100 foiz bo'lmasa, kuzatilgan tarqalish haqiqiy tarqalishdan qanday bo'lishi mumkin?",
+      "c": "Past bo'lishi mumkin",
+      "w": [
+        "Yuqori bo'lishi mumkin",
+        "Juda ko'p bo'lishi mumkin",
+        "O'rta bo'lishi mumkin",
+        "Og'ir bo'lishi mumkin"
+      ],
+      "x": "«Usul sezgirligi 100 foiz bo'lmaganligi uchun kuzatilgan tarqalish haqiqiy tarqalishdan past bo'lishi mumkin»"
+    },
+    {
+      "q": "JSST yengil intensivlikdagi zararlanishlar haqida nimani yozgan?",
+      "c": "Odatda kasallik keltirmaydi",
+      "w": [
+        "Doim og'ir kasallik keltiradi",
+        "Faqat bolalarda kasallik keltiradi",
+        "Kasallik og'irligini oshiradi",
+        "Kasallar sonini oshiradi"
+      ],
+      "x": "«JSST yengil intensivlikdagi zararlanishlar odatda kasallik keltirmasligini yozgan»"
+    },
+    {
+      "q": "0112-26-son SanQvaNda tuproq uchun intensiv ifloslanish ko'rsatkichi nimaga asoslanadi?",
+      "c": "Tuproqda aniqlangan tuxum, lichinka va sista soni",
+      "w": [
+        "Aniqlangan namunalar sonining umumiy soniga nisbati",
+        "Namunalar umumiy soni",
+        "Tuproqdagi zararli moddalar konsentratsiyasi",
+        "Namuna olingan hududlar soni"
+      ],
+      "x": "«intensiv ifloslanish ko'rsatkichi — 100 g yoki 1 kg tuproqda aniqlangan tuxum, lichinka, sista va oosistalar soni»"
+    },
+    {
+      "q": "Enterobiozda bolalar jamoasida zararlanish qancha bo'lsa, jamoaning 100% davolanadi?",
+      "c": "15% va undan yuqori",
+      "w": [
+        "30% va undan yuqori",
+        "10% va undan yuqori",
+        "15% gacha",
+        "3% va undan yuqori"
+      ],
+      "x": "«enterobiozda bolalar jamoasida zararlanish 15% va undan yuqori bo'lsa, jamoaning 100% davolanadi»"
+    }
+  ],
+  "147": [
+    {
+      "q": "Intensiv ko'rsatkich nima?",
+      "c": "Hodisa holatlari va aholi soni o'rtasidagi nisbat",
+      "w": [
+        "Butunning qismini ko'rsatuvchi ulush ko'rsatkichi",
+        "Najasning bir grammidagi tuxumlar soni",
+        "Standartlashtirilgan yosh tarkibi ko'rsatkichi",
+        "Parazitlar soni va xo'jayinlar nisbati"
+      ],
+      "x": "«Intensiv ko'rsatkich — bu muayyan hodisa, masalan kasallik, o'lim yoki zararlanish holatlari soni va ularni keltirib chiqargan muhit, ya'ni shu hodisa yuz berishi mumkin bo'lgan aholi soni o'rtasidagi nisbatdir.»"
+    },
+    {
+      "q": "Intensiv ko'rsatkich natijasi odatda qancha aholiga nisbatan ifodalanadi?",
+      "c": "1000, 10 000 yoki 100 000 aholiga",
+      "w": [
+        "100, 1000 yoki 10 000 aholiga",
+        "10 000, 50 000 yoki 400 000 aholiga",
+        "100 000 yoki 400 000 aholiga",
+        "50 000 yoki 400 000 aholiga"
+      ],
+      "x": "«Natija odatda 1000, 10 000 yoki 100 000 aholiga nisbatan ifodalanadi.»"
+    },
+    {
+      "q": "Maktabda 480 bola tekshirilib, 96 tasida gelmint tuxumi topilsa, tarqalganlik necha foiz bo'ladi?",
+      "c": "20 foiz",
+      "w": [
+        "10 foiz",
+        "25 foiz",
+        "48 foiz",
+        "96 foiz"
+      ],
+      "x": "«Masalan, maktabda 480 bola tekshirilib, 96 tasida gelmint tuxumi topilsa, tarqalganlik 96 : 480 × 100 = 20 foiz bo'ladi»"
+    },
+    {
+      "q": "Gelmintozda zararlanish intensivligi nima bilan o'lchanadi?",
+      "c": "Najasning bir grammidagi tuxum soni (epg)",
+      "w": [
+        "Har 100 000 aholiga to'g'ri keladigan holat",
+        "Hududdagi aholining yosh tarkibi",
+        "Yil o'rtasidagi aholi soni",
+        "Tumandagi bemorlar soni"
+      ],
+      "x": "«Ikkinchisi najasning bir grammidagi tuxum soni (epg) bilan o'lchanadi»"
+    },
+    {
+      "q": "Ekstensiv ko'rsatkich nimani ko'rsatadi?",
+      "c": "Butunning qismini",
+      "w": [
+        "Kasallanish tezligini",
+        "Aholi sonini",
+        "Maxraj va sanoqni",
+        "O'lim ko'rsatkichini"
+      ],
+      "x": "«Ekstensiv ko'rsatkich butunning qismini ko'rsatadi, masalan barcha parazitar kasalliklar ichida enterobiozning ulushi.»"
+    },
+    {
+      "q": "Ko'p yillik retrospektiv tahlil kamida qancha yilni o'z ichiga oladi?",
+      "c": "Kamida oxirgi 5 yilni",
+      "w": [
+        "Kamida oxirgi 3 yilni",
+        "Oxirgi 10 yilni",
+        "Oxirgi 2 yilni",
+        "Kamida 1 yilni"
+      ],
+      "x": "«ko'p yillik retrospektiv tahlil kamida oxirgi 5 yilni o'z ichiga oladi»"
+    },
+    {
+      "q": "Hududlar aholisining yosh tarkibi farq qilsa, qanday ko'rsatkichlar ishlatiladi?",
+      "c": "Standartlashtirilgan ko'rsatkichlar",
+      "w": [
+        "Ekstensiv ulush ko'rsatkichlari",
+        "Xom ko'rsatkichlar",
+        "Retrospektiv tahlil ko'rsatkichlari",
+        "Sanoq ko'rsatkichlari"
+      ],
+      "x": "«Bunday hollarda standartlashtirilgan ko'rsatkichlar ishlatiladi»"
+    },
+    {
+      "q": "Intensiv ko'rsatkichda sanoq va maxraj qanday bo'lishi kerak?",
+      "c": "Bir xil hududga va bir xil davrga tegishli",
+      "w": [
+        "Boshqa hududga va boshqa davrga tegishli",
+        "Eskirgan ro'yxatga va oxirgi yilga tegishli",
+        "Faqat kam holatli hududlarga tegishli",
+        "Yosh tarkibi farqli hududlarga tegishli"
+      ],
+      "x": "«sanoq va maxraj bir xil hududga va bir xil davrga tegishli bo'lishi kerak»"
+    },
+    {
+      "q": "Intensiv ko'rsatkichlarga qaysilar misol bo'ladi?",
+      "c": "Kasallanish, o'lim va tarqalganlik ko'rsatkichlari",
+      "w": [
+        "Enterobioz ulushi va yosh tarkibi ko'rsatkichi",
+        "Mavsumiy dinamika va hududlar bo'yicha tahlil",
+        "Sanoq, maxraj va asos ko'rsatkichlari",
+        "Ekstensiv ulush va standartlashgan tahlil"
+      ],
+      "x": "«Intensiv ko'rsatkichlarga kasallanish ko'rsatkichi, o'lim ko'rsatkichi va tarqalganlik misol bo'ladi.»"
+    },
+    {
+      "q": "Kasallanish ko'rsatkichida maxrajda qanday aholi soni olinadi?",
+      "c": "O'rtacha yoki yil o'rtasidagi aholi soni",
+      "w": [
+        "Eskirgan ro'yxatdagi umumiy aholi soni",
+        "Tuman bo'yicha eng ko'p aholi soni",
+        "Yangi holatlar bo'yicha hisoblangan aholi soni",
+        "Yosh tarkibi bo'yicha aholi soni"
+      ],
+      "x": "«maxrajda esa o'rtacha yoki yil o'rtasidagi aholi soni bo'ladi»"
+    },
+    {
+      "q": "Hududlar bo'yicha tahlil qanday birliklar bo'yicha bajariladi?",
+      "c": "Tuman, aholi punkti, makro va mikro uchastkalar",
+      "w": [
+        "Yosh, jins va kontingentlar bo'yicha guruhlar",
+        "Ko'p yillik va mavsumiy dinamika bo'yicha",
+        "Kasallanish, o'lim va zararlanish ko'rsatkichlari",
+        "Sanoq, maxraj va asos bo'yicha birliklar"
+      ],
+      "x": "«Hududlar bo'yicha tahlil tanlangan birliklar (tuman, aholi punkti, makro va mikro uchastkalar) bo'yicha ko'p yillik o'rtacha ko'rsatkichlarni hisoblash orqali bajariladi»"
+    }
+  ],
+  "148": [
+    {
+      "q": "Qaysi Taenia turi jiddiy sog'liq muammolarini keltirib chiqaradi?",
+      "c": "Taenia solium",
+      "w": [
+        "Taenia saginata",
+        "Taenia asiatica",
+        "Trichinella turlari",
+        "Toxoplasma gondii"
+      ],
+      "x": "«faqat T. solium jiddiy sog'liq muammolarini keltirib chiqaradi»"
+    },
+    {
+      "q": "T. solium tuxumlarini yutish nimaga olib keladi?",
+      "c": "To'qimalarda kista hosil bo'lishiga",
+      "w": [
+        "Ichak chuvalangi bilan zararlanishga",
+        "Mushak og'rig'i va yuz shishiga",
+        "Homilador ayollarda xavfli asoratga",
+        "O'pkada joylashgan parazitga"
+      ],
+      "x": "«T. solium tuxumlarini yutish esa sistitserkozga, ya'ni to'qimalarda, jumladan miyada, kista hosil bo'lishiga olib keladi.»"
+    },
+    {
+      "q": "Odam T. saginata bilan qaysi go'sht orqali zararlanadi?",
+      "c": "Yaxshi pishirilmagan mol go'shti",
+      "w": [
+        "Yaxshi pishirilmagan cho'chqa jigari",
+        "Yaxshi pishirilmagan cho'chqa go'shti",
+        "Yovvoyi cho'chqa va ot go'shti",
+        "Yovvoyi hayvonlar xom go'shti"
+      ],
+      "x": "«Odam T. saginata bilan yaxshi pishirilmagan mol go'shti orqali, T. asiatica bilan esa yaxshi pishirilmagan cho'chqa jigari orqali zararlanadi»"
+    },
+    {
+      "q": "Trixinellozda odam infeksiyasi qanday yo'l bilan yuz beradi?",
+      "c": "Mushaklardagi lichinkalarni yutish orqali",
+      "w": [
+        "Ifloslangan tuproq yoki itlar bilan aloqa orqali",
+        "Xom qisqichbaqasimonlarni yeyish orqali",
+        "Ifloslangan oziq-ovqat yoki suv orqali",
+        "Yaxshi pishirilmagan cho'chqa jigari orqali"
+      ],
+      "x": "«odam infeksiyasi uy yoki yovvoyi hayvonlar go'shti mushaklaridagi lichinkalarni yutish orqali yuz berishi»"
+    },
+    {
+      "q": "Trixinellozda qaysi belgilar kuzatiladi?",
+      "c": "Mushak og'rig'i, isitma va yuz shishi",
+      "w": [
+        "Yo'tal hamda qon tupurish belgilari",
+        "Ichak belgilari yoki sistitserkoz kasalligi",
+        "Yengil belgilar yoki belgisizlik",
+        "Homiladorlikda xavfli asoratlar"
+      ],
+      "x": "«Kasallik mushak og'rig'i, isitma, yuz shishi va eozinofiliya bilan namoyon bo'ladi.»"
+    },
+    {
+      "q": "Exinokokk bilan odam qanday zararlanadi?",
+      "c": "Parazit tuxumlarini yutish orqali",
+      "w": [
+        "Mol go'shtini yeyish orqali",
+        "Xom jigar iste'moli orqali",
+        "Yovvoyi cho'chqa go'shti orqali",
+        "To'qima kistalarini yutish orqali"
+      ],
+      "x": "«Exinokokk (Echinococcus) bilan zararlanish asosan go'shtni emas, balki parazit tuxumlarini yutishdan kelib chiqadi»"
+    },
+    {
+      "q": "Paragonimus turlari bilan zararlanish qanday bo'lishi mumkin?",
+      "c": "Qisqichbaqasimonlarni yeyish natijasida",
+      "w": [
+        "Lichinkali cho'chqa go'shtini yeyish natijasida",
+        "Parazit tuxumlarini yutish natijasida",
+        "To'qima kistalarini yutish natijasida",
+        "Mol jigarini yeyish natijasida"
+      ],
+      "x": "«Paragonimus turlari bilan zararlanish qisqichbaqasimonlarni yeyish yoki ularni yeydigan hayvon, masalan yovvoyi cho'chqa, xom go'shtini iste'mol qilish natijasida bo'lishi mumkinligini yozgan»"
+    },
+    {
+      "q": "Go'sht orqali yuqadigan parazitlardan himoyalanishning eng muhim choralari qaysilar?",
+      "c": "Go'shtni yaxshi pishirish va muzlatish",
+      "w": [
+        "Go'shtni xom holda tuzlash va dudlash",
+        "Hayvonlar jigarini itlarga berish",
+        "Yovvoyi hayvonlar go'shtini sotib olish",
+        "Xom go'shtni boshqa mahsulotlar bilan saqlash"
+      ],
+      "x": "«Eng muhim chora — go'shtni yaxshi pishirish va muzlatish, xom go'shtni boshqa mahsulotlardan ajratib saqlash, qo'l va asboblarni yuvish, veterinariya nazoratidan o'tgan go'shtni sotib olish»"
+    },
+    {
+      "q": "Yovvoyi hayvonlar go'shti nima uchun ayniqsa xavfli?",
+      "c": "Veterinariya nazoratidan o'tmaydi",
+      "w": [
+        "Mushaklarida lichinkalar saqlanadi",
+        "Ichki a'zolari itlarga beriladi",
+        "Asosan ichak chuvalangi keltiradi",
+        "Yuz shishi va isitma keltiradi"
+      ],
+      "x": "«Yovvoyi hayvonlar go'shti ayniqsa xavfli, chunki u veterinariya nazoratidan o'tmaydi.»"
+    },
+    {
+      "q": "Finnoz go'sht qanday zararsizlantiriladi?",
+      "c": "Muzlatish, pishirish yoki tuzlash orqali",
+      "w": [
+        "Dudlash yoki sosiska tayyorlash orqali",
+        "Yuvish, ajratish yoki sotish orqali",
+        "Kabob, somsa yoki manti tayyorlash orqali",
+        "Shifoxonaga yotqizish yoki kuzatish orqali"
+      ],
+      "x": "«finnoz go'sht muzlatish, pishirish yoki tuzlash orqali zararsizlantiriladi»"
+    },
+    {
+      "q": "Trixinellyoz bilan kasallanganlar dispanser kuzatuvida qancha bo'ladi?",
+      "c": "6 oy, asorat qolganda 1 yil",
+      "w": [
+        "3 oy, asorat qolganda 6 oy",
+        "1 oy, asorat qolganda 3 oy",
+        "12 oy, asorat qolganda 2 yil",
+        "2 oy, asorat qolganda 1 yil"
+      ],
+      "x": "«Kasallanganlar shifoxonaga yotqiziladi va 6 oy, asorat qolganda 1 yil dispanser kuzatuvida bo'ladi»"
+    }
+  ],
+  "149": [
+    {
+      "q": "Baliq orqali yuqadigan parazitlar qaysi guruhlarga kiradi?",
+      "c": "Yumaloq, tasmasimon chuvalanglar va trematodlar",
+      "w": [
+        "Mollyuskalar, nematodlar va sutemizuvchilar",
+        "Nematodlar, protozoylar va allergenlar",
+        "Trematodlar, mollyuskalar va sutemizuvchilar",
+        "Sutemizuvchilar, trematodlar va protozoylar"
+      ],
+      "x": "«Baliq orqali yuqadigan parazitlarga yumaloq chuvalanglar (Anisakis), tasmasimon chuvalanglar (Dibothriocephalus, ya'ni Diphyllobothrium) va trematodlar (Metagonimus, Opisthorchis, Clonorchis) kiradi»"
+    },
+    {
+      "q": "Clonorchis va Opisthorchis uchun ikkinchi oraliq xo'jayin kim?",
+      "c": "Chuchuk suv baligi",
+      "w": [
+        "Dengiz baligi",
+        "Mushuk va itlar",
+        "Anadrom baliq",
+        "Birinchi oraliq xo'jayin"
+      ],
+      "x": "«Clonorchis va Opisthorchis uchun ikkinchi oraliq xo'jayin esa chuchuk suv baligi»"
+    },
+    {
+      "q": "Oziq-ovqat orqali yuqadigan trematodlarning birinchi oraliq xo'jayini kim?",
+      "c": "Chuchuk suv mollyuskasi",
+      "w": [
+        "Yakuniy sutemizuvchi",
+        "Losos baligi",
+        "Baliq yeydigan go'shtxo'r",
+        "Marinadlangan baliq"
+      ],
+      "x": "«birinchi oraliq xo'jayin chuchuk suv mollyuskasi»"
+    },
+    {
+      "q": "Difillobotriaz qaysi parazit keltirib chiqaradigan kasallik?",
+      "c": "Baliq tasmasimon chuvalangi",
+      "w": [
+        "Dengiz baligi yumaloq chuvalangi",
+        "O't yo'llari trematodi",
+        "Ichak mayda trematodi",
+        "Dengiz baligi lichinkasi"
+      ],
+      "x": "«Difillobotriaz — baliq tasmasimon chuvalangi (Diphyllobothrium, hozirgi nomenklaturada Dibothriocephalus) keltirib chiqaradigan kasallik.»"
+    },
+    {
+      "q": "Anisakis lichinkalari odam tanasida qanday holatda bo'ladi?",
+      "c": "Voyaga yetmaydi",
+      "w": [
+        "Ichakda yashaydi",
+        "O't yo'llarini shikastlaydi",
+        "Tabiiy rezervuar bo'ladi",
+        "Yakuniy xo'jayin bo'ladi"
+      ],
+      "x": "«Lichinkalar odam tanasida voyaga yetmaydi, tasodifiy xo'jayin sifatida oshqozon yoki ichak devoriga kirishi mumkin.»"
+    },
+    {
+      "q": "Nima uchun dudlangan, tuzlangan va marinadlangan baliq ham xavfli bo'lishi mumkin?",
+      "c": "Bu usullar har doim parazitlarni yo'qotmaydi",
+      "w": [
+        "Bu usullar yetarli issiqlik beradi",
+        "Bu parazitlar issiqlikka chidamli bo'ladi",
+        "Bu baliqlar faqat dengizda yashaydi",
+        "Bu usullar sovuq ishlovga kiradi"
+      ],
+      "x": "«chunki bu usullar har doim parazitlarni yo'qotmaydi»"
+    },
+    {
+      "q": "Baliq orqali yuqadigan gelmintozlar tashxisi ko'pincha nimani topishga asoslanadi?",
+      "c": "Najasda parazit bosqichlarini",
+      "w": [
+        "Baliqdagi lichinkalarni",
+        "Suv mollyuskalaridagi lichinkalarni",
+        "Bemor anamnezidagi safar tarixini",
+        "O't yo'llaridagi shikastlanishni"
+      ],
+      "x": "«Baliq orqali yuqadigan gelmintozlar tashxisi ko'pincha bemor najasida parazit bosqichlarini, ya'ni tuxum yoki tasmasimon chuvalang bo'laklarini, topishga asoslanadi»"
+    },
+    {
+      "q": "Trematod tuxumlarini morfologik jihatdan farqlash qiyin bo'lsa, kimning ishtiroki muhim?",
+      "c": "Tajribali mutaxassis",
+      "w": [
+        "Sanitariya inspektorlari",
+        "Sushi tayyorlovchilar",
+        "Tibbiyot xodimlari",
+        "Baliq iste'molchilari"
+      ],
+      "x": "«shuning uchun tajribali mutaxassis ishtiroki muhimligini bilishi kerak»"
+    },
+    {
+      "q": "Opistorxozni tarqatishi mumkin bo'lgan baliqlar qaysi oilaga mansub?",
+      "c": "Karpsimonlar oilasiga",
+      "w": [
+        "Sutemizuvchilar oilasiga",
+        "Losos baliqlari oilasiga",
+        "Mollyuskalar oilasiga",
+        "Baliq yeydiganlar oilasiga"
+      ],
+      "x": "«opistorxozni tarqatishi mumkin bo'lgan baliqlar qatorida karpsimonlar oilasiga mansub yaz, plotva, qizil quyruq, leshch va boshqalar»"
+    },
+    {
+      "q": "Parazitlar bo'lgan baliqlarga ishlov berishda nimani qilmaslik talab etiladi?",
+      "c": "Chiqindilarni suv havzalariga tashlash",
+      "w": [
+        "Qabul qilingan baliqni ko'zdan kechirish",
+        "Muzlatilgan baliq mahsulotini saqlash",
+        "Ishonchli joylardan baliq sotib olish",
+        "Xom baliq taomlarini ehtiyotkorlik bilan tanlash"
+      ],
+      "x": "«baliq, uning qismlari va chiqindilarini suv havzalariga tashlamaslik»"
+    },
+    {
+      "q": "Nima sababdan baliq orqali yuqadigan parazitlar Osiyo mamlakatlarida ko'proq uchraydi?",
+      "c": "Xom baliq iste'moli keng tarqalgan",
+      "w": [
+        "Xom baliq iste'moli taqiqlangan",
+        "Sanitariya va gigiyena yetarli bo'ladi",
+        "Toza ichimlik suvi yetarli bo'ladi",
+        "Veterinariya nazorati kuchli bo'ladi"
+      ],
+      "x": "«chunki u yerda baliq asosiy oqsil manbai va xom baliq iste'moli keng tarqalgan»"
+    }
+  ]
+}

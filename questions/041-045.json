@@ -1,0 +1,606 @@
+{
+  "041": [
+    {
+      "q": "Bezgak qo'zg'atuvchisining odam organizmidagi jinssiz ko'payishi qanday bosqichlardan iborat?",
+      "c": "Jigarda va qon eritrotsitlarida ikki bosqichda",
+      "w": [
+        "Faqat qon eritrotsitlarida bir bosqichda",
+        "Chivinda va jigarda ikki bosqichda",
+        "Teri va qon plazmasida ikki bosqichda",
+        "Sporozoit va merozoitda ikki bosqichda"
+      ],
+      "x": "«Bezgak qo'zg'atuvchisi odam organizmida jinssiz ko'payadi: bu jarayon ikki bosqichdan iborat, jigarda (eritrositdan oldingi) va qon eritrotsitlarida (eritrositar)»"
+    },
+    {
+      "q": "Zararlangan chivin odamni chaqqanda teriga nimani yuboradi?",
+      "c": "Sporozoitlarni so'lak bilan birga",
+      "w": [
+        "Merozoitlarni qon bilan birga",
+        "Gametotsitlarni so'lak bilan birga",
+        "Gipnozoitlarni qon bilan birga",
+        "Trofozoitlarni so'lak bilan birga"
+      ],
+      "x": "«Zararlangan chivin odamni chaqqanda so'lak bilan birga sporozoitlarni teriga yuboradi.»"
+    },
+    {
+      "q": "Sporozoitlar teridan qon orqali jigarga odatda qancha vaqtda yetib boradi?",
+      "c": "Yarim soat ichida",
+      "w": [
+        "48 soat ichida",
+        "72 soat ichida",
+        "10–15 kun ichida",
+        "6 haftagacha"
+      ],
+      "x": "«Sporozoitlar teridan qon aylanish tizimiga o'tadi va tez orada, odatda yarim soat ichida, jigarga yetib boradi»"
+    },
+    {
+      "q": "Jigardagi jinssiz ko'payish bosqichi qanday nomlanadi?",
+      "c": "Jigar shizogoniyasi",
+      "w": [
+        "Eritrositar sxizogoniya",
+        "Gametotsit hosil bo'lishi",
+        "Gipnozoitlar qaytalanishi",
+        "Halqa shaklidagi sikl"
+      ],
+      "x": "«Bu jarayon eritrositdan oldingi, ya'ni jigar shizogoniyasi deyiladi.»"
+    },
+    {
+      "q": "Qaysi turlarda sporozoitlarning bir qismi jigarda uyquda qolib, gipnozoitlarga aylanadi?",
+      "c": "Vivax va ovale turlarida",
+      "w": [
+        "Falciparum va malariae turlarida",
+        "Falciparum va vivax turlarida",
+        "Malariae va ovale turlarida",
+        "Faqat falciparum turlarida"
+      ],
+      "x": "«P. vivax va P. ovale da sporozoitlarning bir qismi jigar hujayralarida darhol bo'linmaydi, balki uzoq muddat uyquda qoladi; ular gipnozoitlar deyiladi.»"
+    },
+    {
+      "q": "Gipnozoitlar qon testlarida ko'rinmasligi sababli davolash qarori nimaga asoslanadi?",
+      "c": "Turga va anamnezga",
+      "w": [
+        "Qon surtmasidagi parazitlar soniga",
+        "Isitma xuruji davomiyligiga",
+        "Gametotsitlar shakliga",
+        "Jigar bosqichi davomiyligiga"
+      ],
+      "x": "«Gipnozoitlar qon testlarida ko'rinmaydi, shuning uchun davolash qarori turga va anamnezga asoslanadi»"
+    },
+    {
+      "q": "Eritrotsit ichida parazit avval qanday shaklda ko'rinadi?",
+      "c": "Halqa shaklidagi yosh trofozoit",
+      "w": [
+        "Ko'p yadroli pishgan shizont",
+        "Amebasimon trofozoit shaklida",
+        "Erkak yoki urg'ochi gametotsit",
+        "Yarim oysimon gametotsit shakli"
+      ],
+      "x": "«Eritrotsit ichida parazit avval halqa shaklida ko'rinadi, ya'ni yosh trofozoit»"
+    },
+    {
+      "q": "Isitma xuruji qachon boshlanadi?",
+      "c": "Eritrotsit yorilib, merozoitlar qonga chiqqanda",
+      "w": [
+        "Sporozoitlar teridan jigarga yetib borganda",
+        "Trofozoit halqa shaklida ko'ringanda",
+        "Jigar shizonti minglab merozoit hosil qilganda",
+        "Gametotsitlar chivinga o'tganda"
+      ],
+      "x": "«Eritrotsit yorilib, merozoitlar va parazit moddalari qonga chiqqanda isitma xuruji boshlanadi.»"
+    },
+    {
+      "q": "P. malariae da eritrositar siklning davomiyligi qancha?",
+      "c": "72 soat, ya'ni to'rt kunlik bezgak",
+      "w": [
+        "48 soat, ya'ni uch kunlik bezgak",
+        "Yarim soat, ya'ni yashirin davr",
+        "6 hafta, ya'ni to'qima shizogoniyasi",
+        "2 yil, ya'ni mudroq holat"
+      ],
+      "x": "«P. malariae da taxminan 72 soat, ya'ni to'rt kunlik bezgak»"
+    },
+    {
+      "q": "Nima uchun P. falciparum bilan parazitemiya juda yuqori bo'lishi mumkin?",
+      "c": "Har yoshdagi eritrotsitlarni zararlay oladi",
+      "w": [
+        "Faqat yosh eritrotsitlarni zararlaydi",
+        "Keksa eritrotsitlarni ko'pincha tanlaydi",
+        "Gipnozoitlar jigarda uyquda qoladi",
+        "Isitma xurujlari bir vaqtda yetiladi"
+      ],
+      "x": "«P. falciparum har yoshdagi eritrotsitlarni zararlay oladi, shuning uchun parazitemiya juda yuqori bo'lishi va kasallik og'ir kechishi mumkin»"
+    },
+    {
+      "q": "Qonida gametotsit bo'lgan odam nima uchun epidemiologik xavf tug'diradi?",
+      "c": "Chivin uchun zararlanish manbai bo'ladi",
+      "w": [
+        "Eritrotsitlarni zararlab isitma chiqaradi",
+        "Jigarda gipnozoitlarga aylanib qoladi",
+        "Qon surtmasida halqalar hosil qiladi",
+        "Kasallik belgilarini kuchaytirib yuboradi"
+      ],
+      "x": "«Lekin ular chivin uchun zararlanish manbai hisoblanadi.»"
+    }
+  ],
+  "042": [
+    {
+      "q": "Qon tekshiruvi indeksi nimani o'lchaydi?",
+      "c": "Laboratoriya tekshiruvining qamrovini",
+      "w": [
+        "Bezgak kasallanish ko'rsatkichini",
+        "Ijobiy natijalar ulushini",
+        "Kasallik tarqalganligini",
+        "Bemorlarning qaytalanish soni"
+      ],
+      "x": "«Boshqacha aytganda, u laboratoriya tekshiruvining qamrovini o'lchaydi»"
+    },
+    {
+      "q": "Qon tekshiruvi indeksi qaysi formula bilan hisoblanadi?",
+      "c": "Tekshirilgan qon namunalari soni ÷ aholi soni × 100",
+      "w": [
+        "Ijobiy namunalar soni ÷ tekshirilgan namunalar soni × 100",
+        "Aholi soni ÷ tekshirilgan namunalar soni × 100",
+        "Yangi holatlar soni ÷ aholi soni × 100",
+        "Tekshirilgan odamlar soni ÷ ijobiy namunalar soni × 100"
+      ],
+      "x": "«qon tekshiruvi indeksi = bir yil davomida tekshirilgan qon namunalari soni ÷ shu hududdagi aholi soni × 100»"
+    },
+    {
+      "q": "Tumanda 80 000 aholi bo'lib, yil davomida 2 400 ta surtma tekshirilgan bo'lsa, har 100 aholiga qancha tekshiruv to'g'ri keladi?",
+      "c": "Yiliga 3 ta tekshiruv",
+      "w": [
+        "5 ta tekshiruv",
+        "0,25 foiz",
+        "2 400 ta tekshiruv",
+        "80 000 kishi"
+      ],
+      "x": "«Demak, har 100 aholiga yiliga 3 ta tekshiruv to'g'ri keladi.»"
+    },
+    {
+      "q": "Indeks yuqori bo'lib, ijobiy natijalar bo'lmasa, bu nimani bildiradi?",
+      "c": "Bezgak yo'qligini ishonchliroq ko'rsatadi",
+      "w": [
+        "Bezgak ko'p tarqalganini ko'rsatadi",
+        "Kuzatuv yetarli emasligini bildiradi",
+        "Laboratoriya sifati pastligini ko'rsatadi",
+        "Yuqish davom etayotganini bildiradi"
+      ],
+      "x": "«Masalan, indeks yuqori bo'lib, ijobiy natijalar yo'q bo'lsa, bu bezgak yo'qligini ishonchliroq ko'rsatadi.»"
+    },
+    {
+      "q": "Ijobiy natijalar ulushi qanday hisoblanadi?",
+      "c": "Bezgak topilgan namunalar sonini tekshirilgan namunalar soniga bo'lib, 100 ga ko'paytirish",
+      "w": [
+        "Tekshirilgan namunalar sonini aholi soniga bo'lib, 100 ga ko'paytirish",
+        "Aholi sonini tekshirilgan namunalar soniga bo'lib, 100 ga ko'paytirish",
+        "Topilgan namunalar sonini aholi soniga bo'lib, 1000 ga ko'paytirish",
+        "Yangi holatlar sonini tekshirilgan namunalar soniga bo'lib, 100 ga ko'paytirish"
+      ],
+      "x": "«u bezgak topilgan namunalar sonini tekshirilgan namunalar soniga bo'lib, 100 ga ko'paytirib hisoblanadi.»"
+    },
+    {
+      "q": "Qon tekshiruvi indeksining asosiy cheklovlaridan biri nima?",
+      "c": "Tekshirilgan odamlar sonini emas, tekshiruvlar sonini hisoblaydi",
+      "w": [
+        "Kasallanish ko'rsatkichini emas, qaytalanishlarni hisoblaydi",
+        "Xavfli guruhlarni emas, aholi sonini hisoblaydi",
+        "Import holatlarni emas, mahalliy holatlarni hisoblaydi",
+        "Ijobiy natijalar sonini emas, ulushini hisoblaydi"
+      ],
+      "x": "«u tekshirilgan odamlar sonini emas, tekshiruvlar sonini hisoblaydi»"
+    },
+    {
+      "q": "Qon tekshiruvi indeksi tekshiruvlarning qaysi jihatini ko'rsatmaydi?",
+      "c": "Tekshiruvlar sifatini",
+      "w": [
+        "Tekshiruvlar sonini",
+        "Laboratoriya yuklamasini",
+        "Kuzatuv faolligini",
+        "Tekshiruvlar qamrovini"
+      ],
+      "x": "«Indeks tekshiruvlar sonini ko'rsatadi, ularning sifatini emas.»"
+    },
+    {
+      "q": "Tekshiruv qamrovi past bo'lsa, past indeks nimani bildirishi mumkin?",
+      "c": "Bezgak yetarlicha qidirilmaganini",
+      "w": [
+        "Bezgak yo'qligini ko'rsatishini",
+        "Laboratoriya sifati yaxshiligini",
+        "Yuqish davom etayotganini",
+        "Xavfli guruhlar qamrab olinganini"
+      ],
+      "x": "«past indeks bezgak yo'qligini emas, balki yetarlicha qidirilmaganini bildirishi mumkin.»"
+    },
+    {
+      "q": "Bezgakdan holi hududlarda qon tekshiruvi indeksi nimaga muhim dalil hisoblanadi?",
+      "c": "Kuzatuv yetarli ekaniga",
+      "w": [
+        "Indeks yuqori ekaniga",
+        "Laboratoriya sifati yaxshiligiga",
+        "Kuzatuv sifati yaxshiligiga",
+        "Ijobiy natijalar ko'p ekaniga"
+      ],
+      "x": "«Bezgakdan holi hududlarda qon tekshiruvi indeksi kuzatuvning yetarli ekanini tasdiqlovchi muhim dalil hisoblanadi.»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra DSENM parazitologiya bo'limi va laboratoriyasi qaysi indeksni hisoblab chiqadi?",
+      "c": "Qon preparatlarini tekshirish indeksini",
+      "w": [
+        "Ijobiy natijalar ulushini",
+        "Isitmali bemorlarni ro'yxatga olish indeksini",
+        "Kasallanish ko'rsatkichi indeksini",
+        "Kuzatuv sifati indeksini"
+      ],
+      "x": "«qon preparatlarini tekshirish indeksini (IIK) hisoblab chiqadi»"
+    }
+  ],
+  "043": [
+    {
+      "q": "Bezgak o'chog'ini epidemiologik tekshirishning asosiy maqsadlaridan biri nima?",
+      "c": "Yuqish zanjirini uzish",
+      "w": [
+        "Bemorlarni to'liq davolash",
+        "Aholi harakatini nazorat qilish",
+        "Bayonnoma yuqori idoraga yuborish",
+        "Aholiga to'rlar tarqatish"
+      ],
+      "x": "«Uning maqsadi holatni to'g'ri tasniflash, yuqish zanjirini uzish va yangi holatlarning oldini olish»"
+    },
+    {
+      "q": "Qaysi holatda o'choqni epidemiologik tekshirish boshlanadi?",
+      "c": "Chet elga chiqmagan odamda bezgak aniqlanganda",
+      "w": [
+        "Chivinlar zichligi pasayganda",
+        "Aholi to'rlar olganida",
+        "Chivinlar zichligi pasaymagan bo'lsa",
+        "Bir hududda isitmalovchi bemor topilmaganda"
+      ],
+      "x": "«chet elga chiqmagan odamda bezgak aniqlanganda»"
+    },
+    {
+      "q": "Import holatdan chivin orqali yuqqan holat qanday tasniflanadi?",
+      "c": "Kiritilgan holat",
+      "w": [
+        "Mahalliy holat",
+        "Qaytalangan holat",
+        "Import qilingan holat",
+        "Qon orqali yuqqan holat"
+      ],
+      "x": "«kiritilgan, ya'ni import holatdan chivin orqali yuqqan»"
+    },
+    {
+      "q": "O'choq chegarasi belgilanganda nimalar hisobga olinadi?",
+      "c": "Chivinlar uchib boradigan masofani",
+      "w": [
+        "Chivinlarning ko'payish joylarini",
+        "Homilador ayollar va bolalar soni",
+        "Dori ichgan odamlar sonini",
+        "Bemorning qon surtmasi natijasini"
+      ],
+      "x": "«U bemorning yashash joyi, ishlagan va dam olgan joylarini, chivinlar uchib boradigan masofani va aholi harakatini hisobga olib chiziladi»"
+    },
+    {
+      "q": "Faol qidiruv kimlardan boshlanadi?",
+      "c": "Oila a'zolari va qo'shnilaridan",
+      "w": [
+        "Homilador ayollar va bolalardan",
+        "Entomolog va laborantlardan",
+        "Isitmalovchi bemorlardan",
+        "Laboratoriya natijalaridan"
+      ],
+      "x": "«Qidiruv bemorning oila a'zolari va qo'shnilaridan boshlanib, chegara bo'yicha kengayadi»"
+    },
+    {
+      "q": "Entomolog o'choqda nimalarni tekshiradi?",
+      "c": "Anopheles chivinlarining turini va zichligini",
+      "w": [
+        "Bemorning qon surtmasini",
+        "Qon quyilgan odamlar sonini",
+        "Laboratoriya natijalarining kechikishini",
+        "Natijalarning kechikishini"
+      ],
+      "x": "«Entomolog o'choqda Anopheles chivinlarining mavjudligini, turini, zichligini, uy ichida va tashqarida chaqishini, dam olish joylarini tekshiradi»"
+    },
+    {
+      "q": "Quyidagilardan qaysi biri chivinlarga qarshi ishlov turlaridan biri hisoblanadi?",
+      "c": "Xonalarga ichki purkash",
+      "w": [
+        "Ommaviy qon surtmasi olish",
+        "Bayonnoma yuborish",
+        "Faol qidiruv o'tkazish",
+        "Aholi bilan suhbatlashish"
+      ],
+      "x": "«xonalarga ichki purkash yoki boshqa chivinlarga qarshi ishlov»"
+    },
+    {
+      "q": "Yakuniy baholashda o'choq qachon yopiladi?",
+      "c": "Belgilangan muddatda yangi holat bo'lmasa",
+      "w": [
+        "Bemor davolangandan keyin tuzalganda",
+        "Chivinlar zichligi pasaymagan bo'lsa",
+        "Barcha aholi tekshirilmasdan oldin",
+        "Laboratoriya natijasi kechiksa"
+      ],
+      "x": "«Agar belgilangan muddat davomida yangi holat bo'lmasa, o'choq yopiladi yoki uning toifasi o'zgartiriladi»"
+    },
+    {
+      "q": "Tekshiruv sifati nimalarga bog'liq?",
+      "c": "Tezlik, to'liqlik va aniqlik",
+      "w": [
+        "Tasnif, tezlik va chegara",
+        "Tasnif, chegara va choralar",
+        "Tezlik, bayonnoma va xarita",
+        "Aniqlik, bayonnoma va choralar"
+      ],
+      "x": "«Tekshiruv sifati tezlik, to'liqlik va aniqlikka bog'liq.»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra DSENM parazitologi va entomologi o'choqda tekshiruvni qachon o'tkazishi shart?",
+      "c": "Ma'lumot olingan kuniyoq",
+      "w": [
+        "Laboratoriya natijasi kelgandan keyin",
+        "Bemor davolanib bo'lgandan keyin",
+        "Chivinlar ko'payishi boshlanganda",
+        "Choralar baholangandan keyin"
+      ],
+      "x": "«bemor yoki parazit tashuvchi haqida ma'lumot olingan kuniyoq shahar, tuman DSENM parazitologi va entomologi o'choqda epidemiologik va entomologik tekshiruv o'tkazishi shart»"
+    },
+    {
+      "q": "Faol o'choq nofaol o'choqdan nimasi bilan farq qiladi?",
+      "c": "Faol o'choqda yuqish davom etayotgan bo'ladi",
+      "w": [
+        "Nofaol o'choqda yuqish davom etayotgan bo'ladi",
+        "Yo'qolgan o'choqda yuqish davom etayotgan bo'ladi",
+        "Chivinlar o'choqdan butunlay yo'qoladi",
+        "Aholi o'choqda isitmalamaydi"
+      ],
+      "x": "«faol o'choqda yuqish davom etayotgan bo'ladi»"
+    }
+  ],
+  "044": [
+    {
+      "q": "O'choq monitoringi qaysi ikki obyektni qamrab oladi?",
+      "c": "O'choqdagi odamlar va tashqi muhit",
+      "w": [
+        "Laboratoriya va hujjatlar tizimi",
+        "Brigadalar va tekshiruv jadvallari",
+        "Insektitsidlar va to'rlar",
+        "Hujjatlar va jurnallar"
+      ],
+      "x": "«Monitoring ikki obyektni qamrab oladi: o'choqdagi odamlar, ya'ni bemorlar va xavf ostidagi aholi, hamda tashqi muhit, ya'ni chivinlar va ularning ko'payish joylari»"
+    },
+    {
+      "q": "Monitoringning maqsadlaridan biri nima?",
+      "c": "Yangi holatlarni erta aniqlash",
+      "w": [
+        "Tugatilgan o'choqni ro'yxatdan chiqarish",
+        "Bemorlarni ro'yxatdan tushirib qoldirish",
+        "Holatlarni yashirish",
+        "Ko'rik muddatlarining buzilishi"
+      ],
+      "x": "«Birinchisi yangi holatlarni erta aniqlash»"
+    },
+    {
+      "q": "Odamlar monitoringida xavf ostidagi aholiga kimlar kiradi?",
+      "c": "Bolalar, homilador ayollar va chet eldan kelganlar",
+      "w": [
+        "Entomologlar, laborantlar va epidemiologlar",
+        "Bemorlar, shifokorlar va mahalla vakillari",
+        "Davolangan bemorlar va entomologlar",
+        "Tugatilgan o'choq aholisi va rahbarlar"
+      ],
+      "x": "«O'choqdagi xavf ostidagi aholi, ya'ni bolalar, homilador ayollar va chet eldan kelganlar ham nazoratda bo'ladi»"
+    },
+    {
+      "q": "Chivinlar soni oshsa, o'choqda nima qilinadi?",
+      "c": "Ishlov kuchaytiriladi",
+      "w": [
+        "Monitoring to'xtatiladi",
+        "Jadval tuzilmaydi",
+        "O'choq tugatiladi",
+        "Kuzatuv siyrakroq bo'ladi"
+      ],
+      "x": "«chivinlar soni oshsa, ishlov kuchaytiriladi»"
+    },
+    {
+      "q": "Salbiy javob berishdan oldin qon surtmasida kamida nechta maydon ko'rilishi kerak?",
+      "c": "100 maydon",
+      "w": [
+        "95 maydon",
+        "90 maydon",
+        "3 maydon",
+        "2 maydon"
+      ],
+      "x": "«kamida 100 maydon ko'rilmasdan salbiy javob berilmaydi»"
+    },
+    {
+      "q": "Ijobiy va ba'zi salbiy preparatlar kim tomonidan qayta ko'riladi?",
+      "c": "Ikkinchi mutaxassis tomonidan",
+      "w": [
+        "Entomolog tomonidan",
+        "Epidemiolog tomonidan",
+        "Oilaviy shifokor tomonidan",
+        "Mahalla vakili tomonidan"
+      ],
+      "x": "«Ijobiy preparatlar va ba'zi salbiy preparatlar ikkinchi mutaxassis tomonidan qayta ko'riladi»"
+    },
+    {
+      "q": "Monitoring davomida yangi holat yoki qaytalanish aniqlansa, nima bo'ladi?",
+      "c": "O'choq tekshiruvi qaytadan boshlanadi",
+      "w": [
+        "Kuzatuv muddati qayta hisoblanmaydi",
+        "O'choq darhol ro'yxatdan chiqariladi",
+        "Chivinlarga ishlov to'xtatiladi",
+        "Kuzatuv passiv holatga o'tkaziladi"
+      ],
+      "x": "«o'choq tekshiruvi qaytadan boshlanadi»"
+    },
+    {
+      "q": "O'choq monitoringi qachon tugatiladi?",
+      "c": "Yangi holat va qaytalanish bo'lmasa",
+      "w": [
+        "Chivin ko'payish joylari tozalansa",
+        "Birinchi bemor davolanib bo'lsa",
+        "Barcha aholi tekshirilib bo'lsa",
+        "Ishlov bir marta o'tkazilgan bo'lsa"
+      ],
+      "x": "«O'choq monitoringi belgilangan muddat davomida yangi holat va qaytalanish bo'lmasa, chivin zichligi nazorat ostida bo'lsa va barcha kerakli tekshiruvlar o'tkazilgan bo'lsa tugatiladi»"
+    },
+    {
+      "q": "Tugatilgan o'choqda qanday kuzatuv saqlanadi?",
+      "c": "Passiv kuzatuv saqlanadi",
+      "w": [
+        "Zich kuzatuv saqlanadi",
+        "Faol kuzatuv saqlanadi",
+        "Kuzatuv to'liq to'xtatiladi",
+        "Kuzatuv ro'yxatdan chiqariladi"
+      ],
+      "x": "«Tugatilgan o'choqda esa passiv kuzatuv saqlanadi»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra uyma-uy yurish brigadasi birlamchi o'choqda qanchalik tez-tez ishlaydi?",
+      "c": "2 haftada 1 marta",
+      "w": [
+        "Haftada 1 marta",
+        "2 sutkada 1 marta",
+        "Sutkada 1 marta",
+        "90 foizda 1 marta"
+      ],
+      "x": "«birlamchi o'choqda 2 haftada 1 marta»"
+    },
+    {
+      "q": "Kimyoviy ishlov samarali hisoblanishi uchun lichinka va imagolar soni qanchaga kamayishi kerak?",
+      "c": "95 foizdan yuqori",
+      "w": [
+        "90 foizdan yuqori",
+        "Ishlovdan oldingi holatdan yuqori",
+        "1 sutkadan keyin o'zgarmasdan",
+        "Ishlovdan oldingi holatga teng"
+      ],
+      "x": "«kamayish 95 foizdan yuqori bo'lsa tadbir samarali hisoblanadi»"
+    }
+  ],
+  "045": [
+    {
+      "q": "JSST leyshmaniozning qaysi uch asosiy shaklini ajratadi?",
+      "c": "Visseral, teri va shilliq-teri shakli",
+      "w": [
+        "Zoonoz, antroponoz va visseral shakl",
+        "Antroponoz, zoonoz va shilliq-teri shakl",
+        "Teri, zoonoz va antroponoz shakl",
+        "Visseral, zoonoz va antroponoz shakl"
+      ],
+      "x": "«visseral, teri va shilliq-teri shakli»"
+    },
+    {
+      "q": "Visseral leyshmaniozning boshqa nomi qanday?",
+      "c": "Qora azar",
+      "w": [
+        "Teri leyshmaniozi",
+        "Zoonoz leyshmanioz",
+        "Antroponoz leyshmanioz",
+        "Shilliq-teri shakli"
+      ],
+      "x": "«visseral leyshmanioz, ya'ni qora azar»"
+    },
+    {
+      "q": "Zoonoz teri leyshmaniozi qaysi tur bilan bog'liq?",
+      "c": "Leishmania major",
+      "w": [
+        "Leishmania tropica",
+        "Leishmania infantum",
+        "Phlebotomus papatasi",
+        "Leishmania gerbilli"
+      ],
+      "x": "«Zoonoz teri leyshmaniozi Leishmania major bilan bog'liq»"
+    },
+    {
+      "q": "Zoonoz teri leyshmaniozida tabiiy rezervuar kim?",
+      "c": "Qum kemiruvchilari",
+      "w": [
+        "Odam organizmi",
+        "Itlar organizmi",
+        "Tashuvchi chivinchalar",
+        "Mahalliy aholi"
+      ],
+      "x": "«Zoonoz shaklda tabiiy rezervuar qum kemiruvchilari bo'lib»"
+    },
+    {
+      "q": "Antroponoz teri leyshmaniozida tashuvchi va manba qanday?",
+      "c": "Tashuvchisi P. sergenti, manbai odam",
+      "w": [
+        "Manbai kemiruvchilar, tashuvchisi P. papatasi",
+        "Manbai odam, tashuvchisi P. papatasi",
+        "Rezervuari kemiruvchilar, tashuvchisi P. sergenti",
+        "Tashuvchisi kemiruvchilar, manbai P. sergenti"
+      ],
+      "x": "«tashuvchisi P. sergenti, manbai odam»"
+    },
+    {
+      "q": "Farg'ona vodiysida visseral leyshmanioz o'chog'i qaysi viloyat tumanida o'rganilgan?",
+      "c": "Namangan viloyati Pop tumani",
+      "w": [
+        "Qashqadaryo viloyati Pop tumani",
+        "Surxondaryo viloyati Pop tumani",
+        "Navoiy viloyati Pop tumani",
+        "Buxoro viloyati Pop tumani"
+      ],
+      "x": "«Farg'ona vodiysidagi Namangan viloyati Pop tumanidagi o'choqni o'rgangan tadqiqotda»"
+    },
+    {
+      "q": "Qashqadaryo viloyati Qarshi cho'lida zoonoz teri leyshmaniozi o'choqlarida qaysi turlar birga tarqalgan?",
+      "c": "Major, turanica va gerbilli turlari",
+      "w": [
+        "Tropica, turanica va gerbilli turlari",
+        "Infantum, major va turanica turlari",
+        "Major, tropica va infantum turlari",
+        "Gerbilli, tropica va infantum turlari"
+      ],
+      "x": "«L. major, L. turanica va L. gerbilli birga tarqalgan hududda»"
+    },
+    {
+      "q": "Quyidagilardan qaysi biri leyshmanioz xavfini oshiradi?",
+      "c": "Tashqarida yoki yerda uxlash odati",
+      "w": [
+        "Mayda ko'zli to'rlardan foydalanish",
+        "Uy atrofini axlatdan tozalash",
+        "Qaytaruvchi vositalardan foydalanish",
+        "Yopiq kiyimdan foydalanish"
+      ],
+      "x": "«tashqarida yoki yerda uxlash odati»"
+    },
+    {
+      "q": "JSSTga ko'ra teri va shilliq-teri leyshmaniozida qaysi usulning ahamiyati cheklangan?",
+      "c": "Serologik testlar",
+      "w": [
+        "Amastigotlarni topish",
+        "Yaradan qirindi olish",
+        "Parazitni topish",
+        "To'qima aspirati"
+      ],
+      "x": "«teri va shilliq-teri leyshmaniozida serologik testlarning ahamiyati cheklangan»"
+    },
+    {
+      "q": "Chivinchalar chaqishidan himoyalanish uchun nima tavsiya etiladi?",
+      "c": "Mayda ko'zli to'rlardan foydalanish",
+      "w": [
+        "Kechqurun va tunda ochiq joyda yurish",
+        "Uy atrofida axlat to'plash",
+        "Kemiruvchilar inlarini aholi punktiga yaqinlashtirish",
+        "Teri yarasini davolamasdan kutish"
+      ],
+      "x": "«mayda ko'zli to'rlardan foydalanish»"
+    },
+    {
+      "q": "121-son buyruqning 2-ilovasiga ko'ra O'zbekistonda qaysi leyshmanioz shakllari tarqalgan?",
+      "c": "Visseral zoonoz, antroponoz va zoonoz teri",
+      "w": [
+        "Shilliq-teri va visseral antroponoz leyshmanioz",
+        "Faqat zoonoz teri leyshmaniozi",
+        "Visseral antroponoz va zoonoz shilliq-teri",
+        "Antroponoz visseral va shilliq-teri leyshmaniozi"
+      ],
+      "x": "«O'zbekistonda visseral zoonoz leyshmanioz, antroponoz teri leyshmaniozi va zoonoz teri leyshmaniozi tarqalgan»"
+    }
+  ]
+}

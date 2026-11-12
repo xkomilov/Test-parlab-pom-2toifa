@@ -1,0 +1,606 @@
+{
+  "136": [
+    {
+      "q": "Amyobiazni oldini olish asosan nimaga qaratilgan?",
+      "c": "Najas-og'iz mexanizmini to'sishga",
+      "w": [
+        "Dori dozalarini belgilashga",
+        "Natijalarni 'kompleks' deb yozishga",
+        "Hamkorlik rejalarini tekshirishga",
+        "Kistalarni laboratoriyada ajratishga"
+      ],
+      "x": "«Amyobiazni oldini olish najas-og'iz mexanizmini to'sishga qaratilgan»"
+    },
+    {
+      "q": "Nima uchun faqat suv tozalashga tayanib bo'lmaydi?",
+      "c": "Kistalar xlorlashga chidamli",
+      "w": [
+        "Kistalar filtrlashga sezgir bo'ladi",
+        "Trofozoitlar qaynatishga chidamli bo'ladi",
+        "Kistalar suvda yo'qoladi",
+        "Hojatxonalar quduqdan uzoqda joylashgan"
+      ],
+      "x": "«Kistalar xlorlashga chidamli bo'lgani uchun faqat suv tozalashga tayanib bo'lmaydi»"
+    },
+    {
+      "q": "Oziq-ovqat xavfsizligida qaysi xom mahsulotlar xavfli hisoblanadi?",
+      "c": "Najas bilan o'g'itlangan yerdagi xom mahsulotlar",
+      "w": [
+        "Toza suvda yaxshilab yuvilgan xom mahsulotlar",
+        "Issiqlik ishlovidan o'tkazilgan tayyor mahsulotlar",
+        "Tegishli haroratda saqlangan tayyor ovqatlar",
+        "Pashshalardan himoya qilingan yopiq ovqatlar"
+      ],
+      "x": "«Insoniy najas bilan o'g'itlangan yoki oqova suv bilan sug'orilgan yerdan olingan xom mahsulotlar xavfli»"
+    },
+    {
+      "q": "Qishloq joylarda hojatxonalarni qayerda qurish muhim?",
+      "c": "Quduqlardan uzoqda",
+      "w": [
+        "Bolalar jamoalari xodimlari yonida",
+        "Ovqat tayyorlovchi xodimlar yonida",
+        "Suv manbalari bo'yida",
+        "Ichimlik suvi manbalari yonida"
+      ],
+      "x": "«Qishloq joylarda hojatxonalarni quduqlardan uzoqda qurish va ularni gigienik holatda saqlash muhim.»"
+    },
+    {
+      "q": "Sayohatchilar endemik hududlarda qanday suv ichishi kerak?",
+      "c": "Shisha yoki qaynatilgan suv",
+      "w": [
+        "Muz qo'shilgan suv",
+        "Hojatxonalardan uzoqdagi suv",
+        "Oqova suv aralashgan ichimlik",
+        "Hojatxona yaqinidagi quduq suvi"
+      ],
+      "x": "«Sayohatchilar endemik hududlarda shisha yoki qaynatilgan suv ichishi, muz va xom sabzavotdan saqlanishi kerak.»"
+    },
+    {
+      "q": "Qonli diareya yoki jigar sohasida og'riq bilan murojaat qilgan bemorlar tezda tekshirilsa, nima oldi olinadi?",
+      "c": "Og'ir asoratlar oldi olinadi",
+      "w": [
+        "Qayta zararlanish oldi olinadi",
+        "Kistalar xlorlanishi oldi olinadi",
+        "Hayvonlardan yuqish oldi olinadi",
+        "Pashshalar ko'payishi oldi olinadi"
+      ],
+      "x": "«Qonli diareya yoki jigar sohasida og'riq bilan murojaat qilgan bemorlar tezda tekshirilsa, og'ir asoratlar oldi olinadi»"
+    },
+    {
+      "q": "Pashshalar amyobiaz tarqalishida qanday rol o'ynaydi?",
+      "c": "Kistalarni najasdan oziq-ovqatga o'tkazadi",
+      "w": [
+        "Kistalarni oziq-ovqatdan yo'qotadi",
+        "Trofozoitlarni najasdan oziq-ovqatga o'tkazadi",
+        "Kistalarni xlorlashdan himoya qiladi",
+        "Tashuvchilarni zararlaydi"
+      ],
+      "x": "«Pashshalar va boshqa mexanik tashuvchilar kistalarni najasdan oziq-ovqatga o'tkazishi mumkin.»"
+    },
+    {
+      "q": "Amyobiaz davolangandan keyin ham qayta zararlanish nega mumkin?",
+      "c": "To'liq himoya shakllanmaydi",
+      "w": [
+        "Kasallikdan keyin immunitet saqlanadi",
+        "Kistalar davolashdan keyin nobud bo'ladi",
+        "Davolash tashuvchilarni zararlaydi",
+        "Ichimlik suvi qaynatilgan bo'ladi"
+      ],
+      "x": "«chunki kasallikdan keyin to'liq himoya shakllanmaydi»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra bemor najasi qaysi eritma bilan zararsizlantiriladi?",
+      "c": "5% li lizol eritmasi",
+      "w": [
+        "3% li lizol eritmasi",
+        "1% li lizol eritmasi",
+        "10% li lizol eritmasi",
+        "5% li xlor eritmasi"
+      ],
+      "x": "«Bemor najasi 5% li lizol eritmasi bilan zararsizlantiriladi»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra sog'lom parazit tashuvchilar qayerga ishga qo'yilmaydi?",
+      "c": "Umumiy ovqatlanish korxonalariga",
+      "w": [
+        "Bolalar bog'chalariga",
+        "Sanitariya xizmatlariga",
+        "Kommunal xo'jalik korxonalariga",
+        "Tibbiy punktlarga"
+      ],
+      "x": "«sog'lom parazit tashuvchilar davolanadi va umumiy ovqatlanish korxonalariga ishga qo'yilmaydi»"
+    }
+  ],
+  "137": [
+    {
+      "q": "Ichak protozoylari tashxisi necha bosqichdan iborat?",
+      "c": "Uch bosqichdan",
+      "w": [
+        "Bir bosqichdan",
+        "Bir necha bosqichdan",
+        "5–6 bosqichdan",
+        "2–4 bosqichdan"
+      ],
+      "x": "«Tashxis uch bosqichdan iborat»"
+    },
+    {
+      "q": "Ichak protozoylari tashxisida eng ko'p ishlatiladigan namuna qaysi?",
+      "c": "Najas namunasi",
+      "w": [
+        "Yodli bo'yoq eritmasi",
+        "Ichak suyuqligi",
+        "Siydik namunasi",
+        "Tasviriy tekshiruv"
+      ],
+      "x": "«Najas eng ko'p ishlatiladigan namuna bo'lib»"
+    },
+    {
+      "q": "To'g'ridan-to'g'ri nam surtma usulining kamchiligi nima?",
+      "c": "Sezgirligi past",
+      "w": [
+        "Yuqori aniqlik",
+        "Molekulyar aniqlik",
+        "Tur aniqligi",
+        "Yuqori sezgirlik"
+      ],
+      "x": "«Biroq sezgirligi past: kistalar kam bo'lganda ular e'tibordan chetda qolishi mumkin»"
+    },
+    {
+      "q": "Yodli bo'yoq kistalarning nimasini ko'rsatadi?",
+      "c": "Ichki tuzilishini, ya'ni yadrolarni",
+      "w": [
+        "Harakatini va fiksatsiyasini",
+        "Namuna sana va vaqtini",
+        "Eritrotsitlarni va leykotsitlarni",
+        "Antigenlarini va DNKsini"
+      ],
+      "x": "«Yodli bo'yoq kistalarning ichki tuzilishini, ya'ni yadrolarni ko'rsatadi.»"
+    },
+    {
+      "q": "Formalin–efir cho'ktirish usulining afzalligi nimada?",
+      "c": "Lyamblia kistalarini kamroq buzadi",
+      "w": [
+        "Kistalarni ko'proq deformatsiya qiladi",
+        "Parazit DNKsini aniqlaydi",
+        "Trofozoitlar harakatini ko'rsatadi",
+        "Antigenni aniqlaydi"
+      ],
+      "x": "«Formalin–efir cho'ktirish usuli yog' va boshqa ifloslikni ajratadi va lyamblia kistalarini kamroq buzadi»"
+    },
+    {
+      "q": "Nima uchun bitta manfiy namuna kasallikni istisno qilmaydi?",
+      "c": "Kistalar najas bilan notekis chiqadi",
+      "w": [
+        "Kistalar najas bilan doimo chiqadi",
+        "Namuna suv bilan aralashgan bo'ladi",
+        "Laborant malakasi yetarli bo'ladi",
+        "Trofozoitlar najasda parchalanadi"
+      ],
+      "x": "«Kistalar najas bilan notekis chiqadi, shuning uchun bitta manfiy namuna kasallikni istisno qilmaydi.»"
+    },
+    {
+      "q": "Molekulyar usullar (PZR) nimani topadi?",
+      "c": "Parazit DNKsini",
+      "w": [
+        "Parazit antigenini",
+        "Parazit kistasini",
+        "Parazit trofozoitini",
+        "Parazit oositasini"
+      ],
+      "x": "«molekulyar usullar (PZR) esa parazit DNKsini topadi»"
+    },
+    {
+      "q": "Hisobotda amyoba kistalari uchun qaysi atama yoziladi?",
+      "c": "E. histolytica/dispar/moshkovskii kompleksi",
+      "w": [
+        "Eritrotsit yutgan E. histolytica kompleksi",
+        "Zararsiz amyoba kistasi turi",
+        "Balantidium coli kompleksi",
+        "Giardia lamblia kompleksi"
+      ],
+      "x": "«Hisobotda 'E. histolytica/dispar/moshkovskii kompleksi' deb yoziladi»"
+    },
+    {
+      "q": "Cryptosporidium va Cyclospora oositalarini topish uchun qaysi bo'yash qo'llanadi?",
+      "c": "Kislotaga chidamli bo'yash",
+      "w": [
+        "Yodli bo'yash",
+        "Oddiy yodli surtma",
+        "Fiziologik eritmali bo'yash",
+        "Formalin–efir bo'yash"
+      ],
+      "x": "«Cryptosporidium va Cyclospora oositalarini topish uchun maxsus bo'yash usullari, masalan kislotaga chidamli bo'yash, qo'llanadi.»"
+    },
+    {
+      "q": "Balantidium coli yangi najas surtmasida qanday ko'rinadi?",
+      "c": "Yirik kiprikli trofozoit",
+      "w": [
+        "Yirik kiprikli kista",
+        "Kiprikli yirik oosista",
+        "Yadroli yirik sista",
+        "Kiprikli kista"
+      ],
+      "x": "«Balantidium coli yirik kiprikli trofozoit sifatida yangi najas surtmasida ko'rinadi.»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra balantidiozda najas hojatga borgandan keyin necha daqiqadan kechiktirmay tekshiriladi?",
+      "c": "20 daqiqadan",
+      "w": [
+        "2 daqiqadan",
+        "5 daqiqadan",
+        "6 daqiqadan",
+        "50 daqiqadan"
+      ],
+      "x": "«Balantidiozda najas bemor hojatga borgandan keyin 20 daqiqadan kechiktirmay tekshiriladi»"
+    }
+  ],
+  "138": [
+    {
+      "q": "Toxoplasma gondii hayot siklini qayerda yakunlaydi?",
+      "c": "Mushuksimonlar ichagida",
+      "w": [
+        "Qushlar ichagida",
+        "Sutemizuvchilar ichagida",
+        "Odam ichagida",
+        "Hayvonlar ichagida"
+      ],
+      "x": "«T. gondii ning yagona oxirgi xo'jayini — mushuksimonlar, ular ichagida parazit hayot siklini yakunlaydi»"
+    },
+    {
+      "q": "Go'sht mahsulotlarida infeksiyaning oldini olishning asosiy chorasi nima?",
+      "c": "To'liq pishirish",
+      "w": [
+        "Faqat tuzlash",
+        "Qo'lqop kiyish",
+        "Mushukni uyda saqlash",
+        "Sabzavotni yuvish"
+      ],
+      "x": "«go'sht mahsulotlarida infeksiyaning oldini olishning asosiy chorasi to'liq pishirish va o'zaro ifloslanishning oldini olish»"
+    },
+    {
+      "q": "Mol go'shti uchun qanday harorat talab qilinadi?",
+      "c": "Kamida 63 °C",
+      "w": [
+        "Parranda go'shti 82 °C",
+        "Cho'chqa go'shti 71 °C",
+        "Qiyma go'shti 71 °C",
+        "Yovvoyi hayvon go'shti 71 °C"
+      ],
+      "x": "«mol go'shti kamida 63 °C»"
+    },
+    {
+      "q": "To'qima kistalarini faolsizlantirish uchun muzlatishda nima kerak?",
+      "c": "Kamida uch kun −20 °C",
+      "w": [
+        "Bir kun −20 °C",
+        "Kamida uch kun 49 °C",
+        "6 soniya −20 °C",
+        "5–6 daqiqa −20 °C"
+      ],
+      "x": "«kistalarni faolsizlantirish uchun kamida uch kun −20 °C kerak»"
+    },
+    {
+      "q": "Mushuk qutisini har kuni tozalash nima uchun xavfni kamaytiradi?",
+      "c": "Oositalar darhol yuqumli bo'lmaydi",
+      "w": [
+        "Oositalar muzlatishga sezgir",
+        "Oositalar najas bilan chiqmaydi",
+        "Kistalar darhol yuqumli bo'ladi",
+        "Mushuk go'shti pishirilmaydi"
+      ],
+      "x": "«Oositalar najas chiqarilgandan keyin darhol yuqumli bo'lmaydi, shuning uchun qutini har kuni tozalash xavfni kamaytiradi.»"
+    },
+    {
+      "q": "Homiladorlikda parazit homilaga qanday o'tadi?",
+      "c": "Platsentani kesib o'tib",
+      "w": [
+        "Platsentani zararlamasdan",
+        "Suv orqali o'tib",
+        "Go'sht orqali o'tib",
+        "Mushuk najasi orqali o'tib"
+      ],
+      "x": "«parazit platsentani kesib o'tib, homila sog'lig'iga ta'sir qilishi»"
+    },
+    {
+      "q": "Toksoplazmoz qaysi mamlakatlarda ko'p uchraydi?",
+      "c": "Past daromadli mamlakatlarda",
+      "w": [
+        "Rivojlangan Yevropa mamlakatlarida",
+        "Yuqori daromadli mamlakatlarda",
+        "Ijtimoiy darajasi yuqori mamlakatlarda",
+        "Rivojlangan mamlakatlarda"
+      ],
+      "x": "«toksoplazmoz past daromadli mamlakatlarda ko'p, rivojlangan Yevropa mamlakatlarida kam uchrashi»"
+    },
+    {
+      "q": "Toxoplasma kistalari qaysi ta'sirlarga sezgir?",
+      "c": "Issiqlik va muzlatishga",
+      "w": [
+        "Suv va sabzavotni yuvishga",
+        "Mushuk najasi va tuproqqa",
+        "Qo'lni sovun bilan yuvishga",
+        "Tashqi muhit va oositalarga"
+      ],
+      "x": "«Kistalar issiqlik va muzlatishga sezgir, oositalar esa tashqi muhitda chidamli.»"
+    },
+    {
+      "q": "Laboratoriya ishchilari orasida yoki qon mahsulotlari orqali yuqish qanchalik uchraydi?",
+      "c": "Kamdan-kam uchraydi",
+      "w": [
+        "Ko'p uchraydi",
+        "Homilador laborantlarda ko'p",
+        "Barcha laborantlarda uchraydi",
+        "Mushuk egalarida uchraydi"
+      ],
+      "x": "«laboratoriya ishchilari orasida yoki qon mahsulotlari orqali yuqish kamdan-kam uchrashini»"
+    },
+    {
+      "q": "Parazit go'shtdan 55 °C da qancha vaqtda yo'qotilishi mumkin?",
+      "c": "44 soniyada",
+      "w": [
+        "5–6 daqiqada",
+        "6 soniyada",
+        "63 soniyada",
+        "71 soniyada"
+      ],
+      "x": "«55 °C da 44 soniyada»"
+    },
+    {
+      "q": "Toksoplazmoz bilan nechta odam zararlangani yozilgan?",
+      "c": "60 milliondan ortiq",
+      "w": [
+        "6 milliondan ortiq",
+        "44 milliondan ortiq",
+        "49 milliondan ortiq",
+        "63 milliondan ortiq"
+      ],
+      "x": "«60 milliondan ortiq odam zararlangani»"
+    }
+  ],
+  "139": [
+    {
+      "q": "Geofagiya nima?",
+      "c": "Tuproq yoki loy yeyish odati",
+      "w": [
+        "Oziq-ovqat bo'lmagan narsalarni yeyish buzilishi",
+        "Tuproq bilan o'ynash odati",
+        "Qo'lni og'izga olish odati",
+        "Itlar bilan aloqa qilish odati"
+      ],
+      "x": "«Geofagiya — tuproq yoki loy yeyish odati.»"
+    },
+    {
+      "q": "Pika nima?",
+      "c": "Oziq-ovqat bo'lmagan narsalarni yeyish buzilishi",
+      "w": [
+        "Gelmint tuxumlarini yutish holati",
+        "Kamqonlikni kuchaytiruvchi ruhiy buzilish",
+        "Bolalarda rivojlanishning vaqtinchalik bosqichi",
+        "Tuproq zarrachalarini tasodifan yutish"
+      ],
+      "x": "«Geofagiya pika, ya'ni oziq-ovqat bo'lmagan narsalarni yeyish buzilishining bir turi hisoblanadi.»"
+    },
+    {
+      "q": "Geofagiya ko'pincha kimlarda uchraydi?",
+      "c": "Bolalarda va ba'zi homilador ayollarda",
+      "w": [
+        "Ota-onalarda va ba'zi laborantlarda",
+        "Shifokorlarda va ba'zi laborantlarda",
+        "Itlar va mushuklarda",
+        "Faqat gelmintoz bemorlarda"
+      ],
+      "x": "«U ko'pincha bolalarda, shuningdek ba'zi homilador ayollarda va alohida madaniy yoki ruhiy holatlarda uchraydi.»"
+    },
+    {
+      "q": "Quyidagilardan qaysi biri geofagiyaning sabablaridan biri?",
+      "c": "Temir yetishmovchiligi",
+      "w": [
+        "Gelmint tuxumlarini yutish",
+        "Qo'rg'oshin zaharlanishi",
+        "Toza suv mavjudligi",
+        "Hayvonlarni davolash"
+      ],
+      "x": "«Shuningdek, temir yoki boshqa mineral moddalar yetishmovchiligi, kamqonlik, homiladorlik, ruhiy omillar va madaniy odatlar sabab bo'lishi mumkin.»"
+    },
+    {
+      "q": "Tuproq orqali yuqadigan gelmintlarning tuxumlari tuproqqa qanday tushadi?",
+      "c": "Kasallangan odamlarning najasi bilan chiqadi",
+      "w": [
+        "Ifloslangan o'yin maydonlaridan chiqadi",
+        "Mushuklar va itlar najasidan chiqadi",
+        "Qo'rg'oshin va zaharli moddalardan chiqadi",
+        "Bolalarning ifloslangan qo'lidan chiqadi"
+      ],
+      "x": "«bu gelmintlarning tuxumlari kasallangan odamlarning najasi bilan chiqadi»"
+    },
+    {
+      "q": "Geofagiyasi bor odamda zararlanish xavfi nega ortadi?",
+      "c": "Tuproq bilan ko'p miqdorda tuxum yutadi",
+      "w": [
+        "Tuproq bilan temir moddalarini yo'qotadi",
+        "Qo'lini yuvishni o'rganadi",
+        "Hayvonlarni gijjaga qarshi davolaydi",
+        "Sanitariyani yaxshilaydi"
+      ],
+      "x": "«Geofagiyasi bor odam tuproq bilan birga ko'p miqdorda tuxum yutadi»"
+    },
+    {
+      "q": "Tuproq yeyishning parazitlardan tashqari qanday xavflari bor?",
+      "c": "Zaharli moddalar va ichak tutilishi",
+      "w": [
+        "Temir so'rilishining yaxshilanishi",
+        "Eozinofillarni baholash",
+        "Konsentratsiya usullarini qo'llash",
+        "Gemoglobin ko'rsatkichlarini baholash"
+      ],
+      "x": "«tuproq yeyish bakteriyalar, zaharli moddalar, masalan qo'rg'oshin, va ichak tutilishi xavfini ham tug'dirishi mumkin»"
+    },
+    {
+      "q": "Tuproq kamqonlikni qanday kuchaytirishi mumkin?",
+      "c": "Temir so'rilishiga xalaqit berib",
+      "w": [
+        "Gelmint tuxumlari miqdorini oshirib",
+        "Gemoglobin ko'rsatkichlarini baholab",
+        "Najasni gelmintga tekshirib",
+        "Temir miqdorini baholab"
+      ],
+      "x": "«tuproq temir va boshqa moddalarning so'rilishiga xalaqit berib, kamqonlikni kuchaytirishi mumkin»"
+    },
+    {
+      "q": "Geofagiya haqida bola bilan suhbatda ota-onaga nisbatan nimaga rioya qilinadi?",
+      "c": "Ota-onani ayblamasligi kerak",
+      "w": [
+        "Bolani jazolashi kerak",
+        "Savollarni murakkab berishi kerak",
+        "Suhbatni yashirin o'tkazishi kerak",
+        "Natijani ota-onaga yetkazishi kerak"
+      ],
+      "x": "«laborant yoki shifokor ota-onani ayblamasligi kerak.»"
+    },
+    {
+      "q": "Najas namunasida tuproq zarrachalari ko'rinsa, laborant nima qiladi?",
+      "c": "Kuzatuvni shifokorga yetkazadi",
+      "w": [
+        "Natijani ota-onaga beradi",
+        "Tuproqni qo'rg'oshinga tekshiradi",
+        "Bolani jazolashga qaror qiladi",
+        "Namunani boshqa laboratoriyaga yuboradi"
+      ],
+      "x": "«Laborant bu kuzatuvni shifokorga yetkazadi.»"
+    },
+    {
+      "q": "Tuproq ifloslanishining inson salomatligiga ta'sirini baholashda nimalar inobatga olinadi?",
+      "c": "Geofagiya holatlari",
+      "w": [
+        "Hayvonlarni gijjaga qarshi davolash",
+        "Qo'lni sovun bilan yuvish",
+        "Kamqonlik tashxisi",
+        "Mushuk va itlarning mavjudligi"
+      ],
+      "x": "«bolalarning tuproq bilan bevosita aloqasi, ifloslangan qo'l va buyumlarni og'izga olib borishi, tuproq zarrachalarini tasodifan yutishi va geofagiya holatlari inobatga olinishi belgilangan»"
+    }
+  ],
+  "140": [
+    {
+      "q": "Tuproq orqali yuqadigan gelmintozlarda tashxis nimaga tayanadi?",
+      "c": "Najasda tuxum topishga",
+      "w": [
+        "Zardobda antitelo aniqlashga",
+        "Rentgen tasvirlashga",
+        "Siydik tekshiruviga",
+        "Biopsiya to'qimasiga"
+      ],
+      "x": "«tuproq orqali yuqadigan gelmintozlar uchun tashxis najasda tuxum topishga tayanishini»"
+    },
+    {
+      "q": "Flotatsiya usulida tuxumlar qayerga ko'tariladi?",
+      "c": "Yuqori zichlikdagi eritma yuzasiga",
+      "w": [
+        "Markazdan qochma kuch bilan cho'kadi",
+        "Selofan yuzasida to'planadi",
+        "Buyum oynasi tagiga yopishadi",
+        "Fiziologik eritma yuzasiga tushadi"
+      ],
+      "x": "«flotatsiya, ya'ni tuxumlar yuqori zichlikdagi eritma yuzasiga ko'tariladi»"
+    },
+    {
+      "q": "Cho'ktirish usulida qaysi tuxumlar yaxshiroq topiladi?",
+      "c": "Trematoda tuxumlari",
+      "w": [
+        "Exinokokk tuxumlari",
+        "Enterobioz tuxumlari",
+        "Lichinkalar va bo'laklar",
+        "Tasmasimon chuvalchang bo'g'imlari"
+      ],
+      "x": "«Og'ir tuxumlar, masalan trematoda tuxumlari, cho'ktirish usulida yaxshiroq topiladi.»"
+    },
+    {
+      "q": "Kato–Katz usuli nimani beradi?",
+      "c": "Najasning bir grammidagi tuxumlar sonini",
+      "w": [
+        "Zardobdagi antitelolar va antigenlar miqdorini",
+        "Perianal terining burmalarini",
+        "Najasdagi bo'laklar miqdorini",
+        "Siydikdagi tuxumlar miqdorini"
+      ],
+      "x": "«Kato–Katz usuli najasning standart miqdorini selofan bilan yopib tuxumlarni sanashga imkon beradi va tuxum soni (epg, najasning bir grammidagi tuxumlar) beradi.»"
+    },
+    {
+      "q": "Askaridada yengil intensivlik qanday ko'rsatkichga to'g'ri keladi?",
+      "c": "1–4999 epg",
+      "w": [
+        "5000–49 999 epg",
+        "50 000 va undan yuqori epg",
+        "49 999 epg",
+        "5000 epg"
+      ],
+      "x": "«askaridada 1–4999 epg yengil, 5000–49 999 o'rta, 50 000 va undan yuqori og'ir»"
+    },
+    {
+      "q": "Enterobiozda qaysi usul qo'llaniladi?",
+      "c": "Yopishqoq tasma usuli",
+      "w": [
+        "Kato–Katz usuli",
+        "Kato va Miura usuli",
+        "Flotatsiya usuli",
+        "Formalin–efir cho'ktirish usuli"
+      ],
+      "x": "«Shu sababli yopishqoq tasma usuli (Graham usuli) qo'llaniladi»"
+    },
+    {
+      "q": "Strongiloidoz nima uchun ko'pincha aniqlanmay qoladi?",
+      "c": "Boshqacha diagnostik usullarni talab qiladi",
+      "w": [
+        "Tuxumlari o'ta og'ir bo'ladi",
+        "Faqat perianal sohada joylashadi",
+        "Immunologik usullar umuman qo'llanilmaydi",
+        "Lichinkalari najasda umuman bo'lmaydi"
+      ],
+      "x": "«Strongyloides stercoralis boshqa tuproq gelmintlariga qaraganda boshqacha diagnostik usullarni talab qiladi va shuning uchun ko'pincha aniqlanmay qoladi»"
+    },
+    {
+      "q": "Antitelolarni aniqlash usulining cheklovi nimada?",
+      "c": "Joriy va o'tgan infeksiyani farqlamaydi",
+      "w": [
+        "Najasda tuxum topishga imkon bermaydi",
+        "Faqat ichak nematodalarini topadi",
+        "Instrumental tasvir bermaydi",
+        "Sezgirligi juda past bo'ladi"
+      ],
+      "x": "«antitelolarni aniqlash joriy, yaqinda o'tgan va o'tgan infeksiyani farqlamaydi»"
+    },
+    {
+      "q": "Najasda tuxum bo'lmasligi sababli serologiya muhim bo'lgan gelmintozlar qaysilar?",
+      "c": "Toksokaroz va exinokokkoz",
+      "w": [
+        "Askaridoz va enterobioz",
+        "Enterobioz va strongiloidoz",
+        "Trematodozlar va nematodalar",
+        "Askaridoz va strongiloidoz"
+      ],
+      "x": "«Ayniqsa to'qima gelmintozlarida, masalan toksokaroz va exinokokkozda, serologiya muhim, chunki najasda tuxum bo'lmaydi.»"
+    },
+    {
+      "q": "Neyrotsistitserkoz tashxisida qaysi usullar hal qiluvchi?",
+      "c": "Tasvirlash usullari",
+      "w": [
+        "Perianal tasma usuli",
+        "Kato–Katz usuli",
+        "Najas mikroskopiyasi",
+        "Sirka-efirli cho'ktirish"
+      ],
+      "x": "«uchun tasvirlash usullari (ultratovush, tomografiya) hal qiluvchi.»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra lichinkalarni aniqlash (koprolarvoskopiya) uchun qaysi usul qo'llanadi?",
+      "c": "Berman usuli",
+      "w": [
+        "Kato va Miura usuli",
+        "Sirka-efirli cho'ktirish",
+        "Flotatsiya usuli",
+        "Yopishqoq tasma usuli"
+      ],
+      "x": "«lichinkalarni aniqlash (koprolarvoskopiya) uchun Berman usuli»"
+    }
+  ]
+}

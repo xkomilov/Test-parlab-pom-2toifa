@@ -1,0 +1,617 @@
+{
+  "116": [
+    {
+      "q": "Fassiolyoz klinikasi kasallikning qaysi ikki bosqichiga bog'liq?",
+      "c": "O'tkir jigar va surunkali o't yo'llari bosqichi",
+      "w": [
+        "Inkubatsion davr va asoratlar bosqichi",
+        "Yengil va og'ir kechish bosqichi",
+        "Epidemiologik va klinik bosqich",
+        "Belgisiz va bolalarda kechish bosqichi"
+      ],
+      "x": "«Fassiolyozning klinikasi kasallikning ikki bosqichiga bog'liq: o'tkir (jigar) va surunkali (o't yo'llari) bosqich.»"
+    },
+    {
+      "q": "O'tkir bosqichda qaysi belgilar kuzatiladi?",
+      "c": "Isitma, o'ng qovurg'a ostida og'riq va holsizlik",
+      "w": [
+        "Sariqlik, o't toshlari va jigar fibrozi",
+        "Kamqonlik, o'sishning sekinlashishi va hazm buzilishi",
+        "O't oqishining buzilishi va ichak buzilishlari",
+        "Belgisiz kechish, tuxum chiqarish va tashuvchilik"
+      ],
+      "x": "«O'tkir bosqichda isitma, o'ng qovurg'a ostida og'riq, holsizlik, ishtaha pasayishi, ko'ngil aynishi va ba'zan teridagi toshmalar kuzatiladi.»"
+    },
+    {
+      "q": "O'tkir bosqichda qon tahlilida odatda qaysi o'zgarish uchraydi?",
+      "c": "Eozinofillar sonining oshishi",
+      "w": [
+        "Jigar fermentlarining pasayishi",
+        "Kamqonlik va sariqlik belgilari",
+        "Tuxumlar sonining oshishi",
+        "Eozinofillar sonining pasayishi"
+      ],
+      "x": "«Qon tahlilida odatda eozinofiliya, ya'ni eozinofillar sonining oshishi uchraydi.»"
+    },
+    {
+      "q": "O'tkir bosqichda najasda tuxumlar nima uchun bo'lmaydi?",
+      "c": "Chuvalchanglar hali yetilmagan",
+      "w": [
+        "Lichinkalar o't yo'llariga joylashgan",
+        "Bemor zararlanish vaqtini eslay olmaydi",
+        "Tuxumlar jigar to'qimasida qoladi",
+        "Chuvalchanglar tuxum chiqarishni to'xtatgan"
+      ],
+      "x": "«Bu bosqichda najasda tuxumlar hali bo'lmaydi, chunki chuvalchanglar yetilmagan.»"
+    },
+    {
+      "q": "Surunkali bosqich qachon boshlanadi?",
+      "c": "Lichinkalar o't yo'llariga joylashib, yetilgandan keyin",
+      "w": [
+        "Lichinkalar ichakdan jigarga o'tgandan keyin",
+        "Metaserkariyalar yutilgandan keyin darhol",
+        "Najasda tuxumlar yo'qolgandan keyin",
+        "Eozinofiliya pasaygandan keyin"
+      ],
+      "x": "«Surunkali bosqich lichinkalar o't yo'llariga joylashib, yetilgandan keyin boshlanadi.»"
+    },
+    {
+      "q": "Surunkali fassiolyozning asoratlariga nimalar kiradi?",
+      "c": "O't yo'llari tiqilishi, sariqlik va jigar fibrozi",
+      "w": [
+        "Isitma, holsizlik va ishtaha pasayishi",
+        "Eozinofiliya, ko'ngil aynishi va toshmalar",
+        "Kamqonlik va jigar fermentlarining oshishi",
+        "Qovurg'a ostida og'riq va ichak buzilishlari"
+      ],
+      "x": "«Surunkali fassiolyoz o't yo'llari tiqilishi, sariqlik, o't pufagi yallig'lanishi, o't toshlari hosil bo'lishi va jigar fibroziga olib kelishi mumkin.»"
+    },
+    {
+      "q": "Fassiolyoz belgilari qaysi kasalliklarga o'xshashi mumkin?",
+      "c": "Gepatit, o't toshi kasalligi va boshqa parazitlarga",
+      "w": [
+        "Isitma, eozinofiliya va ishtaha pasayishiga",
+        "Ektopik joylashuv va halzoun sindromiga",
+        "Kamqonlik va ovqat hazm qilish buzilishiga",
+        "Davolash va prognoz tafsilotlariga"
+      ],
+      "x": "«Fassiolyoz belgilari boshqa jigar kasalliklariga, masalan gepatit, o't toshi kasalligi va boshqa parazitlarga o'xshashi mumkin.»"
+    },
+    {
+      "q": "Bolalarda fassiolyoz qanday namoyon bo'lishi mumkin?",
+      "c": "Kamqonlik, o'sishning sekinlashishi va hazm buzilishi",
+      "w": [
+        "Isitma, jigar sohasida og'riq va eozinofiliya",
+        "O't yo'llari tiqilishi, sariqlik va fibroz",
+        "Teridagi toshmalar va qon quyilishlar",
+        "Belgisiz kechish va tuxum chiqarish"
+      ],
+      "x": "«Bolalarda fassiolyoz kamqonlik, o'sishning sekinlashishi va ovqat hazm qilish buzilishi bilan namoyon bo'lishi mumkin.»"
+    },
+    {
+      "q": "Halzoun sindromi qachon bo'ladi?",
+      "c": "Xom jigar yeyishdan keyin",
+      "w": [
+        "Surunkali bosqichdan keyin",
+        "Davolangandan keyin",
+        "Metaserkariyalar yutilgandan keyin",
+        "Eozinofiliya pasaygandan keyin"
+      ],
+      "x": "«Kam hollarda bemorlarda halqum yoki boshqa a'zolarda fassiola topilishi (halzoun sindromi) tasvirlangan, bu xom jigar yeyishdan keyin bo'ladi.»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra, fassiola tuxumi najasda qachon topiladi?",
+      "c": "Yuqtirgandan 2,5–3 oy o'tgach",
+      "w": [
+        "Yuqtirgandan bir necha hafta o'tgach",
+        "Zararlangandan bir necha oy o'tgach",
+        "Yuqtirgandan 2 hafta o'tgach",
+        "Inkubatsion davr o'tgach"
+      ],
+      "x": "«Kech muddatda, ya'ni yuqtirgandan 2,5–3 oy o'tgach, fassiola tuxumi topilganda tashxis tasdiqlanadi»"
+    },
+    {
+      "q": "Fassiolyozni davolash qanday belgilanadi?",
+      "c": "Shifokor ko'rsatmasi bo'yicha belgilanadi",
+      "w": [
+        "Eozinofiliya darajasiga qarab belgilanadi",
+        "Najasdagi tuxumlar soniga qarab belgilanadi",
+        "Epidemiolog qaroriga ko'ra belgilanadi",
+        "Laborant xulosasi bo'yicha belgilanadi"
+      ],
+      "x": "«davo tanlovi va dozalari shifokor ko'rsatmasi bo'yicha belgilanadi»"
+    }
+  ],
+  "117": [
+    {
+      "q": "Fassiolyoz tashxisi nimalarni birlashtirishga asoslanadi?",
+      "c": "Klinik belgilar, epidemiologik anamnez va laboratoriya natijalarini",
+      "w": [
+        "Najas mikroskopiyasi va qon tahlili natijalarini",
+        "Serologik va tasviriy usullar natijalarini",
+        "Kato–Katz va konsentratsiya usullari natijalarini",
+        "Tasviriy usullar va differensial tashxis natijalarini"
+      ],
+      "x": "«Fassiolyoz tashxisi klinik belgilar, epidemiologik anamnez va laboratoriya natijalarini birlashtirishga asoslanadi.»"
+    },
+    {
+      "q": "Surunkali bosqichda asosiy tashxis usuli qaysi?",
+      "c": "Najasni mikroskopda ko'rish",
+      "w": [
+        "Serologik antitelolarni aniqlash",
+        "Ultratovush tekshiruvini o'tkazish",
+        "Umumiy qon tahlilini o'tkazish",
+        "Kompyuter tomografiya o'tkazish"
+      ],
+      "x": "«Surunkali bosqichda asosiy usul — najasni mikroskopda ko'rish.»"
+    },
+    {
+      "q": "Kato–Katz kabi miqdoriy usullar nimaga imkon beradi?",
+      "c": "Tuxum sonini hisoblash va intensivlikni baholash",
+      "w": [
+        "Tuxum morfologiyasini aniqlash va o'lchash",
+        "Antitelolarni aniqlash va talqin qilish",
+        "Jigar o'zgarishlarini ko'rish va baholash",
+        "Soxta fassiolyozni ajratish va hisobga olish"
+      ],
+      "x": "«ular tuxum sonini hisoblash va zararlanish intensivligini baholash imkonini beradi»"
+    },
+    {
+      "q": "Nima uchun tuxum kam bo'lganda cho'ktirish usullari qulay hisoblanadi?",
+      "c": "Og'ir tuxumlar flotatsiyada ko'tarilmaydi",
+      "w": [
+        "Tuxumlar najasda doim ko'p bo'ladi",
+        "Katta tuxumlar flotatsiyada ko'tariladi",
+        "Tuxum yirik va qopqoqli bo'ladi",
+        "Cho'kma mikroskopda ko'rilmaydi"
+      ],
+      "x": "«Katta, og'ir tuxumlar flotatsiyada yaxshi ko'tarilmasligi mumkin, shuning uchun cho'ktirish usullari qulay hisoblanadi»"
+    },
+    {
+      "q": "Soxta fassiolyozni aniqlash uchun bemorga nima tavsiya etiladi?",
+      "c": "Bir necha kun jigar iste'mol qilmaslik",
+      "w": [
+        "Bir necha kun suv ichmaslik",
+        "Najas namunasini tashib kelmaslik",
+        "Eozinofiliya tahlilini takrorlamaslik",
+        "Ko'katlar va suvni iste'mol qilish"
+      ],
+      "x": "«Uni ajratish uchun bemorga bir necha kun jigar iste'mol qilmaslik tavsiya etilib, najas qayta tekshiriladi.»"
+    },
+    {
+      "q": "O'tkir bosqichda najas tekshiruvi nima uchun manfiy bo'ladi?",
+      "c": "Chuvalchanglar hali tuxum chiqarmaydi",
+      "w": [
+        "Tuxumlar soni juda kam bo'ladi",
+        "Tuxumlar kichik va qopqoqsiz bo'ladi",
+        "Najas namunasi kech tekshiriladi",
+        "Bemor jigar iste'mol qilmagan bo'ladi"
+      ],
+      "x": "«O'tkir bosqichda chuvalchanglar hali tuxum chiqarmaydi, shuning uchun najas tekshiruvi manfiy bo'ladi.»"
+    },
+    {
+      "q": "Serologik usullar qaysi holatda tashxisga yordam beradi?",
+      "c": "O'tkir bosqichda va tuxum bo'lmaganda",
+      "w": [
+        "Surunkali bosqichda va tuxum topilganda",
+        "Davolashdan keyingi nazorat bosqichida",
+        "Namuna olish va tashish bosqichida",
+        "Hisobotda natijani yozish bosqichida"
+      ],
+      "x": "«Fassiola antigenlariga qarshi antitelolarni aniqlash usullari, masalan immunoferment tahlil, o'tkir bosqichda va tuxum bo'lmaganda tashxisga yordam beradi»"
+    },
+    {
+      "q": "Katta qopqoqli tuxumni fassiolopsis tuxumidan ajratishda qaysi ma'lumot muhim?",
+      "c": "Epidemiologik ma'lumot (hudud)",
+      "w": [
+        "Tuxumning o'lchami va qopqog'i",
+        "Tuxum soni va intensivligi",
+        "Laborant imzosi va namuna raqami",
+        "Qon tahlilidagi eozinofil foizi"
+      ],
+      "x": "«shuning uchun epidemiologik ma'lumot (hudud) muhim»"
+    },
+    {
+      "q": "Davolash samarasi nima bilan baholanadi?",
+      "c": "Najasda tuxumlar yo'qolishi va klinik holat yaxshilanishi",
+      "w": [
+        "Tuxum soni ko'payishi va o'zgarishlar kuchayishi",
+        "Eozinofiliya va jigar fermentlarining oshishi",
+        "Tasviriy usullarda o'zgarishlar kuchayishi",
+        "Serologik natijalar o'zaro reaksiyaga kirishishi"
+      ],
+      "x": "«Davolash samarasi najasda tuxumlar yo'qolishi va klinik holat yaxshilanishi bilan baholanadi.»"
+    },
+    {
+      "q": "Eng ko'p uchraydigan xato qaysi?",
+      "c": "Yirik tuxumni boshqa tuxum bilan adashtirish",
+      "w": [
+        "Namunani toza idishga olish",
+        "Mikroskopda ko'zoynak mikrometri bilan o'lchash",
+        "Natijani hisobotda yozish",
+        "Hamkasblar bilan maslahat qilish"
+      ],
+      "x": "«Eng ko'p uchraydigan xato — yirik tuxumni boshqa tuxum bilan adashtirish yoki o'lchamni baholamasdan xulosa chiqarishdir.»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra, fassiolyozning o'tkir fazasida qaysi tekshiruvlardan foydalaniladi?",
+      "c": "Immunologik — serologik tekshiruvlar",
+      "w": [
+        "Najas mikroskopiyasi va konsentratsiya usullari",
+        "Kato–Katz miqdoriy usullari",
+        "Ultratovush va tomografiya tekshiruvlari",
+        "Umumiy qon va biokimyoviy tahlillar"
+      ],
+      "x": "«fassiolyozning o'tkir fazasida immunologik — serologik tekshiruvlardan foydalaniladi»"
+    }
+  ],
+  "118": [
+    {
+      "q": "Fassiolyozning oldini olish zanjirining uch bo'g'ini qaysilar?",
+      "c": "Chorva, mollyuska xo'jayinlari hamda suv va o'simliklar",
+      "w": [
+        "Odam, hayvon hamda suv va tuproq",
+        "Veterinar, laborant hamda shifokor va epidemiolog",
+        "Bemor, ko'katlar hamda yaylov va sug'orish kanallari",
+        "Mollyuska, itlar hamda chorva va ko'katlar"
+      ],
+      "x": "«Fassiolyozning oldini olish zanjirning uch bo'g'inini qamrab oladi: chorva hayvonlari va ularning najasi, mollyuska oraliq xo'jayinlari hamda odam iste'mol qiladigan suv va o'simliklar»"
+    },
+    {
+      "q": "Eng muhim shaxsiy chora qaysi?",
+      "c": "Xom suv o'simliklarini iste'mol qilmaslik",
+      "w": [
+        "Ariq suvini qaynatmasdan ichish",
+        "Itlarga zararlangan jigar berish",
+        "Chorva yaylovi yaqinidagi o'tlarni yig'ish",
+        "Ochiq suv manbalaridan suv ichish"
+      ],
+      "x": "«Eng muhim shaxsiy chora — xom suv o'simliklari va yovvoyi ko'katlarni iste'mol qilmaslik»"
+    },
+    {
+      "q": "Xlorlash haqida nima deyish mumkin?",
+      "c": "Barcha lichinkalarni o'ldirmasligi mumkin",
+      "w": [
+        "Mollyuskalarni yo'qotadi",
+        "Barcha lichinkalarni o'ldiradi",
+        "Chorva najasini zararsizlantiradi",
+        "Ichimlik suvini toza qiladi"
+      ],
+      "x": "«Xlorlash barcha lichinkalarni o'ldirmasligi mumkin»"
+    },
+    {
+      "q": "Xom iste'mol qilinadigan ko'katlar zararlanishni kamaytirish uchun nima qilinadi?",
+      "c": "Toza suvda bir necha marta yuvish",
+      "w": [
+        "Ildiz va barglari yuvilmay qoldiriladi",
+        "Hayvon najasi bilan ifloslangan suvda sug'oriladi",
+        "Chorva yaylovi yaqinidan yig'iladi",
+        "Faqat bir marta toza suvda yuviladi"
+      ],
+      "x": "«Xom iste'mol qilinadigan ko'katlarni toza suvda bir necha marta yuvish, ildiz va barglarini ajratib tozalash zararlanishni kamaytiradi.»"
+    },
+    {
+      "q": "Chorva hayvonlarini davriy tekshirish va davolash nimani kamaytiradi?",
+      "c": "Qo'zg'atuvchining tashqi muhitga tarqalishini",
+      "w": [
+        "Mollyuskalarning suv havzalarida ko'payishini",
+        "Bolalarning ochiq suvdan ichishini",
+        "Sug'orish ishchilarining najas tekshiruvini",
+        "Aholining xom ko'kat iste'molini"
+      ],
+      "x": "«Chorva hayvonlarini davriy tekshirish va davolash qo'zg'atuvchining tashqi muhitga tarqalishini kamaytiradi.»"
+    },
+    {
+      "q": "Zararlangan jigar so'yishda nima qilinadi?",
+      "c": "Yo'q qilinadi va itlarga yoki odamlarga berilmaydi",
+      "w": [
+        "Davolanadi va chorva hayvonlariga beriladi",
+        "Yo'q qilinmaydi va odamlarga beriladi",
+        "Tekshirilmaydi va odamlarga beriladi",
+        "Yo'q qilinmaydi va itlarga beriladi"
+      ],
+      "x": "«Zararlangan jigar so'yishda yo'q qilinadi va itlarga yoki odamlarga berilmaydi.»"
+    },
+    {
+      "q": "Mollyuska oraliq xo'jayinlarni kamaytirish uchun nima qilinadi?",
+      "c": "Suv havzalarini tartibga solish va drenaj tizimini yaxshilash",
+      "w": [
+        "Chorvani nam yaylovlarda ko'paytirish va boqish",
+        "Sug'orish kanallarida suv turib qolishiga yo'l qo'yish",
+        "Hayvon najasi bilan sug'orishni ko'paytirish",
+        "Mollyuskalar uchun qulay muhitni ko'paytirish"
+      ],
+      "x": "«Oraliq xo'jayin mollyuskalarni kamaytirish uchun suv havzalarini tartibga solish, drenaj tizimini yaxshilash va ba'zi hollarda kimyoviy yoki biologik vositalar qo'llanishi mumkin»"
+    },
+    {
+      "q": "Ikkilamchi profilaktika nimani o'z ichiga oladi?",
+      "c": "Kasallikni erta aniqlash va davolash, bemorlarni kuzatish",
+      "w": [
+        "Chorvani davriy tekshirish va veterinar ishlovi",
+        "Ko'katlarni yuvish va suvni qaynatish",
+        "Aholiga kasallik zanjirini tushuntirish",
+        "Mollyuskalarni kamaytirish va drenaj"
+      ],
+      "x": "«Kasallikni erta aniqlash va davolash, bemorlarni kuzatish ikkilamchi profilaktikadir.»"
+    },
+    {
+      "q": "Nima uchun faqat odamlarni davolash yetarli emas?",
+      "c": "Chorva va muhit manba bo'lib qolaveradi",
+      "w": [
+        "Davolash dozalari veterinar ko'rsatmasiga bog'liq",
+        "Metaserkariyalar faqat odamda ko'payadi",
+        "Ariq suvi mollyuskalarni yo'qotadi",
+        "Ikkilamchi profilaktika samarasiz bo'ladi"
+      ],
+      "x": "«Faqat odamlarni davolash yetarli emas, chunki chorva va muhit manba bo'lib qolaveradi.»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra, fassiolyoz bilan kurash kimning umumiy muammosi hisoblanadi?",
+      "c": "Sog'liqni saqlash vazirligi va veterinariya xizmati",
+      "w": [
+        "Suv xo'jaligi va qishloq xo'jaligi mutaxassislari",
+        "Chorvadorlar va sug'orish ishchilari",
+        "Ekologlar va veterinarlar",
+        "Maktablar va tibbiy punktlar"
+      ],
+      "x": "«fassiolyoz bilan kurash Sog'liqni saqlash vazirligi va veterinariya xizmatining umumiy muammosi hisoblanadi»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra, yaylovlarda chig'anoqsimon mollyuskalarga qarshi kurashni kim olib boradi?",
+      "c": "Veterinariya xizmati",
+      "w": [
+        "Epidemiolog va parazitolog",
+        "Maktab va bog'cha xodimlari",
+        "Chorvadorlar va dehqonlar",
+        "Tibbiy punktlar xodimlari"
+      ],
+      "x": "«Veterinariya xizmati yaylovlarda chig'anoqsimon mollyuskalarga qarshi kurash ishlarini olib boradi»"
+    }
+  ],
+  "119": [
+    {
+      "q": "Opistorxoz qaysi a'zolarning parazitar kasalligi?",
+      "c": "Jigar, o't yo'llari va oshqozon osti bezi",
+      "w": [
+        "Jigar, o't pufagi va teri",
+        "Teri, mushaklar va mollyuska",
+        "Baliq, mollyuska va chuchuk suv",
+        "Oshqozon sharbati, teri va baliq"
+      ],
+      "x": "«Opistorxoz jigar, o't yo'llari va oshqozon osti bezining parazitar kasalligi bo'lib»"
+    },
+    {
+      "q": "JSST ro'yxatiga ko'ra opistorxozni qaysi turlar keltirib chiqaradi?",
+      "c": "Opisthorchis viverrini va O. felineus",
+      "w": [
+        "Fassiola hepatica va Opisthorchis turkumi",
+        "Opisthorchis felineus va Bithynia turlari",
+        "Klonorx va metagonim turlari",
+        "Difillobotriaz va Opisthorchis viverrini"
+      ],
+      "x": "«opistorxoz Opisthorchis viverrini va O. felineus keltirib chiqaradigan»"
+    },
+    {
+      "q": "Opistorxozda ikkinchi oraliq xo'jayin kim?",
+      "c": "Karpsimon baliqlar",
+      "w": [
+        "Bithynia turlari mollyuskalari",
+        "Mushuk va it",
+        "Chuchuk suv mollyuskalari",
+        "Yovvoyi hayvonlar"
+      ],
+      "x": "«Serkariyalar mollyuskadan chiqib, ikkinchi oraliq xo'jayin — karpsimon baliqlar teri va mushaklariga kirib, metaserkariyaga aylanadi.»"
+    },
+    {
+      "q": "Opistorxozda tuxumlarni yutadigan birinchi oraliq xo'jayin kim?",
+      "c": "Chuchuk suv mollyuskasi, masalan Bithynia turlari",
+      "w": [
+        "Karpsimon baliq, masalan plotva va leshch",
+        "Mushuk yoki it, masalan uy hayvonlari",
+        "Yovvoyi baliq yeydigan hayvon, masalan tulki",
+        "Odam yoki hayvon, masalan mushuk"
+      ],
+      "x": "«ularni chuchuk suv mollyuskasi, masalan Bithynia turlari, yutadi»"
+    },
+    {
+      "q": "Opistorx tuxumi qanday xususiyatga ega?",
+      "c": "Juda kichik, oval, sarg'ish, qopqoqli",
+      "w": [
+        "Katta, oval, qopqoqli, jigarrang",
+        "Juda kichik, yumaloq, qopqoqsiz",
+        "Katta, yumaloq, sarg'ish, qopqoqsiz",
+        "Kichik, uzun, och-pushti, qopqoqsiz"
+      ],
+      "x": "«Opistorx tuxumi juda kichik, oval, sarg'ish, qopqoqli bo'lib»"
+    },
+    {
+      "q": "Odam qanday baliqni yeb opistorxoz bilan zararlanadi?",
+      "c": "Metaserkariyali xom yoki yarim xom chuchuk suv baliq",
+      "w": [
+        "Lichinkali pishirilgan chuchuk suv baliq",
+        "Yaxshi pishirilgan va qaynatilgan chuchuk suv baliq",
+        "Tuxumli qovurilgan karpsimon baliq",
+        "Yaxshi qaynatilgan karpsimon baliq"
+      ],
+      "x": "«Odam uchun infeksiya manbai — metaserkariyali xom, yarim xom, yengil tuzlangan, quritilgan yoki dudlangan chuchuk suv baliq.»"
+    },
+    {
+      "q": "Opistorxozda qaysi uy hayvonlari zararlanadi va suv havzalarini tuxum bilan ifloslantiradi?",
+      "c": "Mushuk va it",
+      "w": [
+        "Cho'chqa va bo'ri",
+        "Tulki va ayiq",
+        "Plotva va leshch",
+        "Suvsar va karpsimon baliq"
+      ],
+      "x": "«uy hayvonlari — mushuk va it — baliq chiqindilarini yesa, zararlanadi va suv havzalarini tuxum bilan ifloslantiradi»"
+    },
+    {
+      "q": "Uzoq muddatli O. viverrini zararlanishi qanday xavf bilan bog'liq?",
+      "c": "O't yo'llari saratoni xavfi",
+      "w": [
+        "Jigar fibrozi va yallig'lanish xavfi",
+        "Oshqozon osti bezi yetishmovchiligi xavfi",
+        "Baliq tuxumlari ko'payishi xavfi",
+        "Trematodalar ko'payishi xavfi"
+      ],
+      "x": "«JSST uzoq muddatli O. viverrini zararlanishi o't yo'llari saratoni (xolangiokartsinoma) xavfi bilan bog'liqligini bildiradi»"
+    },
+    {
+      "q": "Opistorxozda qaysi xo'jayin majburiy hisoblanadi?",
+      "c": "Ikkinchi oraliq xo'jayin — baliq",
+      "w": [
+        "Birinchi oraliq xo'jayin — mushuk",
+        "Definitiv xo'jayin — Bithynia mollyuskasi",
+        "Oraliq xo'jayin — cho'chqa",
+        "Rezervuar xo'jayin — tulki"
+      ],
+      "x": "«Fassiolada ikkinchi oraliq xo'jayin yo'q, opistorxozda esa baliq majburiy.»"
+    },
+    {
+      "q": "Rutin laboratoriyada opistorx tuxumlari natijasi qanday yoziladi?",
+      "c": "Opistorxid tuxumlari",
+      "w": [
+        "Fassiola tuxumlari",
+        "Klonorx tuxumlari",
+        "Metagonim tuxumlari",
+        "Difillobotriaz tuxumlari"
+      ],
+      "x": "«Rutin laboratoriyada 'opistorxid tuxumlari' deb yozish yetarli va halol hisoblanadi.»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra, uzoq vaqt kasallangan bemorlarda nima kelib chiqishi mumkin?",
+      "c": "Jigar va o't yo'llari saratoni",
+      "w": [
+        "Jigar fibrozi va o't toshlari",
+        "Jigar yallig'lanishi va fibroz",
+        "Hayvonlar zararlanishi va tuxum chiqarishi",
+        "Baliq tuxumlari ko'payishi"
+      ],
+      "x": "«Uzoq vaqt kasallangan bemorlarda surunkali jigar, o't pufagi va oshqozon osti bezi yetishmovchiligi, natijada jigar va o't yo'llari saratoni kelib chiqishi mumkin»"
+    }
+  ],
+  "120": [
+    {
+      "q": "Opistorxoz bilan zararlanishning yagona asosiy yo'li qaysi?",
+      "c": "Metaserkariyali chuchuk suv baliqni xom iste'mol qilish",
+      "w": [
+        "Zararlangan suv va tuproq bilan kontakt qilish",
+        "Bemor odam bilan bevosita kontakt qilish",
+        "Kanalizatsiyasiz hojatxonalardan foydalanish",
+        "Mushuk va itlar bilan kontakt qilish"
+      ],
+      "x": "«Opistorxoz bilan zararlanish yagona asosiy yo'l orqali, ya'ni metaserkariyali chuchuk suv baliqni xom yoki yaxshi pishirmasdan iste'mol qilish orqali sodir bo'ladi.»"
+    },
+    {
+      "q": "Lichinka kistadan chiqqach qayerga o'tib joylashadi?",
+      "c": "Jigarga, o't pufagiga va oshqozon osti bezi yo'llariga",
+      "w": [
+        "Mollyuskaga va baliqqa o'tib joylashadi",
+        "Jigar va ichakka o'tib joylashadi",
+        "Oshqozon va ichakka o'tib joylashadi",
+        "Mushuk va itning jigariga o'tib joylashadi"
+      ],
+      "x": "«Lichinka oshqozon-ichak yo'lida kistadan chiqadi va o't yo'llari orqali jigarga, o't pufagiga va ba'zan oshqozon osti bezi yo'llariga o'tib joylashadi»"
+    },
+    {
+      "q": "Qaysi mahsulotlar xavfli hisoblanadi?",
+      "c": "Xom, yengil tuzlangan va marinadlangan baliq",
+      "w": [
+        "To'liq pishirilgan va qaynatilgan baliq",
+        "Oldindan muzlatilgan baliq go'shti",
+        "Qovurilgan va yaxshi pishirilgan baliq",
+        "Uzoq muddatli tuzlangan baliq"
+      ],
+      "x": "«Xavfli mahsulotlarga xom baliq, yengil tuzlangan baliq, quritilgan, yarim dudlangan va marinadlangan baliq kiradi»"
+    },
+    {
+      "q": "Nima uchun baliq ko'rinishiga qarab xavfsizlikni baholab bo'lmaydi?",
+      "c": "Metaserkariyalar juda mayda va ko'rinmaydi",
+      "w": [
+        "Baliq go'shti doim ifloslangan bo'ladi",
+        "Baliq go'shti ko'z bilan ko'rinadi",
+        "Tuxumlar baliq mushaklarida joylashadi",
+        "Baliqning hidi doim o'zgarib turadi"
+      ],
+      "x": "«Metaserkariyalar juda mayda va oddiy ko'z bilan ko'rinmaydi.»"
+    },
+    {
+      "q": "Opistorxozda ikkinchi oraliq xo'jayin kim?",
+      "c": "Asosan karpsimon baliqlar",
+      "w": [
+        "Mushuk, it va yovvoyi hayvonlar",
+        "Mollyuskalar va baliq populyatsiyasi",
+        "Baliqchilar, oshpazlar va baliq tozalovchilar",
+        "Chuchuk suv mollyuskalari"
+      ],
+      "x": "«Ikkinchi oraliq xo'jayin — asosan karpsimon baliqlar, masalan plotva, leshch, ide, karas va boshqalar»"
+    },
+    {
+      "q": "Baliqni xom iste'mol qilish odati nima uchun o'zgarishi qiyin?",
+      "c": "Bunday odatlar tarixiy bo'lgan",
+      "w": [
+        "Sanitariya sharoitiga bog'liq bo'ladi",
+        "Mollyuskalar mavjudligiga bog'liq bo'ladi",
+        "Xavfsiz variantlar mavjud emas",
+        "Odatlar baliq turiga bog'liq bo'ladi"
+      ],
+      "x": "«Bunday odatlar tarixiy bo'lgani uchun o'zgarishi qiyin»"
+    },
+    {
+      "q": "Tabiiy omillar qatoriga nimalar kiradi?",
+      "c": "Mollyuskalar mavjudligi, baliq populyatsiyasi, suv oqimi va iqlim",
+      "w": [
+        "Kanalizatsiyasiz hojatxonalar, defekatsiya va oqova suvlar",
+        "Baliqchilar, sotuvchilar, oshpazlar va baliq tozalovchilar",
+        "Savdo, transport va sovutilgan baliq yetkazish",
+        "Mushuk, it, yovvoyi hayvonlar va ovqatlanish odatlari"
+      ],
+      "x": "«Tabiiy omillar qatoriga mollyuskalar mavjudligi, baliq populyatsiyasi, suv oqimi va iqlim kiradi.»"
+    },
+    {
+      "q": "Qaysi holatlar suv havzalarini ifloslantiradi?",
+      "c": "Kanalizatsiyasiz hojatxonalar va suv bo'yida defekatsiya",
+      "w": [
+        "Sanitariya sharoitini yaxshilash",
+        "Uy hayvonlarini veterinar nazoratidan o'tkazish",
+        "Sanitariya sharoitini yaxshilash va oqova suvni tozalash",
+        "Xom va tayyor mahsulotlarni alohida saqlash"
+      ],
+      "x": "«Kanalizatsiyasiz hojatxonalar, suv bo'yida defekatsiya va oqova suvlarning tozalanmasdan oqizilishi suv havzalarini ifloslantiradi»"
+    },
+    {
+      "q": "Mushuk va itlar qanday zararlanadi?",
+      "c": "Xom baliq qoldiqlarini yeb",
+      "w": [
+        "Zararlangan jigarni yeb",
+        "Mollyuskalarni yeb",
+        "Odam najasi bilan kontaktda bo'lib",
+        "Suv bo'yida defekatsiya qilib"
+      ],
+      "x": "«Mushuk va itlar xom baliq qoldiqlarini yeb zararlanadi va tuxumlarni najas bilan chiqaradi.»"
+    },
+    {
+      "q": "Baliq ishqibozlari uchun qaysi baliq xavfsiz alternativ hisoblanadi?",
+      "c": "To'liq pishirilgan, qovurilgan yoki qaynatilgan baliq",
+      "w": [
+        "Yengil tuzlangan yoki marinadlangan baliq",
+        "Quritilgan yoki yarim dudlangan baliq",
+        "Xom baliq go'shtidan tayyorlangan taom",
+        "Muzlatilmagan yoki yengil tuzlangan baliq"
+      ],
+      "x": "«to'liq pishirilgan, qovurilgan yoki qaynatilgan baliq mazasini yo'qotmaydi, xom baliqning o'rnini bosishi mumkin»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra, ambulatoriyaga birinchi marta qaysi holat bilan murojaat etganlar tekshiriladi?",
+      "c": "Gepatobiliar a'zolar kasalligi yoki oshqozon-ichak allergiyasi",
+      "w": [
+        "Suv transporti yoki o'rmon xo'jaligida ishlash holati",
+        "Baliq sotuvchi yoki oshpaz bo'lib ishlash holati",
+        "Mushuk va itlar bilan aloqa qilish holati",
+        "Baliq go'shtini xom iste'mol qilish tarixi"
+      ],
+      "x": "«ambulatoriyaga birinchi marta gepatobiliar a'zolar kasalligi yoki oshqozon-ichak tizimi allergiyasi bilan murojaat etganlar»"
+    }
+  ]
+}

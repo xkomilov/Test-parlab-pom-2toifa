@@ -1,0 +1,617 @@
+{
+  "036": [
+    {
+      "q": "O'choq qaysi uch bo'g'inning mavjudligi bilan belgilanadi?",
+      "c": "Manba, chivin va moyil aholi",
+      "w": [
+        "Bemor, laborant va epidemiolog",
+        "Manba, import va qaytalanish",
+        "Parazit, lichinka va sug'orish tizimi",
+        "Chivin, ro'yxat va hujjat"
+      ],
+      "x": "«O'choq uch bo'g'inning mavjudligi bilan belgilanadi: qonida parazit bo'lgan odam yoki manba, yuqtirishga qodir Anopheles chivinlari va ularning chaqishiga ochiq moyil aholi»"
+    },
+    {
+      "q": "Xalqaro amaliyotda o'choqlar faollik bo'yicha odatda nechta toifaga bo'linadi?",
+      "c": "Uch toifaga",
+      "w": [
+        "Ikki toifaga",
+        "Bir toifaga",
+        "5 toifaga",
+        "7 toifaga"
+      ],
+      "x": "«Xalqaro amaliyotda o'choqlar odatda uch toifaga bo'linadi»"
+    },
+    {
+      "q": "Qoldiq nofaol o'choq qanday o'choq hisoblanadi?",
+      "c": "Mahalliy yuqish yaqinda yo'q, lekin ilgari bo'lgan",
+      "w": [
+        "Joriy yoki o'tgan mavsumda mahalliy yuqish bo'lgan",
+        "Belgilangan muddat davomida yuqish bo'lmagan hudud",
+        "Chivinlar yo'q, aholi moyil bo'lmagan hudud",
+        "Faqat import holatlar aniqlangan hudud"
+      ],
+      "x": "«Qoldiq nofaol o'choqda mahalliy yuqish yaqinda yo'q, lekin ilgari bo'lgan va yuqish uchun sharoit saqlanib qolgan»"
+    },
+    {
+      "q": "JSST vektorga qarshi kurashning ikki asosiy usuli qaysilar?",
+      "c": "Insektitsid bilan ishlangan to'rlar va ichki purkash",
+      "w": [
+        "Isitmalovchilarni faol qidirish va davolash",
+        "Lichinkalarga qarshi kurash va xaritalash",
+        "Chivinlarni xaritaga tushirish va ro'yxat yuritish",
+        "O'choq pasporti va ro'yxatni yangilash"
+      ],
+      "x": "«JSST vektorga qarshi kurashning ikki asosiy usuli, ya'ni insektitsid bilan ishlangan to'rlar va xonalarga ichki purkashni ko'rsatadi»"
+    },
+    {
+      "q": "Tugatilgan o'choq nima sababdan ro'yxatda qoladi?",
+      "c": "Chivinlar saqlanadi, aholi esa immunitetga ega emas",
+      "w": [
+        "Parazit lichinkalari suvda saqlanadi, aholi esa moyil",
+        "Yuqish mavsumi hali tugamagan, aholi esa moyil",
+        "Isitmalovchilar ko'payib, chivinlar esa kamayadi",
+        "Manba saqlanadi, aholi esa immunitetga ega"
+      ],
+      "x": "«chivinlar saqlanadi, aholi esa immunitetga ega emas»"
+    },
+    {
+      "q": "Yolg'on o'choqdan boshqa barcha o'choqlarda necha yil davomida sog'lomlashtirish tadbirlari o'tkaziladi?",
+      "c": "3 yil davomida",
+      "w": [
+        "1 yil davomida",
+        "2 yil davomida",
+        "5 yil davomida",
+        "10 yil davomida"
+      ],
+      "x": "«Yolg'on o'choqdan boshqa barcha o'choqlarda 3 yil davomida sog'lomlashtirish tadbirlari o'tkaziladi»"
+    },
+    {
+      "q": "Sog'lomlashtirilgan, yangi potensial, yangi faol, yangi endemik, qoldiq faol va qoldiq nimjon o'choqlar jami nechta toifani tashkil etadi?",
+      "c": "6 toifa",
+      "w": [
+        "3 toifa",
+        "4 toifa",
+        "2 toifa",
+        "8 toifa"
+      ],
+      "x": "«o'choqlar mahalliy yuqish imkoniyati va mavjudligiga, yuqish imkoniyati yo'q o'choqlarda esa u bartaraf etilgandan keyin o'tgan muddatga qarab 6 toifaga bo'linadi»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra bezgak o'choqlari qanday toifalarga ajratiladi?",
+      "c": "Yolg'on, potensial, faol va nofaol",
+      "w": [
+        "Faol, qoldiq nofaol va tugatilgan",
+        "Sog'lomlashtirilgan, yangi potensial va qoldiq faol",
+        "Tabiiy-geografik, shahar va tog' oldi",
+        "Yuqori, o'rta va past xavfli"
+      ],
+      "x": "«bezgak o'choqlari yolg'on, potensial, faol va nofaol toifalarga ajratiladi»"
+    },
+    {
+      "q": "Quyidagilardan qaysi biri tabiiy-geografik xususiyatga ko'ra ajratilgan o'choq hisoblanadi?",
+      "c": "Tog' oldi o'choqlari",
+      "w": [
+        "Qoldiq nofaol o'choqlar",
+        "Tugatilgan o'choqlar",
+        "Yolg'on o'choqlar",
+        "Potensial o'choqlar"
+      ],
+      "x": "«sholi yetishtiriladigan o'choqlar, daryo bo'yi o'choqlari, tog' oldi o'choqlari, shahar o'choqlari va hokazo»"
+    },
+    {
+      "q": "O'choq chegarasi nimaga qarab belgilanadi?",
+      "c": "Chivinlarning uchib borish masofasi va aholi harakati",
+      "w": [
+        "O'choqlar ro'yxati va pasportdagi tadbirlar natijasi",
+        "Isitmalovchilar soni va davolash natijalari",
+        "Sug'orish tizimi va sholi yetishtiriladigan maydon",
+        "Chivin ko'payish joylari va aholi soni"
+      ],
+      "x": "«O'choq chegarasi chivinlarning uchib borish masofasi va aholining harakatiga qarab belgilanadi»"
+    },
+    {
+      "q": "Faol o'choq yuqish to'xtagach qanday qayta tasniflanadi?",
+      "c": "Qoldiq nofaol o'choq",
+      "w": [
+        "Tugatilgan, ya'ni yo'q qilingan o'choq",
+        "Yolg'on o'choq",
+        "Potensial o'choq",
+        "Shahar o'choqi"
+      ],
+      "x": "«Faol o'choq yuqish to'xtagach qoldiq nofaol»"
+    }
+  ],
+  "037": [
+    {
+      "q": "Import qilingan holatda zararlanish qayerda yuz bergan bo'ladi?",
+      "c": "Zararlanish boshqa mamlakatda yuz bergan holat",
+      "w": [
+        "Zararlanish bezgakdan holi hududda yuz bergan holat",
+        "Zararlanish qon quyilishi orqali yuz bergan holat",
+        "Zararlanish ifloslangan ignalar orqali yuz bergan holat",
+        "Zararlanish davolashdan keyin yuz bergan holat"
+      ],
+      "x": "«Import qilingan holatda bemorning bezgak bilan zararlanishi boshqa mamlakat yoki bezgak yuqishi mavjud hududda yuz bergan, kasallik esa bezgakdan holi hududda aniqlangan»"
+    },
+    {
+      "q": "Import holatlarda eng xavfli guruh kim hisoblanadi?",
+      "c": "Profilaktika qabul qilmagan va immunitetsiz sayohatchilar",
+      "w": [
+        "Endemik mamlakatlarga xizmat safariga borgan mutaxassislar",
+        "Mehnat migrantlari va endemik hududlardan kelgan qochqinlar",
+        "Harbiy xizmatchilar, talabalar va ziyoratchilar",
+        "Sayohatchilar va turistlar, ziyoratchilar"
+      ],
+      "x": "«Eng xavfli guruh profilaktika qabul qilmagan va immunitetsiz sayohatchilardir»"
+    },
+    {
+      "q": "JSST ma'lumotiga ko'ra bezgak eng ko'p qaysi mintaqada tarqalgan?",
+      "c": "Afrika mintaqasida",
+      "w": [
+        "Janubiy Osiyo mintaqasida",
+        "Janubi-Sharqiy Osiyo mintaqasida",
+        "Endemik hududlar mintaqasida",
+        "Bezgakdan holi mintaqada"
+      ],
+      "x": "«Bezgak eng ko'p Afrika mintaqasida tarqalgan»"
+    },
+    {
+      "q": "Janubi-Sharqiy Osiyodan keladigan import holatlarda qaysi tur uchraydi?",
+      "c": "P. knowlesi",
+      "w": [
+        "P. falciparum",
+        "P. vivax",
+        "P. ovale",
+        "Aralash infeksiya"
+      ],
+      "x": "«P. knowlesi esa Janubi-Sharqiy Osiyodan»"
+    },
+    {
+      "q": "Sayohatdan keyin belgilar odatda necha kun ichida paydo bo'ladi?",
+      "c": "10–15 kun ichida",
+      "w": [
+        "3–5 kun ichida",
+        "20 kun ichida",
+        "30 kun ichida",
+        "45–60 kun ichida"
+      ],
+      "x": "«Sayohatdan keyin belgilar odatda 10–15 kun ichida paydo bo'ladi»"
+    },
+    {
+      "q": "Profilaktika dori qabul qilgan sayohatchilarda nima o'zgarishi mumkin?",
+      "c": "Inkubatsiya muddati uzayishi",
+      "w": [
+        "Parazit turi aniqlanishi",
+        "Klinik ko'rinish og'irlashishi",
+        "Profilaktika qabul qilinishi",
+        "Kasallik boshlanmasligi"
+      ],
+      "x": "«Profilaktika dori qabul qilgan sayohatchilarda inkubatsiya muddati uzayishi va klinik ko'rinish yengillashishi mumkin»"
+    },
+    {
+      "q": "Tropik bezgak topilganda laborant nima qiladi?",
+      "c": "Shifokorga zudlik bilan xabar qiladi",
+      "w": [
+        "Preparatni qayta tayyorlaydi",
+        "Bemorni kasalxonaga darhol yotqizadi",
+        "Faqat sayohat tarixini so'raydi",
+        "Kimyoprofilaktika qabul qiladi"
+      ],
+      "x": "«Laborant turni aniq belgilab, tropik bezgak topilganda shifokorga zudlik bilan xabar qiladi»"
+    },
+    {
+      "q": "Uch kunlik va ovale-bezgakda qaytalanishni oldini olish uchun nima qo'shiladi?",
+      "c": "Primakvin qo'shiladi",
+      "w": [
+        "Artemizinin qo'shiladi",
+        "Kimyoprofilaktika qo'shiladi",
+        "Kombinatsiyalangan terapiya qo'shiladi",
+        "Tezkor test qo'shiladi"
+      ],
+      "x": "«uch kunlik va ovale-bezgakda qaytalanishni oldini olish uchun primakvin qo'shiladi»"
+    },
+    {
+      "q": "Import holat atrofida ishlov va kuzatuv qachon kuchaytiriladi?",
+      "c": "Chivinlar faol va ko'p joyda yashasa",
+      "w": [
+        "Chivinlar yo'q joyda yashasa",
+        "Chivinlar faol bo'lmagan mavsumda",
+        "Sayohatdan oylar o'tib qaytsa",
+        "Kasalxonaga yotqizilgan bo'lsa"
+      ],
+      "x": "«agar bemor chivin faol mavsumda va chivinlar ko'p joyda yashasa, atrofda ishlov va kuzatuv kuchaytiriladi»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra xorijiy davlatlarga borib kelgan shaxslar necha yil davomida dispanser nazoratiga olinadi?",
+      "c": "3 yil davomida",
+      "w": [
+        "1 yil davomida",
+        "2 yil davomida",
+        "5 yil davomida",
+        "10 yil davomida"
+      ],
+      "x": "«xorijiy davlatlarga borib kelgan shaxslar hududiy davolash-profilaktika muassasalari tomonidan hisobga olinadi, laboratoriya yo'li bilan tekshiriladi va 3 yil davomida dispanser nazoratiga olinadi»"
+    },
+    {
+      "q": "Respublika DSENMga xorijdan kelganlar haqida xabarnoma har oyning nechanchi sanasiga qadar taqdim etiladi?",
+      "c": "Har oyning 5-sanasiga qadar",
+      "w": [
+        "Har oyning 10-sanasiga qadar",
+        "Har oyning 15-sanasiga qadar",
+        "Har oyning 25-sanasiga qadar",
+        "Har oyning 1-sanasiga qadar"
+      ],
+      "x": "«Har oyning 5-sanasiga qadar Respublika DSENMga xorijdan kelganlar»"
+    }
+  ],
+  "038": [
+    {
+      "q": "Mahalliy holatda bemor bezgak bilan qanday zararlangan?",
+      "c": "Hududda mahalliy chivinlar orqali",
+      "w": [
+        "Chet elda chivin chaqishi orqali",
+        "Qon quyilishi orqali",
+        "Inyeksiya olish orqali",
+        "Ilgari bezgak bilan og'riganligi sababli"
+      ],
+      "x": "«Mahalliy holatda bemor bezgak bilan shu hududda, mahalliy chivinlar orqali zararlangan»"
+    },
+    {
+      "q": "JSST bezgakni yo'q qilishni qanday ta'riflaydi?",
+      "c": "Aniq hududda mahalliy yuqishning to'xtatilishi",
+      "w": [
+        "Barcha import holatlarning to'xtatilishi",
+        "Chivinlarga qarshi ishlov kuchaytirilishi",
+        "Mahalliy holat hisobotining qisqartirilishi",
+        "Isitmalovchilarning faol qidirilishi"
+      ],
+      "x": "«JSST bezgakni yo'q qilishni aniq hududda mahalliy yuqishning to'xtatilishi deb ta'riflaydi»"
+    },
+    {
+      "q": "Kiritilgan holat nima?",
+      "c": "Import holatdan chivin orqali yuqqan birinchi avlod holat",
+      "w": [
+        "Mahalliy manba orqali yuqqan, zanjiri bir necha avlod holat",
+        "Chet elda zararlanib kelgan birinchi avlod holat",
+        "Qon quyilishi orqali yuqqan birinchi avlod holat",
+        "Davolashdan keyin qaytalangan birinchi avlod holat"
+      ],
+      "x": "«Ikkinchisi kiritilgan holat: import holatdan chivin orqali yuqqan birinchi avlod holat»"
+    },
+    {
+      "q": "Mahalliy holat paydo bo'lishi uchun bajarilishi kerak bo'lgan shartlardan biri qaysi?",
+      "c": "Hududda yuqtirishga qodir Anopheles chivinlari bor",
+      "w": [
+        "Hududda ommaviy qon surtmasi olinadi va to'rlar tarqatiladi",
+        "Hududda sertifikat darhol bekor qilinadi",
+        "Hududda mahalla faollari ishlaydi",
+        "Hududda to'rlar tarqatiladi"
+      ],
+      "x": "«shu hududda yuqtirishga qodir Anopheles chivinlari bor»"
+    },
+    {
+      "q": "Mahalliy holatni tasniflash uchun yupqa va qalin preparatlar qayerda tasdiqlanadi?",
+      "c": "Ma'lumotnoma laboratoriyasida",
+      "w": [
+        "Sanitariya-epidemiologiya xizmatida",
+        "Mahalla faollari orasida",
+        "Qo'shnilar uylarida",
+        "O'choq tekshiruvi vaqtida"
+      ],
+      "x": "«yupqa va qalin preparatlar qayta ko'rib chiqiladi va ma'lumotnoma laboratoriyasida tasdiqlanadi»"
+    },
+    {
+      "q": "Quyidagilardan qaysi biri chivinlarga qarshi kurash tadbiri hisoblanadi?",
+      "c": "Xonalarga ichki purkash",
+      "w": [
+        "Isitmalovchilarni faol qidirish",
+        "Ommaviy qon surtmasi olish",
+        "Sayohat tarixini so'rash",
+        "Natijani ikki marta tekshirish"
+      ],
+      "x": "«Chivinlarga qarshi kurash kuchaytiriladi: xonalarga ichki purkash»"
+    },
+    {
+      "q": "Chet elga chiqmagan odam preparatida parazit topilsa, laborant nima qiladi?",
+      "c": "Natijani ikki marta tekshiradi",
+      "w": [
+        "Natijani yashiradi",
+        "Preparatni yo'q qiladi",
+        "Natijani kechiktirib xabar beradi",
+        "Natijani bir marta tekshiradi"
+      ],
+      "x": "«Bunday vaziyatda laborant natijani ikki marta tekshiradi, boshqa mutaxassisga ko'rsatadi va preparatni saqlab qo'yadi»"
+    },
+    {
+      "q": "Mahalliy holat sertifikatga qanday ta'sir qiladi?",
+      "c": "Sertifikatni darhol bekor qilmaydi",
+      "w": [
+        "Sertifikatni darhol bekor qiladi",
+        "Maqomni darhol saqlab qoladi",
+        "Sertifikatni darhol qaytaradi",
+        "Sertifikatni tasniflashdan oldin tugatadi"
+      ],
+      "x": "«Mahalliy holat sertifikatni darhol bekor qilmaydi, ammo hududda yuqish davom etsa, maqom xavf ostida qoladi»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra tadbirlar mikroo'choqdan necha km atrofda o'tkaziladi?",
+      "c": "3 km atrofda",
+      "w": [
+        "1 km atrofda",
+        "5 km atrofda",
+        "10 km atrofda",
+        "21 km atrofda"
+      ],
+      "x": "«tadbirlar mikroo'choqdan 3 km atrofda»"
+    },
+    {
+      "q": "O'choqdagi muloqotda bo'lganlar necha kun davomida tibbiy kuzatuvda bo'ladi?",
+      "c": "21 kun davomida",
+      "w": [
+        "3 kun davomida",
+        "10 kun davomida",
+        "15 kun davomida",
+        "30 kun davomida"
+      ],
+      "x": "«O'choqdagi muloqotda bo'lganlar to'liq ro'yxatga olinadi, laboratoriya yo'li bilan tekshiriladi va 21 kun davomida tibbiy kuzatuvda bo'ladi»"
+    },
+    {
+      "q": "Uyma-uy yurish uchun brigada qanday tarkibda tuziladi?",
+      "c": "3 nafar o'rta tibbiy xodim va 1 nafar vrach",
+      "w": [
+        "1 nafar o'rta tibbiy xodim va 3 nafar vrach",
+        "2 nafar o'rta tibbiy xodim va 1 nafar vrach",
+        "3 nafar o'rta tibbiy xodim va 2 nafar vrach",
+        "4 nafar o'rta tibbiy xodim va 1 nafar vrach"
+      ],
+      "x": "«Uyma-uy yurish uchun 3 nafar o'rta tibbiy xodim va 1 nafar vrachdan iborat brigada tuziladi»"
+    }
+  ],
+  "039": [
+    {
+      "q": "Bezgakni qaysi chivinlar tarqatadi?",
+      "c": "Anopheles turkumi urg'ochi chivinlari",
+      "w": [
+        "Anopheles turkumi erkak chivinlari",
+        "Culex turkumi urg'ochi chivinlari",
+        "Culex turkumi erkak chivinlari",
+        "Anofeles turkumi lichinkalari"
+      ],
+      "x": "«Bezgakni faqat Anopheles turkumi urg'ochi chivinlari tarqatadi»"
+    },
+    {
+      "q": "Chivin hayot siklida nechta bosqich bor?",
+      "c": "To'rt bosqich",
+      "w": [
+        "Uch bosqich",
+        "Ikki bosqich",
+        "Ikki-uch bosqich",
+        "Bir-ikki bosqich"
+      ],
+      "x": "«ularning hayot siklida to'rt bosqich bor, ya'ni tuxum, lichinka, g'umbak va imago, voyaga yetgan chivin»"
+    },
+    {
+      "q": "Chivinning dastlabki uch bosqichi qayerda o'tadi?",
+      "c": "Suvda o'tadi",
+      "w": [
+        "Havoda o'tadi",
+        "Uy ichida o'tadi",
+        "Tunda o'tadi",
+        "Odamda o'tadi"
+      ],
+      "x": "«Dastlabki uch bosqich suvda o'tadi, oxirgisi esa havoda yashaydi»"
+    },
+    {
+      "q": "Anopheles tuxumlari qanday qo'yiladi?",
+      "c": "Alohida-alohida qo'yiladi",
+      "w": [
+        "To'p shaklida qo'yiladi",
+        "Kemacha shaklida qo'yiladi",
+        "Havoda qo'yiladi",
+        "Suv yuzasida tik qo'yiladi"
+      ],
+      "x": "«Anopheles tuxumlari alohida-alohida qo'yiladi»"
+    },
+    {
+      "q": "Anopheles lichinkalari suv yuzasida qanday joylashadi?",
+      "c": "Suv yuzasiga parallel joylashadi",
+      "w": [
+        "Suv yuzasiga tik joylashadi",
+        "Suv yuzasidan uzoq joylashadi",
+        "Nafas olish nayi orqali havo oladi",
+        "Suv yuzasida to'p bo'lib joylashadi"
+      ],
+      "x": "«Anopheles lichinkalari suv yuzasiga parallel joylashadi»"
+    },
+    {
+      "q": "Urg'ochi chivin nima uchun qon so'radi?",
+      "c": "Tuxum rivojlanishi uchun oqsil kerak",
+      "w": [
+        "Parazit rivojlanishi uchun oqsil kerak",
+        "O'simlik shirasi bilan oziqlanish kerak",
+        "Suv yuzasiga chiqishi kerak",
+        "Lichinkalar nafas olishi kerak"
+      ],
+      "x": "«faqat urg'ochi chivin qon so'radi, chunki tuxum rivojlanishi uchun oqsil kerak»"
+    },
+    {
+      "q": "Urg'ochi chivin odatda qachon faol bo'ladi?",
+      "c": "Tunda, kechqurundan tong otguncha",
+      "w": [
+        "Kunlash va qishlash fazalarida",
+        "Kechqurun himoya vositalaridan keyin",
+        "Parazit rivojlanishi tugagunga qadar",
+        "Urg'ochi chivin qon so'rgandan keyin"
+      ],
+      "x": "«Urg'ochi chivin odatda tunda, kechqurundan tong otguncha faol bo'ladi»"
+    },
+    {
+      "q": "Chivin parazit bilan qachon zararlanadi?",
+      "c": "Kasal odamning qonini so'rganda",
+      "w": [
+        "Tuxumdan lichinka chiqqanda",
+        "Po'st tashlab g'umbakka aylanganda",
+        "O'simlik shirasi bilan oziqlanganda",
+        "Qanotlari qurigach uchib ketganda"
+      ],
+      "x": "«U kasal odamning qonini, ya'ni gametotsitlarni, so'rganda zararlanadi»"
+    },
+    {
+      "q": "Sporogoniya nima?",
+      "c": "Chivin ichida parazit rivojlanishi uchun ma'lum vaqt",
+      "w": [
+        "Suvdagi bosqichlar yig'indisining haroratga bog'liq davomiyligi",
+        "Chivin umrining qisqartirilishi",
+        "Lichinkalarga qarshi ishlov muddati",
+        "Tuxum qo'yish joylarini tekshirish"
+      ],
+      "x": "«Chivin ichida parazit rivojlanishi uchun ma'lum vaqt kerak, ya'ni sporogoniya»"
+    },
+    {
+      "q": "Qaysi bosqichda chivinga qarshi ishlov eng samarali bo'lishi mumkin?",
+      "c": "Lichinka bosqichida",
+      "w": [
+        "Tuxum bosqichida",
+        "G'umbak bosqichida",
+        "Imago bosqichida",
+        "Sporogoniya bosqichida"
+      ],
+      "x": "«Lichinka bosqichida chivinga qarshi ishlov eng samarali bo'lishi mumkin»"
+    },
+    {
+      "q": "Uy ichida chaqadigan chivinlarga qarshi qaysi choralar samarali?",
+      "c": "To'rlar va ichki purkash",
+      "w": [
+        "Qaytaruvchi vositalar va ko'payish joylari bilan kurash",
+        "Larvitsid va gambuziya baliqlari",
+        "Bonifikatsiya va pasportlashtirish",
+        "Lichinkalarga qarshi ishlov"
+      ],
+      "x": "«uy ichida chaqadigan chivinlarga qarshi to'rlar va ichki purkash samarali»"
+    }
+  ],
+  "040": [
+    {
+      "q": "Chivin bezgak parazitining qaysi xo'jayini hisoblanadi?",
+      "c": "Oxirgi xo'jayin",
+      "w": [
+        "Mexanik tashuvchi",
+        "Jinssiz shakllar manbai",
+        "Faqat gametotsit tashuvchi",
+        "Jinsiy shakllar manbai"
+      ],
+      "x": "«chivin bezgakda shunchaki mexanik tashuvchi emas, balki parazitning oxirgi xo'jayinidir»"
+    },
+    {
+      "q": "Plasmodiy chivinda qanday ko'payadi?",
+      "c": "Jinsiy ko'payish",
+      "w": [
+        "Jinssiz ko'payish",
+        "Mexanik ko'payish",
+        "Haroratga bog'liq ko'payish",
+        "Mavsumiy ko'payish"
+      ],
+      "x": "«odamda jinssiz ko'payadi, chivinda esa jinsiy ko'payadi»"
+    },
+    {
+      "q": "Chivin oshqozonida parazitning qaysi shakllari tirik qoladi?",
+      "c": "Jinsiy shakllar, ya'ni gametotsitlar",
+      "w": [
+        "Jinssiz shakllar, ya'ni halqalar va shizontlar",
+        "Trofozoitlar va shizontlar",
+        "Halqalar va shizontlar",
+        "Sporozoitlar va oosistalar"
+      ],
+      "x": "«faqat jinsiy shakllar, ya'ni gametotsitlar, tirik qoladi va rivojlanishni davom ettiradi»"
+    },
+    {
+      "q": "Erkak gametotsit nimaga bo'linadi?",
+      "c": "Bir necha erkak gameta",
+      "w": [
+        "Bitta urg'ochi gameta",
+        "Minglab sporozoitlar",
+        "Bir necha ookinete",
+        "Bitta yumaloq oosista"
+      ],
+      "x": "«Erkak gametotsit bir necha harakatchan erkak gametaga bo'linadi»"
+    },
+    {
+      "q": "Zigota nimaga aylanadi?",
+      "c": "Harakatchan shakl, ya'ni ookinete",
+      "w": [
+        "Yumaloq shakl, ya'ni oosista",
+        "Uzun ingichka shakl, ya'ni sporozoit",
+        "Jinssiz shakl, ya'ni shizont",
+        "Mayda shakl, ya'ni gameta"
+      ],
+      "x": "«Zigota tez orada harakatchan shaklga, ya'ni ookineteg'a aylanadi»"
+    },
+    {
+      "q": "Oosista ichida nima hosil bo'ladi?",
+      "c": "Minglab sporozoitlar",
+      "w": [
+        "Minglab gametotsitlar",
+        "Minglab ookinetalar",
+        "Minglab zigotalar",
+        "Minglab shizontlar"
+      ],
+      "x": "«natijada minglab sporozoitlar hosil bo'ladi»"
+    },
+    {
+      "q": "Sporozoitlarning ko'pchiligi chivinning qaysi qismiga yo'naladi?",
+      "c": "So'lak bezlariga",
+      "w": [
+        "Oshqozon devoriga",
+        "Tashqi qatlamga",
+        "Immun tizimiga",
+        "Ichak bakteriyalariga"
+      ],
+      "x": "«Ularning ko'pchiligi so'lak bezlariga yo'naladi va u yerga to'planadi»"
+    },
+    {
+      "q": "Oosista bosqichi nimaga kuchli bog'liq?",
+      "c": "Tashqi haroratga",
+      "w": [
+        "Odam immunitetiga",
+        "Gametotsit tashuvchilar davolanishiga",
+        "Chivin jinsiga",
+        "Hazm fermentlariga"
+      ],
+      "x": "«Bu bosqich eng uzoq davom etadi va tashqi haroratga kuchli bog'liq»"
+    },
+    {
+      "q": "Samarali harorat mavsumi P. vivax uchun o'rtacha sutkalik qancha haroratdan barqaror yuqori bo'lgan davr hisoblanadi?",
+      "c": "16 °C dan yuqori harorat",
+      "w": [
+        "18 °C dan yuqori harorat",
+        "10 °C dan yuqori harorat",
+        "20 °C dan yuqori harorat",
+        "25 °C dan yuqori harorat"
+      ],
+      "x": "«o'rtacha sutkalik harorat P. vivax uchun 16 °C dan»"
+    },
+    {
+      "q": "Zararlangan chivinlarning ulushi nima sababdan odatda kichik bo'ladi?",
+      "c": "Ko'plab ookinetalar nobud bo'ladi",
+      "w": [
+        "Ko'plab gametotsitlar nobud bo'ladi",
+        "Ko'plab zigotalar nobud bo'ladi",
+        "Ko'plab sporozoitlar nobud bo'ladi",
+        "Erkak gametalar soni kam bo'ladi"
+      ],
+      "x": "«shu sababli ko'plab ookinetalar nobud bo'ladi»"
+    },
+    {
+      "q": "Bezgak zanjirini uzish uchun odam tomonidan nima qilinadi?",
+      "c": "Gametotsitlarni yo'qotish",
+      "w": [
+        "Chivin umrini qisqartirish",
+        "Ichki purkash o'tkazish",
+        "To'rlar tarqatish",
+        "Xonalarga ichki ishlov berish"
+      ],
+      "x": "«Zanjirni uzish uchun odam tomonidan gametotsitlarni yo'qotish, chivin tomonidan esa uning umrini qisqartirish choralari qo'llanadi»"
+    }
+  ]
+}

@@ -1,0 +1,617 @@
+{
+  "011": [
+    {
+      "q": "Invaziya deb nimaga aytiladi?",
+      "c": "Hayvonlar olamiga mansub parazitlarning organizmga kirib joylashishi",
+      "w": [
+        "Bakteriya va viruslarning organizmga kirib ko'payishi",
+        "Parazit organizmdan chiqarilgandan keyin yangidan qayta zararlanish",
+        "Mavjud zararlanish fonida yangi parazitlar bilan zararlanish",
+        "Najas tekshiruvida tuxum sonini hisoblash jarayoni"
+      ],
+      "x": "«Invaziya deb hayvonlar olamiga mansub parazitlarning, ya'ni sodda jonivorlar, gelmintlar va bo'g'imoyoqlilarning odam yoki hayvon organizmiga kirib, unda joylashishi va rivojlanishiga aytiladi»"
+    },
+    {
+      "q": "Bakteriya va viruslar qo'zg'atadigan jarayon nima deb ataladi?",
+      "c": "Infeksiya jarayoni",
+      "w": [
+        "Invaziya jarayoni",
+        "Superinvaziya jarayoni",
+        "Reinvaziya jarayoni",
+        "Autoinvaziya jarayoni"
+      ],
+      "x": "«Mikroblar, ya'ni bakteriya va viruslar qo'zg'atadigan jarayon esa infeksiya deb ataladi»"
+    },
+    {
+      "q": "Superinvaziya nima?",
+      "c": "Mavjud zararlanish sharoitida yangi parazitlar bilan qayta zararlanish",
+      "w": [
+        "Parazit organizmdan butunlay chiqarilgandan keyin yangidan zararlanish",
+        "Hayvonlar olamiga mansub parazitlarning organizmga kirib joylashishi",
+        "Bakteriya va viruslar qo'zg'atadigan zararlanish jarayoni",
+        "Najas tekshiruvida topilgan tuxumlarning yetuk parazitga aylanishi"
+      ],
+      "x": "«Superinvaziya organizmda parazit bilan zararlanish allaqachon mavjud bo'lgan sharoitda yangi parazitlar bilan qayta zararlanishdir»"
+    },
+    {
+      "q": "Reinvaziya nima?",
+      "c": "Parazit organizmdan butunlay chiqarilgandan keyin yangidan zararlanish",
+      "w": [
+        "Avvalgi parazitlar tanada qolgan holda yangi zararlanish",
+        "Hayvonlar olamiga mansub parazitlarning kirib joylashishi",
+        "Bakteriya va viruslar qo'zg'atadigan jarayon deb ataladi",
+        "Tuxum sonini hisoblash orqali zararlanish intensivligini baholash"
+      ],
+      "x": "«Reinvaziya parazit organizmdan butunlay chiqarilgandan, ya'ni davolash bilan yoki o'z-o'zidan tozalangandan keyin yangidan zararlanishdir»"
+    },
+    {
+      "q": "Superinvaziya gelmintozda nimaga asosiy sabab bo'ladi?",
+      "c": "Zararlanish intensivligining oshishiga",
+      "w": [
+        "Parazitlar sonining kamayishiga",
+        "Davolash samarasining oshishiga",
+        "Tashqi muhit ifloslanishining kamayishiga",
+        "Sanitariya sharoitining yaxshilanishiga"
+      ],
+      "x": "«Shu sababli superinvaziya gelmintozda zararlanish intensivligining oshishiga asosiy sabab bo'ladi»"
+    },
+    {
+      "q": "JSST ma'lumotiga ko'ra og'ir zararlanishda qanday belgilar kuzatiladi?",
+      "c": "Diareya, qorin og'rig'i, holsizlik, bolalarda o'sishdan orqada qolish",
+      "w": [
+        "Yengil zararlanishda odam odatda aziyat chekmaydi",
+        "Najasda tuxum yoki lichinka topilishi va qayta zararlanish ehtimoli",
+        "Parazitlar sonining kamayishi va davolash samarasi ko'rinishi",
+        "Ichimlik suvi xavfsizligi va qo'l gigiyenasi yetishmasligi"
+      ],
+      "x": "«og'ir zararlanishda esa diareya, qorin og'rig'i, holsizlik va bolalarda o'sishdan orqada qolish kuzatiladi»"
+    },
+    {
+      "q": "Superinvaziya uchun eng qulay sharoit qaysi?",
+      "c": "Tashqi muhitning infeksion bosqichlar bilan doimiy ifloslanishi",
+      "w": [
+        "Davolashdan keyin parazitning organizmdan butunlay chiqarilishi",
+        "Sanitariya sharoiti yaxshilangan hududda doimiy yashash",
+        "Qo'l gigiyenasi va sabzavotlarni yuvish yoki pishirish",
+        "Ichimlik suvi xavfsizligi va najasni yo'qotish"
+      ],
+      "x": "«Superinvaziya uchun eng qulay sharoit tashqi muhitning infeksion bosqichlar bilan doimiy ifloslanishidir»"
+    },
+    {
+      "q": "Najas tekshiruvida tuxum sonini hisoblash nimaga imkon beradi?",
+      "c": "Zararlanish intensivligini baholashga",
+      "w": [
+        "Reinvaziyani superinvaziyadan ajratishga",
+        "Zararlanishni to'liq inkor etishga",
+        "Davriy profilaktik kimyoterapiyani tavsiya etishga",
+        "Bakteriya va viruslar turini aniqlashga"
+      ],
+      "x": "«Najas tekshiruvida tuxum sonini hisoblash zararlanish intensivligini baholashga imkon beradi»"
+    },
+    {
+      "q": "Manfiy laboratoriya natijasi nimani bildiradi?",
+      "c": "Zararlanishni to'liq inkor etmaydi",
+      "w": [
+        "Parazitlar organizmdan butunlay chiqarilganini",
+        "Superinvaziya xavfi mavjud emasligini",
+        "Davolash samarali bo'lganini",
+        "Tuproq ifloslanmaganini"
+      ],
+      "x": "«Shu sababli manfiy natija zararlanishni to'liq inkor etmaydi va klinik holat bilan birga baholanadi»"
+    },
+    {
+      "q": "JSST xavf ostidagi guruhlar uchun nimani tavsiya etadi?",
+      "c": "Davriy profilaktik kimyoterapiya o'tkazishni",
+      "w": [
+        "Faqat bir martalik davolash o'tkazishni",
+        "Najasni xavfsiz yo'qotish choralarini",
+        "Sabzavot va mevalarni yuvish yoki pishirishni",
+        "Ichimlik suvi xavfsizligini saqlashni"
+      ],
+      "x": "«JSST xavf ostidagi guruhlar uchun davriy profilaktik kimyoterapiyani tavsiya etadi»"
+    },
+    {
+      "q": "Geogelmintozlarda ikkinchi ommaviy degelmintizatsiya qachon o'tkaziladi?",
+      "c": "Kech kuz va qish boshida",
+      "w": [
+        "Bahor oxiri va yoz boshida",
+        "Yoz oxiri va kuz boshida",
+        "Qish oxiri va bahor boshida",
+        "Bahor boshi va yoz oxirida"
+      ],
+      "x": "«ikkinchisi kech kuz va qish boshida»"
+    }
+  ],
+  "012": [
+    {
+      "q": "Aralash infeksiya nima?",
+      "c": "Organizmda bir vaqtning o'zida ikki yoki undan ortiq qo'zg'atuvchi mavjudligi",
+      "w": [
+        "Odamning o'zini zararlangan tuxum orqali qayta zararlashi",
+        "Tuproq orqali yuqadigan gelmintlarning bir hududda birga uchrashi va tarqalishi",
+        "Tuxumlar ichak ichida ochilib lichinkalarning qayta kirishi",
+        "Bolalar najasida faqat bitta tur gelmint tuxumi topilishi"
+      ],
+      "x": "«organizmda bir vaqtning o'zida ikki yoki undan ortiq turdagi qo'zg'atuvchi mavjudligini bildiradi»"
+    },
+    {
+      "q": "Aralash infeksiyaning asosiy sababi nima?",
+      "c": "Ifloslangan suv, tuproq va qo'l orqali umumiy yuqish yo'li",
+      "w": [
+        "Yuqori dozada immunosupressiv dori qabul qilinishi",
+        "Anal atrofdagi qichishish natijasida tuxum o'tishi",
+        "Dori vositasiga turlicha sezgirlik va preparat tanlash",
+        "Davolangan odamning qayta kasallanishi va qaytalanishi"
+      ],
+      "x": "«Aralash infeksiyaning asosiy sababi umumiy yuqish yo'lidir: ifloslangan suv, tuproq va qo'l bir vaqtda turli parazitlarning tuxumi va sistalarini tashiydi»"
+    },
+    {
+      "q": "Laboratoriyada aralash infeksiyani aniqlash uchun nima qilish kerak?",
+      "c": "Namunaning butun maydoni ko'rib chiqilishi kerak",
+      "w": [
+        "Bitta parazit topilgandan keyin tekshiruvni to'xtatish",
+        "Tuxum sonini hisoblab tekshiruvni yakunlash",
+        "Namunaning bitta maydonini ko'rib chiqish",
+        "Faqat bitta tur tuxumiga e'tibor berish"
+      ],
+      "x": "«Namunaning butun maydoni ko'rib chiqilishi, turli kattalik va shakldagi tuxum, lichinka va sistalarga e'tibor berilishi kerak»"
+    },
+    {
+      "q": "Aralash infeksiyada laborant natijada nimani yozadi?",
+      "c": "Topilgan barcha turlarni alohida yozadi",
+      "w": [
+        "Faqat eng ko'p topilgan turni yozadi",
+        "Bemorning yoshi va umumiy holatini yozadi",
+        "Dozalarni milliy protokol bilan solishtirib yozadi",
+        "Bitta tur yoziladi, ikkinchisi e'tibordan chetda"
+      ],
+      "x": "«Laborant natijada topilgan barcha turlarni alohida yozadi, chunki shifokor davolash rejasini shu ro'yxat asosida tuzadi»"
+    },
+    {
+      "q": "Autoinvaziya nima?",
+      "c": "Odamning o'zi bilan zararlangan parazit tuxumi yoki lichinkalari orqali qayta zararlanishi",
+      "w": [
+        "Organizmda bir vaqtning o'zida ikki yoki undan ortiq turdagi qo'zg'atuvchi mavjudligi",
+        "Tashqi manbadan tushgan yangi tuxumlar orqali boshqa odamning zararlanishi",
+        "Bolalar jamoasida bitta zararlangan bola orqali butun guruhning zararlanishi",
+        "Tuproq orqali yuqadigan gelmintlarning bir hududda birga uchrashi"
+      ],
+      "x": "«Autoinvaziya, ya'ni o'z-o'zini qayta zararlash, odamning o'zi bilan zararlangan parazit tuxumi yoki lichinkalari orqali qayta zararlanishidir»"
+    },
+    {
+      "q": "Tashqi autoinvaziyada tuxumlar organizmga qanday tushadi?",
+      "c": "Iflos qo'l orqali og'izga tushadi",
+      "w": [
+        "Ifloslangan suv orqali ichakka o'tadi",
+        "Anal atrofga chiqib kechasi qo'yiladi",
+        "Ko'rpa-to'shak orqali teriga kiradi",
+        "Ichak devori orqali qonga o'tadi"
+      ],
+      "x": "«Tashqi autoinvaziyada tuxumlar iflos qo'l orqali og'izga tushadi»"
+    },
+    {
+      "q": "Ichki autoinvaziyada nima sodir bo'ladi?",
+      "c": "Tuxumlar ichak ichida ochilib, lichinkalar ichak devoriga qayta kiradi",
+      "w": [
+        "Tuxumlar iflos qo'l orqali og'izga tushib qoladi",
+        "Urg'ochi parazit kechasi anal atrofiga chiqib tuxum qo'yadi, bu qichishish chaqiradi",
+        "Tuxumlar tirnoq ostida to'planib, og'iz orqali ichakka o'tadi",
+        "Bir necha parazit organizmga yig'indi zarar yetkazadi"
+      ],
+      "x": "«ichki autoinvaziyada esa tuxumlar ichak ichida ochilib, lichinkalar ichak devoriga qayta kiradi»"
+    },
+    {
+      "q": "Autoinvaziyaning eng tipik misoli qaysi gelmintoz?",
+      "c": "Enterobioz, ya'ni ostritsa bilan zararlanish",
+      "w": [
+        "Askaridoz, ya'ni askarida bilan zararlanish",
+        "Lyambliyoz, ya'ni lyambliya bilan zararlanish",
+        "Qilbosh chuvalchang bilan zararlanish",
+        "Sodda jonivor sistalari bilan zararlanish"
+      ],
+      "x": "«Autoinvaziyaning eng tipik misoli enterobioz, ya'ni ostritsa bilan zararlanishdir»"
+    },
+    {
+      "q": "Urg'ochi ostritsa tuxum qo'yganda nima chaqiradi?",
+      "c": "Anal atrofida qichishish",
+      "w": [
+        "Ichak devorida lichinkalar paydo bo'lishi",
+        "Ichak shikastlanishi bilan kamqonlik",
+        "Bolalar najasida sista topilishi",
+        "Tirnoq ostida tuxum to'planishi"
+      ],
+      "x": "«Urg'ochi ostritsa kechasi anal atrofiga chiqib tuxum qo'yadi, bu qichishish chaqiradi»"
+    },
+    {
+      "q": "Autoinvaziya va qayta zararlanishning oldini olishda davolash qanday o'tkaziladi?",
+      "c": "Oila yoki jamoadagi barcha a'zolar uchun bir vaqtda",
+      "w": [
+        "Faqat zararlangan bola uchun alohida",
+        "Har bir oila uchun turli kunlarda",
+        "Bemorning yoshi va umumiy holatiga qarab alohida",
+        "Ommaviy tekshiruvsiz yiliga ikki marta"
+      ],
+      "x": "«Davolash oila yoki jamoadagi barcha a'zolar uchun bir vaqtda o'tkazilishi kerak, aks holda davolangan odam yana boshqalardan zararlanadi»"
+    },
+    {
+      "q": "Enterobiozga qarshi bolalar va xodimlarni davolash qachon o'tkazilishi lozim?",
+      "c": "Dam olish kunlarida",
+      "w": [
+        "Kechasi ichki kiyim almashtirilganda",
+        "Qo'lni sovun bilan yuvgandan keyin",
+        "Muassasa atrofi ifloslanishi oldini olingandan keyin",
+        "Davolash sxemasi belgilangandan keyin"
+      ],
+      "x": "«bolalar va xodimlarni davolash dam olish kunlarida o'tkazilishi lozim»"
+    }
+  ],
+  "013": [
+    {
+      "q": "Transmissiv yo'l nima?",
+      "c": "Qo'zg'atuvchining qon so'ruvchi tashuvchi yordamida o'tishi",
+      "w": [
+        "Parazitning ifloslangan ovqat bilan og'iz orqali kirishi",
+        "Parazitning teri orqali bevosita organizmga o'tishi",
+        "Qo'zg'atuvchining to'g'ridan-to'g'ri aloqa orqali tarqalishi",
+        "Chivin ichida jinsiy ko'payish kechishi"
+      ],
+      "x": "«Transmissiv yo'l qo'zg'atuvchining qon so'ruvchi bo'g'imoyoqli tashuvchi, ya'ni vektor yordamida bir xo'jayindan ikkinchisiga o'tishidir»"
+    },
+    {
+      "q": "Parazitar kasalliklarda ko'proq qaysi transmissiya uchraydi?",
+      "c": "Biologik transmissiya",
+      "w": [
+        "Mexanik transmissiya",
+        "Peroral transmissiya",
+        "Perkutan transmissiya",
+        "Kontakt transmissiya"
+      ],
+      "x": "«Parazitar kasalliklarda ko'proq biologik transmissiya uchraydi»"
+    },
+    {
+      "q": "Mexanik transmissiyada tashuvchi organizmida nima bo'ladi?",
+      "c": "Rivojlanish bo'lmaydi",
+      "w": [
+        "Qo'zg'atuvchi jinsiy ko'payadi",
+        "Qo'zg'atuvchi jinssiz ko'payadi",
+        "Tashuvchi oraliq xo'jayin bo'ladi",
+        "Rivojlanishning zaruriy bosqichi kechadi"
+      ],
+      "x": "«tashuvchi qo'zg'atuvchini faqat mexanik ko'chiradi, uning organizmida rivojlanish bo'lmaydi»"
+    },
+    {
+      "q": "JSST ma'lumotiga ko'ra bezgak asosan qaysi tashuvchi chaqishi bilan yuqadi?",
+      "c": "Zararlangan Anopheles urg'ochi chivinlari",
+      "w": [
+        "Phlebotomus turkumi urg'ochi chivinchalari",
+        "Borrelia turkumi yumshoq kanalari",
+        "Qora pashshalarning chaqishi",
+        "Mayda pashshalarning chaqishi"
+      ],
+      "x": "«bezgak asosan zararlangan Anopheles urg'ochi chivinlarining chaqishi bilan yuqadi»"
+    },
+    {
+      "q": "Bezgakda chivin parazit sikli uchun qanday xo'jayin hisoblanadi?",
+      "c": "Parazit sikli uchun zarur xo'jayin",
+      "w": [
+        "Oddiy mexanik tashuvchi xo'jayin",
+        "Qo'zg'atuvchi ko'paymaydigan xo'jayin",
+        "Rezervuar bo'lgan hayvon xo'jayin",
+        "Jinssiz ko'payish kechadigan xo'jayin"
+      ],
+      "x": "«chivin bezgakda oddiy tashuvchi emas, parazit sikli uchun zarur xo'jayindir»"
+    },
+    {
+      "q": "Leishmania qaysi tashuvchining chaqishi bilan yuqadi?",
+      "c": "Phlebotomus turkumi chivinchalari urg'ochilarining chaqishi",
+      "w": [
+        "Anopheles turkumi chivinlari urg'ochilarining chaqishi",
+        "Yumshoq kanalar va bitlarning chaqishi",
+        "Qora pashshalar urg'ochilarining chaqishi",
+        "Tsetse pashshalari urg'ochilarining chaqishi"
+      ],
+      "x": "«ular Phlebotomus turkumi chivinchalari urg'ochilarining chaqishi bilan yuqadi»"
+    },
+    {
+      "q": "Onxoserkoz qaysi tashuvchi orqali yuqadi?",
+      "c": "Qora pashshalar",
+      "w": [
+        "Anopheles chivinlari",
+        "Phlebotomus chivinchalari",
+        "Argasid kanalar",
+        "Tsetse pashshasi"
+      ],
+      "x": "«onxoserkoz qora pashshalar orqali yuqadi»"
+    },
+    {
+      "q": "Harorat va namlik transmissiv kasalliklarda nimaga ta'sir qiladi?",
+      "c": "Parazitning tashuvchi ichida rivojlanish tezligiga",
+      "w": [
+        "Odam va tashuvchi o'rtasidagi aloqa darajasiga",
+        "Rezervuar bo'lgan hayvon sonining kamayishiga",
+        "Tashuvchi zichligi va yashash joyiga",
+        "Qo'zg'atuvchini aniqlash usulining tanloviga"
+      ],
+      "x": "«harorat va namlik parazitning tashuvchi ichida rivojlanish tezligiga ta'sir qiladi»"
+    },
+    {
+      "q": "Odamni tashuvchidan himoya qilishga nimalar kiradi?",
+      "c": "To'rlar, qaytaruvchi vositalar, himoya kiyimi",
+      "w": [
+        "Ko'payish joylarini yo'qotish va atrof-muhitni tozalash",
+        "Insektitsid bilan ishlov berish va tozalash",
+        "Entomologik kuzatuv va chivin tutish",
+        "Qon surtmasi va serologik tahlil"
+      ],
+      "x": "«Birinchisiga to'rlar, qaytaruvchi vositalar, himoya kiyimi va deraza to'rlari kiradi»"
+    },
+    {
+      "q": "Entomologik kuzatuvda nimalar baholanadi?",
+      "c": "Tashuvchining turi, zichligi va mavsumiy faolligi",
+      "w": [
+        "Bemor qonidagi qo'zg'atuvchi va serologik tahlil",
+        "Qon surtmasi va to'qima aspirati natijalari",
+        "Himoya kiyimi va deraza to'rlari holati",
+        "Odam va hayvon rezervuarining mavjudligi"
+      ],
+      "x": "«chivin yoki chivincha tutiladi, turi aniqlanadi, zichligi va mavsumiy faolligi baholanadi»"
+    },
+    {
+      "q": "Chivinchalar uchun qanday to'r tavsiya qilinadi?",
+      "c": "Mayda katakli yoki insektitsid bilan ishlangan to'r",
+      "w": [
+        "Himoya kiyimi bilan ishlangan deraza to'ri",
+        "Faqat himoya kiyimi va qaytaruvchi vositalar bilan ishlangan to'r",
+        "Tashuvchi zichligiga qarab oddiy to'r",
+        "Qaytaruvchi vositalar bilan ishlangan kiyim"
+      ],
+      "x": "«mayda katakli to'r yoki insektitsid bilan ishlangan to'r tavsiya qilinadi»"
+    }
+  ],
+  "014": [
+    {
+      "q": "Plasmodium vivax qaysi bezgak qo'zg'atuvchisi?",
+      "c": "Uch kunlik bezgak",
+      "w": [
+        "To'rt kunlik bezgak",
+        "Tropik bezgak",
+        "Ovale-bezgak",
+        "Zoonoz bezgak"
+      ],
+      "x": "«Plasmodium vivax uch kunlik bezgak qo'zg'atuvchisidir»"
+    },
+    {
+      "q": "Tropik bezgak qo'zg'atuvchisi qaysi tur?",
+      "c": "Plasmodium falciparum turi",
+      "w": [
+        "Plasmodium vivax turi",
+        "Plasmodium malariae turi",
+        "Plasmodium ovale turi",
+        "Plasmodium knowlesi turi"
+      ],
+      "x": "«Plasmodium falciparum tropik bezgak qo'zg'atuvchisi bo'lib, eng xavfli tur hisoblanadi»"
+    },
+    {
+      "q": "Davolanmagan P. falciparum bezgagi 24 soat ichida nimaga olib kelishi mumkin?",
+      "c": "Og'ir kasallik va o'limga",
+      "w": [
+        "Jigarda uxlab yotuvchi shakllar hosil bo'lishiga",
+        "Past darajali parazitemiya yillab saqlanishiga",
+        "Aralash bezgak yuzaga kelishiga",
+        "Tartibsiz isitma va qaytalanishga"
+      ],
+      "x": "«davolanmagan P. falciparum bezgagi 24 soat ichida og'ir kasallik va o'limga olib kelishi mumkinligini»"
+    },
+    {
+      "q": "P. malariae isitma xurujlari har necha soatda qaytalanadi?",
+      "c": "Har 72 soatda",
+      "w": [
+        "Har 48 soatda",
+        "Har 24 soatda",
+        "Har ikki kunda",
+        "Isitma tartibsiz bo'ladi"
+      ],
+      "x": "«Uning isitma xurujlari har uch kunda, ya'ni 72 soatda qaytalanadi»"
+    },
+    {
+      "q": "Plasmodium vivax davolashdan keyin nima sababdan qaytalanishi mumkin?",
+      "c": "Jigarda uxlab yotuvchi shakllar hosil qiladi",
+      "w": [
+        "Qalin tomchida parazit topilmasligi sababli",
+        "Past darajali parazitemiya yillab saqlanadi",
+        "Makakalar orasida aylanib yuradi",
+        "Tartibsiz isitma bilan og'irlashadi"
+      ],
+      "x": "«Bu tur jigarda uxlab yotuvchi shakllar hosil qiladi, shu sababli davolashdan keyin ham qaytalanishi mumkin»"
+    },
+    {
+      "q": "P. vivax yoki P. ovale aniqlansa, qaytalanishning oldini olish uchun nima qo'shiladi?",
+      "c": "Primakvin qo'shilishi kerak",
+      "w": [
+        "Faqat qon shakllariga qarshi dori",
+        "Uzoq muddatli kuzatuv",
+        "Zudlik bilan kasalxonaga yotqizish",
+        "Ikkinchi mutaxassisga ko'rsatish"
+      ],
+      "x": "«P. vivax yoki P. ovale aniqlansa, qaytalanishning oldini olish uchun primakvin qo'shilishi kerak»"
+    },
+    {
+      "q": "Plasmodium knowlesi tabiatda qaysi hayvonlar orasida aylanadi?",
+      "c": "Makakalar orasida",
+      "w": [
+        "Kemiruvchilar orasida",
+        "Qushlar orasida",
+        "Kaltakesaklar orasida",
+        "Chivinlar orasida"
+      ],
+      "x": "«Bu parazit tabiatda makakalar orasida aylanadi»"
+    },
+    {
+      "q": "Bezgak turini aniqlash qanday usul bilan amalga oshiriladi?",
+      "c": "Qon surtmasini mikroskopik tekshirish",
+      "w": [
+        "Primakvin bilan davolash orqali",
+        "Sayohat tarixini so'rash orqali",
+        "Bemorni kasalxonaga yotqizish orqali",
+        "Faqat klinik belgilarga qarab"
+      ],
+      "x": "«Turni aniqlash qon surtmasini mikroskopik tekshirish bilan amalga oshiriladi»"
+    },
+    {
+      "q": "Tur noaniq bo'lsa, preparat qanday yo'l tutiladi?",
+      "c": "Ikkinchi mutaxassisga ko'rsatiladi yoki ma'lumotnoma laboratoriyasiga yuboriladi",
+      "w": [
+        "Qalin tomchi o'rniga yupqa surtma tayyorlanadi va bemor yotqiziladi",
+        "Davolash sxemasi tanlanadi va uzoq muddat kuzatuv boshlanadi",
+        "Natijaga bezgak plazmodiysi topildi deb yoziladi va tekshiruv yakunlanadi",
+        "Eritrotsit o'lchami va donadorlik hisobga olinmasdan natija beriladi"
+      ],
+      "x": "«Tur noaniq bo'lsa, preparat ikkinchi mutaxassisga ko'rsatiladi yoki ma'lumotnoma laboratoriyasiga yuboriladi»"
+    },
+    {
+      "q": "Bir bemorda bir vaqtda ikki yoki undan ortiq tur parazitlari aniqlanishi nima deyiladi?",
+      "c": "Aralash bezgak",
+      "w": [
+        "Zoonoz bezgak",
+        "Tropik bezgak",
+        "Qaytalanuvchi bezgak",
+        "Past darajali bezgak"
+      ],
+      "x": "«bu aralash bezgak deyiladi»"
+    },
+    {
+      "q": "Tropik bezgakda qanday terapiya qo'llanadi?",
+      "c": "Artemizinin asosidagi kombinatsiyalangan terapiya",
+      "w": [
+        "Primakvin asosidagi jigar shakllariga qarshi terapiya",
+        "Qon shakllariga qarshi dori bilan kuzatuv terapiyasi",
+        "Uzoq muddatli kuzatuvga asoslangan davolash terapiyasi",
+        "Hududdagi protokolga bog'liq dozalar terapiyasi"
+      ],
+      "x": "«Tropik bezgakda artemizinin asosidagi kombinatsiyalangan terapiya»"
+    }
+  ],
+  "015": [
+    {
+      "q": "Zoonoz bezgak deb nimaga aytiladi?",
+      "c": "Hayvon, asosan primat parazitining chivin orqali odamga o'tishi va kasallik chaqirishi",
+      "w": [
+        "Odamdan odamga chivin orqali o'tadigan klassik turlar keltirib chiqargan kasallik",
+        "Asosiy xo'jayini odam bo'lgan parazitning o'rmon chivinlari orqali tarqalishi",
+        "Primat parazitining odamda uzoq yillar saqlanib, tasodifan qaytalanishi",
+        "Yovvoyi hayvonlar orasida parazitning davolash bilan yo'qotilishi"
+      ],
+      "x": "«Zoonoz bezgak deb hayvon, asosan primat parazitining chivin orqali odamga o'tishi va odamda kasallik chaqirishiga aytiladi»"
+    },
+    {
+      "q": "Zoonoz bezgakning eng aniq tasdiqlangan qo'zg'atuvchisi qaysi tur?",
+      "c": "Plasmodium knowlesi",
+      "w": [
+        "Plasmodium vivax",
+        "Plasmodium ovale",
+        "Plasmodium malariae",
+        "Plasmodium falciparum"
+      ],
+      "x": "«P. knowlesi tabiatda makakalar orasida aylanadi va aynan shu tur zoonoz bezgakning eng aniq tasdiqlangan qo'zg'atuvchisidir»"
+    },
+    {
+      "q": "Zoonoz bezgakda asosiy manba kim?",
+      "c": "Hayvon rezervuari",
+      "w": [
+        "Bezgak bilan og'rigan odam",
+        "Sayohatchi yoki mehnat migranti",
+        "Shahar chivinlari",
+        "Davolanmagan dehqonlar"
+      ],
+      "x": "«Asosiy manba odam emas, hayvon rezervuaridir»"
+    },
+    {
+      "q": "Nima uchun odamlarni davolash bilan zoonoz bezgakni yo'qotib bo'lmaydi?",
+      "c": "Yovvoyi primatlar orasida parazit saqlanib qoladi",
+      "w": [
+        "Odamdan odamga yuqish ehtimoli yuqori bo'ladi",
+        "Mikroskopiyada parazit turini ajratib bo'lmaydi",
+        "Dozalar milliy protokol bilan solishtirilmagan",
+        "Sayohatchilar uchun kimyoprofilaktika belgilanadi"
+      ],
+      "x": "«odamlarni davolash bilan kasallikni yo'qotib bo'lmaydi, chunki yovvoyi primatlar orasida parazit saqlanib qoladi»"
+    },
+    {
+      "q": "Zoonoz bezgak bilan odatda kimlar zararlanadi?",
+      "c": "O'rmonga yaqin yashovchi yoki o'rmonda ishlovchi shaxslar",
+      "w": [
+        "Shahar chivinlari bilan yashovchi odamlar",
+        "Bezgakdan holi deb sertifikatlangan mamlakat aholisi orasidagi bemorlar",
+        "Makakalar bilan aloqasi bo'lmagan sayohatchilar",
+        "Primatlar yashamaydigan joydagi dehqonlar"
+      ],
+      "x": "«Odam odatda o'rmonga yaqin yashovchi yoki o'rmonda ishlovchi shaxs bo'ladi»"
+    },
+    {
+      "q": "O'zbekistonda zoonoz bezgak nega mahalliy tarqalish xavfini tug'dirmaydi?",
+      "c": "Yovvoyi makakalar yo'qligi sababli",
+      "w": [
+        "Mehnat migrantlari kelmagani sababli",
+        "Dehqonlar o'rmonga kirmagani sababli",
+        "Tashuvchi chivinlar yashamagani sababli",
+        "Sayohat tarixi so'ralgani sababli"
+      ],
+      "x": "«O'zbekistonda yovvoyi makakalar yo'qligi sababli zoonoz bezgak mahalliy tarqalish xavfini tug'dirmaydi»"
+    },
+    {
+      "q": "O'zbekiston uchun zoonoz bezgak xavfi qaysi yo'l bilan bo'lishi mumkin?",
+      "c": "Import qilingan holatlar orqali",
+      "w": [
+        "Mahalliy yovvoyi primatlar orqali",
+        "Mahalliy o'rmon chivinlari orqali",
+        "Dehqonlar va o'rmonchilar orqali",
+        "Sayohat tarixini so'rash orqali"
+      ],
+      "x": "«Xavf faqat import qilingan holatlar orqali bo'lishi mumkin»"
+    },
+    {
+      "q": "Mikroskopiyada P. knowlesi ning ayrim shakllari qaysi turlarga o'xshaydi?",
+      "c": "P. malariae va P. falciparum shakllariga",
+      "w": [
+        "P. vivax va P. ovale shakllariga",
+        "P. vivax va P. falciparum shakllariga",
+        "P. ovale va P. malariae shakllariga",
+        "P. cynomolgi va P. simium shakllariga"
+      ],
+      "x": "«uning ayrim shakllari P. malariae ga, boshqalari P. falciparum ga o'xshaydi»"
+    },
+    {
+      "q": "Mikroskopiya bilan P. knowlesi ni ajratish qiyin bo'lsa, aniq tasdiq uchun nima kerak bo'lishi mumkin?",
+      "c": "Molekulyar usul",
+      "w": [
+        "Tezkor test",
+        "Sayohat tarixi",
+        "Qon surtmasi natijasi",
+        "Klinik kechish"
+      ],
+      "x": "«aniq tasdiq uchun molekulyar usul kerak bo'lishi mumkin»"
+    },
+    {
+      "q": "Zoonoz bezgak bilan og'rigan bemor qanday davolanadi?",
+      "c": "Boshqa turlardagidek bezgakka qarshi dori bilan davolanadi",
+      "w": [
+        "Faqat hayvon rezervuarini yo'qotish bilan davolanadi",
+        "Dozalar milliy protokolga muvofiq tanlanib davolanadi",
+        "Sayohat tarixiga qarab chivin chaqishidan davolanadi",
+        "Molekulyar usul natijasiga qarab davolanadi"
+      ],
+      "x": "«Zoonoz bezgak bilan og'rigan bemor boshqa turlardagidek bezgakka qarshi dori bilan davolanadi»"
+    },
+    {
+      "q": "Zoonoz bezgak profilaktikasi nimaga asoslanadi?",
+      "c": "Odamni chivin chaqishidan himoya qilishga",
+      "w": [
+        "Hayvon rezervuarini davolash va yo'q qilishga",
+        "Yovvoyi primatlarni yo'q qilish va davolashga",
+        "Faqat kimyoprofilaktikaga",
+        "Bezgakdan holi sertifikatlashga"
+      ],
+      "x": "«Profilaktika odamni chivin chaqishidan himoya qilishga asoslanadi»"
+    }
+  ]
+}

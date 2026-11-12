@@ -1,0 +1,606 @@
+{
+  "061": [
+    {
+      "q": "Visseral leyshmanioz uchun asosiy hayvon manbalari qaysilar?",
+      "c": "Itlar va yovvoyi itsimonlar",
+      "w": [
+        "Kemiruvchilar va chivinchalar",
+        "Veterinariya va ekologiya xizmatlari",
+        "Tibbiyot xodimlari va laborantlar",
+        "Aholi va tibbiyot xodimlari"
+      ],
+      "x": "«Visseral leyshmaniozning asosiy manbalari itlar va yovvoyi itsimonlar bo'lib, kasallikni nazorat qilish ularni aniqlash va zararsizlantirishga, chivinchalarga qarshi kurashga hamda bemorlarni erta aniqlashga tayanadi.»"
+    },
+    {
+      "q": "JSST leyshmaniozni nazorat qilishning qaysi asosiy strategiyalarini sanab o'tadi?",
+      "c": "Vektorga qarshi kurash va samarali kuzatuv",
+      "w": [
+        "Aspirat preparatlari va tezkor testlar",
+        "Ilmiy tadqiqotlar va parazit turini ajratish",
+        "Itlarni izolyatsiya qilish va o'qitish",
+        "Axlatni olib tashlash va mikroskopiya"
+      ],
+      "x": "«erta tashxis va samarali tezkor davolash; vektorga qarshi kurash; hayvon rezervuarlarini nazorat qilish; samarali kuzatuv; jamiyatni safarbar qilish»"
+    },
+    {
+      "q": "Chivinchalarga qarshi kurashda kemiruvchi inlari va yoriqlarga nima qilinadi?",
+      "c": "Insektitsid bilan ishlov beriladi",
+      "w": [
+        "Izolyatsiya qilinib tekshiriladi",
+        "Veterinar ko'rigidan o'tkaziladi",
+        "Shaxsiy himoya choralari ko'riladi",
+        "Parazitologik tekshiruvdan o'tkaziladi"
+      ],
+      "x": "«Chivinchalarga qarshi kurash o'choqlarda uy-joy va chorva binolari, kemiruvchi inlari va yoriqlarni insektitsid bilan ishlov berish, mayda ko'zli to'rlardan foydalanish, axlat va organik qoldiqlarni olib tashlash, shaxsiy himoya choralarini o'z ichiga oladi»"
+    },
+    {
+      "q": "Visseral leyshmaniozda samarali kuzatuv nimalarni o'z ichiga oladi?",
+      "c": "Holatni tasniflash va o'choqni xaritalash",
+      "w": [
+        "Itlarni ushlash va yo'q qilish",
+        "Mikroskopiya va aspirat tekshiruvi",
+        "Kemiruvchilarni yo'qotish va tekshirish",
+        "Xodimlarni o'qitish va mashq qildirish"
+      ],
+      "x": "«Visseral leyshmaniozni nazorat qilish samarali kuzatuvga asoslanadi: har bir holat qayd etiladi, tasniflanadi, o'choq xaritalanadi.»"
+    },
+    {
+      "q": "Kam uchraydigan kasallikda har bir holat nimani ko'rsatadi?",
+      "c": "O'choq mavjudligini",
+      "w": [
+        "Tashuvchi chivinchalar turini",
+        "Insektitsid ishlov sifatini",
+        "Veterinar ko'rigi o'tkazilganini",
+        "Parazit turi o'zgarganini"
+      ],
+      "x": "«Kam uchraydigan kasallikda har bir holat ahamiyatli, chunki u o'choq mavjudligini ko'rsatadi.»"
+    },
+    {
+      "q": "Kamdan-kam uchraydigan visseral leyshmanioz tashxisi nima uchun kechikishi mumkin?",
+      "c": "Shifokorlar uni o'ylamasligi mumkin",
+      "w": [
+        "Tezkor testlar preparatni buzishi mumkin",
+        "Veterinariya xizmati hamkorlik qilmasligi mumkin",
+        "Insektitsid ishlov samarasiz bo'lishi mumkin",
+        "Chivinchalar o'choqni kengaytirishi mumkin"
+      ],
+      "x": "«Kasallik kamdan-kam uchragani uchun shifokorlar va laborantlar uni o'ylamasligi mumkin, bu esa tashxisni kechiktiradi.»"
+    },
+    {
+      "q": "Laborant mikroskopiyada nimalarni bilishi kerak?",
+      "c": "Aspirat preparatlarini ko'rish va tezkor testlarni bajarish",
+      "w": [
+        "Itlarni ushlash va veterinar ko'rigidan o'tkazish",
+        "Kemiruvchi inlarini yoriqlar bilan xaritalash",
+        "Ilmiy tadqiqot o'tkazish va parazit turini ajratish",
+        "Chivinchalarga insektitsid ishlov berish va to'rlardan foydalanish"
+      ],
+      "x": "«Laborant mikroskopiyada aspirat preparatlarini ko'rishni, tezkor testlarni bajarishni bilishi kerak.»"
+    },
+    {
+      "q": "Visseral leyshmaniozda qo'shimcha manba hisoblangan yovvoyi hayvonlar qaysilar?",
+      "c": "Chiyabo'ri, tulki va bo'rilar",
+      "w": [
+        "Kemiruvchilar va chivinchalar kabi hayvonlar",
+        "Daydi itlar va xonadon itlari",
+        "Veterinar va tibbiyot xodimlari",
+        "Parazit shtammi va tashuvchi chivinchalar"
+      ],
+      "x": "«qo'zg'atuvchining asosiy tabiiy rezervuari itlar, qo'shimcha manbasi chiyabo'ri, tulki va bo'rilar hisoblanadi»"
+    },
+    {
+      "q": "Samarqandda itlarning necha foizida visseral leyshmanioz aniqlangan?",
+      "c": "40,8% itlarda",
+      "w": [
+        "27,2% itlarda",
+        "25,2% itlarda",
+        "38,8% itlarda",
+        "162 itlarda"
+      ],
+      "x": "«itlarda visseral leyshmanioz Toshkentda 27,2%, Samarqandda 40,8% va Buxoroda 25,2% aniqlangan»"
+    },
+    {
+      "q": "Shubhali itlar tabiiy o'choqlarda nima qilinadi?",
+      "c": "Natija aniq bo'lguncha izolyatsiya qilinadi",
+      "w": [
+        "Daydi itlar qatorida yo'q qilinadi",
+        "Daydi itlar bilan birga ushlanadi",
+        "Xonadonlarda hisobga olinib qoldiriladi",
+        "Chivinchalardan himoya qilinib yuboriladi"
+      ],
+      "x": "«shubhali itlar natija aniq bo'lguncha izolyatsiya qilinishi shart»"
+    },
+    {
+      "q": "Namangan viloyati Pop tumanidagi tadqiqot kasallikning qanday xarakterda ekanini ko'rsatgan?",
+      "c": "Zoonoz xarakterda ekanini",
+      "w": [
+        "Epidemik xarakterda ekanini",
+        "Entomologik xarakterda ekanini",
+        "Klinik xarakterda ekanini",
+        "Laboratoriya xarakterda ekanini"
+      ],
+      "x": "«klinik va epidemiologik belgilari uning zoonoz xarakterda ekanini va ehtimol L. infantum qo'zg'atishini ko'rsatganini ta'kidlaydi»"
+    }
+  ],
+  "062": [
+    {
+      "q": "Noto'g'ri manfiy natija leyshmanioz tashxisida nimaga sabab bo'ladi?",
+      "c": "O'limga olib keladigan kechikishga",
+      "w": [
+        "Keraksiz va zaharli davolashga",
+        "Preparatni qayta tayyorlashga",
+        "Mikroskopni qayta sozlashga",
+        "Bemorni ikkinchi mutaxassisga yuborishga"
+      ],
+      "x": "«noto'g'ri manfiy natija esa bemor uchun o'limga olib keladigan kechikishga sabab bo'ladi, ayniqsa visseral shaklda»"
+    },
+    {
+      "q": "Preparat tayyorlash, bo'yash va mikroskopiya sifat nazoratining qaysi bosqichiga kiradi?",
+      "c": "Tahlil bosqichiga",
+      "w": [
+        "Tahlildan oldingi bosqichga",
+        "Tahlildan keyingi bosqichga",
+        "Hujjatlashtirish bosqichiga",
+        "Tashqi baholash bosqichiga"
+      ],
+      "x": "«Tahlil bosqichi: preparat tayyorlash, bo'yash, mikroskopiya, tezkor test o'tkazish.»"
+    },
+    {
+      "q": "Laboratoriya sifatining asosi nima hisoblanadi?",
+      "c": "Yozma standart protseduralar",
+      "w": [
+        "Tashqi baholash dasturlari",
+        "Ikkinchi mutaxassis xulosasi",
+        "Mikroskop obyektivlari holati",
+        "Nazorat preparatlari bilan mashq"
+      ],
+      "x": "«Sifatning asosi yozma standart protseduralardir, ya'ni SOP.»"
+    },
+    {
+      "q": "Bo'yoq va tezkor test to'plamlari sifatini nazorat qilishda nimalar tekshiriladi?",
+      "c": "Yaroqlilik muddati va saqlash harorati",
+      "w": [
+        "Surtma qalinligi va hujayra yadrolari",
+        "Obyektivlar va mexanik stol holati",
+        "Jurnal yozuvi va bemor kartasi",
+        "Ikkinchi ko'rib chiqish natijalari"
+      ],
+      "x": "«Bo'yoq, metanol, buferli suv, immersion moy, tezkor test to'plamlari sifatini nazorat qilish kerak: yaroqlilik muddati, saqlash harorati, partiya raqami, yangi partiyani eskisi bilan solishtirish.»"
+    },
+    {
+      "q": "Shoshilib ko'rilgan mikroskopiya qanday natijaga olib keladi?",
+      "c": "Noto'g'ri manfiy natijaga",
+      "w": [
+        "Noto'g'ri musbat natijaga",
+        "Ikkinchi ko'rib chiqishga",
+        "Tashqi baholash dasturiga",
+        "Yaroqsiz preparat tayyorlashga"
+      ],
+      "x": "«Shoshilish noto'g'ri manfiy natijaga olib keladi, shuning uchun har bir preparatga yetarli vaqt ajratiladi»"
+    },
+    {
+      "q": "Mikroskopik natijalarda eng samarali sifat vositasi nima?",
+      "c": "Mustaqil ikkinchi mutaxassis tomonidan qayta ko'rib chiqish",
+      "w": [
+        "Sinov preparatlarini tashqi baholash dasturiga yuborish",
+        "Barcha preparatlarni bir xil usulda qayta bo'yash",
+        "Mikroskop obyektivlarini muntazam tekshirib borish",
+        "Yangi partiya reaktivlarini eskisi bilan solishtirish"
+      ],
+      "x": "«Mikroskopik natijalarni mustaqil ikkinchi mutaxassis tomonidan qayta ko'rib chiqish eng samarali sifat vositasi»"
+    },
+    {
+      "q": "Tashqi sifat baholash dasturida laboratoriyalarga nima yuboriladi?",
+      "c": "Sinov preparatlari",
+      "w": [
+        "Tezkor test to'plamlari",
+        "Bemorlar kartalari",
+        "Giemza zahira eritmasi",
+        "Nazorat reaktivlari"
+      ],
+      "x": "«Tashqi sifat baholash dasturida laboratoriyalarga sinov preparatlari yuboriladi va javoblar standart bilan solishtiriladi.»"
+    },
+    {
+      "q": "JSST serologik testlarning teri leyshmaniozidagi ahamiyati haqida nimani ta'kidlaydi?",
+      "c": "Cheklangan ahamiyatga ega ekanini",
+      "w": [
+        "Hal qiluvchi ahamiyatga ega ekanini",
+        "Eng aniq usul ekanini",
+        "Yagona tasdiqlovchi usul ekanini",
+        "Mikroskopiya natijasiga teng ekanini"
+      ],
+      "x": "«JSST serologik testlar teri leyshmaniozida cheklangan ahamiyatga ega ekanini ta'kidlaydi»"
+    },
+    {
+      "q": "PZR kabi molekulyar usullarda sifat uchun nima muhim?",
+      "c": "Kontrol namunalar va ifloslanishning oldini olish",
+      "w": [
+        "Immersion moy, buferli suv pH i va metanol",
+        "Surtma qalinligi, bo'yoq cho'kmasi va changsizligi",
+        "Yaroqlilik muddati, partiya raqami va saqlash harorati",
+        "Obyektivlar, yoritish va mexanik stol holati"
+      ],
+      "x": "«PZR kabi molekulyar usullarda kontrol namunalar, ifloslanishning oldini olish va natijani tasdiqlash muhim.»"
+    },
+    {
+      "q": "Sifat tizimining samarasi qaysi ko'rsatkich bilan baholanadi?",
+      "c": "Yaroqsiz preparatlar ulushi",
+      "w": [
+        "Mikroskoplar va obyektivlar soni",
+        "Qirindi va aspirat soni",
+        "Bo'yoq partiyalari soni",
+        "Laborantlar va mutaxassislar soni"
+      ],
+      "x": "«Sifat tizimining samarasi yaroqsiz preparatlar ulushi, ikkinchi ko'rib chiqishda natijalar mosligi, natijani chiqarish muddati va tuzatish choralari soni bilan baholanadi.»"
+    },
+    {
+      "q": "Teri leyshmaniozida qaysi surtmalarning 100% i DSENM parazitologiya laboratoriyasiga yuboriladi?",
+      "c": "Musbat va shubhali surtmalar",
+      "w": [
+        "Manfiy natijali barcha surtmalar",
+        "Yaroqsiz va qayta tayyorlangan surtmalar",
+        "Faqat visseral shakldagi surtmalar",
+        "Ikkinchi mutaxassis ko'rmagan surtmalar"
+      ],
+      "x": "«teri leyshmaniozida tashxisni tasdiqlash uchun barcha manfiy natijali surtmalarning 10% va musbat hamda shubhali surtmalarning 100% DSENM parazitologiya laboratoriyasiga yuboriladi»"
+    }
+  ],
+  "063": [
+    {
+      "q": "Dispanser kuzatuvining uchinchi maqsadi nima?",
+      "c": "Kala-azardan keyingi teri leyshmaniozini topish",
+      "w": [
+        "Davolash samarasini va qon ko'rsatkichlarini tasdiqlash",
+        "Qaytalanishni erta aniqlash va sababini tahlil qilish",
+        "Bemor atrofidagi itlarni tekshirib hisobga olish",
+        "Chivinchalarga qarshi to'rlar va qaytaruvchi vositalar"
+      ],
+      "x": "«Uchinchisi kala-azardan keyingi teri leyshmaniozini, ya'ni PKDLni, o'z vaqtida topish»"
+    },
+    {
+      "q": "Bemor davolash muassasasidan chiqarilganda uning ma'lumotlari qayerga uzatiladi?",
+      "c": "Yashash joyidagi oilaviy poliklinikaga",
+      "w": [
+        "Bemor yashaydigan mahalla shifokoriga",
+        "Davolovchi infeksionist va pediatrga",
+        "Davolash muassasasining laboratoriyasiga",
+        "Epidemiolog va laborant xizmatiga"
+      ],
+      "x": "«Bemor davolash muassasasidan chiqarilganda uning ma'lumotlari yashash joyidagi oilaviy poliklinikaga uzatiladi.»"
+    },
+    {
+      "q": "Qaytalanish gumon qilinganda tashxis qayta qanday tasdiqlanadi?",
+      "c": "Aspirat mikroskopiyasi, kultura, PZR",
+      "w": [
+        "Umumiy qon tahlili va taloq o'lchami",
+        "Isitma va vazn dinamikasi",
+        "Teri toshmalaridan material olish",
+        "Taloq va jigar o'lchamini o'lchash"
+      ],
+      "x": "«tashxis qayta tasdiqlanadi, ya'ni aspirat mikroskopiyasi, kultura, PZR»"
+    },
+    {
+      "q": "Kuzatuvdagi bemor yashaydigan uy va hovlida chivinchalarga qarshi nimalar tavsiya etiladi?",
+      "c": "Ishlov, to'rlar, qaytaruvchi vositalar",
+      "w": [
+        "Bemor uyidagi itlarni tekshirish va hisobga olish",
+        "Davolash muassasasiga yotqizish va kuzatish",
+        "Laborant tahlillarini solishtirish va yozish",
+        "Mahalla va oilaviy shifokorlar yordami"
+      ],
+      "x": "«bemor yashaydigan uy va hovlida chivinchalarga qarshi ishlov, to'rlar, qaytaruvchi vositalardan foydalanish tavsiya etiladi»"
+    },
+    {
+      "q": "Bemor qanday holatda kuzatuvdan chiqariladi?",
+      "c": "Qaytalanishsiz o'tib, ko'rsatkichlari me'yorda",
+      "w": [
+        "Isitma yo'qolib, vazn tiklanib, taloq kichraygan bo'lsa",
+        "Davolash kursi tugab, bemor ko'chib ketsa",
+        "Qon tahlili bir marta me'yorda bo'lsa",
+        "Poliklinikaga ma'lumot uzatilgan bo'lsa"
+      ],
+      "x": "«Bemor belgilangan muddat davomida qaytalanishsiz o'tsa va klinik hamda laboratoriya ko'rsatkichlari me'yorda bo'lsa, kuzatuvdan chiqariladi.»"
+    },
+    {
+      "q": "Birlamchi davolashdan keyin bemor necha oydan so'ng dispanser hisobidan chiqariladi?",
+      "c": "12 oydan so'ng",
+      "w": [
+        "6 oydan so'ng",
+        "9 oydan so'ng",
+        "3 oydan so'ng",
+        "1 oydan so'ng"
+      ],
+      "x": "«bemor 12 oydan so'ng dispanser hisobidan chiqariladi»"
+    },
+    {
+      "q": "Birlamchi retsidiv ko'pincha shifoxonadan chiqqandan keyin qancha muddatgacha uchraydi?",
+      "c": "6 oygacha",
+      "w": [
+        "12 oygacha",
+        "9 oygacha",
+        "3 oygacha",
+        "1 oygacha"
+      ],
+      "x": "«birlamchi retsidiv ko'pincha shifoxonadan chiqqandan keyin 6 oygacha qayd etiladi»"
+    },
+    {
+      "q": "Retsidivli bemorlar qachon shifoxonadan chiqariladi?",
+      "c": "Baholash testi manfiy bo'lgandagina",
+      "w": [
+        "Isitma yo'qolgandagina",
+        "Taloq kichrayganidagina",
+        "Gemoglobin tiklangandagina",
+        "Poliklinikaga ma'lumot uzatilgandagina"
+      ],
+      "x": "«Retsidivli bemorlar davolash samaradorligini baholash testi manfiy bo'lgandagina shifoxonadan chiqariladi»"
+    },
+    {
+      "q": "Dispanser kuzatuvida laborantning vazifasi nima?",
+      "c": "Tahlillarni bajaradi",
+      "w": [
+        "Davolash va qaytalanishni baholaydi",
+        "Manba va o'choqni nazorat qiladi",
+        "Kuzatuv jadvalini hujjatga muvofiq tuzadi",
+        "Itlarni ro'yxatga olib tekshiradi"
+      ],
+      "x": "«infeksionist davolash va qaytalanishni baholaydi, laborant tahlillarni bajaradi, epidemiolog manba va o'choqni nazorat qiladi»"
+    },
+    {
+      "q": "OIV bilan yashovchilar uchun kuzatuv nima uchun ayniqsa muhim?",
+      "c": "Qaytalanish va o'lim xavfi yuqori",
+      "w": [
+        "Dorilar parazitni to'liq chiqaradi",
+        "Chivinchalar ularda manba bo'ladi",
+        "PKDL toshmalari ularda uchraydi",
+        "Kuzatuv muddati qisqaroq bo'ladi"
+      ],
+      "x": "«OIV bilan yashovchilar uchun kuzatuv ayniqsa muhim, chunki ularda qaytalanish va o'lim xavfi yuqori»"
+    },
+    {
+      "q": "Dispanser nazoratida bemorlarda qaysi qon tahlillari o'tkaziladi?",
+      "c": "Leykotsit, eritrotsit va leykoformula",
+      "w": [
+        "Gemoglobin, trombotsit va isitma o'lchami",
+        "Aspirat, kultura va PZR",
+        "Taloq, jigar va limfa tugunlari",
+        "Isitma, vazn va kamqonlik"
+      ],
+      "x": "«qon tahlillari (leykotsit, eritrotsit va leykoformula) o'tkaziladi»"
+    }
+  ],
+  "064": [
+    {
+      "q": "Liposomal amfoterisin B organizmga qanday yo'l bilan yuboriladi?",
+      "c": "Tomir ichiga yuboriladi",
+      "w": [
+        "Mushak ichiga uzoq muddat yuboriladi",
+        "Og'iz orqali qabul qilinadi",
+        "Mushak ichiga boshqa dori bilan birga",
+        "Tomir yoki mushak ichiga qo'llanadi"
+      ],
+      "x": "«u makrofaglarga yaxshi yetib boradi va qisqa kurs bilan yuqori samara beradi. Tomir ichiga yuboriladi»"
+    },
+    {
+      "q": "Miltefozin qaysi holatda qo'llanishi mumkin emas?",
+      "c": "Homiladorlik holatida",
+      "w": [
+        "Kamqonlik holatida",
+        "Yurak kasalligi holatida",
+        "OIV bilan birga kechganda",
+        "Og'ir ozgan holatda"
+      ],
+      "x": "«Miltefozin og'iz orqali qabul qilinadi, lekin homiladorlikda mumkin emas va yon ta'sirlari bor.»"
+    },
+    {
+      "q": "Davolash kursi to'liq o'tilmasa nima yuz berishi mumkin?",
+      "c": "Kasallik qaytalanishi yoki dori qarshiligi rivojlanishi",
+      "w": [
+        "Parazit tanadan to'liq chiqarilishi mumkin",
+        "Immun tizim to'liq tiklanishi mumkin",
+        "Kamqonlik va taloq kichrayishi mumkin",
+        "Davolash kasalxona sharoitida shifokor nazoratida o'tishi"
+      ],
+      "x": "«Davolash kursi to'liq o'tilishi kerak, aks holda parazit qolib, kasallik qaytalanishi yoki dori qarshiligi rivojlanishi mumkin.»"
+    },
+    {
+      "q": "Davolash samarasi qaysi klinik ko'rsatkichlar bilan baholanadi?",
+      "c": "Isitma yo'qolishi, vazn ortishi, taloq va jigar kichrayishi",
+      "w": [
+        "Qon tahlilining tiklanishi va takroriy tahlil natijasi",
+        "Kamqonlik, oziqlanish va suv-elektrolit muvozanati",
+        "Jigar, buyrak va qon hujayralari soni ko'rsatkichlari",
+        "Dori mavjudligi, yoshi va hamroh kasalliklari"
+      ],
+      "x": "«Davolash samarasi klinik ko'rsatkichlar, ya'ni isitma yo'qolishi, vazn ortishi, taloq va jigar kichrayishi»"
+    },
+    {
+      "q": "Bola va og'ir ozgan bemorlarda davolash samarasini nima oshiradi?",
+      "c": "Oziqlanishni tiklash",
+      "w": [
+        "Qon quyish va temir qabul qilish",
+        "Yurak va jigar ko'rsatkichlarini kuzatish",
+        "Laboratoriya testlarini kamaytirish",
+        "Surma preparatlarini mushak ichiga yuborish"
+      ],
+      "x": "«Bola va og'ir ozgan bemorlarda oziqlanishni tiklash davolash samarasini oshiradi.»"
+    },
+    {
+      "q": "Surma preparatlari qaysi a'zolarga yon ta'sir ko'rsatishi mumkin?",
+      "c": "Yurak, jigar, oshqozon osti bezi va buyrak",
+      "w": [
+        "Taloq, jigar, buyrak va qon hujayralari",
+        "Qon hujayralari, taloq, yurak va oshqozon",
+        "Teri, tomir, mushak va oshqozon",
+        "Makrofaglar, taloq, jigar va qon"
+      ],
+      "x": "«yon ta'sirlari mumkin, ya'ni yurak, jigar, oshqozon osti bezi va buyrak»"
+    },
+    {
+      "q": "Antiretrovirus davo OIV bilan yashovchilarda nimani kamaytiradi?",
+      "c": "Kasallik rivojlanishini",
+      "w": [
+        "Dori qarshiligini",
+        "Parazit chidamliligini",
+        "Yon ta'sirlarini",
+        "Jigar va buyrak ko'rsatkichlarini"
+      ],
+      "x": "«antiretrovirus davo kasallik rivojlanishini kamaytirishini ta'kidlaydi»"
+    },
+    {
+      "q": "Davolash jarayonida laborant dori ta'sirida qaysi ko'rsatkichlarni kuzatadi?",
+      "c": "Jigar va buyrak ko'rsatkichlari, qon hujayralari soni",
+      "w": [
+        "Isitma, vazn, taloq va jigar o'lchamlari ko'rsatkichlari",
+        "Parazit turi va dori mavjudligi",
+        "Aspirat va parazit yo'qolishi natijalari",
+        "Kamqonlik va oqsil miqdori ko'rsatkichlari"
+      ],
+      "x": "«dori ta'sirida jigar va buyrak ko'rsatkichlari, qon hujayralari soni kuzatiladi»"
+    },
+    {
+      "q": "Visseral leyshmanioz davolash odatda qayerda o'tkaziladi?",
+      "c": "Yuqumli kasalliklar stasionarida",
+      "w": [
+        "Tajriba to'plangan markazlarda",
+        "Mahalla shifokori nazoratida",
+        "Laboratoriya aspirat bo'limida",
+        "Davolash muassasasi laboratoriyasida"
+      ],
+      "x": "«Visseral leyshmaniozni davolash odatda yuqumli kasalliklar stasionarida yoki ixtisoslashtirilgan bo'limda o'tkaziladi»"
+    },
+    {
+      "q": "Natriy stibogluconat qaysi nom bilan ham ataladi?",
+      "c": "Pentostam preparati",
+      "w": [
+        "Glyukantim preparati",
+        "AmBisome preparati",
+        "Miltefozin preparati",
+        "Paromomitsin preparati"
+      ],
+      "x": "«meglumin antimonat (glyukantim) yoki natriy stibogluconat (pentostam), miltefozin va amfoteritsin B ning liposomal shakli (AmBisome)»"
+    },
+    {
+      "q": "Dozalar va davolash muddati nima bo'yicha belgilanadi?",
+      "c": "Klinik protokollar bo'yicha",
+      "w": [
+        "Laboratoriya natijalari bo'yicha",
+        "Dori mavjudligi bo'yicha",
+        "Hududdagi qarshilik bo'yicha",
+        "Bemorning yoshi bo'yicha"
+      ],
+      "x": "«Dozalar va davolash muddati bu yerda keltirilmaydi, ular klinik protokollar bo'yicha belgilanadi.»"
+    }
+  ],
+  "065": [
+    {
+      "q": "Visseral leyshmaniozda endemiklik qaysi uch narsaga bog'liq?",
+      "c": "Qo'zg'atuvchi, tashuvchi chivinchalar va moyil aholi",
+      "w": [
+        "Rezervuar hayvonlar, itlar soni va yillik holatlar",
+        "Yoriqlar, chiqindi va aholi harakati",
+        "Klinik holatlar, serologiya va chivinchalar kuzatuvi",
+        "Vazirlik hujjati, rasmiy ro'yxat va hisobot"
+      ],
+      "x": "«Visseral leyshmaniozda endemiklik uchta narsaga bog'liq: qo'zg'atuvchi va uning rezervuari, ya'ni odam yoki hayvon, tashuvchi chivinchalar va moyil aholi»"
+    },
+    {
+      "q": "Hududni endemik deb hisoblash uchun nima isbotlanishi kerak?",
+      "c": "Mahalliy zanjir mavjudligi",
+      "w": [
+        "Bitta bemorning mavjudligi",
+        "Rasmiy ro'yxatdagi viloyat nomi",
+        "Itlar orasida serologik so'rov",
+        "Chivinchalar turlarining mavjudligi"
+      ],
+      "x": "«Bitta bemorning mavjudligi hududni endemik qilmaydi: mahalliy zanjir isbotlanishi kerak.»"
+    },
+    {
+      "q": "Farg'ona vodiysidagi visseral leyshmanioz o'chog'i qaysi viloyatda o'rganilgan?",
+      "c": "Namangan viloyatida",
+      "w": [
+        "Surxondaryo viloyatida",
+        "Samarqand viloyatida",
+        "Buxoro viloyatida",
+        "Qashqadaryo viloyatida"
+      ],
+      "x": "«Farg'ona vodiysidagi Namangan viloyati Pop tumanida visseral leyshmanioz o'chog'i epidemiologik va entomologik jihatdan o'rganilgan»"
+    },
+    {
+      "q": "Endemik joylar ko'pincha qaysi hududiy birlik bo'ladi?",
+      "c": "Viloyat ichidagi alohida tuman yoki qishloqlar",
+      "w": [
+        "Butun viloyat chegarasi va barcha tumanlar",
+        "Qoraqalpog'iston Respublikasining butun hududi",
+        "Davlat sanitariya-epidemiologiya nazorati markazlari",
+        "Qoraqalpog'iston va Navoiy viloyatlari"
+      ],
+      "x": "«shuning uchun endemik joylar ko'pincha viloyat ichidagi alohida tuman yoki qishloqlar bo'ladi.»"
+    },
+    {
+      "q": "Endemik hududlarni aniqlash uchun qaysi ma'lumotlar asos bo'ladi?",
+      "c": "Mahalliy holatlar va serologik so'rovlar",
+      "w": [
+        "Vazirlik hujjati va yillik hisobotlar soni",
+        "Viloyat nomi va rasmiy hujjat toifasi",
+        "Aholining ko'chib yurishi va yashash sharoiti",
+        "Laborant yashash joyi va tashxis qidiruvi"
+      ],
+      "x": "«Endemik hududlar quyidagi ma'lumotlar asosida aniqlanadi: klinik tasdiqlangan mahalliy holatlar, serologik so'rovlar aholi va itlar orasida»"
+    },
+    {
+      "q": "Endemiklikni aniqlashda nima uchun bitta usul yetarli emas?",
+      "c": "Serologiya o'tgan infeksiyani ko'rsatadi",
+      "w": [
+        "Chivinchalar viloyat chegarasiga bog'liq",
+        "Rasmiy ro'yxat har yili o'zgaradi",
+        "Rezervuar hayvonlar faqat itlardan iborat",
+        "Aholi harakati holatlarni kamaytiradi"
+      ],
+      "x": "«usul yetarli emas, chunki serologiya o'tgan infeksiyani ko'rsatadi, holatlar esa kam bo'lishi mumkin»"
+    },
+    {
+      "q": "Klinik belgilar mos kelsa, endemik ro'yxatdan qat'i nazar nima qilinadi?",
+      "c": "Tekshiruv o'tkaziladi",
+      "w": [
+        "Hudud ro'yxatga qo'shiladi",
+        "Toifa o'zgartiriladi",
+        "Kuzatuv tizimi kuchaytiriladi",
+        "Ma'lumotlar bazasi tuziladi"
+      ],
+      "x": "«Shu sababli klinik belgilar mos kelsa, endemik ro'yxatdan qat'i nazar tekshiruv o'tkaziladi va natija epidemiologga yetkaziladi.»"
+    },
+    {
+      "q": "Endemik hududlar ro'yxatida yangi holatlar paydo bo'lsa nima qilinadi?",
+      "c": "Hudud ro'yxatga qo'shiladi",
+      "w": [
+        "Hududning toifasi o'zgaradi",
+        "Hudud ro'yxatdan chiqariladi",
+        "Kuzatuv tizimi kuchaytiriladi",
+        "Ma'lumotlar bazasi tuziladi"
+      ],
+      "x": "«yangi holatlar paydo bo'lsa, hudud ro'yxatga qo'shiladi»"
+    },
+    {
+      "q": "Endemik bo'lmagan hududda xavf darajasi nimalarga bog'liq?",
+      "c": "Chivinchalar zichligi, itlar soni va aholining ko'chib yurishi",
+      "w": [
+        "Rasmiy ro'yxat, yillik holatlar soni, viloyat nomi va toifasi",
+        "Serologik so'rov, klinik holatlar va rezervuar turi",
+        "Ma'lumotlar bazasi, xarita va hududiy toifa",
+        "Laborant malakasi, tashxis usuli va davolash natijasi"
+      ],
+      "x": "«Xavf darajasi chivinchalar zichligi, itlar soni va aholining ko'chib yurishiga bog'liq.»"
+    },
+    {
+      "q": "Visseral shakl bo'yicha itlarning zararlanganligi qaysi hududlar uchun keltirilgan?",
+      "c": "Toshkent, Samarqand va Buxoroda",
+      "w": [
+        "Qashqadaryo, Navoiy va Jizzaxda",
+        "Surxondaryo, Navoiy va Qashqadaryoda",
+        "Jizzax, Namangan va Qoraqalpog'istonda",
+        "Surxondaryo, Jizzax va Navoiyda"
+      ],
+      "x": "«Visseral shakl bo'yicha 2-ilovada Toshkent, Samarqand va Buxoroda itlarning zararlanganligi hamda Namangan viloyati Pop tumanida L. infantum ajratilgani haqida ma'lumot keltirilgan»"
+    }
+  ]
+}

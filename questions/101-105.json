@@ -1,0 +1,617 @@
+{
+  "101": [
+    {
+      "q": "Teniarinxoz va tenioz profilaktikasida eng muhim shaxsiy chora qaysi?",
+      "c": "Go'shtni ichigacha yaxshi pishirish",
+      "w": [
+        "Xom qiymani ekspertizasiz sotib olish",
+        "Cho'chqalarni erkin yurgizib boqish",
+        "Yarim pishgan kabobni iste'mol qilish",
+        "Najasni o'g'it sifatida ishlatish"
+      ],
+      "x": "«Eng muhim shaxsiy chora go'shtni ichigacha yaxshi pishirishdir.»"
+    },
+    {
+      "q": "Teniarinxoz zanjiridagi uchta bo'g'in qaysilar?",
+      "c": "Chuvalchang, finna va tuxum",
+      "w": [
+        "Finna, najas va hojatxona",
+        "Tuxum, ekspertiza va sanitariya",
+        "Odam, ekspertiza va finna",
+        "Hayvon, kabob va najas"
+      ],
+      "x": "«Zanjirda uchta bo'g'in bor: odamdagi voyaga yetgan chuvalchang, hayvonlardagi finna va tashqi muhitdagi tuxum.»"
+    },
+    {
+      "q": "Hayvonni himoya qilish profilaktikada nimaga xizmat qiladi?",
+      "c": "Finna hosil bo'lishining oldini oladi",
+      "w": [
+        "Tuxum chiqarishni to'xtatib turadi",
+        "Go'shtdagi finnani darhol o'ldiradi",
+        "Hayvon najasini yo'qotib turadi",
+        "Hojatxona qurilishini cheklaydi"
+      ],
+      "x": "«hayvonni himoya qilish finna hosil bo'lishining oldini oladi»"
+    },
+    {
+      "q": "Veterinariya ekspertizasi nimani aniqlaydi?",
+      "c": "Go'shtdagi finnalarni",
+      "w": [
+        "Najasdagi tuxumlarni",
+        "Hojatxonalar holatini",
+        "Aholining xabardorligini",
+        "Oqava suv tozaligini"
+      ],
+      "x": "«Ekspertiza finnalarni aniqlaydi va zararlangan go'shtni iste'moldan chiqaradi yoki zararsizlantiradi»"
+    },
+    {
+      "q": "Najasni xavfsiz yo'qotish nimani kamaytiradi?",
+      "c": "Tuxumlarning tashqi muhitga tushishini",
+      "w": [
+        "Finnalarning go'shtda saqlanishini",
+        "Bemorlarning go'sht iste'molini",
+        "Hayvonlarning ekspertiza qilinishini",
+        "Aholining qo'l yuvish odatini"
+      ],
+      "x": "«Najasni xavfsiz yo'qotish, ya'ni hojatxonalar, oqova suvni tozalash, tuxumlarning tashqi muhitga tushishini kamaytiradi.»"
+    },
+    {
+      "q": "Teniozning tarqalishiga qarshi eng muhim chora qaysi?",
+      "c": "Cho'chqalarni erkin boqmaslik",
+      "w": [
+        "Qoramollarni ekspertiza qilish",
+        "Cho'chqa go'shtini muzlatish",
+        "Najasni o'g'it sifatida qo'llash",
+        "Hojatxonalarni ta'mirlash"
+      ],
+      "x": "«Cho'chqalarni erkin boqmaslik teniozning tarqalishiga qarshi eng muhim chora.»"
+    },
+    {
+      "q": "Qo'lni sovun bilan yuvish nimani kamaytiradi?",
+      "c": "Tenioz tuxumining og'izga tushishini",
+      "w": [
+        "Finnaning go'shtda qolishini",
+        "Cho'chqalarning najasdan zararlanishini",
+        "Hojatxonaning ifloslanishini",
+        "Oqava suvning ifloslanishini"
+      ],
+      "x": "«tenioz tuxumining og'izga tushishini kamaytiradi»"
+    },
+    {
+      "q": "Yirik shoxli mollar uchun ekiladigan o'tlarni qaysi suv bilan sug'orish mumkin emas?",
+      "c": "Oqava suv",
+      "w": [
+        "Toza ichimlik suv",
+        "Tozalash inshootidagi suv",
+        "Sanitariya nazoratidagi suv",
+        "Ekspertizadan o'tgan suv"
+      ],
+      "x": "«yirik shoxli mollar uchun ekiladigan o'tlarni oqava suv bilan sug'orish mumkin emas»"
+    },
+    {
+      "q": "Go'sht do'konlarini va talabga javob bermaydigan go'shtni yo'q qilishni kim monitoring qiladi?",
+      "c": "DSENM va ovqatlanish gigiyenasi mutaxassislari",
+      "w": [
+        "Veterinariya ekspertizasi xodimlari va chorvadorlar",
+        "Oilaviy poliklinika shifokorlari va ekspertlar",
+        "Chorva xo'jaligi xodimlari va veterinarlar",
+        "Hojatxona qurilishi xodimlari"
+      ],
+      "x": "«DSENM ovqatlanish gigiyenasi mutaxassislari bilan birga go'sht do'konlarini va talabga javob bermaydigan go'shtni yo'q qilishni monitoring qiladi»"
+    },
+    {
+      "q": "Chorva xo'jaligi xodimlarining shaxsiy gigiyenasi nazorati uchun nima olinadi?",
+      "c": "Inventar va qo'llardan surtmalar",
+      "w": [
+        "Najas va hojatxonadan surtmalar",
+        "Go'sht va tuxumdan surtmalar",
+        "Najas va oqava suvdan surtmalar",
+        "Hayvon va ozuqadan surtmalar"
+      ],
+      "x": "«Chorva xo'jaliklari xodimlarining shaxsiy gigiyenasi nazorati uchun ogohlantirmasdan yiliga 1–2 marta inventar va qo'llardan surtmalar olinadi»"
+    },
+    {
+      "q": "Profilaktika samarasi qaysi ko'rsatkichlar bilan baholanadi?",
+      "c": "Bemorlar soni va aholi xabardorligi",
+      "w": [
+        "Go'sht narxi va ekspertiza soni",
+        "Hojatxonalar soni va najas hajmi",
+        "Cho'chqalar soni va ozuqa sifati",
+        "Qo'l yuvish va go'sht pishirish"
+      ],
+      "x": "«Profilaktika samarasi bemorlar soni, hayvonlarda finna topilishi va aholi xabardorligi bilan baholanadi.»"
+    }
+  ],
+  "102": [
+    {
+      "q": "Kistoz exinokokkozning qo'zg'atuvchisi qaysi tur?",
+      "c": "Echinococcus granulosus",
+      "w": [
+        "Echinococcus multilocularis",
+        "Echinococcus vogeli",
+        "Echinococcus oligarthra",
+        "Alveococcus multilocularis"
+      ],
+      "x": "«Eng ko'p uchraydigan shakl kistoz exinokokkoz bo'lib, uning qo'zg'atuvchisi E. granulosus.»"
+    },
+    {
+      "q": "Alveolyar exinokokkozni qaysi tur qo'zg'atadi?",
+      "c": "E. multilocularis",
+      "w": [
+        "E. granulosus",
+        "E. vogeli",
+        "E. oligarthra",
+        "Echinococcus granulosus kompleksi"
+      ],
+      "x": "«Alveolyar exinokokkoz E. multilocularis qo'zg'atadi»"
+    },
+    {
+      "q": "Echinococcus granulosus ning oxirgi xo'jayini kim?",
+      "c": "It va boshqa it oilasi vakillari",
+      "w": [
+        "Qo'y, echki va qoramol",
+        "Cho'chqa va boshqa sutemizuvchilar",
+        "Odam va boshqa sutemizuvchilar",
+        "Kemiruvchilar va boshqa hayvonlar"
+      ],
+      "x": "«Voyaga yetgan E. granulosus juda kichik, taxminan 3–7 mm, itning va boshqa it oilasi vakillarining ingichka ichagida yashaydi.»"
+    },
+    {
+      "q": "Voyaga yetgan E. granulosus qayerda yashaydi?",
+      "c": "Itning ingichka ichagida",
+      "w": [
+        "Itning kistali jigarida",
+        "Echkining ingichka ichagida",
+        "Odam kistali o'pkasida",
+        "Qoramolning ichagida"
+      ],
+      "x": "«Voyaga yetgan E. granulosus juda kichik, taxminan 3–7 mm, itning va boshqa it oilasi vakillarining ingichka ichagida yashaydi.»"
+    },
+    {
+      "q": "Odam exinokokk sikli uchun epidemiologik jihatdan nima hisoblanadi?",
+      "c": "Epidemiologik tupik",
+      "w": [
+        "Asosiy infeksiya manbai",
+        "Oxirgi xo'jayin",
+        "Tasodifiy oxirgi xo'jayin",
+        "Asosiy tarqatuvchi xo'jayin"
+      ],
+      "x": "«Shu sababli odam epidemiologik tupik hisoblanadi»"
+    },
+    {
+      "q": "Exinokokk tuxumi ichida nima bo'ladi?",
+      "c": "Oltita kanchali lichinka",
+      "w": [
+        "Skolekslar va qiz kistalar",
+        "Uchta bo'g'im va skoleks",
+        "Suyuqlik bilan to'la kista",
+        "Ko'p kanchali chuvalchang"
+      ],
+      "x": "«ichida oltita kanchali lichinka, ya'ni onkosfera, bor»"
+    },
+    {
+      "q": "Gidatid kista ichida nimalar hosil bo'ladi?",
+      "c": "Skolekslar va qiz kistalar",
+      "w": [
+        "Oltita kanchali onkosferalar",
+        "Tuxum va voyaga yetgan chuvalchang",
+        "Uchta bo'g'im va tuxumlar",
+        "Itning juni va panjalari"
+      ],
+      "x": "«Kista suyuqlik bilan to'la, devori qatlamli bo'lib, ichida skolekslar va kichik, qiz kistalar hosil bo'ladi.»"
+    },
+    {
+      "q": "Itga yuqish uchun qaysi bosqich infeksion hisoblanadi?",
+      "c": "Kista ichidagi skolekslar",
+      "w": [
+        "Najasdagi voyaga yetgan chuvalchang",
+        "Itning junidagi qiz kistalar",
+        "Tuxumdagi uchta bo'g'im",
+        "Qo'y najasidagi tuxumlar"
+      ],
+      "x": "«Bu kistaning ichidagi skolekslar itga yuqish uchun infeksion bosqich hisoblanadi»"
+    },
+    {
+      "q": "It odatda qanday zararlanadi?",
+      "c": "Oraliq xo'jayinning kistali a'zosini yeb",
+      "w": [
+        "Iflos qo'l orqali tuxumni yutib",
+        "Ifloslangan suv bilan tuxum yutib",
+        "Odam najasi bilan aloqa qilib",
+        "Ifloslangan o'tloqdan tuxumni yutganda"
+      ],
+      "x": "«It oraliq xo'jayinning kistali a'zosini, ya'ni jigar yoki o'pkasini, yegan paytda skolekslarni yutadi»"
+    },
+    {
+      "q": "Odamda exinokokkozda najas tekshiruvi nega ahamiyatsiz?",
+      "c": "Odam ichagida chuvalchang yashamaydi",
+      "w": [
+        "Odam ichagida tuxumlar juda kichik",
+        "Skolekslar najas bilan chiqmaydi",
+        "Kanchalar odamda hosil bo'lmaydi",
+        "Kista faqat jigarda hosil bo'ladi"
+      ],
+      "x": "«Exinokokkozda najas tekshiruvi odamda ahamiyatsiz, chunki odam ichagida chuvalchang yashamaydi»"
+    },
+    {
+      "q": "Alveolyar exinokokkozda oraliq xo'jayinlar kimlar?",
+      "c": "Kemiruvchi hayvonlar",
+      "w": [
+        "Tulki va boshqa it",
+        "Qo'y, echki va tuya",
+        "Qoramol, tuya va echki",
+        "Cho'chqa, qo'y va odam"
+      ],
+      "x": "«oxirgi xo'jayinlari tulki va it, oraliq xo'jayinlari kemiruvchilar»"
+    }
+  ],
+  "103": [
+    {
+      "q": "Kistoz exinokokkozda kistalar asosan qaysi a'zolarda hosil bo'ladi?",
+      "c": "Jigar va o'pka",
+      "w": [
+        "Buyrak va taloq",
+        "Miya va suyak",
+        "Yurak va buyrak",
+        "Taloq va miya"
+      ],
+      "x": "«kistalar asosan jigarda va o'pkada hosil bo'lishini»"
+    },
+    {
+      "q": "Exinokokkoz nega ko'pincha yillar davomida belgisiz kechadi?",
+      "c": "Kista sekin o'sadi",
+      "w": [
+        "Kista yoriladi",
+        "Kista yorilib tarqaladi",
+        "Eozinofiliya har doim bo'ladi",
+        "Kista o't yo'llarini siqadi"
+      ],
+      "x": "«Kista sekin o'sadi, shu sababli kasallik ko'pincha yillar davomida belgisiz kechadi.»"
+    },
+    {
+      "q": "Jigar kistasining belgilari qaysilar?",
+      "c": "O'ng qovurg'a ostida og'riq yoki og'irlik",
+      "w": [
+        "Yo'tal, ko'krakda og'riq va nafas qisilishi",
+        "Bosh og'rig'i va tutqanoq",
+        "Suyakda og'riq va sinish",
+        "Teri toshmasi va qichishish"
+      ],
+      "x": "«Belgilari: o'ng qovurg'a ostida og'riq yoki og'irlik»"
+    },
+    {
+      "q": "O'pka kistasi bronxga yorilsa, bemor nimani yo'talib chiqaradi?",
+      "c": "Suyuqlik yoki kista pardalarini",
+      "w": [
+        "Qon va yiringli skolekslarni",
+        "Tuxum va skolekslar pardasini",
+        "Faqat qon tomirlarini",
+        "O't yo'llari pardalarini"
+      ],
+      "x": "«Kista bronxga yorilsa, bemor suyuqlik yoki kista pardalarini yo'talib chiqaradi»"
+    },
+    {
+      "q": "Exinokokkozning eng xavfli asoratlari qaysilar?",
+      "c": "Kistaning yorilishi, ikkilamchi infeksiya va allergik reaksiya",
+      "w": [
+        "Eozinofiliya, sariqlik va ozish, hamda ishtaha pasayishi",
+        "Tutqanoq, yo'tal va nafas qisilishi, hamda qichishish",
+        "Jigar kattalashishi, ishtaha pasayishi va sariqlik, ozish",
+        "Bosh og'rig'i, sinish va qichishish, hamda eozinofiliya"
+      ],
+      "x": "«Eng xavfli asoratlar: kistaning yorilishi, ikkilamchi infeksiya va allergik reaksiya.»"
+    },
+    {
+      "q": "Kista yorilganda ichidagi suyuqlik tanaga tushsa, nima chaqirishi mumkin?",
+      "c": "Kuchli allergik reaksiya, hatto anafilaktik shok",
+      "w": [
+        "Sariqlik va jigar kattalashishi bilan og'riq",
+        "Yo'tal, ko'krakda og'riq va qon tupurish",
+        "Tutqanoq, bosh og'rig'i va nafas qisilishi",
+        "Bo'rtish, ishtaha pasayishi va ko'ngil aynishi"
+      ],
+      "x": "«Kista yorilganda ichidagi suyuqlik tanaga tushib, kuchli allergik reaksiya, hatto anafilaktik shok chaqirishi mumkin»"
+    },
+    {
+      "q": "Alveolyar exinokokkoz jigarda qanday o'sadi?",
+      "c": "O'sma kabi infiltrativ o'sadi",
+      "w": [
+        "Suyakda og'riq va sinish keltiradi",
+        "Miyada kista hosil qiladi",
+        "Buyrakda suyuqlikli kista bo'ladi",
+        "O'pkada dumaloq soya beradi"
+      ],
+      "x": "«Alveolyar exinokokkoz jigarda o'sma kabi infiltrativ o'sadi»"
+    },
+    {
+      "q": "Differensial tashxisda qaysi usullar hal qiluvchi hisoblanadi?",
+      "c": "Tasvir va serologiya",
+      "w": [
+        "Klinik belgilar va eozinofiliya",
+        "Allergik belgilar va jarrohlik",
+        "Epidemiologik anamnez va kuzatuv",
+        "Jigar kattalashishi va sariqlik"
+      ],
+      "x": "«Klinik belgilar o'xshash bo'lgani uchun tasvir va serologiya hal qiluvchi.»"
+    },
+    {
+      "q": "Exinokokkozni davolash usuli nimaga qarab tanlanadi?",
+      "c": "Kista bosqichi, o'lchami va joylashuviga",
+      "w": [
+        "Eozinofiliya, serologiya va allergik belgilarga",
+        "Bolalik davri va it bilan aloqasiga",
+        "Jigar kattalashishi, sariqlik va ishtahaga",
+        "Kistaning yorilishi va qaytalanishiga"
+      ],
+      "x": "«Exinokokkozni davolash kista bosqichi, o'lchami va joylashuviga qarab tanlanadi»"
+    },
+    {
+      "q": "Alveokokkoz bilan kasallanganlar dispanser hisobida qancha turadi?",
+      "c": "Umrbod dispanser hisobida",
+      "w": [
+        "5 yil dispanser hisobida",
+        "Klinik belgilar bo'lmaguncha",
+        "Serologik reaksiya manfiy bo'lguncha",
+        "Operatsiyadan keyin 2–4 oy"
+      ],
+      "x": "«alveokokkoz bilan kasallanganlar esa umrbod dispanser hisobida turadi»"
+    },
+    {
+      "q": "Exinokokkozda allergik belgilar qachon paydo bo'lishi mumkin?",
+      "c": "Kista suyuqligi sizib chiqqanda",
+      "w": [
+        "Kista o't yo'llarini siqqanda",
+        "Kista bronxga yorilmaganda",
+        "Jigar kattalashganda",
+        "Bemor it bilan aloqa qilganda"
+      ],
+      "x": "«kista suyuqligi sizib chiqqanda paydo bo'lishi mumkin»"
+    }
+  ],
+  "104": [
+    {
+      "q": "Exinokokkozni aniqlashning birinchi va asosiy usuli qaysi?",
+      "c": "Ultratovush tekshiruvi",
+      "w": [
+        "Umumiy najas tekshiruvi",
+        "Diagnostik punksiya usuli",
+        "Umumiy qon tahlili",
+        "Biopsiya tekshiruvi"
+      ],
+      "x": "«Ultratovush tekshiruvi birinchi va asosiy usul.»"
+    },
+    {
+      "q": "JSST serologiyani tashxisda qanday usul deb hisoblaydi?",
+      "c": "Tashxisni tasdiqlashda yordamchi usul",
+      "w": [
+        "Tashxisni qo'yishda asosiy usul",
+        "Tasvirlashdan oldin o'tkaziladigan usul",
+        "Faqat jarrohlik paytida qo'llanadigan usul",
+        "Kista bosqichlarini belgilovchi usul"
+      ],
+      "x": "«JSST serologiyani tashxisni tasdiqlashda yordamchi usul deb hisoblaydi»"
+    },
+    {
+      "q": "Manfiy serologiya natijasi nimani anglatadi?",
+      "c": "Kasallikni inkor etmaydi",
+      "w": [
+        "Kasallikni to'liq tasdiqlaydi",
+        "Kista nofaol bosqichda",
+        "Kasallik o'pkada joylashgan",
+        "Eozinofiliya mavjud"
+      ],
+      "x": "«Manfiy serologiya kasallikni inkor etmaydi»"
+    },
+    {
+      "q": "KT va MRT nima uchun ishlatiladi?",
+      "c": "Ultratovush ma'lumotlarini aniqlashtirish",
+      "w": [
+        "Itlardagi koproantigenni aniqlash",
+        "Najasdagi tuxumlarni mikroskopda topish",
+        "Serologik titrni hisoblab baholash",
+        "Kista suyuqligini so'rib olish"
+      ],
+      "x": "«Kompyuter tomografiya (KT) va magnit-rezonans tomografiya (MRT) ultratovush ma'lumotlarini aniqlashtirish yoki tasdiqlash uchun ishlatiladi»"
+    },
+    {
+      "q": "Qaysi topilma exinokokkoz tashxisini aniq tasdiqlaydi?",
+      "c": "Kista suyuqligida skolekslar va kanchalar",
+      "w": [
+        "Umumiy qon tahlilida eozinofiliya",
+        "Bilirubin va fermentlar ko'tarilishi",
+        "Manfiy serologik natija olinganda",
+        "Ultratovushda aniq chegarali dumaloq shakl"
+      ],
+      "x": "«Kista suyuqligi yoki jarrohlik materialida skolekslar, kanchalar va kista pardasi qismlarini topish tashxisni aniq tasdiqlaydi.»"
+    },
+    {
+      "q": "Ultratovushga asoslangan kista bosqichlari qaysilar?",
+      "c": "Faol, o'tish va nofaol",
+      "w": [
+        "Faol, yorilgan va nofaol",
+        "Kistoz, o'tish va asoratli",
+        "Kistoz, alveolyar va nofaol",
+        "Jigar, o'pka va o'tish"
+      ],
+      "x": "«JSST ultratovush belgilariga asoslangan kista bosqichlari tasnifini qo'llaydi: faol, o'tish va nofaol bosqichlar.»"
+    },
+    {
+      "q": "Nofaol kistalar uchun nima mumkin?",
+      "c": "Kuzatuvda qolish",
+      "w": [
+        "Jarrohlik amaliyoti",
+        "Perkutan punksiya",
+        "Dori himoyasida punksiya",
+        "Biopsiya qilish"
+      ],
+      "x": "«Faol kistalar davolashni talab qiladi, nofaol kistalar esa kuzatuvda qolishi mumkin.»"
+    },
+    {
+      "q": "Diagnostik punksiya nega xavfli?",
+      "c": "Kista yorilib, skolekslar tarqalishi mumkin",
+      "w": [
+        "Serologik natija manfiy chiqishi mumkin",
+        "Ultratovush belgilari yo'qolishi mumkin",
+        "Kista bosqichi nofaolga o'tishi mumkin",
+        "Bilirubin va fermentlar ko'tarilishi mumkin"
+      ],
+      "x": "«Kistani aspiratsiya qilish yoki biopsiya qilish xavfli, chunki kista yorilsa, allergik shok va skolekslar tarqalishi mumkin.»"
+    },
+    {
+      "q": "Odamda exinokokkoz tashxisi nega najas tekshiruvi bilan qo'yilmaydi?",
+      "c": "Odam ichagida chuvalchang yashamaydi",
+      "w": [
+        "Kista suyuqligi infeksion hisoblanadi",
+        "Serologik natija har doim manfiy bo'ladi",
+        "Kistalar jigarda joylashadi",
+        "Skolekslar najasda ko'rinmaydi"
+      ],
+      "x": "«Odamda exinokokkoz tashxisi najas tekshiruvi bilan qo'yilmaydi, chunki odam ichagida chuvalchang yashamaydi.»"
+    },
+    {
+      "q": "Tashxis xatolaridan qaysi biri eng ko'p uchraydi?",
+      "c": "Faqat manfiy serologiyaga tayanib inkor etish",
+      "w": [
+        "Tasvirlash va anamnezni birga baholash",
+        "Tasvirlash va serologiyani birga baholash",
+        "Natijani laborantning ikki marta tekshirishi",
+        "Murakkab holatlarda mutaxassis maslahati olish"
+      ],
+      "x": "«faqat manfiy serologiyaga tayanib kasallikni inkor etish»"
+    },
+    {
+      "q": "Aholi orasida serologik skrining qaysi usul yordamida o'tkaziladi?",
+      "c": "Immunoferment tahlil (IFA)",
+      "w": [
+        "Kompyuter tomografiya (KT)",
+        "Magnit-rezonans tomografiya (MRT)",
+        "Ultratovush tekshiruvi usuli",
+        "Diagnostik punksiya usuli"
+      ],
+      "x": "«har yili kasallanish xavfi bor aholi orasida immunoferment tahlil (IFA) yordamida serologik tekshiruv o'tkaziladi»"
+    }
+  ],
+  "105": [
+    {
+      "q": "Exinokokkozning yuqish zanjiri qaysi bo'g'inlardan iborat?",
+      "c": "Oxirgi xo'jayin, tashqi muhit va oraliq xo'jayin",
+      "w": [
+        "Oraliq xo'jayin, bemor va ifloslangan sabzavot",
+        "Oxirgi xo'jayin, bemor va ifloslangan suv",
+        "Odam, ifloslangan sabzavot va tashqi muhit",
+        "Chorva, ifloslangan suv va tuproq"
+      ],
+      "x": "«Exinokokkozning yuqish zanjiri uch bo'g'indan iborat: oxirgi xo'jayin, ya'ni it va boshqa yirtqichlar, tashqi muhit, ya'ni tuxum, va oraliq xo'jayin»"
+    },
+    {
+      "q": "Exinokokkozning odamdan odamga yuqishi haqida qaysi gap to'g'ri?",
+      "c": "Odamdan odamga bevosita yuqmaydi",
+      "w": [
+        "Bemor bilan aloqada bevosita yuqadi",
+        "Kistali odam infeksiya manbai bo'ladi",
+        "Bemorni ajratish zarur hisoblanadi",
+        "Oila a'zolari bevosita zararlanadi"
+      ],
+      "x": "«Exinokokkoz odamdan odamga bevosita yuqmaydi»"
+    },
+    {
+      "q": "Kistoz exinokokkozning asosiy manbai kim?",
+      "c": "Zararlangan itlar",
+      "w": [
+        "Zararlangan chorva",
+        "Kistali bemorlar",
+        "Ifloslangan sabzavotlar",
+        "Qassob va veterinarlar"
+      ],
+      "x": "«Kistoz exinokokkozning asosiy manbai zararlangan itlardir.»"
+    },
+    {
+      "q": "Itlar odatda qanday zararlanadi?",
+      "c": "Ichki a'zolarni xom holda yeb",
+      "w": [
+        "Tuxumli sabzavotni yuvmay yeb",
+        "Ifloslangan suv orqali",
+        "Odam bilan yaqin aloqada bo'lib",
+        "Bolalar bilan o'ynash orqali"
+      ],
+      "x": "«Itlar uy so'yimidan qolgan ichki a'zolarni, ya'ni jigar va o'pkani, xom holda yeganda zararlanadi.»"
+    },
+    {
+      "q": "Qaysi omil exinokokkoz bilan zararlanish xavfini oshiradi?",
+      "c": "Uy sharoitida hayvon so'yish",
+      "w": [
+        "Qo'lni sovun bilan yuvish",
+        "Itlarni muntazam davolash",
+        "Sabzavotni yuvib iste'mol qilish",
+        "Bolalarni itlardan ehtiyot qilish"
+      ],
+      "x": "«uy sharoitida hayvon so'yish va ichki a'zolarni itga berish»"
+    },
+    {
+      "q": "Bolalar nega tuxumni yutishga moyil?",
+      "c": "Tuproqda o'ynab, qo'lini og'ziga tiqadi",
+      "w": [
+        "Itlar bilan ovga chiqadi",
+        "Uy sharoitida hayvon so'yishda qatnashadi",
+        "Itlarning ichki a'zolarini yeydi",
+        "Chorvachilik bilan shug'ullanadi"
+      ],
+      "x": "«Bolalar itlar bilan o'ynaydi, tuproqda o'ynab, qo'lini og'ziga tiqadi, shu sababli ular tuxumni yutishga moyil.»"
+    },
+    {
+      "q": "Itning qaysi qismlarida tuxumlar bo'lishi mumkin?",
+      "c": "Juni, tumshug'i va panjalarida",
+      "w": [
+        "Jigari, o'pkasi va najasida",
+        "Najasi, ichagi va tumshug'ida",
+        "Ichagi, jigari va o'pkasida",
+        "Panjalari, ichagi va o'pkasida"
+      ],
+      "x": "«Itning juni, tumshug'i va panjalarida ham tuxumlar bo'lishi mumkin.»"
+    },
+    {
+      "q": "Manba itlar topilsa, nima qilinadi?",
+      "c": "Ular tekshiriladi va davolanadi",
+      "w": [
+        "Ular chorva bilan birga boqiladi",
+        "Ular bolalardan uzoqda saqlanadi",
+        "Ular o'tloqda tekshiriladi",
+        "Ular bog' va tuproqda tekshiriladi"
+      ],
+      "x": "«Manba itlar topilsa, ular tekshiriladi va davolanadi.»"
+    },
+    {
+      "q": "Bemor topilganda nega oila a'zolari ham tekshiriladi?",
+      "c": "Ular bir xil manba orqali zararlangan",
+      "w": [
+        "Exinokokkoz odamdan odamga bevosita yuqadi",
+        "Oila a'zolari ham kista hosil qilgan bo'ladi",
+        "Itlar oila a'zolaridan tuxum oladi",
+        "Bemorni ajratish kerak bo'lgani sababli"
+      ],
+      "x": "«chunki ular bir xil manba, ya'ni bitta it yoki bir bog', orqali zararlangan»"
+    },
+    {
+      "q": "Bitta ob'ektdan nechta surtma olinadi?",
+      "c": "25 ta surtma",
+      "w": [
+        "4 ta surtma",
+        "10 ta surtma",
+        "24 ta surtma",
+        "2 ta surtma"
+      ],
+      "x": "«Bitta ob'ektdan 25 ta surtma, 4 tadan tuproq, sabzavot, ko'kat va suv namunasi olinadi»"
+    },
+    {
+      "q": "Qish oylarida itlarda onkosferalar ajralishi qanday o'zgaradi?",
+      "c": "Onkosfera ajralishi to'xtaydi",
+      "w": [
+        "Onkosfera ajralishi avj oladi",
+        "Onkosferalar sabzavotda saqlanadi",
+        "Onkosfera ajralishi sezilmaydi",
+        "Onkosfera ajralishi bahorda to'xtaydi"
+      ],
+      "x": "«Qish oylarida itlarda onkosferalar ajralishi to'xtashi, bahorda esa tashqi muhitga chiqishi avj olishi hisobga olinadi»"
+    }
+  ]
+}

@@ -1,0 +1,606 @@
+{
+  "121": [
+    {
+      "q": "Opistorxoz tashxisining asosiy usuli nima?",
+      "c": "Najasda yoki o't suyuqligida kichik, qopqoqli tuxumlarni topish",
+      "w": [
+        "Qon tahlilida eozinofiliya va jigar fermentlarini aniqlash",
+        "Ultratovush yordamida o't yo'llari kengayishini ko'rish",
+        "Serologik usulda antitelolarni aniqlash va baholash",
+        "Molekulyar usulda tur darajasini aniqlash va baholash"
+      ],
+      "x": "«Asosiy usul — najasda yoki o't suyuqligida kichik, qopqoqli tuxumlarni topish.»"
+    },
+    {
+      "q": "Tuxum kichikligi sababli ularni ko'rish uchun nima kerak?",
+      "c": "Ko'p kattalashtirishda, aniq yoritishda ko'rish",
+      "w": [
+        "Past kattalashtirishda va oddiy yoritishda ko'rish",
+        "Faqat bitta namunaga tayanib xulosa qilish",
+        "Konsentratsiyasiz va fiksatorsiz surtma tayyorlash",
+        "Tuxumlarni o'lchamini hisobga olmasdan ko'rish"
+      ],
+      "x": "«ko'p kattalashtirishda, aniq yoritishda va mikrometr yordamida ko'rish kerak.»"
+    },
+    {
+      "q": "Tuxum chiqishi kunma-kun o'zgarishi mumkin bo'lgani uchun nima tavsiya etiladi?",
+      "c": "Bir necha kun oralatib namuna olish",
+      "w": [
+        "Namunani darhol o't suyuqligidan olish",
+        "Najasni quruq idishda uzoq saqlash",
+        "Bir marta konsentratsiya usulini qo'llash",
+        "Namunani fiksatorsiz bir kun saqlash"
+      ],
+      "x": "«shuning uchun bir necha kun oralatib namuna olish tavsiya etiladi.»"
+    },
+    {
+      "q": "Tuxum kam bo'lganda qaysi usullar qo'llanadi?",
+      "c": "Cho'ktirish va flotatsiya usullari",
+      "w": [
+        "Serologik va molekulyar usullar",
+        "Kato–Katz va ultratovush usullari",
+        "Tasviriy va invaziv usullar",
+        "O't suyuqligi va qon usullari"
+      ],
+      "x": "«Tuxum kam bo'lganda cho'ktirish va flotatsiya usullari qo'llanadi.»"
+    },
+    {
+      "q": "Kato–Katz usuli nimaga asoslangan?",
+      "c": "Najasning o'lchangan miqdoridagi tuxumlarni sanashga",
+      "w": [
+        "Antitelolarni immunoferment tahlilda aniqlashga",
+        "O't suyuqligidagi tuxumlarni zondlashga",
+        "Qon tahlilidagi eozinofillarni hisoblashga",
+        "Tuxum qopqog'ining o'lchamini o'lchashga"
+      ],
+      "x": "«Usul najasning o'lchangan miqdoridagi tuxumlarni sanashga asoslangan.»"
+    },
+    {
+      "q": "O't suyuqligi qanday usul bilan olinadi?",
+      "c": "O'n ikki barmoqli ichak zondlash orqali",
+      "w": [
+        "Najasni cho'ktirish va flotatsiya orqali",
+        "Qon namunasini serologik tekshirish orqali",
+        "Ultratovush va tomografiya yordamida",
+        "Molekulyar usullar va PZR yordamida"
+      ],
+      "x": "«O'n ikki barmoqli ichak zondlash orqali olingan o't suyuqligida tuxumlar topilishi mumkin»"
+    },
+    {
+      "q": "Opistorx tuxumini boshqa trematoda tuxumlaridan ajratish qiyin bo'lgani uchun natija qanday yoziladi?",
+      "c": "Opistorxidlarga xos tuxum",
+      "w": [
+        "Opistorx tuxumi aniqlandi",
+        "Klonorxga xos tuxum",
+        "Metagonimga xos tuxum",
+        "Kichik trematoda tuxumi"
+      ],
+      "x": "«Shuning uchun natija 'opistorxidlarga xos tuxum' deb yoziladi.»"
+    },
+    {
+      "q": "Serologik usullarning kamchiligi nimada?",
+      "c": "Aniqligi cheklangan va boshqa trematodozlar bilan o'zaro reaksiya mumkin",
+      "w": [
+        "Najasda tuxum topilmasa, natija doim manfiy bo'ladi",
+        "Tuxumlar noto'g'ri saqlansa, deformatsiyaga uchrashi mumkin",
+        "Tur darajasida natija beradi, lekin kamdan-kam mavjud",
+        "Invaziv bo'lgani uchun faqat zarur hollarda qo'llanadi"
+      ],
+      "x": "«Serologik usullar antitelolarni aniqlaydi, ammo ularning aniqligi cheklangan va boshqa trematodozlar bilan o'zaro reaksiya mumkin.»"
+    },
+    {
+      "q": "Qon tahlilida, ayniqsa o'tkir bosqichda, nima kuzatiladi?",
+      "c": "Eozinofiliya, ba'zan jigar fermentlari oshishi",
+      "w": [
+        "Surunkali bosqichda o'zgarishlar kam bo'lishi",
+        "Tuxum soni bir gramm najasda ortishi",
+        "O't yo'llari kengayishi va jigar shikastlanishi",
+        "Antitelolarning aniqligi cheklanishi"
+      ],
+      "x": "«Qon tahlilida eozinofiliya, ba'zan jigar fermentlari oshishi kuzatiladi, ayniqsa o'tkir bosqichda.»"
+    },
+    {
+      "q": "Opistorxozga gumon qilinganda tashxis algoritmida avval nima olinadi?",
+      "c": "Epidemiologik anamnez",
+      "w": [
+        "Najas mikroskopiyasi natijasi",
+        "O't suyuqligi namunasi",
+        "Serologik tahlil natijasi",
+        "Molekulyar usul natijasi"
+      ],
+      "x": "«Opistorxozga gumon qilinganda avval epidemiologik anamnez olinadi»"
+    },
+    {
+      "q": "Bir martalik manfiy najas natijasi nimani anglatadi?",
+      "c": "Opistorxozni to'liq inkor etmaydi",
+      "w": [
+        "Opistorxozni to'liq tasdiqlaydi",
+        "Davolash samarali bo'lganini",
+        "Tuxum chiqishi o'zgarishini",
+        "Namuna fiksatorsiz saqlanganini"
+      ],
+      "x": "«bir martalik manfiy natija opistorxozni to'liq inkor etmaydi.»"
+    }
+  ],
+  "122": [
+    {
+      "q": "Opistorxozni oldini olishning asosiy qoidasi nima?",
+      "c": "Xom yoki yengil tuzlangan baliqni iste'mol qilmaslik",
+      "w": [
+        "Baliqni quritilgan yoki dudlangan holda iste'mol qilish",
+        "Xom baliq taomlarini uy muzlatgichida saqlash",
+        "Baliq tozalash qoldiqlarini itlarga xom berish",
+        "Baliqni tatib ko'rib xavfsizligini aniqlash"
+      ],
+      "x": "«asosiy qoida chuchuk suv baliqni xom, yarim xom yoki yengil tuzlangan holda iste'mol qilmaslikdir.»"
+    },
+    {
+      "q": "Birlamchi profilaktikaning asosiy chorasi nima?",
+      "c": "Baliqni to'liq pishirish",
+      "w": [
+        "Baliqni yengil tuzlab iste'mol qilish",
+        "Baliqni sovuq dudlab saqlash",
+        "Baliqni qisqa muddat quritish",
+        "Davriy najas tekshiruvidan o'tish"
+      ],
+      "x": "«Asosiy chora — baliqni to'liq pishirish: metaserkariyalar yetarli qizdirilganda nobud bo'ladi.»"
+    },
+    {
+      "q": "Qaysi baliq xavfli hisoblanadi?",
+      "c": "Xom, qisman tuzlangan, quritilgan va dudlangan baliq",
+      "w": [
+        "To'liq pishirilgan chuchuk suv baliq va muzlatilgan baliq",
+        "Sanoat rejimida yetarlicha muzlatilgan baliq",
+        "Veterinariya-sanitariya ekspertizasidan o'tgan baliq",
+        "Kelib chiqishi ma'lum to'liq pishirilgan baliq"
+      ],
+      "x": "«Xom, qisman tuzlangan, quritilgan va dudlangan baliq xavfli hisoblanadi»"
+    },
+    {
+      "q": "Baliq tozalash qoldiqlari bilan nima qilinishi kerak?",
+      "c": "Pishirilishi yoki yo'q qilinishi kerak",
+      "w": [
+        "It va mushuklarga xom berilishi kerak",
+        "Suv havzasiga tashlanishi kerak",
+        "Uy muzlatgichida saqlanishi kerak",
+        "Tuzlab quritilishi kerak"
+      ],
+      "x": "«ular pishirilishi yoki yo'q qilinishi kerak.»"
+    },
+    {
+      "q": "Sikl uzilishi uchun nima muhim?",
+      "c": "Oqova suvlarni tozalash, suv bo'yida hojatxonalarni qurish",
+      "w": [
+        "Baliqchilar ichki a'zolarni suvga tashlashi kerak",
+        "Uy hayvonlari najasini suv bo'yida qoldirish",
+        "Xom baliqni suv bo'yida tayyorlash va saqlash",
+        "Zararlangan baliqni suv havzasiga qaytarish"
+      ],
+      "x": "«Sikl uzilishi uchun oqova suvlarni tozalash, suv bo'yida hojatxonalarni to'g'ri qurish va suvga defekatsiyani cheklash muhim»"
+    },
+    {
+      "q": "Nima uchun mushuk va itlarni xom baliq bilan boqmaslik zarur?",
+      "c": "Ular opistorxoz rezervuari bo'ladi",
+      "w": [
+        "Ular mollyuskalar uchun oraliq xo'jayin bo'ladi",
+        "Ular metaserkariyalarni o'ldiradi",
+        "Ular baliqlarni zararlanishdan himoya qiladi",
+        "Ular suv havzasini tozalaydi"
+      ],
+      "x": "«Mushuk va itlar opistorxoz rezervuari bo'lgani uchun ularni xom baliq bilan boqmaslik, veterinar nazoratida degelmintizatsiya qilish zarur»"
+    },
+    {
+      "q": "Savdoga chiqariladigan chuchuk suv baliqlari qanday tekshiruvdan o'tadi?",
+      "c": "Veterinariya-sanitariya ekspertizasidan o'tadi",
+      "w": [
+        "Davriy najas tekshiruvidan o'tadi",
+        "Sertifikatlash tekshiruvidan o'tadi",
+        "Oshxona gigienasi nazoratidan o'tadi",
+        "Muzlatish rejimi tekshiruvidan o'tadi"
+      ],
+      "x": "«Savdoga chiqariladigan chuchuk suv baliqlari veterinariya-sanitariya ekspertizasidan o'tadi.»"
+    },
+    {
+      "q": "Ikkilamchi profilaktika nimadan iborat?",
+      "c": "Kasallikni erta aniqlash va davolash",
+      "w": [
+        "Baliqni to'liq pishirish va muzlatish",
+        "Suv havzalarini oqova suvlardan himoya qilish",
+        "Hayvonlarni degelmintizatsiya qilish nazorati",
+        "Aholini ma'rifatlash va sertifikatlash"
+      ],
+      "x": "«Ikkilamchi profilaktika kasallikni erta aniqlash va davolash.»"
+    },
+    {
+      "q": "O. viverrini bilan uzoq muddatli zararlanish qanday xavfni keltiradi?",
+      "c": "O't yo'llari saratoni xavfini oshiradi",
+      "w": [
+        "Qayta zararlanish xavfini kamaytiradi",
+        "Mollyuskalar zararlanishini oshiradi",
+        "Tuxum chiqarishni to'xtatadi",
+        "Hazm buzilishi xavfini kamaytiradi"
+      ],
+      "x": "«Uzoq muddatli opistorxoz, ayniqsa O. viverrini bilan, o't yo'llari saratoni xavfini oshiradi.»"
+    },
+    {
+      "q": "Endemik hududlarga sayohat qilganda nimadan saqlanish tavsiya etiladi?",
+      "c": "Mahalliy xom baliq taomlarini iste'mol qilmaslik",
+      "w": [
+        "Mahalliy suv havzalarida baliq tutish",
+        "Baliqni uy muzlatgichida saqlash",
+        "Hayvonlarni degelmintizatsiya qilish",
+        "Baliq iste'molchilarini tekshirishdan o'tkazish"
+      ],
+      "x": "«Endemik hududlarga sayohat qilganda mahalliy xom baliq taomlarini iste'mol qilmaslik»"
+    }
+  ],
+  "123": [
+    {
+      "q": "Odam toksokara lichinkalari uchun qanday xo'jayin hisoblanadi?",
+      "c": "Lichinkalar voyaga yetmaydigan tasodifiy xo'jayin",
+      "w": [
+        "Itlar va mushuklar kabi asosiy xo'jayin",
+        "Paratenik xo'jayin, ya'ni tovuq yoki quyon",
+        "Voyaga yetgan chuvalchanglar yashaydigan xo'jayin",
+        "Infeksion tuxum chiqaradigan xo'jayin"
+      ],
+      "x": "«Odam bu parazitlar uchun tasodifiy xo'jayin hisoblanadi, shuning uchun lichinkalar voyaga yetmaydi»"
+    },
+    {
+      "q": "Voyaga yetgan toksokara chuvalchanglari itlar va mushuklarning qaysi a'zosida yashaydi?",
+      "c": "Ingichka ichagida yashaydi",
+      "w": [
+        "Tuproq qatlamlarida yashaydi",
+        "Ichki a'zolarida yashaydi",
+        "To'qimalarida yashaydi",
+        "Qum qutilarida yashaydi"
+      ],
+      "x": "«Voyaga yetgan chuvalchanglar itlar va mushuklarning ingichka ichagida yashaydi.»"
+    },
+    {
+      "q": "Infeksiyaning asosiy manbai nima?",
+      "c": "Zararlangan itlar va mushuklar, ayniqsa kuchuklar",
+      "w": [
+        "Xom jigar va go'sht, ayniqsa tovuq va cho'chqa",
+        "Ifloslangan sabzavot va ko'katlar, ayniqsa xom",
+        "Ifloslangan suv va yuvilmagan qo'llar",
+        "Bolalar o'yin maydonlari va qum qutilari"
+      ],
+      "x": "«Infeksiyaning asosiy manbai — zararlangan itlar va mushuklar, ayniqsa kuchuklar va mushukchalar.»"
+    },
+    {
+      "q": "Zararlanishning bevosita manbai nima?",
+      "c": "Hayvon najasi bilan ifloslangan tuproq",
+      "w": [
+        "Hayvon juniga yopishgan tuxumlar",
+        "Ifloslangan sabzavot va ko'katlar",
+        "Xom yoki yaxshi pishmagan go'sht",
+        "Paratenik xo'jayinlar to'qimalaridagi kistalar"
+      ],
+      "x": "«Zararlanishning bevosita manbai — hayvon najasi bilan ifloslangan tuproq.»"
+    },
+    {
+      "q": "Toksokara tuxumlari qulay sharoitda tashqi muhitda qancha saqlanadi?",
+      "c": "Oylar, hatto yillar davomida",
+      "w": [
+        "Bir necha hafta davomida",
+        "Bir necha haftadan keyin infeksion bo'ladi",
+        "Tuproqda uzoq saqlanmaydi",
+        "Qulay sharoitda ham sovuqqa chidamsiz"
+      ],
+      "x": "«qulay sharoitda oylar, hatto yillar davomida infeksion bo'lib qoladi.»"
+    },
+    {
+      "q": "Qaysi hayvonlar paratenik xo'jayin bo'lishi mumkin?",
+      "c": "Tovuq, cho'chqa, qo'y yoki quyon",
+      "w": [
+        "It, bo'ri, tulki yoki mushuk",
+        "Kuchuk, mushukcha, bo'ri yoki tulki",
+        "Bolalar, veterinarlar, bog'bonlar yoki itlar",
+        "Itlar, mushuklar, tovuq yoki tulki"
+      ],
+      "x": "«ya'ni tovuq, cho'chqa, qo'y yoki quyon bo'lishi mumkinligi aytilgan»"
+    },
+    {
+      "q": "Toksokaroz bo'yicha eng ko'p xavfda kimlar bor?",
+      "c": "Bolalar, ular tuproqda o'ynaydi",
+      "w": [
+        "Veterinarlar va bog'bonlar",
+        "Itlar bilan yaqin aloqadagi kattalar",
+        "Qashshoq hududlar aholisi",
+        "Hayvonlar egalari va veterinarlar"
+      ],
+      "x": "«Bolalar eng ko'p xavfda: ular tuproqda o'ynaydi, qo'lini og'ziga soladi»"
+    },
+    {
+      "q": "Toksokaroz tashxisi odatda nimaga asoslanadi?",
+      "c": "Serologiyaga asoslanadi",
+      "w": [
+        "Najasda tuxum topishga asoslanadi",
+        "Voyaga yetgan chuvalchanglarni topishga asoslanadi",
+        "Tuproqdagi tuxumlarni sanashga asoslanadi",
+        "Hayvonlar najasini tahlil qilishga asoslanadi"
+      ],
+      "x": "«Toksokaroz tashxisi odatda serologiyaga asoslanadi, najasda tuxum topilmaydi»"
+    },
+    {
+      "q": "Nima sababdan kuchuklar tuxum chiqarishning eng ko'p manbai hisoblanadi?",
+      "c": "Onadan platsenta orqali yoki sut bilan zararlanadi",
+      "w": [
+        "Xom jigar va ichki a'zolar iste'mol qilgani sababli",
+        "Ifloslangan sabzavot va ko'katlarni yegani sababli",
+        "Tuproqda o'ynab qo'lini og'ziga solgani sababli",
+        "Paratenik xo'jayinlar to'qimasini yegani sababli"
+      ],
+      "x": "«onadan platsenta orqali yoki sut bilan ham zararlanishi mumkin.»"
+    },
+    {
+      "q": "Qaysi omil ifloslanish xavfini oshiradi?",
+      "c": "Hayvonlar najasini yig'ib tashlamaslik",
+      "w": [
+        "Hayvonlarni muntazam veterinar ko'rigidan o'tkazish",
+        "Najasni yig'ish qoidasini joriy etish",
+        "Bolalar o'yin joylarini himoya qilish",
+        "Hayvonlarni veterinar ko'rigidan o'tkazish"
+      ],
+      "x": "«Hayvonlar najasini yig'ib tashlamaslik, egasiz itlar va mushuklarning ko'pligi, bolalar o'yin joylarida qum qutilarining yopilmasligi ifloslanish xavfini oshiradi.»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra odamga toksokaroz qaysi omillar orqali yuqadi?",
+      "c": "Hayvon mo'ynasi, tuproq qatlamlari, suv va yuvilmagan qo'llar orqali",
+      "w": [
+        "Ifloslangan sabzavot, xom jigar, suv va yuvilmagan qo'llar orqali",
+        "Hayvon mo'ynasi, xom go'sht, sabzavot va ichki a'zolar orqali",
+        "Qum qutilari, ifloslangan ko'katlar, xom jigar va suv orqali",
+        "Hayvon najasi, juniga yopishgan tuxum va ko'katlar orqali"
+      ],
+      "x": "«odamga hayvon mo'ynasi, hayvonlar yotgan tuproq qatlamlari, suv va yuvilmagan qo'llar orqali yuqadi»"
+    }
+  ],
+  "124": [
+    {
+      "q": "Toksokaroz klinik belgilarining asosiy sababi nima?",
+      "c": "Immun javob, ayniqsa eozinofillar ishtiroki",
+      "w": [
+        "Lichinkalarning soni va immunitet holati",
+        "Odam tasodifiy xo'jayin bo'lgani",
+        "Tuxum yutilgach ichakda lichinka chiqishi",
+        "Lichinkalarning ichak devori orqali o'tishi"
+      ],
+      "x": "«Organizmning immun javobi, ayniqsa eozinofillar ishtiroki, klinik belgilarning asosiy sababi hisoblanadi.»"
+    },
+    {
+      "q": "Ko'p odamlarda toksokaroz qanday kechadi?",
+      "c": "Belgisiz yoki juda yengil kechadi",
+      "w": [
+        "Tutqanoq va bosh og'rig'i bilan kechadi",
+        "Ko'rishning yo'qolishi bilan kechadi",
+        "Yuqori isitma va nafas qisishi bilan kechadi",
+        "Jigar shikastlanishi bilan og'ir kechadi"
+      ],
+      "x": "«Ko'p odamlarda toksokaroz belgisiz yoki juda yengil kechadi.»"
+    },
+    {
+      "q": "Visseral toksokaroz lichinkalarning qaysi a'zolarga ko'chishi natijasida yuzaga keladi?",
+      "c": "Asosan jigar va o'pkaga",
+      "w": [
+        "Ko'z va asab tizimiga",
+        "To'r parda va ichak devoriga",
+        "Teri va asab tizimiga",
+        "Ichak devori va qon oqimiga"
+      ],
+      "x": "«lichinkalarning ichki a'zolarga, asosan jigar va o'pkaga, ko'chishi natijasida yuzaga keladi»"
+    },
+    {
+      "q": "Ko'z toksokarozi qanday xususiyatga ega?",
+      "c": "Bir ko'zda, kattaroq bolalar va o'smirlarda uchraydi",
+      "w": [
+        "Ikki ko'zda, kichik bolalarda ko'proq uchraydi",
+        "Bir ko'zda, faqat kattalarda uchraydi",
+        "Ikkala ko'zda, o'smirlarda ko'proq uchraydi",
+        "Bir ko'zda, belgisiz kichik bolalarda uchraydi"
+      ],
+      "x": "«Ko'z toksokarozi odatda bir ko'zda bo'ladi va kattaroq bolalarda hamda o'smirlarda uchraydi.»"
+    },
+    {
+      "q": "Neyrotoksokaroz qanday belgilar bilan namoyon bo'lishi mumkin?",
+      "c": "Tutqanoq, bosh og'rig'i yoki nevrologik buzilishlar",
+      "w": [
+        "Ko'rishning pasayishi, g'ilaylik yoki ko'rishning yo'qolishi",
+        "Jigarning kattalashishi, yo'tal yoki nafas qisishi",
+        "Holsizlik, teri toshmalari yoki uyqu buzilishi",
+        "Urtikariya, bronxial astma yoki allergik toshmalar"
+      ],
+      "x": "«ammo tutqanoq, bosh og'rig'i, onkologik bo'lmagan miya yallig'lanishi yoki nevrologik buzilishlar bilan namoyon bo'lishi mumkin»"
+    },
+    {
+      "q": "Yashirin toksokaroz qanday nospetsifik belgilar bilan o'tadi?",
+      "c": "Holsizlik, bosh og'rig'i, qorin og'rig'i, uyqu buzilishi",
+      "w": [
+        "Tutqanoq, nevrologik buzilishlar, ko'rishning yo'qolishi, g'ilaylik",
+        "Isitma, jigarning kattalashishi, yo'tal, nafas qisishi",
+        "Ko'rishning pasayishi, g'ilaylik, to'r pardada yallig'lanish",
+        "O'pka fibrozi, jigar shikastlanishi, ko'rishning doimiy pasayishi"
+      ],
+      "x": "«holsizlik, bosh og'rig'i, qorin og'rig'i, uyqu buzilishi, teri toshmalari, yo'tal.»"
+    },
+    {
+      "q": "Bolalarda toksokaroz bilan zararlanish nima sababdan ko'proq?",
+      "c": "Tuproq yeyish, qum qutilarida o'ynash",
+      "w": [
+        "Isitma, yo'tal, nafas qisishi",
+        "Eozinofiliya, leykotsitoz, giperglobulinemiya",
+        "Lichinkalar soni, immunitet holati",
+        "Ota-onalar shifokorga murojaat qilmasligi"
+      ],
+      "x": "«Ularda tuproq yeyish, qum qutilarida o'ynash va gigiyena odatlarining yetishmasligi sababli zararlanish ko'proq»"
+    },
+    {
+      "q": "Kech aniqlangan toksokaroz qanday asoratlarga olib kelishi mumkin?",
+      "c": "Ko'rishning doimiy pasayishi, o'pka fibrozi",
+      "w": [
+        "Lichinkalarning ichakda voyaga yetishi va tuxum chiqarishi",
+        "Leykotsitoz, giperglobulinemiya, jigar fermentlari oshishi",
+        "Allergik toshmalar, urtikariya, bronxial astma",
+        "Isitma, yo'tal, nafas qisishi, qorin og'riqlari"
+      ],
+      "x": "«Davolanmagan yoki kech aniqlangan toksokaroz ko'rishning doimiy pasayishi, o'pka fibrozi, jigar shikastlanishi va nevrologik oqibatlarga olib kelishi mumkin»"
+    },
+    {
+      "q": "Toksokaroz nima uchun ko'pincha e'tibordan chetda qoladi?",
+      "c": "Klinik shakllarning ko'p qirraliligi tufayli",
+      "w": [
+        "Najasda tuxum ko'p chiqarilishi tufayli",
+        "Lichinkalar ichakda voyaga yetishi tufayli",
+        "Itlar va mushuklar kamligi tufayli",
+        "Faqat kattalarda uchrashi tufayli"
+      ],
+      "x": "«Klinik shakllarning ko'p qirraliligi tufayli toksokaroz ko'pincha e'tibordan chetda qoladi.»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra kasallik ko'proq kimlar orasida uchraydi?",
+      "c": "Veterinariya xizmati xodimlari, it boquvchilar",
+      "w": [
+        "Kichik bolalar, o'smirlar, kattaroq bolalar",
+        "Oftalmologlar, laborantlar, epidemiologlar",
+        "Allergik kasalliklarga chalingan bemorlar",
+        "Belgisiz shaklli odamlar"
+      ],
+      "x": "«Kasallik ko'proq veterinariya xizmati xodimlari, it boquvchilar, haydovchilar, avtochilangarlar, aqli zaiflar, it bilan ov qiluvchilar va tuproq bilan ishlovchilar orasida uchraydi»"
+    },
+    {
+      "q": "Klinik kuzatuvda dinamikada nimalar baholanadi?",
+      "c": "Eozinofiliya darajasi, serologik titr va ko'z holati",
+      "w": [
+        "Najasdagi tuxum soni, serologik titr va ichak holati",
+        "Jigar kattaligi, o'pka fibrozi va miya holati",
+        "Lichinkalar soni, immunitet holati va ko'z yallig'lanishi",
+        "Kuzatuv muddati, kuzatuv chastotasi va shifokor"
+      ],
+      "x": "«Eozinofiliya darajasi, serologik titr va ko'z holati dinamikada baholanadi»"
+    }
+  ],
+  "125": [
+    {
+      "q": "Toksokarozda najas tekshiruvi nima uchun yetarli emas?",
+      "c": "Odamda lichinkalar voyaga yetmaydi va najasga tuxum chiqarmaydi",
+      "w": [
+        "Najas namunasi noto'g'ri saqlanadi va natija manfiy chiqadi",
+        "Lichinkalar ichakda yetiladi, ammo najasga chiqmaydi",
+        "Odam asosiy xo'jayin bo'lgani uchun najas manfiy chiqadi",
+        "Najasda tuxum bo'ladi, lekin mikroskopiya manfiy chiqadi"
+      ],
+      "x": "«odamda lichinkalar voyaga yetmaydi va najasga tuxum chiqarmaydi»"
+    },
+    {
+      "q": "Toksokaroz tashxisi nimalarni birgalikda baholashga asoslanadi?",
+      "c": "Klinik belgilar, epidemiologik anamnez, eozinofiliya va serologik natijalar",
+      "w": [
+        "Najas mikroskopiyasi, tuxum soni, voyaga yetgan chuvalchanglar va biopsiya",
+        "Faqat serologik natijalar, najas mikroskopiyasi va tuxum soni",
+        "Najas natijalari, tasviriy usullar, biopsiya va molekulyar usullar",
+        "Ko'z ko'rigi, ultratovush, tomografiya va najas mikroskopiyasi"
+      ],
+      "x": "«Tashxis klinik belgilar, epidemiologik anamnez, eozinofiliya va serologik natijalarni birgalikda baholashga asoslanadi»"
+    },
+    {
+      "q": "Qaysi omil toksokaroz tashxisi gumonini kuchaytiradi?",
+      "c": "It va mushuk bilan yaqin aloqa",
+      "w": [
+        "Najasda tuxum topilishi",
+        "Eozinofiliya yo'qligi va past isitma",
+        "Serologik natija manfiyligi",
+        "Tuproq bilan aloqa yo'qligi"
+      ],
+      "x": "«Tashxis gumonini kuchaytiradigan omillar: it va mushuk bilan yaqin aloqa»"
+    },
+    {
+      "q": "Umumiy qon tahlilida toksokarozning xarakterli belgisi nima?",
+      "c": "Eozinofillar sonining sezilarli oshishi",
+      "w": [
+        "Eozinofillar sonining sezilarli kamayishi",
+        "Leykotsitlar sonining sezilarli kamayishi",
+        "Mutlaq eozinofil sonining sezilarli kamayishi",
+        "Leykotsitoz va yuqori EChT yo'qligi"
+      ],
+      "x": "«Umumiy qon tahlilida eozinofillar sonining sezilarli oshishi toksokarozning xarakterli belgisi hisoblanadi»"
+    },
+    {
+      "q": "Toksokarozning asosiy tasdiqlovchi usuli qaysi?",
+      "c": "Toxocara antigenlariga qarshi antitelolarni aniqlash",
+      "w": [
+        "Najasda tuxumlarni mikroskopiya qilish",
+        "To'qima biopsiyasida lichinkalarni topish",
+        "Ultratovush yordamida jigarni ko'rish",
+        "Leykoformulada eozinofil foizini hisoblash"
+      ],
+      "x": "«Asosiy tasdiqlovchi usul — Toxocara antigenlariga qarshi antitelolarni aniqlash»"
+    },
+    {
+      "q": "Ijobiy serologik natija nimani anglatishi mumkin?",
+      "c": "Joriy yoki avvalgi zararlanishni",
+      "w": [
+        "Faqat faol kasallikni",
+        "Qon serologiyasi past ekanini",
+        "Najas mikroskopiyasi manfiy ekanini",
+        "Eozinofiliya mutlaq belgi ekanini"
+      ],
+      "x": "«Ijobiy natija joriy yoki avvalgi zararlanishni anglatishi mumkin»"
+    },
+    {
+      "q": "Ko'z shaklida tashxis nimaga asoslanadi?",
+      "c": "Ko'z ichi suyuqligida antitelolarni aniqlash",
+      "w": [
+        "Qon serologiyasi va najas mikroskopiyasi",
+        "Leykoformula va EChT hisoblash",
+        "Jigar biopsiyasi va ultratovush",
+        "Najasda tuxum va chuvalchang topish"
+      ],
+      "x": "«Ko'z shaklida tashxis ko'pincha oftalmologik ko'rik va ko'z ichi suyuqligida antitelolarni aniqlashga asoslanadi.»"
+    },
+    {
+      "q": "Tasviriy usullardagi o'zgarishlar toksokaroz tashxisida qanday ahamiyatga ega?",
+      "c": "Toksokarozga xos emas, lekin tashxisni to'ldiradi",
+      "w": [
+        "Toksokarozga xos va tashxisni tasdiqlaydi",
+        "Laborant bajaradi va tashxisni aniqlaydi",
+        "Najasdagi tuxumlarni ko'rsatadi",
+        "Serologik natijani tashxisdan chiqarib tashlaydi"
+      ],
+      "x": "«Bu o'zgarishlar toksokarozga xos emas, lekin tashxisni to'ldiradi.»"
+    },
+    {
+      "q": "Toksokaroz tashxisida eng ko'p uchraydigan xato nima?",
+      "c": "Toksokarozni najas tekshiruvi bilan istisno qilishga urinish",
+      "w": [
+        "Qon namunasini tegishli probirkaga olish va yozib qo'yish",
+        "Laborant qo'lqop va xalat kiyib, ish joyini dezinfeksiya qilishi",
+        "Eozinofil foizini va mutlaq sonini aniq hisoblash",
+        "Natijani talqin qilishni shifokorga qoldirish"
+      ],
+      "x": "«Eng ko'p xato — toksokarozni najas tekshiruvi bilan istisno qilishga urinish.»"
+    },
+    {
+      "q": "Ko'z shaklini qaysi kasallikdan ajratish oftalmolog vakolatida?",
+      "c": "Retinoblastoma kabi kasalliklardan",
+      "w": [
+        "Askaridoz kabi kasalliklardan",
+        "Strongiloidoz va trixinellezdan",
+        "Askaridoz va ankilostomidozdan",
+        "Gematologik kasalliklardan"
+      ],
+      "x": "«Ko'z shaklini retinoblastoma kabi boshqa kasalliklardan ajratish oftalmolog vakolatida.»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra har bir aniqlangan toksokaroz holati bo'yicha nima beriladi?",
+      "c": "DSENMga shoshilinch xabarnoma (f. № 058/u)",
+      "w": [
+        "DSENMga rejali hisobot (f. № 357/u)",
+        "Veterinariya xizmatiga shoshilinch xabarnoma",
+        "Epidemiolog nazorat shakli (f. № 357/u)",
+        "Laboratoriyaga yo'llanma (f. № 058/u)"
+      ],
+      "x": "«har bir aniqlangan toksokaroz holati bo'yicha DSENMga shoshilinch xabarnoma (f. № 058/u) beriladi»"
+    }
+  ]
+}

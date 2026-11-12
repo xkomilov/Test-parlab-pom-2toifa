@@ -1,0 +1,617 @@
+{
+  "001": [
+    {
+      "q": "Hujjatlar o'zaro bo'ysunish tartibida qonunlardan keyin qaysi hujjatlar turadi?",
+      "c": "Prezident farmonlari va qarorlari",
+      "w": [
+        "Vazirlik buyruqlari",
+        "Sanitariya qoidalari va uslubiy ko'rsatmalar",
+        "Uslubiy ko'rsatmalar",
+        "Sanitariya qoidalari"
+      ],
+      "x": "«Eng yuqorida qonunlar turadi, ulardan keyin Prezident farmonlari va qarorlari, Vazirlar Mahkamasi qarorlari»"
+    },
+    {
+      "q": "Quyi hujjat yuqori hujjatga nisbatan qanday bo'lishi kerak?",
+      "c": "Yuqori hujjatga zid kelmasligi kerak",
+      "w": [
+        "Qonunlardan yuqori turishi kerak",
+        "Mutaxassisning shaxsiy tashabbusi bilan belgilanishi kerak",
+        "Vazirlik buyruqlari bilan almashtirilishi kerak",
+        "Hujjat nomi va raqamiga bog'liq bo'lishi kerak"
+      ],
+      "x": "«Quyi hujjat yuqori hujjatga zid kelishi mumkin emas.»"
+    },
+    {
+      "q": "Sanitariya-epidemiologik osoyishtalik to'g'risidagi qonun nimalarni belgilaydi?",
+      "c": "Davlat sanitariya nazorati vakolatlarini",
+      "w": [
+        "Hayvonlarni so'yish va go'sht ekspertizasi talablarini",
+        "Tashxis va davolash standartlarini",
+        "Vazirlik buyruqlarining ilovalari tartibini",
+        "Bolalarni ommaviy davolash mezonlarini"
+      ],
+      "x": "«Qonun yuqumli va parazitar kasalliklarning oldini olish, sanitariya qoidalariga rioya etish majburiyati va davlat sanitariya nazorati vakolatlarini belgilaydi»"
+    },
+    {
+      "q": "Zoonoz parazitozlar uchun veterinariya qonunchiligida qaysi talab belgilanadi?",
+      "c": "Itlarni degelmintizatsiya qilish talablari",
+      "w": [
+        "Bolalarni ommaviy davolash mezonlari",
+        "Dispanser kuzatuvi muddatlari",
+        "Namuna olish bayonnomalarini yuritish tartibi",
+        "Suv ta'minoti bo'yicha sanitariya talablari"
+      ],
+      "x": "«hayvonlarni so'yish, go'sht ekspertizasi va itlarni degelmintizatsiya qilish talablari»"
+    },
+    {
+      "q": "Bolalar jamoalarida enterobioz holati aniqlansa, nima qilinadi?",
+      "c": "Boshqa bolalar ham tekshiriladi va davolanadi",
+      "w": [
+        "Bolalar alohida davolanadi",
+        "Jamoa sanitariya nazoratidan o'tkaziladi",
+        "Natija vazirlik buyrug'iga muvofiq saqlanadi",
+        "Bolalar dispanser kuzatuviga olinadi"
+      ],
+      "x": "«bolalar jamoalarida enterobioz holati aniqlansa, boshqa bolalar ham tekshiriladi va bir vaqtda davolanadi»"
+    },
+    {
+      "q": "Vazirlik buyruqlarida tekshiruv shakllari bilan birga yana nimalar belgilanadi?",
+      "c": "Hisobot yuritish va dispanser kuzatuvi muddatlari",
+      "w": [
+        "Hayvonlarni so'yish va go'sht ekspertizasi talablari",
+        "Aholini ommaviy davolash va suv ta'minoti qoidalari",
+        "Qonunlarning raqamlari va amaldagi tahrirlari",
+        "Prezident farmonlari va davlat dasturlari tartibi"
+      ],
+      "x": "«Ularda tekshiruv shakllari, hisobot yuritish va dispanser kuzatuvi muddatlari ko'rsatiladi.»"
+    },
+    {
+      "q": "Rossiya Federatsiyasi uslubiy hujjatlarining O'zbekistondagi maqomi qanday?",
+      "c": "O'zbekistonda majburiy kuchga ega emas",
+      "w": [
+        "O'zbekistonda qonun darajasida qo'llaniladi",
+        "Milliy me'yorlardan ustuvor hisoblanadi",
+        "Vazirlik buyruqlari o'rnini bosadi",
+        "Faqat bolalar jamoalarida qo'llaniladi"
+      ],
+      "x": "«bu hujjatlar Rossiya hujjatlari bo'lib, O'zbekistonda majburiy kuchga ega emas.»"
+    },
+    {
+      "q": "2021–2030-yillarga mo'ljallangan JSST yo'l xaritasi qaysi kasalliklar bo'yicha global maqsadlarni belgilaydi?",
+      "c": "E'tibordan chetda qolgan tropik kasalliklar",
+      "w": [
+        "Bolalar va homilador ayollar kasalliklari",
+        "Bezgak va leyshmanioz kasalliklari",
+        "Zoonoz parazitozlar va qaytalama terlama",
+        "Sanitariya-epidemiologik osoyishtalik kasalliklari"
+      ],
+      "x": "«2021–2030-yillarga mo'ljallangan e'tibordan chetda qolgan tropik kasalliklar bo'yicha yo'l xaritasi»"
+    },
+    {
+      "q": "Sog'liqni saqlash vazirining 121-son hujjati qaysi sanada qabul qilingan?",
+      "c": "2015-yil 25-martdagi",
+      "w": [
+        "2016-yil 5-apreldagi",
+        "2015-yil 23-yanvardagi",
+        "2015-yil 29-yanvardagi",
+        "2011-yil 15-apreldagi"
+      ],
+      "x": "«Sog'liqni saqlash vazirining 2015-yil 25-martdagi 121-son»"
+    },
+    {
+      "q": "121-son hujjat ilovalari qaysi kasalliklar profilaktikasini o'z ichiga oladi?",
+      "c": "Bezgak, leyshmanioz va kanali qaytalama terlama",
+      "w": [
+        "Exinokokkoz, fassiolyoz va teniarinxoz",
+        "Enterobioz, bezgak va teniarinxoz",
+        "Fassiolyoz, leyshmanioz va exinokokkoz",
+        "Teri kasalliklari va bolalardagi gelmintozlar"
+      ],
+      "x": "«121-son buyruqning yetti ilovasi bezgak, leyshmanioz, kanali qaytalama terlama, gelmintozlar va protozoozlar profilaktikasi»"
+    },
+    {
+      "q": "2016-yil 5-apreldagi 166-son hujjat bilan nima tasdiqlangan?",
+      "c": "Parazitar kasalliklarni tashxis va davolash standartlari",
+      "w": [
+        "Bolalardagi gelmintozlarni profilaktika qilish dasturi",
+        "Bezgak elimininatsiyasining milliy strategiyasi",
+        "Aholining sanitariya-epidemiologik osoyishtaligi qoidalari",
+        "Kasalliklarning laborator diagnostikasi va epidemiologik nazorati"
+      ],
+      "x": "«Tashxis va davolash masalalarini Sog'liqni saqlash vazirining 2016-yil 5-apreldagi 166-son buyrug'i bilan tasdiqlangan parazitar kasalliklarni tashxis va davolash standartlari»"
+    }
+  ],
+  "002": [
+    {
+      "q": "Qanday mavjudotlar parazitlar deb ataladi?",
+      "c": "Odamga zarar yetkazib, uning hisobiga yashaydiganlar",
+      "w": [
+        "Tuproqda yashab, najas bilan chiqadiganlar",
+        "Oraliq xo'jayinda lichinkalik bosqichidan o'tadiganlar",
+        "Xo'jayinni oziq manbai sifatida saqlab turadiganlar",
+        "Tashqi muhitda tuxum va sistalar hosil qiladiganlar"
+      ],
+      "x": "«Ana shu mavjudotlar orasida odamga zarar yetkazib, uning hisobiga yashaydiganlari parazitlar deb ataladi.»"
+    },
+    {
+      "q": "Parazitizmda xo'jayin parazit uchun nima vazifasini bajaradi?",
+      "c": "Yashash joyi va oziq manbai",
+      "w": [
+        "Tashuvchi va oraliq bo'g'in",
+        "Tashxis namunasi va tekshiruv vositasi",
+        "Infeksiya manbai va moyil bo'g'in",
+        "Tuxum va lichinka saqlovchi muhit"
+      ],
+      "x": "«ikkinchisini, ya'ni xo'jayinni yashash joyi va oziq manbai sifatida ishlatadi va unga zarar yetkazadi.»"
+    },
+    {
+      "q": "Parazit qaysi xo'jayinda voyaga yetadi va jinsiy ko'payadi?",
+      "c": "Oxirgi xo'jayinda",
+      "w": [
+        "Oraliq xo'jayinda",
+        "Rezervuar xo'jayinda",
+        "Tasodifiy oraliq xo'jayinda",
+        "Tashuvchi xo'jayinda"
+      ],
+      "x": "«Oxirgi xo'jayinda parazit voyaga yetadi va jinsiy ko'payadi»"
+    },
+    {
+      "q": "Rezervuar xo'jayin qanday vazifani bajaradi?",
+      "c": "Tabiatda parazitni saqlab turadi",
+      "w": [
+        "Lichinkalik bosqichlarini o'tkazadi",
+        "Tuxumni tashqi muhitga najas bilan chiqaradi",
+        "Parazitni tashxis namunasiga o'tkazadi",
+        "Voyaga yetgan parazitni ko'paytiradi"
+      ],
+      "x": "«rezervuar xo'jayin esa tabiatda parazitni saqlab turadi»"
+    },
+    {
+      "q": "Ho'kiz tasmasimon chuvalchangida oxirgi va oraliq xo'jayinlar kimlar?",
+      "c": "Odam oxirgi, qoramol oraliq xo'jayin",
+      "w": [
+        "Qoramol oxirgi, odam oraliq xo'jayin",
+        "Odam ham oxirgi, ham oraliq xo'jayin",
+        "Qoramol ham oxirgi, ham oraliq xo'jayin",
+        "Odam oxirgi, qoramol rezervuar xo'jayin"
+      ],
+      "x": "«ho'kiz tasmasimon chuvalchangida odam oxirgi xo'jayin, qoramol esa oraliq xo'jayin hisoblanadi»"
+    },
+    {
+      "q": "Yangi najasdan to'g'ridan-to'g'ri yuqish nega kuzatilmaydi?",
+      "c": "Tuxumlar tuproqda uch hafta yetilishi kerak",
+      "w": [
+        "Tuxumlar suvda lichinkaga aylanishi kerak",
+        "Tuxumlar oraliq xo'jayinda yetilishi kerak",
+        "Lichinkalar teri orqali kirishi kerak",
+        "Tuxumlar najasda mikroskopik bo'lib qoladi"
+      ],
+      "x": "«infeksion bo'lishi uchun tuproqda taxminan uch hafta yetilishi kerak.»"
+    },
+    {
+      "q": "Parazit xo'jayinga qanday ta'sir qilishi mumkin?",
+      "c": "Zaharli va allergik mahsulotlar ajratishi",
+      "w": [
+        "Tuxumni infeksion bosqichga o'tkazishi",
+        "Oraliq xo'jayinda lichinkalik bosqichlarini o'tkazishi",
+        "Tur aniqligini mikroskopda belgilashi",
+        "Tashuvchi hasharotni zoologiya bilan bog'lashi"
+      ],
+      "x": "«zaharli va allergik mahsulotlar ajratishi hamda immun tizimni o'zgartirishi mumkin»"
+    },
+    {
+      "q": "Intensivlik ko'rsatkichi nimani bildiradi?",
+      "c": "Xo'jayinga to'g'ri keladigan parazitlar sonini",
+      "w": [
+        "Zararlangan odamlarning aholiga nisbatini",
+        "Hududlarda zararlangan odamlarning nisbatini",
+        "Tuxum shakli va qobig'ini",
+        "Parazit hayot siklining davomiyligini"
+      ],
+      "x": "«intensivlik esa zararlangan xo'jayinga to'g'ri keladigan parazitlar sonini bildiradi»"
+    },
+    {
+      "q": "Enterobioz tashxisida qaysi namuna ishlatiladi?",
+      "c": "Perianal qirindi",
+      "w": [
+        "Qon surtmasi va qalin tomchi",
+        "Najas namunasi",
+        "Balg'am va siydik",
+        "Qirma va to'qima"
+      ],
+      "x": "«enterobiozda perianal qirindi ishlatiladi.»"
+    },
+    {
+      "q": "Enterobiozda najas tekshiruvi nima uchun ko'pincha manfiy chiqadi?",
+      "c": "Ostritsa urg'ochisi tuxumni kechasi anal atrofiga qo'yadi",
+      "w": [
+        "Ostritsa tuxumi najas bilan chiqib tuproqda yetiladi",
+        "Tuxumlar qon orqali tashqi muhitga chiqadi",
+        "Noto'g'ri saqlangan namunada lichinkalar yo'qoladi",
+        "Tuxumlar najasda sista holiga o'tadi"
+      ],
+      "x": "«ostritsa urg'ochisi tuxumni kechasi anal atrofiga qo'yadi, shuning uchun najas tekshiruvi ko'pincha manfiy chiqadi»"
+    },
+    {
+      "q": "Tuproq orqali yuqadigan gelmintozlarda JSST xavf ostidagi guruhlar uchun nimani tavsiya etadi?",
+      "c": "Individual tashxissiz davriy davolashni",
+      "w": [
+        "Har bir bemorni mikroskopda ko'rishni",
+        "Ichak tutilishini davolashni",
+        "Aholini serologik usulda tekshirishni",
+        "Tashuvchilarga qarshi kurashni kuchaytirishni"
+      ],
+      "x": "«JSST xavf ostidagi guruhlarni individual tashxissiz davriy davolashni, ya'ni profilaktik kimyoterapiyani tavsiya etadi.»"
+    }
+  ],
+  "003": [
+    {
+      "q": "Tibbiy protozoologiya nimani o'rganadi?",
+      "c": "Odamda parazitlik qiluvchi sodda jonivorlarni",
+      "w": [
+        "Odamda parazitlik qiluvchi chuvalchanglarni",
+        "Bo'g'imoyoqlilar va parazit tashuvchilarni",
+        "Hayvonlardagi parazitozlarni",
+        "Tashqi muhit omillarini"
+      ],
+      "x": "«u odamda parazitlik qiluvchi bir hujayrali organizmlarni, ya'ni sodda jonivorlarni o'rganadi»"
+    },
+    {
+      "q": "Trematodalar qaysi chuvalchanglar guruhiga kiradi?",
+      "c": "So'rg'ichli chuvalchanglar",
+      "w": [
+        "To'garak chuvalchanglar",
+        "Tasmasimon chuvalchanglar",
+        "Bo'g'imoyoqli chuvalchanglar",
+        "Parazit chuvalchanglar"
+      ],
+      "x": "«va so'rg'ichli chuvalchanglar (trematodalar)»"
+    },
+    {
+      "q": "Tibbiy araxnoentomologiyada qaysi hayvonlar o'zi parazit hisoblanadi?",
+      "c": "Qo'tir kanasi, bit va burga",
+      "w": [
+        "Bezgak chivini va chivinchalar",
+        "Qaytalama tifni tarqatuvchi kanalar",
+        "Leyshmaniya tashuvchisi chivinchalar",
+        "Qon so'ruvchi hasharotlar"
+      ],
+      "x": "«ba'zilari o'zi parazit, masalan qo'tir kanasi, bit va burga»"
+    },
+    {
+      "q": "Konstantin Skryabin qanday g'oyani ilgari surgan?",
+      "c": "Gelmintozlarni to'liq yo'q qilish",
+      "w": [
+        "Gelmintozlarni individual tashxissiz davolash",
+        "Tashuvchilarni mavsumiy kuzatish",
+        "Tasmasimon chuvalchanglarni bosh qismiga qarab ajratish",
+        "Parazitlarni genetik aniqlash"
+      ],
+      "x": "«Konstantin Skryabin gelmintozlarni to'liq yo'q qilish, ya'ni devastatsiya g'oyasini ilgari surgan»"
+    },
+    {
+      "q": "Patrik Manson nimani isbotladi?",
+      "c": "Qon so'ruvchi hasharotlarning tarqatishdagi rolini",
+      "w": [
+        "Siydik shistosomasining tuzilishini",
+        "Tasmasimon chuvalchanglar bosh qismining tuzilishini",
+        "Chuvalchanglar tuzilishini tavsiflash mumkinligini",
+        "Dori qarshiligini genetik kuzatish mumkinligini"
+      ],
+      "x": "«Patrik Manson qon so'ruvchi hasharotlarning parazitlarni tarqatishdagi rolini isbotladi»"
+    },
+    {
+      "q": "Molekulyar parazitologiya qanday imkon beradi?",
+      "c": "Tur va shtammlarni genetik aniqlash",
+      "w": [
+        "Tarqalish qonuniyatlarini va nazorat choralarini ishlab chiqish",
+        "Hayvonlardagi parazitozlarni o'rganish",
+        "Kasallikning bemorda namoyon bo'lishini ko'rish",
+        "Hasharot namunasini turiga qarab aniqlash"
+      ],
+      "x": "«molekulyar parazitologiya esa tur va shtammlarni genetik aniqlash hamda dori qarshiligini kuzatish imkonini beradi»"
+    },
+    {
+      "q": "Qaysi yo'nalish hayvonlardagi parazitozlarni o'rganadi?",
+      "c": "Veterinariya parazitologiyasi",
+      "w": [
+        "Klinik parazitologiya",
+        "Parazitar epidemiologiya",
+        "Molekulyar parazitologiya",
+        "Tibbiy gelmintologiya va protozoologiya"
+      ],
+      "x": "«Veterinariya parazitologiyasi hayvonlardagi parazitozlarni o'rganadi»"
+    },
+    {
+      "q": "Gelmintologiyada laboratoriyada qaysi amal qo'llanadi?",
+      "c": "Najasni mikroskopik tekshirish",
+      "w": [
+        "Qon surtmasi va qalin tomchini tayyorlash",
+        "Hasharot yoki kana namunasini aniqlash",
+        "To'qima aspiratini serologik tekshirish",
+        "Najasni serologik tekshirish"
+      ],
+      "x": "«Gelmintologiyada najasni mikroskopik tekshirish, tuxum yoki lichinka sonini hisoblash va perianal qirindini ko'rish qo'llanadi»"
+    },
+    {
+      "q": "Bezgak bemorida qon surtmasini tekshirish qaysi tarmoq doirasiga kiradi?",
+      "c": "Protozoologiya doirasi",
+      "w": [
+        "Gelmintologiya doirasi",
+        "Araxnoentomologiya doirasi",
+        "Molekulyar parazitologiya doirasi",
+        "Veterinariya parazitologiyasi doirasi"
+      ],
+      "x": "«Bezgak bemorida shifokor qon surtmasini tekshirishni buyuradi, bu protozoologiya doirasi.»"
+    },
+    {
+      "q": "Sifat nazoratida topilma kim tomonidan tasdiqlanishi kerak?",
+      "c": "Ikkinchi mutaxassis",
+      "w": [
+        "Epidemiolog va entomolog",
+        "Ma'lumotnoma laboratoriyasi",
+        "Shifokor va laborant",
+        "Tashuvchi hasharot"
+      ],
+      "x": "«topilma esa ikkinchi mutaxassis tomonidan tasdiqlanishi kerak.»"
+    },
+    {
+      "q": "Kyuxenmeyster tasmasimon chuvalchanglarni qanday belgiga qarab ajratgan?",
+      "c": "Bosh qismining tuzilishiga qarab",
+      "w": [
+        "Tuxumining shakli va qobig'iga qarab",
+        "Tashqi muhitdagi holatiga qarab",
+        "Oraliq xo'jayinlariga qarab",
+        "Qon so'ruvchi hasharotlarga qarab"
+      ],
+      "x": "«Kyuxenmeyster esa tasmasimon chuvalchanglarni bosh qismining tuzilishiga qarab ajratgan»"
+    }
+  ],
+  "004": [
+    {
+      "q": "Gelmintlar qanday organizmlar?",
+      "c": "Ko'p hujayrali chuvalchanglar",
+      "w": [
+        "Bir hujayrali sodda jonivorlar",
+        "Hayvon va o'simliklarda parazitlik qiladigan sodda jonivorlar",
+        "Mikroskopik tuxum va lichinkalar",
+        "Parazitlik qiluvchi mikroorganizmlar"
+      ],
+      "x": "«Gelmintlar odam, hayvon va o'simliklarda parazitlik qiladigan ko'p hujayrali chuvalchanglar bo'lib»"
+    },
+    {
+      "q": "Qaysi gelmintlar nematodalar sinfiga kiradi?",
+      "c": "Askarida, qilbosh, ostritsa va g'ajakbosh",
+      "w": [
+        "Fassiola, opistorx va shistosomalar",
+        "Qoramol va cho'chqa tasmasimon chuvalchanglari",
+        "Keng tasmasimon chuvalchang va exinokokk",
+        "Exinokokk, fassiola va opistorx"
+      ],
+      "x": "«Nematodalar orasida askarida, qilbosh, ostritsa va g'ajakbosh keng tarqalgan.»"
+    },
+    {
+      "q": "Tuproq orqali yuqadigan gelmint tuxumlari odam og'ziga qanday yo'llar bilan tushadi?",
+      "c": "Yuvilmagan sabzavot, ifloslangan suv yoki iflos qo'l",
+      "w": [
+        "Teri orqali, ko'pincha yalang oyoq yurganda",
+        "Perianal qirindi orqali, ayniqsa kechasi",
+        "Najasda chiqqan bo'g'imlar orqali og'izga tushadi",
+        "Ichakdagi chuvalchanglar orqali og'izga tushadi"
+      ],
+      "x": "«yuvilmagan sabzavot, ifloslangan suv yoki iflos qo'l orqali og'izga tushadi»"
+    },
+    {
+      "q": "G'ajakbosh lichinkalari organizmga qanday kiradi?",
+      "c": "Teri orqali, ko'pincha yalang oyoq yurganda",
+      "w": [
+        "Yuvilmagan sabzavot orqali og'izga tushadi",
+        "Ifloslangan suv orqali og'izga tushadi",
+        "Iflos qo'l orqali ichakka o'tadi",
+        "Najas bilan tashqi muhitga chiqadi"
+      ],
+      "x": "«G'ajakbosh lichinkalari esa teri orqali, ko'pincha yalang oyoq yurganda kiradi.»"
+    },
+    {
+      "q": "Gelmintozda asosiy qoidaga ko'ra kasallik og'irligi nimaga to'g'ri keladi?",
+      "c": "Parazitlar soniga",
+      "w": [
+        "Bemorning yoshiga",
+        "Oila a'zolari soniga",
+        "Gigiyena ko'nikmalariga",
+        "Tuxum shakliga"
+      ],
+      "x": "«Asosiy qoida: kasallik og'irligi parazitlar soniga to'g'ri keladi.»"
+    },
+    {
+      "q": "Og'ir zararlanishda bolalarda nima kuzatiladi?",
+      "c": "O'sish va rivojlanishning orqada qolishi",
+      "w": [
+        "Anal sohada kechasi kuchayadigan qichishish",
+        "Najasda bo'g'imlar chiqqanini sezish",
+        "Eozinofillar sonining ko'payishi",
+        "Yengil zararlanishda belgilar bo'lmasligi"
+      ],
+      "x": "«bolalarda o'sish hamda rivojlanishning orqada qolishi kuzatiladi»"
+    },
+    {
+      "q": "Gelmintozning aniq tashxisi nimaga asoslanadi?",
+      "c": "Tuxumi, lichinkasi yoki o'zini topishga",
+      "w": [
+        "Bemor shikoyatlari va ishtaha pasayishiga",
+        "Qon tahlilida eozinofillarni sanashga",
+        "Temir tanqisligi alomatlarini aniqlashga",
+        "Oila a'zolarini so'rab chiqishga"
+      ],
+      "x": "«Aniq tashxis najasda, perianal qirindida, qonda yoki to'qimada parazit tuxumi, lichinkasi yoki o'zini topishga asoslanadi.»"
+    },
+    {
+      "q": "Zararlanish intensivligi nimani ko'rsatadi?",
+      "c": "Kasallik og'irligi va davolash zaruratini",
+      "w": [
+        "Parazit turi va tuxum shaklini",
+        "Tuproqda taxminan uch hafta",
+        "Oila a'zolarining soni va yoshini",
+        "Xavf ostidagi guruhlarni"
+      ],
+      "x": "«aynan u kasallik og'irligi va davolash zaruratini ko'rsatadi»"
+    },
+    {
+      "q": "Maktabgacha va maktab yoshidagi bolalar nima sababdan xavf ostida?",
+      "c": "Tuproq bilan ko'p aloqada bo'lgani",
+      "w": [
+        "Temir tanqisligi xavfi yuqori bo'lgani",
+        "Ish sharoiti sababli zaif bo'lgani",
+        "Najas tekshiruvi kam o'tkazilgani",
+        "Oziq moddalar so'rilishi buzilgani"
+      ],
+      "x": "«bolalar tuproq bilan ko'p aloqada bo'lgani va gigiyena ko'nikmalari shakllanmagani sababli xavf ostida»"
+    },
+    {
+      "q": "Natija salbiy bo'lib belgilar saqlansa, tekshiruv nima uchun takrorlanadi?",
+      "c": "Tuxumlar najas bilan har kuni bir xil miqdorda chiqmaydi",
+      "w": [
+        "Tuxumlar tuproqda har kuni bir xil miqdorda yetiladi",
+        "Belgilar har kuni bir xil kuchda namoyon bo'ladi",
+        "Oila a'zolari har kuni bir xil miqdorda zararlanadi",
+        "Parazit soni har kuni bir xil miqdorda ortadi"
+      ],
+      "x": "«tekshiruv boshqa kunda takrorlanadi, chunki tuxumlar najas bilan har kuni bir xil miqdorda chiqmaydi.»"
+    },
+    {
+      "q": "Gelmintlarning toksik-allergik ta'siri qanday belgilarni keltiradi?",
+      "c": "Eozinofiliya, toshma va qichishish",
+      "w": [
+        "Ichak yoki o't yo'llarining tiqilishi",
+        "Kamqonlik va vitamin yetishmovchiligi",
+        "Bolalarda o'sishning sustlashishi",
+        "Temir va oqsil yetishmasligi"
+      ],
+      "x": "«Toksik-allergik ta'sir parazit chiqindilariga javoban rivojlanib, eozinofiliya, toshma va qichishish keltiradi.»"
+    }
+  ],
+  "005": [
+    {
+      "q": "Gelmintlarning mexanik ta'siri nimada namoyon bo'ladi?",
+      "c": "A'zolarni bosadi, bo'shliqlarni to'sadi va to'qimalarni shikastlaydi",
+      "w": [
+        "Oziq moddalar yetishmaydi, kamqonlik rivojlanadi va rivojlanish sekinlashadi",
+        "Parazit chiqindilariga javoban toshma keltiradi",
+        "Immun tizimni aylanib o'tib, yillar davomida davom etadi",
+        "Xo'jayin to'qimalari bilan oziqlanib, qon yo'qotadi"
+      ],
+      "x": "«Gelmintlar a'zolarni bosadi, bo'shliqlarni to'sadi va to'qimalarni shikastlaydi.»"
+    },
+    {
+      "q": "Juda og'ir zararlanishda ichak tutilishini davolash uchun qanday usul kerak bo'ladi?",
+      "c": "Jarrohlik yo'li bilan davolash",
+      "w": [
+        "Davriy degelmintizatsiya bilan davolash",
+        "Qo'shimcha parhez bilan davolash",
+        "Takroriy najas tekshiruvi bilan davolash",
+        "Gemoglobin darajasini kuzatish bilan davolash"
+      ],
+      "x": "«uni jarrohlik yo'li bilan davolash kerak bo'ladi»"
+    },
+    {
+      "q": "G'ajakbosh chuvalchanglar mexanik ravishda qanday shikast yetkazadi?",
+      "c": "Ichak shilliq qavatiga yopishib uni jarohatlaydi",
+      "w": [
+        "Askaridalar to'p hosil qilib ichak yo'lini bekitadi",
+        "Jigarda o'sib atrofdagi to'qimalarni siqadi",
+        "Lichinkalar to'qima orqali ko'chib yallig'lanish o'choqlarini hosil qiladi",
+        "O't yo'llariga kirib ularni to'sadi"
+      ],
+      "x": "«G'ajakbosh chuvalchanglar ichak shilliq qavatiga yopishib uni jarohatlaydi»"
+    },
+    {
+      "q": "Tuproq orqali yuqadigan gelmintlar qon bilan oziqlanishi nimaga olib keladi?",
+      "c": "Temir va oqsil yo'qotilishiga",
+      "w": [
+        "Ichak yo'lining to'liq bekilishiga",
+        "Immun javobning chetga burilishiga",
+        "Toshma va bronxospazm rivojlanishiga",
+        "Asoratlar va yiringli jarayonga"
+      ],
+      "x": "«bu esa temir va oqsil yo'qotilishiga olib keladi»"
+    },
+    {
+      "q": "Tuproq gelmintlarida zararlanish darajasi najasning bir grammidagi qaysi ko'rsatkich bo'yicha ajratiladi?",
+      "c": "Tuxum soni",
+      "w": [
+        "Lichinka soni",
+        "Zararlanish davomiyligi",
+        "Eozinofillar soni",
+        "Gemoglobin darajasi"
+      ],
+      "x": "«najasning bir grammidagi tuxum soni (epg) bo'yicha yengil, o'rta va og'ir zararlanish darajalari ajratiladi»"
+    },
+    {
+      "q": "Askaridada qancha epg o'rta zararlanish hisoblanadi?",
+      "c": "5000–49 999 epg",
+      "w": [
+        "1–4999 epg",
+        "50 000 va undan yuqori epg",
+        "1000–9999 epg",
+        "10 000 dan yuqori epg"
+      ],
+      "x": "«Askaridada 1–4999 epg yengil, 5000–49 999 epg o'rta, 50 000 va undan yuqori epg og'ir hisoblanadi»"
+    },
+    {
+      "q": "Qilbosh chuvalchangda qaysi tuxum soni og'ir zararlanishni bildiradi?",
+      "c": "10 000 dan yuqori",
+      "w": [
+        "1–999",
+        "1000–9999",
+        "50 000 va undan yuqori",
+        "2000–3999"
+      ],
+      "x": "«Qilbosh chuvalchangda mos ravishda 1–999, 1000–9999 va 10 000 dan yuqori»"
+    },
+    {
+      "q": "Bolalarda surunkali gelmint zararlanishi qaysi rivojlanishni sekinlashtiradi?",
+      "c": "Jismoniy hamda aqliy rivojlanishni",
+      "w": [
+        "Faqat immun tizim rivojlanishini",
+        "Ovqat iste'moli va ishtahani",
+        "Ichak shilliq qavati rivojlanishini",
+        "Parazit lichinkalari rivojlanishini"
+      ],
+      "x": "«kamqonlik rivojlanadi va jismoniy hamda aqliy rivojlanish sekinlashadi»"
+    },
+    {
+      "q": "Homilador ayollarda ankilostomidoz va boshqa gelmintozlar nimani kuchaytirishi mumkin?",
+      "c": "Kamqonlikni kuchaytirishi",
+      "w": [
+        "Ichak tutilishini kuchaytirishi",
+        "Immun javobni kuchaytirishi",
+        "Toshmani kuchaytirishi",
+        "Ishtahani kuchaytirishi"
+      ],
+      "x": "«Homilador ayollarda ankilostomidoz va boshqa gelmintozlar kamqonlikni kuchaytirishi mumkin»"
+    },
+    {
+      "q": "Tuxum sonini hisoblash laborant uchun nimani baholashga imkon beradi?",
+      "c": "Zararlanish intensivligini baholash",
+      "w": [
+        "Parazit joylashuvini baholash",
+        "Xo'jayinning yoshini baholash",
+        "Kamqonlik darajasini aniqlash",
+        "Tuproqdagi tuxumlar yetilishini baholash"
+      ],
+      "x": "«Tuxum sonini hisoblash orqali zararlanish intensivligi baholanadi, bu esa davolash zaruratini hal qiladi.»"
+    },
+    {
+      "q": "Gelmint ta'sirining darajasi xo'jayinning qaysi xususiyatlariga bog'liq?",
+      "c": "Yoshi, oziqlanishi va immun holatiga",
+      "w": [
+        "Parazit turi, soni va joylashuviga",
+        "Zararlanish davomiyligi va intensivligiga",
+        "Laboratoriya tashxisi va takroriy tekshiruvga",
+        "Davolashdan keyingi kuzatuv va parhezga"
+      ],
+      "x": "«shuningdek xo'jayinning yoshi, oziqlanishi va immun holatiga bog'liq.»"
+    }
+  ]
+}

@@ -1,0 +1,617 @@
+{
+  "126": [
+    {
+      "q": "Toksokaroz bilan zararlanish asosan qanday sodir bo'ladi?",
+      "c": "Infeksion tuxumlarni og'iz orqali yutish natijasida",
+      "w": [
+        "Bemor bilan muloqot qilish natijasida",
+        "Infeksion lichinkalarni teri orqali olish natijasida",
+        "Tuproqdagi tuxumlarni nafas yo'li bilan olish natijasida",
+        "Hayvon tishlashi natijasida lichinkalar tushishi"
+      ],
+      "x": "«Toksokaroz bilan zararlanish asosan infeksion tuxumlarni og'iz orqali yutish natijasida sodir bo'ladi.»"
+    },
+    {
+      "q": "Toksokaroz odamdan odamga yuqadimi?",
+      "c": "Odamdan odamga yuqmaydi",
+      "w": [
+        "Bemor bilan muloqotda yuqadi",
+        "Bolalardan kattalarga yuqadi",
+        "Oiladagi bemordan boshqalarga yuqadi",
+        "Najas orqali bemordan yuqadi"
+      ],
+      "x": "«Odamdan odamga yuqmaydi»"
+    },
+    {
+      "q": "Tuxumlar tuproqda qancha vaqtda infeksion bo'ladi?",
+      "c": "Bir necha haftada infeksion bo'ladi",
+      "w": [
+        "Najas bilan chiqishi bilan infeksion bo'ladi",
+        "Odam yutgandan keyin infeksion bo'ladi",
+        "Hayvon juniga yopishgandan keyin infeksion bo'ladi",
+        "Sovuqda va quruq tuproqda infeksion bo'ladi"
+      ],
+      "x": "«bir necha haftada infeksion bo'ladi»"
+    },
+    {
+      "q": "Geofagiya nima?",
+      "c": "Tuproq yeyish odati",
+      "w": [
+        "Xom jigar iste'mol qilish odati",
+        "Qo'lni og'izga olish odati",
+        "Hayvonni o'pish odati",
+        "Sabzavotni yuvmasdan yeyish odati"
+      ],
+      "x": "«Geofagiya, ya'ni tuproq yeyish odati, ayniqsa kichik bolalarda zararlanishning muhim omilidir.»"
+    },
+    {
+      "q": "Sabzavot va ko'katlar qachon tuxum bilan ifloslanishi mumkin?",
+      "c": "Hayvon najasi bilan ifloslangan tuproqda o'ssa",
+      "w": [
+        "Xom iste'mol qilishdan oldin yaxshilab tozalansa",
+        "Itlar va mushuklardan himoyalangan bog'da o'ssa",
+        "Oqar suvda tozalab yuvilgandan keyin iste'mol qilinsa",
+        "Sovun bilan yaxshilab yuvilib tayyorlansa"
+      ],
+      "x": "«Sabzavotlar va ko'katlar hayvon najasi bilan ifloslangan tuproqda o'ssa yoki ifloslangan suv bilan sug'orilsa, ularning sirtida tuxumlar bo'lishi mumkin.»"
+    },
+    {
+      "q": "Qaysi paratenik xo'jayinlarning xom go'shti va jigari lichinkalarni saqlashi mumkin?",
+      "c": "Tovuq, cho'chqa, qo'y va quyon",
+      "w": [
+        "Bolalar, veterinarlar, bog'bonlar va dehqonlar",
+        "Itlar, mushuklar, kuchuklar va mushukchalar",
+        "Veterinarlar, dehqonlar, tovuq va quyon",
+        "Itlar, mushuklar, cho'chqa va qo'y"
+      ],
+      "x": "«Paratenik xo'jayinlar, ya'ni tovuq, cho'chqa, qo'y va quyonlarning xom yoki yaxshi pishirilmagan go'shti»"
+    },
+    {
+      "q": "Hayvon bilan aloqadan keyin nima qilish muhim?",
+      "c": "Qo'lni sovun bilan yuvish",
+      "w": [
+        "Hayvon najasini yig'ish",
+        "Hayvonni veterinarga ko'rsatish",
+        "Hayvonlarni ro'yxatga olish",
+        "Bolalarni hayvonlar bilan yolg'iz qoldirish"
+      ],
+      "x": "«Hayvon bilan aloqadan keyin qo'lni sovun bilan yuvish muhim.»"
+    },
+    {
+      "q": "Toksokaroz bo'yicha eng yuqori xavfdagilar kimlar?",
+      "c": "Kichik bolalar",
+      "w": [
+        "Veterinarlar va bog'bonlar",
+        "Dehqonlar va hayvon boqishchilar",
+        "It va mushuk egalari",
+        "Homilador ayollar"
+      ],
+      "x": "«Eng yuqori xavfdagilar — kichik bolalar.»"
+    },
+    {
+      "q": "Tuxumlar qaysi sharoitda tezroq infeksion bo'ladi?",
+      "c": "Issiq va nam sharoitda",
+      "w": [
+        "Sovuq va nam sharoitda",
+        "Issiq va sovuq sharoitda",
+        "Nam va sovuq tuproqda",
+        "Bahor va sovuq sharoitda"
+      ],
+      "x": "«Issiq va nam sharoitda ular tezroq infeksion bo'ladi»"
+    },
+    {
+      "q": "Kattalar asosan qaysi yo'llar orqali zararlanadi?",
+      "c": "Xom go'sht va jigar iste'moli yoki kasbiy aloqa",
+      "w": [
+        "Tuproq bilan aloqa va geofagiya tufayli",
+        "Qum qutilarida o'ynash va qo'lni og'izga olish",
+        "Hayvon juniga yopishgan tuxumlar va o'pish",
+        "Ifloslangan suv va sabzavot orqali"
+      ],
+      "x": "«kattalar esa xom go'sht va jigar iste'moli yoki kasbiy aloqa orqali.»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra zararlanish ob'ekti asosan nima hisoblanadi?",
+      "c": "Tuproq hisoblanadi",
+      "w": [
+        "Hayvon mo'ynasi hisoblanadi",
+        "Yuvilmagan qo'llar hisoblanadi",
+        "Ifloslangan suv hisoblanadi",
+        "Xom jigar hisoblanadi"
+      ],
+      "x": "«zararlanish ob'ekti asosan tuproq hisoblanadi»"
+    }
+  ],
+  "127": [
+    {
+      "q": "Toksokarozni oldini olish zanjirning qaysi bo'g'inlarini qamrab oladi?",
+      "c": "Manba hayvonlar, ifloslangan tuproq va zararlanishga moyil odamlar",
+      "w": [
+        "Manba hayvonlar, paratenik xo'jayinlar va oziq-ovqat mahsulotlari",
+        "Ifloslangan suv, sabzavot va ko'katlar, go'sht va jigar",
+        "Bemor odamlar, tuproq namunalari va laboratoriya xodimlari",
+        "Veterinarlar, bog'bonlar, dehqonlar va hayvon boquvchilar"
+      ],
+      "x": "«zanjirning uch bo'g'inini qamrab oladi: manba hayvonlar, ifloslangan tuproq va zararlanishga moyil odamlar»"
+    },
+    {
+      "q": "Toksokarozni oldini olishda eng oddiy va samarali chora nima?",
+      "c": "Qo'lni sovun bilan yuvish",
+      "w": [
+        "Qum qutilarini yopib qo'yish",
+        "Hayvon najasini yig'ish",
+        "Sabzavotni toza suvda yuvish",
+        "Xom jigardan saqlanish"
+      ],
+      "x": "«Eng oddiy va samarali chora — qo'lni sovun bilan yuvish»"
+    },
+    {
+      "q": "Hayvon najasini darhol yig'ish nima uchun muhim?",
+      "c": "Tuxumlarning tuproqda infeksion bo'lishiga yo'l qo'ymaydi",
+      "w": [
+        "Tuxumlarning najas bilan tashqariga chiqishiga yo'l qo'ymaydi",
+        "Itlarning toksokaroz bilan zararlanishiga yo'l qo'ymaydi",
+        "Egasiz itlar ko'payishiga yo'l qo'ymaydi",
+        "Bolalarning geofagiya odatiga yo'l qo'ymaydi"
+      ],
+      "x": "«Hayvon najasini darhol yig'ib, xavfsiz tashlash tuxumlarning tuproqda infeksion bo'lishiga yo'l qo'ymaydi»"
+    },
+    {
+      "q": "Qum qutilari bolalarni himoya qilishi uchun nima qilinadi?",
+      "c": "Ishlatilmayotgan paytda yopib qo'yiladi",
+      "w": [
+        "Hayvonlarning kirishi cheklanmaydi",
+        "Almashtirilmasdan vaqti-vaqti bilan saqlanadi",
+        "Qum qutilarida saqlanadi",
+        "Bolalar o'yini hayvonlar bilan o'tadi"
+      ],
+      "x": "«Qum qutilarini ishlatilmayotgan paytda yopib qo'yish, hayvonlarning kirishini cheklash va qumni vaqti-vaqti bilan almashtirish bolalarni himoya qiladi.»"
+    },
+    {
+      "q": "Tuproq yeyish odati bor bolalar bilan nima qilinadi?",
+      "c": "Ota-onalar nazoratida bo'ladi",
+      "w": [
+        "Tuproq bilan ishlashga yuboriladi",
+        "Hayvonlar bilan o'ynashga qo'yiladi",
+        "Qum qutilarida o'ynashga qo'yiladi",
+        "Veterinar nazorati ostida bo'ladi"
+      ],
+      "x": "«Tuproq yeyish odati bor bolalar ota-onalar nazoratida bo'lishi»"
+    },
+    {
+      "q": "Go'sht va ichki a'zolar, ayniqsa jigar, qanday tayyorlanadi?",
+      "c": "Yaxshi pishiriladi",
+      "w": [
+        "Xom holda iste'mol qilinadi",
+        "Toza suvda yuviladi",
+        "Qo'lqop bilan tozalanadi",
+        "Qum qutilarida saqlanadi"
+      ],
+      "x": "«Go'sht va ichki a'zolar, ayniqsa jigar, yaxshi pishiriladi.»"
+    },
+    {
+      "q": "Ikkilamchi profilaktika nimadan iborat?",
+      "c": "Kasallikni erta aniqlash va davolash",
+      "w": [
+        "Najasni yig'ish va xavfsiz tashlash",
+        "Qo'lni sovun bilan muntazam yuvish",
+        "Hayvonlarni degelmintizatsiya qilish nazorati",
+        "Qum qutilarini yopib himoya qilish"
+      ],
+      "x": "«Kasallikni erta aniqlash va davolash ikkilamchi profilaktika hisoblanadi.»"
+    },
+    {
+      "q": "Toksokarozga qarshi kurashning asosi nima?",
+      "c": "Tibbiyot va veterinariya xizmatlarining hamkorligi",
+      "w": [
+        "Aholi va hokimiyat xizmatlarining hamkorligi",
+        "Maktab va bog'chalar mas'ullarining nazorati",
+        "Laborant va epidemiolog xizmatlarining hamkorligi",
+        "Ota-onalar va hayvon egalarining ishtiroki"
+      ],
+      "x": "«Tibbiyot va veterinariya xizmatlarining hamkorligi toksokarozga qarshi kurashning asosi.»"
+    },
+    {
+      "q": "Toksokaroz profilaktikasi qaysi xususiyatga asoslanadi?",
+      "c": "Tuxumlarning tuproqda infeksion bo'lish muddatiga",
+      "w": [
+        "Serologik tekshiruvlar natijasiga qarab belgilanadi",
+        "Veterinar nazorati davriyligiga qarab belgilanadi",
+        "Qo'lni yuvish davriyligiga qarab belgilanadi",
+        "Mahalliy hujjatlar tartibiga qarab belgilanadi"
+      ],
+      "x": "«Toksokaroz profilaktikasi tuxumlarning tuproqda infeksion bo'lish muddatiga asoslanadi»"
+    },
+    {
+      "q": "Profilaktika samaradorligi nimalar bilan baholanadi?",
+      "c": "Tuproqdagi tuxumlar soni va hayvonlardagi zararlanish darajasi",
+      "w": [
+        "Qum qutilari soni va qo'l yuvish davriyligi",
+        "Davolangan bemorlar soni va veterinar nazorati",
+        "Maktab va bog'chalar soni va ota-onalar yig'ilishlari",
+        "Mahalliy hujjatlar va hamkorlik tartibi"
+      ],
+      "x": "«samaradorligi tuproq namunalarida tuxumlar sonining kamayishi, hayvonlardagi zararlanish darajasi va aholi orasidagi seroprevalent bilan baholanadi»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra qarovsiz daydi it va mushuklarga qarshi kurash kimning zimmasiga yuklatilgan?",
+      "c": "Hokimiyat qoshidagi obodonlashtirish xizmati",
+      "w": [
+        "Veterinariya nazorati xodimlari",
+        "Sog'liqni saqlash vazirligi xodimlari",
+        "Maktab va bog'cha mas'ullari",
+        "Tibbiyot va veterinariya hamkorligi"
+      ],
+      "x": "«hokimiyat qoshidagi obodonlashtirish xizmati zimmasiga yuklatilgan»"
+    }
+  ],
+  "128": [
+    {
+      "q": "Odamda uchraydigan yagona infuzoriya qaysi?",
+      "c": "Balantidium coli",
+      "w": [
+        "Giardia duodenalis",
+        "Entamoeba histolytica",
+        "Entamoeba coli",
+        "Endolimax nana"
+      ],
+      "x": "«Balantidium coli — odamda uchraydigan yagona infuzoriya»"
+    },
+    {
+      "q": "Qaysi parazitlar sporalilar, ya'ni kokstsidiyalar guruhiga kiradi?",
+      "c": "Cryptosporidium, Cyclospora, Cystoisospora",
+      "w": [
+        "Giardia, Chilomastix, Trichomonas hominis",
+        "Entamoeba, Endolimax, Iodamoeba",
+        "Balantidium coli, Blastocystis, Giardia",
+        "Iodamoeba butschlii, Endolimax nana, Blastocystis"
+      ],
+      "x": "«sporalilar, ya'ni kokstsidiyalar (Cryptosporidium, Cyclospora, Cystoisospora)»"
+    },
+    {
+      "q": "Giardia duodenalis qanday parazit hisoblanadi?",
+      "c": "Ichak xivchinli parazitlaridan biri",
+      "w": [
+        "Ichak infuzoriyalaridan biri",
+        "Ichak amyobalaridan biri",
+        "Ichak kokstsidiyalaridan biri",
+        "Zararsiz kommensallardan biri"
+      ],
+      "x": "«odamning eng keng tarqalgan ichak xivchinli parazitlaridan biridir»"
+    },
+    {
+      "q": "Entamoeba histolytica qanday asoratlar bilan kechishi mumkin?",
+      "c": "Amyobali kolit va jigar xo'ppozi",
+      "w": [
+        "Yo'g'on ichakda yara va diareya",
+        "Bolalarda diareya va ichak buzilishlari",
+        "Cho'chqa boqish bilan bog'liq yara",
+        "Zararsiz kommensal bo'lib qolish"
+      ],
+      "x": "«jiddiy asoratlar, ya'ni amyobali kolit va jigar xo'ppozi bilan kechishi mumkin»"
+    },
+    {
+      "q": "Nima uchun laboratoriyada 'E. histolytica/dispar kompleksi' deb yoziladi?",
+      "c": "Ularni mikroskopda ajratish mumkin emas",
+      "w": [
+        "Ular faqat cho'chqalarda uchraydi",
+        "Suv orqali tarqalmaydi",
+        "Bo'yalgan surtmada ham ko'rinmaydi",
+        "Bolalarda uchramaydi"
+      ],
+      "x": "«ammo ularni mikroskopda ajratish mumkin emas»"
+    },
+    {
+      "q": "Zararsiz amyobalarning topilishi nimadan signal beradi?",
+      "c": "Najas-og'iz yo'li bilan ifloslanish haqida",
+      "w": [
+        "Kasallik keltirishi va davolash zarurati haqida",
+        "Davolash zarurati va jigar xo'ppozi haqida",
+        "Giardia bilan zararlanish haqida",
+        "Balantidium coli borligi haqida"
+      ],
+      "x": "«Ularning topilishi faqat najas-og'iz yo'li bilan ifloslanish haqida signal beradi»"
+    },
+    {
+      "q": "Cryptosporidium qanday parazit?",
+      "c": "Suv orqali tarqaluvchi, xlorlashga chidamli parazit",
+      "w": [
+        "Cho'chqalar orqali tarqaluvchi, yo'g'on ichakda yara hosil qiluvchi parazit",
+        "Oddiy surtmada oson topiladigan zararsiz kommensal",
+        "Faqat bolalarda uchraydigan yirik kiprikli infuzoriya",
+        "Najasda ko'p topiladigan, patogenligi noaniq parazit"
+      ],
+      "x": "«Cryptosporidium suv orqali tarqaluvchi, odatdagi xlorlashga chidamli parazit»"
+    },
+    {
+      "q": "Balantidium coli qaysi a'zoda yara hosil qilishi mumkin?",
+      "c": "Yo'g'on ichakda yara hosil qiladi",
+      "w": [
+        "Jigarda xo'ppoz hosil qiladi",
+        "Amyobali kolit hosil qiladi",
+        "Bolalarda diareya hosil qiladi",
+        "Suvda xlorlashga chidamli bo'ladi"
+      ],
+      "x": "«yo'g'on ichakda yara hosil qilishi mumkin»"
+    },
+    {
+      "q": "Laborant najas tekshiruvida nimalarni yozishi kerak?",
+      "c": "Hatto zararsiz turlarni, barcha topilmalarni",
+      "w": [
+        "Kasallik keltiradigan patogen turlarnigina",
+        "Giardia va E. histolytica topilmalarini",
+        "Zararsiz komensallarsiz faqat kistalarni",
+        "Faqat trofozoitlar va tur nomini"
+      ],
+      "x": "«Laborant najas tekshiruvida barcha topilmalarni yozishi kerak, hatto kasallik keltirmaydigan turlarni ham»"
+    },
+    {
+      "q": "Ichak protozoylari tashxisi nimaga asoslanadi?",
+      "c": "Najasni mikroskopda ko'rishga",
+      "w": [
+        "Aholi zichligi va shaxsiy gigiyenaga",
+        "Sanitariya sharoiti va oziq-ovqat xavfsizligiga",
+        "Ichimlik suvi sifati va bolalar jamoalariga",
+        "Bog'cha va maktab yoshidagi bolalarga"
+      ],
+      "x": "«Ichak protozoylari tashxisi najasni mikroskopda ko'rishga asoslanadi»"
+    },
+    {
+      "q": "Nima uchun bir martalik manfiy natija kasallikni inkor etmaydi?",
+      "c": "Kistalar uzilib chiqadi",
+      "w": [
+        "Trofozoitlar fiksatorda saqlanadi",
+        "Kistalar najasda doim bo'ladi",
+        "Antigen topish testlari ishlamaydi",
+        "Zararsiz turlar ko'payadi"
+      ],
+      "x": "«Bir martalik manfiy natija kasallikni inkor etmaydi, chunki kistalar uzilib chiqadi.»"
+    }
+  ],
+  "129": [
+    {
+      "q": "Lyambliyaning hayot sikli qaysi ikki shakldan iborat?",
+      "c": "Faol trofozoit va kista",
+      "w": [
+        "Kista va xivchin qoldig'i",
+        "Trofozoit va so'rg'ich diski",
+        "Kista va assemblaj genotipi",
+        "Yadro va protoplazma"
+      ],
+      "x": "«faol trofozoit va kista»"
+    },
+    {
+      "q": "Trofozoit qanday tuzilishga ega?",
+      "c": "Noksimon va ikki tomonlama simmetrik",
+      "w": [
+        "Oval, qalin qobiqli, to'rtta yadroli",
+        "Harakatsiz, qalin qobiqli, ikki yadroli",
+        "Noksimon, lekin bir tomonlama simmetrik",
+        "Oval va ikki tomonlama simmetrik"
+      ],
+      "x": "«Trofozoit noksimon, ikki tomonlama simmetrik»"
+    },
+    {
+      "q": "Kistaning ichida nimalar bor?",
+      "c": "To'rtta yadro va xivchin qoldiqlari",
+      "w": [
+        "Ikkita yadro va so'rg'ich diski",
+        "To'rtta juft xivchin va ventral so'rg'ich",
+        "Ikkita yadro va xivchin qoldiqlari",
+        "Bitta yadro va to'rtta so'rg'ich"
+      ],
+      "x": "«ichida to'rtta yadro va xivchin qoldiqlari bor»"
+    },
+    {
+      "q": "Trofozoitlar ichakda qanday ko'payadi?",
+      "c": "Ingichka ichak shilliq qavatiga yopishib, ko'payadi",
+      "w": [
+        "Ichakning pastki qismidagi kistada ko'payadi",
+        "O't yo'llarida yashab ko'payadi",
+        "Oshqozon kislotasida ko'payadi",
+        "Tashqi muhitda kista ichida ko'payadi"
+      ],
+      "x": "«Trofozoitlar ingichka ichak shilliq qavatiga yopishib, ko'payadi.»"
+    },
+    {
+      "q": "Kista yutilganda trofozoitlar nima ta'sirida chiqadi?",
+      "c": "Oshqozon kislotasi va ichak fermentlari ta'sirida",
+      "w": [
+        "Najas va o't suyuqligi aralashmasi ta'sirida",
+        "Sovuq suv va xlorlash ta'sirida",
+        "Genotip va immunitet ta'sirida",
+        "Ichakning pastki qismidagi kista ta'sirida"
+      ],
+      "x": "«Kista yutilganda oshqozon kislotasi va ichak fermentlari ta'sirida undan trofozoitlar chiqadi.»"
+    },
+    {
+      "q": "Trofozoit qanday najasda yangi holda topiladi?",
+      "c": "Suyuq yoki yumshoq najasda",
+      "w": [
+        "Qattiq yoki shakllangan najasda",
+        "Formalizlangan qattiq najasda",
+        "Quruq yoki qattiq najasda",
+        "Fiksatsiyalangan qattiq najasda"
+      ],
+      "x": "«U asosan suyuq yoki yumshoq najasda yangi holda topiladi»"
+    },
+    {
+      "q": "Nima uchun kistani fiksatsiyalangan namunada ham topish mumkin?",
+      "c": "Kista barqaror shakl",
+      "w": [
+        "Kista asosan suyuq najasda uchraydi",
+        "Kista faol shakl hisoblanadi",
+        "Kista harakatchan shakl hisoblanadi",
+        "Kista oshqozon kislotasida ko'payadi"
+      ],
+      "x": "«Kista barqaror shakl, shuning uchun uni fiksatsiyalangan namunada ham topish mumkin.»"
+    },
+    {
+      "q": "Nima sababdan bir necha najas namunasi talab qilinadi?",
+      "c": "Kista ajralishi uzilib-uzilib kechadi",
+      "w": [
+        "Trofozoit tashqi muhitda uzoq saqlanadi",
+        "Kista faqat suyuq najasda uchraydi",
+        "Genotipni aniqlash uchun talab qilinadi",
+        "Antigen topish testlari sezgirligi past bo'ladi"
+      ],
+      "x": "«Kista ajralishi uzilib-uzilib kechadi, shu sababli bir necha namuna talab qilinadi.»"
+    },
+    {
+      "q": "Odamlarda asosan qaysi Giardia assemblajlari uchraydi?",
+      "c": "A va B assemblajlari",
+      "w": [
+        "C va D assemblajlari",
+        "D va E assemblajlari",
+        "E va F assemblajlari",
+        "F va G assemblajlari"
+      ],
+      "x": "«Odamlarda asosan A va B assemblajlari uchraydi»"
+    },
+    {
+      "q": "Giardia duodenalis ichakning qaysi qismida yashaydi?",
+      "c": "Ingichka ichakning yuqori qismida",
+      "w": [
+        "Ingichka ichakning pastki qismida",
+        "Yo'g'on ichakning yuqori qismida",
+        "Yo'g'on ichakning pastki qismida",
+        "O't chiqaruvchi yo'llarning yuqori qismida"
+      ],
+      "x": "«Giardia duodenalis ingichka ichakning yuqori qismida yashaydi»"
+    },
+    {
+      "q": "121-son buyruqqa ko'ra lyambliyalar nima sababdan og'ir jigar faoliyati buzilishiga olib kelmaydi?",
+      "c": "O't suyuqligi ularni halok qiladi",
+      "w": [
+        "Ular ingichka ichakda trofozoit bo'lib yashaydi",
+        "Kista holatida ular harakatsiz bo'ladi",
+        "Immunitet ularni darhol yo'q qiladi",
+        "Oshqozon kislotasi ularni halok qiladi"
+      ],
+      "x": "«lyambliyalar o't chiqaruvchi yo'llarda yashay olmaydi, o't suyuqligi ularni halok qiladi»"
+    }
+  ],
+  "130": [
+    {
+      "q": "Lyamblioz klinikasi qanday doirada o'zgaradi?",
+      "c": "Belgisiz tashuvchilikdan malabsorbsiya sindromigacha",
+      "w": [
+        "Yengil diareyadan qon aralash najasli yaragacha",
+        "Faqat o'tkir suvsimon diareyadan iborat shakldan",
+        "Teri toshmalaridan bo'g'imlar og'rig'igacha",
+        "Ichak yarasidan qon aralash diareyagacha"
+      ],
+      "x": "«Lyamblioz klinikasi belgisiz tashuvchilikdan o'tkir suvsimon diareya va surunkali malabsorbsiya sindromigacha keng doirada o'zgaradi.»"
+    },
+    {
+      "q": "Trofozoitlar ichakda qanday ta'sir ko'rsatadi?",
+      "c": "Ichak vorsinkalarini shikastlaydi",
+      "w": [
+        "Ichak devorida chuqur yara hosil qiladi",
+        "Qon aralash najas chiqaradi",
+        "Teri toshmalarini keltiradi",
+        "Bo'g'imlar og'rig'ini keltiradi"
+      ],
+      "x": "«ichak vorsinkalarini shikastlaydi»"
+    },
+    {
+      "q": "Belgisiz tashuvchilar nima uchun epidemiologik jihatdan muhim?",
+      "c": "Kistalarni najas bilan chiqarib, manba bo'lib qoladi",
+      "w": [
+        "Trofozoitlarni siydik bilan chiqarib, manba bo'ladi",
+        "Kistalarni najas bilan chiqarmaydi, manba bo'lmaydi",
+        "Kasallik belgilarini yashirib, tashxisni kechiktiradi",
+        "Ichak vorsinkalarini shikastlab, malabsorbsiya keltiradi"
+      ],
+      "x": "«Bunday odamlar kistalarni najas bilan chiqarib, atrofdagilar uchun manba bo'lib qoladi»"
+    },
+    {
+      "q": "O'tkir lyamblioz diareyasi qanday bo'ladi?",
+      "c": "Suvsimon, ko'pincha ko'pikli va yoqimsiz hidli",
+      "w": [
+        "Qonli, shilimshiqli va yoqimsiz hidli",
+        "Qon va shilimshiq aralash, ko'pikli",
+        "Qabziyat bilan almashinuvchi, to'lqinsimon",
+        "Yog'li, hazm bo'lmagan qoldiqli"
+      ],
+      "x": "«suvsimon, ko'pincha ko'pikli va yoqimsiz hidli diareya»"
+    },
+    {
+      "q": "Surunkali shaklda belgilar qanday kechadi?",
+      "c": "To'lqinsimon, remissiya bilan almashadi",
+      "w": [
+        "Doimiy, remissiyasiz va o'tkir kechadi",
+        "Qonli diareya bilan kechadi",
+        "Faqat bir necha kun davom etadi",
+        "Bolalarda to'lqinsimon kechadi"
+      ],
+      "x": "«Belgilar to'lqinsimon bo'lib, remissiya davrlari bilan almashadi»"
+    },
+    {
+      "q": "Malabsorbsiya bolalarda nimaga olib kelishi mumkin?",
+      "c": "Vazn va bo'yning orqada qolishiga",
+      "w": [
+        "Teri toshmalari va bo'g'imlar og'rig'iga",
+        "Qon aralash najas va ichak yarasiga",
+        "Bronxial astma va eshakemiga",
+        "Qabziyat va qorin dam bo'lishiga"
+      ],
+      "x": "«Bu bolalarda vazn va bo'yning orqada qolishiga hamda kamqonlikka olib kelishi mumkin»"
+    },
+    {
+      "q": "Bolalarda lyamblioz qanday kechadi?",
+      "c": "Ko'proq va og'irroq kechadi",
+      "w": [
+        "Kattalarga qaraganda yengil kechadi",
+        "Faqat belgisiz kechadi",
+        "Ichakdan tashqari belgilar bilan kechadi",
+        "Surunkali malabsorbsiyasiz kechadi"
+      ],
+      "x": "«Bolalarda lyamblioz ko'proq va og'irroq kechadi.»"
+    },
+    {
+      "q": "Immun tanqisligi bor odamlarda lyamblioz qanday kechadi?",
+      "c": "Og'ir va surunkali kechadi, davolash qiyin bo'ladi",
+      "w": [
+        "Belgisiz kechadi, davolash kerak bo'lmaydi",
+        "Yengil kechadi, o'z-o'zidan to'xtaydi",
+        "O'tkir kechadi, remissiyasiz davom etadi",
+        "Ichakdan tashqari belgilar bilan kechadi"
+      ],
+      "x": "«lyamblioz og'ir va surunkali kechishi mumkin va davolash qiyin bo'ladi»"
+    },
+    {
+      "q": "Lyamblioz boshqa diareya sabablaridan ajratilganda aniq tashxisni nima tasdiqlaydi?",
+      "c": "Najas tekshiruvi aniq tashxisni tasdiqlaydi",
+      "w": [
+        "Klinik belgilar aniq tashxisni tasdiqlaydi",
+        "Qon tahlili aniq tashxisni tasdiqlaydi",
+        "Koprologik tekshiruv aniq tashxisni tasdiqlaydi",
+        "Ichakdan tashqari belgilar aniq tashxisni tasdiqlaydi"
+      ],
+      "x": "«Faqat najas tekshiruvi aniq tashxisni tasdiqlaydi.»"
+    },
+    {
+      "q": "Koprologik tekshiruvda nimalar topilishi mumkin?",
+      "c": "Yog' tomchilari va hazm bo'lmagan oziq qoldiqlari",
+      "w": [
+        "Qon va shilimshiq aralash najas bo'laklari",
+        "Yog'li najas va vazn yo'qotish belgilari",
+        "Eozinofiliya va kamqonlik belgilari",
+        "Bakterial va virusli infeksiyalar"
+      ],
+      "x": "«Koprologik tekshiruvda yog' tomchilari va hazm bo'lmagan oziq qoldiqlari topilishi mumkin»"
+    },
+    {
+      "q": "Davolangandan keyin ham qorin og'riqlari davom etsa, qaysi holat bilan bog'liq bo'lishi mumkin?",
+      "c": "Tirnash ichak sindromi",
+      "w": [
+        "Ichak devoridagi chuqur yara",
+        "Bakterial va virusli infeksiyalar",
+        "Jigar faoliyatining og'ir buzilishi",
+        "Bronxial astma va dermatit"
+      ],
+      "x": "«infeksiyadan keyingi tirnash ichak sindromi yoki laktoza ko'tarolmaslik bilan bog'liq bo'lishi mumkin»"
+    }
+  ]
+}
